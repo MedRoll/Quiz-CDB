@@ -86,6 +86,22 @@
     .domandaRecap { background-color: #2f3347; padding: 15px; border-radius: 10px; margin-bottom: 20px; border: 1px solid #444; }
     .domandaRecap strong { display: block; margin-bottom: 6px; font-size: 1.1em; color: #1a73e8; }
     .domandaRecap div { margin: 4px 0; }
+    
+    /* --- STILI AGGIUNTIVI PER IL RECAP --- */
+    .recap-card { 
+        background-color: #2a2e3d; 
+        padding: 15px; 
+        margin-bottom: 15px; 
+        border-radius: 8px; 
+        border-left: 6px solid #444; 
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+    .recap-correct { border-left-color: #28a745; } /* Bordo Verde */
+    .recap-wrong { border-left-color: #dc3545; }   /* Bordo Rosso */
+
+    .recap-text { font-size: 1.1rem; margin: 5px 0; }
+    .text-success { color: #28a745; font-weight: bold; }
+    .text-danger { color: #dc3545; font-weight: bold; }
 
     /* --- ANIMAZIONI --- */
     @keyframes fadeInUp { 
@@ -109,7 +125,7 @@
 
   <div id="quiz-buttons" style="margin-top:20px; display:none; text-align:center;"> 
     <h2 id="quiz-title"></h2> 
-     
+      
     <div id="lezione-container" style="max-width: 600px; margin: 10px auto; display: none;"> 
       <button onclick="mostraModuliQuiz(1)" style="width: 100%; font-size: 1.3rem; padding: 20px; margin-bottom: 15px;"> 
         📚 Lezione 1: Anatomia PC e Fondamenti 
@@ -122,16 +138,16 @@
       <button onclick="mostraModuliQuiz(3)" style="width: 100%; font-size: 1.3rem; padding: 20px; margin-bottom: 15px; background-color: #e65100;"> 
         🌟 Lezione 3: Internet
       </button> 
-      
+       
       <button onclick="mostraModuliQuiz(4)" style="width: 100%; font-size: 1.3rem; padding: 20px; margin-bottom: 15px; background-color: #20c997;">
         🧠 Lezione 4
       </button> 
-      
+       
       <button onclick="mostraModuliQuiz(5)" style="width: 100%; font-size: 1.3rem; padding: 20px; background-color: #dc3545;">
         🧪 Lezione 5
       </button>
     </div> 
-     
+      
     <div id="moduli-lezione-1" class="moduli-grid"> 
       <h3 style="color: #1a73e8; margin-top:0;">Lezione 1: Fondamenti</h3> 
       <button onclick="iniziaQuiz(1)" style="background-color: #2b5797;">🖥️ Esercizio #1 - Hardware & Anatomia</button> 
@@ -158,7 +174,7 @@
       <button onclick="iniziaQuiz(14)" style="background-color: #0078d4;">Esercizio #4</button> 
       <button onclick="iniziaQuiz(15)" style="opacity: 0.8; background-color: #6f42c1; border: 1px solid white;">Esercizio #5</button> 
     </div> 
-    
+     
     <div id="moduli-lezione-4" class="moduli-grid"> 
       <h3>Lezione 4</h3> 
       <button onclick="iniziaQuiz(16)">Esercizio 1</button> 
@@ -236,13 +252,13 @@
           return; 
         } 
       } 
-       
+        
       docenteMode = mode; 
       document.getElementById("start-container").style.display = "none"; 
       document.getElementById("quiz-buttons").style.display = "block"; 
 
       document.getElementById("quiz-title").textContent = mode ? "Tutti i Moduli (Modalità Docente)" : "Seleziona una Lezione"; 
-       
+        
       const lezioneContainer = document.getElementById("lezione-container"); 
       const mod1 = document.getElementById("moduli-lezione-1"); 
       const mod2 = document.getElementById("moduli-lezione-2"); 
@@ -272,10 +288,10 @@
         btnBackMode.style.display = "inline-block"; 
       } 
     } 
-     
+      
     function mostraModuliQuiz(lezione) { 
       document.getElementById("lezione-container").style.display = "none"; 
-       
+        
       document.getElementById("moduli-lezione-1").style.display = "none"; 
       document.getElementById("moduli-lezione-2").style.display = "none"; 
       document.getElementById("moduli-lezione-3").style.display = "none"; 
@@ -305,7 +321,7 @@
       document.getElementById("moduli-lezione-4").style.display = "none";
       document.getElementById("moduli-lezione-5").style.display = "none";
       document.getElementById("lezione-container").style.display = "block"; 
-       
+        
       document.getElementById("btn-back-lezione").style.display = "none"; 
       document.getElementById("btn-back-mode").style.display = "inline-block"; 
     } 
@@ -484,7 +500,7 @@
       document.getElementById('controls-container').style.display='none'; 
       document.getElementById('progress-container').style.display='none'; 
       document.getElementById('recap').innerHTML=''; 
-      
+       
       // Reset interfaccia docente
       document.getElementById('docente-container').style.display='none'; 
 
@@ -593,22 +609,6 @@
 
         caricaDomanda();
      }
-   /* --- AGGIUNTA STILI RECAP --- */
-.recap-card { 
-    background-color: #2a2e3d; 
-    padding: 15px; 
-    margin-bottom: 15px; 
-    border-radius: 8px; 
-    border-left: 6px solid #444; 
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-}
-.recap-correct { border-left-color: #28a745; } /* Bordo Verde */
-.recap-wrong { border-left-color: #dc3545; }   /* Bordo Rosso */
-
-.recap-text { font-size: 1.1rem; margin: 5px 0; }
-.text-success { color: #28a745; font-weight: bold; }
-.text-danger { color: #dc3545; font-weight: bold; }
-   
 </script> 
 </body> 
 </html>
