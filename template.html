@@ -386,11 +386,84 @@
     function domandaPrecedente(){ if(indexDomanda>0){ indexDomanda--; caricaDomanda(); } } 
 
     function mostraRecap(){ 
+      // 1. Nascondi gli elementi del quiz attivo
       document.getElementById('controls-container').style.display='none'; 
-      document.getElementById('domanda').textContent="📊 Test completato!"; 
-      document.getElementById('risposte').innerHTML=""; 
-      document.getElementById('feedback').textContent=""; 
-    } 
+      document.getElementById('card-container').style.display='none';
+      document.getElementById('stats-container').style.display='none';
+      document.getElementById('progress-container').style.display='none';
+      document.getElementById('titolo-quiz').style.display='none';
+
+      // 2. Prepara il contenitore del recap
+      const container = document.getElementById('recap'); 
+      container.innerHTML = ""; 
+
+      // 3. Calcolo percentuali per il grafico
+      const sbagliate = MAX_DOMANDE - punteggio;
+      
+      // 4. Costruzione HTML Intestazione e Grafico
+      let html = `
+        <div style="text-align: center; margin-bottom: 30px;">
+            <h1 style="color: white;">📊 Risultato Finale</h1>
+            <h2 style="color: #1a73e8;">Punteggio: ${punteggio} su ${MAX_DOMANDE}</h2>
+            <div style="max-width: 300px; margin: 0 auto;">
+                <canvas id="chartRecap"></canvas>
+            </div>
+        </div>
+        <h3 style="text-align:center; margin-bottom: 20px;">Dettaglio Risposte:</h3>
+      `;
+
+      // 5. Ciclo su tutte le risposte date dall'utente
+      risposteUtente.forEach((item, index) => {
+          // Se l'utente non ha risposto (es. ha terminato prima), gestiamo l'undefined
+          if(!item) {
+             item = { domanda: "Domanda non risposta", rispostaUtente: "Nessuna", esito: false, corretta: "N/D" };
+          }
+
+          const cssClass = item.esito ? "recap-card recap-correct" : "recap-card recap-wrong";
+          const icon = item.esito ? "✅" : "❌";
+          const classColor = item.esito ? "text-success" : "text-danger";
+
+          html += `
+            <div class="${cssClass}">
+                <div style="font-size: 0.9rem; color: #ccc;">Domanda ${index + 1}</div>
+                <div class="recap-text"><strong>${item.domanda}</strong></div>
+                <div class="recap-text">
+                    Il tuo esito: <span class="${classColor}">${icon} ${item.rispostaUtente}</span>
+                </div>
+                ${!item.esito ? `<div class="recap-text" style="color: #ccc; margin-top:5px;">👉 Risposta corretta: <span class="text-success">${item.corretta}</span></div>` : ''}
+            </div>
+          `;
+      });
+
+      // 6. Aggiunta bottone per tornare al menu
+      html += `
+        <div style="text-align:center; margin-top: 30px; margin-bottom: 50px;">
+            <button onclick="tornaAiQuiz()" style="font-size: 1.2rem; padding: 15px 30px;">⬅️ Torna al Menu Principale</button>
+        </div>
+      `;
+
+      container.innerHTML = html;
+
+      // 7. Generazione Grafico Chart.js
+      const ctx = document.getElementById('chartRecap').getContext('2d');
+      new Chart(ctx, {
+          type: 'doughnut',
+          data: {
+              labels: ['Corrette', 'Sbagliate'],
+              datasets: [{
+                  data: [punteggio, sbagliate],
+                  backgroundColor: ['#28a745', '#dc3545'],
+                  borderWidth: 0
+              }]
+          },
+          options: {
+              responsive: true,
+              plugins: {
+                  legend: { position: 'bottom', labels: { color: 'white' } }
+              }
+          }
+      });
+    }
 
     function ricomincia(){ 
       punteggio=0; indexDomanda=0; risposteUtente=[]; MAX_DOMANDE=0; 
@@ -520,6 +593,22 @@
 
         caricaDomanda();
      }
+   /* --- AGGIUNTA STILI RECAP --- */
+.recap-card { 
+    background-color: #2a2e3d; 
+    padding: 15px; 
+    margin-bottom: 15px; 
+    border-radius: 8px; 
+    border-left: 6px solid #444; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+.recap-correct { border-left-color: #28a745; } /* Bordo Verde */
+.recap-wrong { border-left-color: #dc3545; }   /* Bordo Rosso */
+
+.recap-text { font-size: 1.1rem; margin: 5px 0; }
+.text-success { color: #28a745; font-weight: bold; }
+.text-danger { color: #dc3545; font-weight: bold; }
+   
 </script> 
 </body> 
 </html>
