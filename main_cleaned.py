@@ -17,7 +17,7 @@ def load_data():
     quizzes.clear()
     
     # --- MODIFICA: Range esteso fino a 26 per includere i file 21-25 ---
-    for i in range(1, 26): 
+    for i in range(1, 61): 
         path = Path(f"ordered_questions{i}.json")
         if path.exists():
             with open(path, "r", encoding="utf-8") as f:
