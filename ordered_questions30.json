@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "CTRL + B serve per applicare il Grassetto (Bold).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il controllo ortografico (F7) trova sempre tutti gli errori grammaticali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Per scrivere tutto in maiuscolo devi per forza tenere premuto SHIFT mentre scrivi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Un file PDF mantiene la formattazione uguale su qualsiasi computer.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il 'Riquadro di Navigazione' funziona solo se hai usato gli Stili (Titolo 1, Titolo 2, ecc).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Puoi trasformare un elenco puntato in SmartArt in qualsiasi momento.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il tasto CANC cancella il carattere alla sinistra del cursore.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La 'Stampa Unione' crea un unico documento lungo contenente tutte le lettere.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le note a piè di pagina si aggiornano automaticamente se sposti il testo a cui si riferiscono.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "In Word è possibile fare calcoli semplici dentro le tabelle.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Per selezionare una frase intera basta fare CTRL + Clic sulla frase.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'interruzione di sezione è necessaria per cambiare l'orientamento di una singola pagina.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I commenti vengono sempre stampati di default.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'opzione 'Mantieni solo il testo' quando incolli rimuove anche i link ipertestuali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il righello è visibile di default appena installi Word.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I font Serif sono considerati più moderni e minimalisti dei Sans Serif.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "CTRL + Home porta il cursore alla fine del documento.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "È possibile proteggere un documento Word con una password.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione 'Sostituisci' (CTRL+H) può cambiare solo parole intere.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il formato .RTF supporta immagini e formattazione base.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se non hai una stampante fisica, non puoi usare la funzione 'Stampa'.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il tasto TAB crea uno spazio fisso più grande di uno spazio normale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I 'Caratteri non stampabili' appaiono sulla carta quando stampi il documento.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Per ridimensionare un'immagine mantenendo le proporzioni devi usare i pallini laterali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Google Docs salva automaticamente ogni modifica in tempo reale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il comando 'Giustifica' allinea il testo sia a destra che a sinistra.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'Intestazione (Header) è diversa per ogni pagina se non inserisci interruzioni di sezione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Word ha una funzione per tradurre il testo in altre lingue.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il tasto F1 apre solitamente la Guida in linea.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Lo strumento 'Ritaglia' cancella permanentemente i pixel dell'immagine (se non comprimi l'immagine).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  }
+]

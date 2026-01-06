@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Scenario: Il testo è giustificato ma si creano grossi spazi bianchi tra le parole (buchi). Cosa sta succedendo?",
+    "risposte": ["Hai usato troppi spazi", "È un effetto normale della giustificazione forzata su righe corte", "Il font è sbagliato"],
+    "corretta": "È un effetto normale della giustificazione forzata su righe corte"
+  },
+  {
+    "domanda": "Vuoi unire due celle di una tabella per fare un titolo lungo. Quale comando cerchi?",
+    "risposte": ["Dividi celle", "Unisci celle", "Allinea al centro"],
+    "corretta": "Unisci celle"
+  },
+  {
+    "domanda": "Devi inserire una didascalia (es. 'Figura 1') sotto un'immagine. Come fai?",
+    "risposte": ["Scrivi a mano sotto la foto", "Tasto destro sull'immagine > Inserisci Didascalia", "Usi una casella di testo"],
+    "corretta": "Tasto destro sull'immagine > Inserisci Didascalia"
+  },
+  {
+    "domanda": "Qual è l'interlinea (spaziatura righe) considerata standard per una buona leggibilità?",
+    "risposte": ["1.0 (Singola)", "1.15 o 1.5", "2.0 (Doppia)"],
+    "corretta": "1.15 o 1.5"
+  },
+  {
+    "domanda": "Come si elimina definitivamente una parte indesiderata di una foto direttamente in Word?",
+    "risposte": ["Usando lo strumento Ritaglia (Crop)", "Coprendola con un rettangolo bianco", "Rimpicciolendo la foto"],
+    "corretta": "Usando lo strumento Ritaglia (Crop)"
+  },
+  {
+    "domanda": "Vuoi che la prima riga di ogni paragrafo rientri leggermente. Cosa non devi fare?",
+    "risposte": ["Usare il rientro prima riga sul righello", "Premere il tasto TAB una volta", "Premere 5 volte la Barra Spaziatrice"],
+    "corretta": "Premere 5 volte la Barra Spaziatrice"
+  },
+  {
+    "domanda": "Cosa succede se fai 'Copia' su un testo e poi spegni il computer senza incollare?",
+    "risposte": ["Il testo rimane negli appunti per il riavvio", "Il testo copiato viene perso (svuotamento RAM)", "Word ti chiede di salvare gli appunti"],
+    "corretta": "Il testo copiato viene perso (svuotamento RAM)"
+  },
+  {
+    "domanda": "Quale visualizzazione ti permette di vedere due pagine affiancate?",
+    "risposte": ["Zoom molto alto (200%)", "Zoom ridotto su monitor grande", "Visualizzazione Web"],
+    "corretta": "Zoom ridotto su monitor grande"
+  },
+  {
+    "domanda": "Per scrivere H2O con il '2' piccolo in basso, quale effetto usi?",
+    "risposte": ["Apice", "Pedice", "Maiuscoletto"],
+    "corretta": "Pedice"
+  },
+  {
+    "domanda": "Hai un elenco puntato e vuoi trasformarlo in un grafico visivo colorato. Cosa usi?",
+    "risposte": ["SmartArt", "Grafico a torta", "WordArt"],
+    "corretta": "SmartArt"
+  },
+  {
+    "domanda": "Quale formato di immagine supporta lo sfondo trasparente?",
+    "risposte": [".JPG", ".PNG", ".BMP"],
+    "corretta": ".PNG"
+  },
+  {
+    "domanda": "Il 'Rientro Sporgente' (Hanging Indent) è tipico di quale tipo di testo?",
+    "risposte": ["Titoli di capitolo", "Bibliografia", "Note a piè di pagina"],
+    "corretta": "Bibliografia"
+  },
+  {
+    "domanda": "Se vuoi che un documento stampato abbia margini diversi per la rilegatura, imposti:",
+    "risposte": ["Margini Larghi", "Margini Speculari", "Margini Stretti"],
+    "corretta": "Margini Speculari"
+  },
+  {
+    "domanda": "Qual è il rischio di usare troppi font diversi (più di 3)?",
+    "risposte": ["Il file diventa troppo pesante", "Il documento appare caotico e poco professionale", "La stampante non li riconosce"],
+    "corretta": "Il documento appare caotico e poco professionale"
+  },
+  {
+    "domanda": "Per inserire un link cliccabile verso un sito web, la scorciatoia è:",
+    "risposte": ["CTRL + K", "CTRL + L", "CTRL + W"],
+    "corretta": "CTRL + K"
+  },
+  {
+    "domanda": "A cosa servono i 'Componenti Rapidi' (Quick Parts)?",
+    "risposte": ["A velocizzare il PC", "A salvare e inserire blocchi di testo ricorrenti (es. disclaimer)", "A correggere la grammatica"],
+    "corretta": "A salvare e inserire blocchi di testo ricorrenti (es. disclaimer)"
+  },
+  {
+    "domanda": "Quando usi 'Trova e Sostituisci', puoi sostituire anche la formattazione (es. tutti i corsivi diventano grassetti)?",
+    "risposte": ["No, solo il testo", "Sì, usando le opzioni avanzate", "Solo se il testo è in inglese"],
+    "corretta": "Sì, usando le opzioni avanzate"
+  },
+  {
+    "domanda": "Il tasto TAB nelle tabelle serve a:",
+    "risposte": ["Inserire uno spazio", "Passare alla cella successiva", "Cancellare il contenuto"],
+    "corretta": "Passare alla cella successiva"
+  },
+  {
+    "domanda": "Cosa significa 'Cloud Native' riferito a Google Docs?",
+    "risposte": ["Che funziona solo se piove", "Che è nato per lavorare online e salva automaticamente", "Che è un programma da installare"],
+    "corretta": "Che è nato per lavorare online e salva automaticamente"
+  },
+  {
+    "domanda": "Se vuoi evidenziare un paragrafo con una cornice colorata, usi:",
+    "risposte": ["Bordi e Sfondo", "Evidenziatore", "Casella di testo"],
+    "corretta": "Bordi e Sfondo"
+  },
+  {
+    "domanda": "Quale scheda della barra multifunzione contiene i comandi per grassetto, colore e allineamento?",
+    "risposte": ["Inserisci", "Home", "Layout"],
+    "corretta": "Home"
+  },
+  {
+    "domanda": "Come fai a selezionare una riga intera con un solo clic?",
+    "risposte": ["Cliccando sulla prima parola", "Cliccando nel margine bianco a sinistra della riga", "Facendo triplo clic"],
+    "corretta": "Cliccando nel margine bianco a sinistra della riga"
+  },
+  {
+    "domanda": "La 'Scala di grigi' serve a:",
+    "risposte": ["Stampare in bianco e nero", "Aumentare la luminosità dello schermo", "Cambiare il colore del font in grigio"],
+    "corretta": "Stampare in bianco e nero"
+  },
+  {
+    "domanda": "Quale tasto premi per annullare una selezione?",
+    "risposte": ["Invio", "Un clic in un punto qualsiasi del foglio", "ESC"],
+    "corretta": "Un clic in un punto qualsiasi del foglio"
+  },
+  {
+    "domanda": "Per creare un elenco numerato (1., 2., 3.) cosa usi?",
+    "risposte": ["Scrivi i numeri a mano", "Il pulsante 'Elenco Numerato' nella barra Home", "Il tasto Tab"],
+    "corretta": "Il pulsante 'Elenco Numerato' nella barra Home"
+  },
+  {
+    "domanda": "Cosa fa il pulsante 'Copia Formato' se ci clicchi sopra una volta sola?",
+    "risposte": ["Copia lo stile per una sola applicazione", "Copia lo stile finché non lo disattivi", "Copia il testo"],
+    "corretta": "Copia lo stile per una sola applicazione"
+  },
+  {
+    "domanda": "Se cancelli per sbaglio un paragrafo, qual è il modo più veloce per recuperarlo?",
+    "risposte": ["Riscriverlo", "Premere CTRL + Z", "Chiudere senza salvare"],
+    "corretta": "Premere CTRL + Z"
+  },
+  {
+    "domanda": "Il formato A4 è:",
+    "risposte": ["La dimensione standard del foglio di carta", "Un tipo di font", "Un comando di Word"],
+    "corretta": "La dimensione standard del foglio di carta"
+  },
+  {
+    "domanda": "Per allineare un testo a destra (es. una data), qual è il metodo professionale?",
+    "risposte": ["Usare l'allineamento a Destra", "Premere tanti spazi", "Premere tanti TAB"],
+    "corretta": "Usare l'allineamento a Destra"
+  },
+  {
+    "domanda": "Cosa sono i 'Metadati' di un file?",
+    "risposte": ["Informazioni nascoste come autore e data creazione", "Il contenuto visibile del testo", "Le immagini nel file"],
+    "corretta": "Informazioni nascoste come autore e data creazione"
+  }
+]

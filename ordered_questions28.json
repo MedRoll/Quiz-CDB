@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Quale combinazione di tasti serve per 'Tagliare' un testo selezionato?",
+    "risposte": ["CTRL + C", "CTRL + X", "CTRL + V"],
+    "corretta": "CTRL + X"
+  },
+  {
+    "domanda": "A cosa serve la scorciatoia Windows + . (punto)?",
+    "risposte": ["Chiude il programma", "Apre il pannello delle Emoji", "Inserisce un punto fermo"],
+    "corretta": "Apre il pannello delle Emoji"
+  },
+  {
+    "domanda": "Devi selezionare tutto il testo del documento in un colpo solo. Cosa premi?",
+    "risposte": ["CTRL + A", "SHIFT + A", "ALT + A"],
+    "corretta": "CTRL + A"
+  },
+  {
+    "domanda": "Cosa indica il simbolo 'Punto a mezz'aria' (•) quando attivi la visualizzazione dei caratteri nascosti?",
+    "risposte": ["Un elenco puntato", "Uno spazio vuoto tra le parole", "Un errore grammaticale"],
+    "corretta": "Uno spazio vuoto tra le parole"
+  },
+  {
+    "domanda": "In un documento professionale, quale colore è consigliato per i titoli per trasmettere professionalità?",
+    "risposte": ["Rosso acceso", "Giallo evidenziatore", "Blu scuro"],
+    "corretta": "Blu scuro"
+  },
+  {
+    "domanda": "Qual è il file standard di Word modificabile?",
+    "risposte": [".PDF", ".DOCX", ".TXT"],
+    "corretta": ".DOCX"
+  },
+  {
+    "domanda": "Vuoi creare 50 lettere tutte uguali ma con destinatari diversi. Quale strumento usi?",
+    "risposte": ["Copia e Incolla 50 volte", "Stampa Unione (Mail Merge)", "Revisioni"],
+    "corretta": "Stampa Unione (Mail Merge)"
+  },
+  {
+    "domanda": "Dove appaiono le 'Note a piè di pagina'?",
+    "risposte": ["Alla fine di tutto il documento", "In fondo alla pagina corrente", "Nel margine laterale"],
+    "corretta": "In fondo alla pagina corrente"
+  },
+  {
+    "domanda": "Quale tasto premere per andare rapidamente all'inizio della riga corrente?",
+    "risposte": ["Home (o Inizio)", "Page Up", "Freccia Sinistra"],
+    "corretta": "Home (o Inizio)"
+  },
+  {
+    "domanda": "Cosa succede se salvi un file come PDF?",
+    "risposte": ["Il layout diventa fisso e non è più facilmente modificabile", "Puoi ancora modificare il testo liberamente come in Word", "Il file viene cancellato dal computer"],
+    "corretta": "Il layout diventa fisso e non è più facilmente modificabile"
+  },
+  {
+    "domanda": "Per vedere il conteggio parole, dove devi guardare?",
+    "risposte": ["Nella barra del titolo in alto", "Nella barra di stato in basso a sinistra", "Nel menu File"],
+    "corretta": "Nella barra di stato in basso a sinistra"
+  },
+  {
+    "domanda": "Quale strumento ti permette di ascoltare il testo letto ad alta voce da Word?",
+    "risposte": ["Dettatura Vocale", "Strumento di lettura immersiva", "Controllo Ortografico"],
+    "corretta": "Strumento di lettura immersiva"
+  },
+  {
+    "domanda": "Se vuoi proteggere un file in modo che nessuno possa aprirlo senza codice, cosa imposti?",
+    "risposte": ["Sola lettura", "Una Password di cifratura", "Una filigrana"],
+    "corretta": "Una Password di cifratura"
+  },
+  {
+    "domanda": "Hai bisogno di inserire il simbolo dell'Euro (€) o il Copyright (©) ma non sai come fare. Dove vai?",
+    "risposte": ["Inserisci > Simbolo", "Layout > Simbolo", "Visualizza > Caratteri speciali"],
+    "corretta": "Inserisci > Simbolo"
+  },
+  {
+    "domanda": "Qual è la funzione del tasto 'Dettatura' (icona microfono)?",
+    "risposte": ["Legge il testo per te", "Scrive quello che dici a voce", "Registra una nota audio nel file"],
+    "corretta": "Scrive quello che dici a voce"
+  },
+  {
+    "domanda": "Cosa fa la funzione 'Ispeziona Documento' prima della condivisione?",
+    "risposte": ["Controlla se ci sono errori di grammatica", "Rimuove metadati nascosti e informazioni personali", "Comprime le immagini"],
+    "corretta": "Rimuove metadati nascosti e informazioni personali"
+  },
+  {
+    "domanda": "Se usi 'Salva con Nome' (F12) su un file chiamato 'Bozza.docx' e lo chiami 'Finale.docx':",
+    "risposte": ["Il file 'Bozza.docx' viene cancellato", "Hai due file: 'Bozza.docx' (vecchio) e 'Finale.docx' (nuovo)", "Il file viene solo rinominato"],
+    "corretta": "Hai due file: 'Bozza.docx' (vecchio) e 'Finale.docx' (nuovo)"
+  },
+  {
+    "domanda": "Quale visualizzazione è utile per riordinare i capitoli trascinandoli?",
+    "risposte": ["Layout Web", "Riquadro di Navigazione", "Zoom 100%"],
+    "corretta": "Riquadro di Navigazione"
+  },
+  {
+    "domanda": "Per inserire un'immagine dello schermo del tuo PC direttamente in Word, usi:",
+    "risposte": ["Inserisci > Schermata", "Fai una foto col telefono", "Copia incolla dal desktop"],
+    "corretta": "Inserisci > Schermata"
+  },
+  {
+    "domanda": "Qual è il formato di file 'Open Source' alternativo al DOCX?",
+    "risposte": [".ODT", ".RTF", ".PDF"],
+    "corretta": ".ODT"
+  },
+  {
+    "domanda": "Vuoi tradurre una parte del documento in inglese. Cosa usi?",
+    "risposte": ["Google Translate nel browser", "Revisione > Traduci (interno a Word)", "Dizionario dei sinonimi"],
+    "corretta": "Revisione > Traduci (interno a Word)"
+  },
+  {
+    "domanda": "Come si chiama lo spazio bianco ripetuto in alto in ogni pagina?",
+    "risposte": ["Footer (Piè di pagina)", "Intestazione (Header)", "Nota a margine"],
+    "corretta": "Intestazione (Header)"
+  },
+  {
+    "domanda": "Cosa indica una sottolineatura blu ondulata?",
+    "risposte": ["Errore di ortografia", "Errore grammaticale o di formattazione", "Testo copiato dal web"],
+    "corretta": "Errore grammaticale o di formattazione"
+  },
+  {
+    "domanda": "Se vuoi stampare risparmiando inchiostro colorato, quale opzione scegli?",
+    "risposte": ["Stampa Unione", "Scala di Grigi", "Fronte/Retro"],
+    "corretta": "Scala di Grigi"
+  },
+  {
+    "domanda": "A cosa serve il comando CTRL + Y?",
+    "risposte": ["Annulla l'ultima azione", "Ripete l'ultima azione annullata", "Taglia il testo"],
+    "corretta": "Ripete l'ultima azione annullata"
+  },
+  {
+    "domanda": "In Stampa Unione, i dati dei destinatari (nomi, indirizzi) solitamente provengono da:",
+    "risposte": ["Un file Excel", "Un file PDF", "Una pagina web"],
+    "corretta": "Un file Excel"
+  },
+  {
+    "domanda": "Quale tasto usi per 'Rifiutare' una modifica suggerita in modalità Revisione?",
+    "risposte": ["Canc", "Tasto destro > Rifiuta modifica", "CTRL + Z"],
+    "corretta": "Tasto destro > Rifiuta modifica"
+  },
+  {
+    "domanda": "Se vuoi che un'immagine stia 'Dietro al testo' come uno sfondo, modifichi:",
+    "risposte": ["Il Testo a Capo (Wrap Text)", "La luminosità", "Il bordo dell'immagine"],
+    "corretta": "Il Testo a Capo (Wrap Text)"
+  },
+  {
+    "domanda": "Per inserire rapidamente un 'Commento' a margine, cosa fai?",
+    "risposte": ["Scrivi tra parentesi nel testo", "Selezioni il testo e clicchi 'Nuovo Commento'", "Usi l'evidenziatore"],
+    "corretta": "Selezioni il testo e clicchi 'Nuovo Commento'"
+  },
+  {
+    "domanda": "La 'Barra di Accesso Rapido' (Quick Access Toolbar) serve a:",
+    "risposte": ["Accedere velocemente ai comandi usati spesso (es. Salva, Annulla)", "Aprire Word più velocemente", "Cercare file su internet"],
+    "corretta": "Accedere velocemente ai comandi usati spesso (es. Salva, Annulla)"
+  }
+]
