@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Cos'è l'Impronta Digitale (Digital Footprint)?",
+    "risposte": ["La scansione del dito per sbloccare il telefono", "La traccia di dati che lasciamo navigando, postando e interagendo online", "Una macchia sullo schermo"],
+    "corretta": "La traccia di dati che lasciamo navigando, postando e interagendo online"
+  },
+  {
+    "domanda": "L'Impronta Digitale passiva include:",
+    "risposte": ["I post che scrivi tu", "Dati raccolti senza che tu te ne accorga (es. indirizzo IP, cronologia)", "Le foto che carichi"],
+    "corretta": "Dati raccolti senza che tu te ne accorga (es. indirizzo IP, cronologia)"
+  },
+  {
+    "domanda": "Perché dovresti preoccuparti della tua reputazione online?",
+    "risposte": ["Perché i datori di lavoro spesso cercano il tuo nome su Google prima di assumerti", "Perché così diventi famoso", "Non serve a nulla"],
+    "corretta": "Perché i datori di lavoro spesso cercano il tuo nome su Google prima di assumerti"
+  },
+  {
+    "domanda": "Cosa significa che 'Internet non dimentica'?",
+    "risposte": ["Che è difficile cancellare definitivamente qualcosa una volta che è online", "Che i server hanno molta memoria", "Che Google sa tutto"],
+    "corretta": "Che è difficile cancellare definitivamente qualcosa una volta che è online"
+  },
+  {
+    "domanda": "Cosa è lo 'Sharenting'?",
+    "risposte": ["Condividere la password", "Genitori che condividono eccessivamente foto e dati dei figli minorenni online", "Comprare azioni online"],
+    "corretta": "Genitori che condividono eccessivamente foto e dati dei figli minorenni online"
+  },
+  {
+    "domanda": "Qual è un rischio di pubblicare foto delle vacanze mentre sei ancora via?",
+    "risposte": ["Far sapere ai ladri che la casa è vuota", "Che piova", "Che gli amici siano invidiosi"],
+    "corretta": "Far sapere ai ladri che la casa è vuota"
+  },
+  {
+    "domanda": "Prima di postare una foto di un amico, cosa dovresti fare?",
+    "risposte": ["Chiedergli il permesso (Consenso)", "Modificarla con filtri buffi", "Taggare tutti i suoi parenti"],
+    "corretta": "Chiedergli il permesso (Consenso)"
+  },
+  {
+    "domanda": "Cos'è il 'Diritto all'Oblio'?",
+    "risposte": ["Il diritto a dimenticare la password", "Il diritto di chiedere la rimozione di dati personali non più rilevanti dai motori di ricerca", "Il diritto a non avere social"],
+    "corretta": "Il diritto di chiedere la rimozione di dati personali non più rilevanti dai motori di ricerca"
+  },
+  {
+    "domanda": "Se pubblichi un commento offensivo e poi lo cancelli, è sparito per sempre?",
+    "risposte": ["Sì, nessuno può più vederlo", "No, qualcuno potrebbe aver fatto uno screenshot", "Sì, se lo cancelli entro 1 minuto"],
+    "corretta": "No, qualcuno potrebbe aver fatto uno screenshot"
+  },
+  {
+    "domanda": "Quale impostazione dovresti controllare sui social per proteggerti?",
+    "risposte": ["Impostazioni della Privacy (chi può vedere i tuoi post)", "Impostazioni dello schermo", "Impostazioni della lingua"],
+    "corretta": "Impostazioni della Privacy (chi può vedere i tuoi post)"
+  },
+  {
+    "domanda": "Cosa sono i 'Metadati' di una foto?",
+    "risposte": ["Dati nascosti che indicano data, ora e talvolta posizione GPS dello scatto", "Il titolo della foto", "I filtri applicati"],
+    "corretta": "Dati nascosti che indicano data, ora e talvolta posizione GPS dello scatto"
+  },
+  {
+    "domanda": "Il furto d'identità (Identity Theft) avviene quando:",
+    "risposte": ["Qualcuno usa i tuoi dati personali per fingere di essere te", "Perdi la carta d'identità", "Cambi nome su Facebook"],
+    "corretta": "Qualcuno usa i tuoi dati personali per fingere di essere te"
+  },
+  {
+    "domanda": "Qual è la regola d'oro prima di pubblicare qualsiasi cosa?",
+    "risposte": ["Contare fino a 10 e chiedersi: 'Lo direi in una piazza pubblica?'", "Fare in fretta per prendere i like", "Scrivere tutto in maiuscolo"],
+    "corretta": "Contare fino a 10 e chiedersi: 'Lo direi in una piazza pubblica?'"
+  },
+  {
+    "domanda": "Cosa fare se trovi un tuo profilo falso online?",
+    "risposte": ["Segnalarlo alla piattaforma per furto d'identità", "Chiedergli amicizia", "Ignorarlo"],
+    "corretta": "Segnalarlo alla piattaforma per furto d'identità"
+  },
+  {
+    "domanda": "Perché non dovresti condividere la tua data di nascita completa pubblicamente?",
+    "risposte": ["Perché è un dato sensibile usato spesso per verificare l'identità (banche, recupero password)", "Perché porta sfortuna", "Perché ti fanno troppi regali"],
+    "corretta": "Perché è un dato sensibile usato spesso per verificare l'identità (banche, recupero password)"
+  },
+  {
+    "domanda": "L'Over-sharing (condivisione eccessiva) può portare a:",
+    "risposte": ["Rischi per la sicurezza e la privacy", "Più follower sicuri", "Migliore salute"],
+    "corretta": "Rischi per la sicurezza e la privacy"
+  },
+  {
+    "domanda": "Cosa è il 'Social Login' (Accedi con Facebook/Google)?",
+    "risposte": ["Un modo comodo per accedere ad altri siti, ma che condivide i tuoi dati tra piattaforme", "Un gioco social", "Un tipo di password"],
+    "corretta": "Un modo comodo per accedere ad altri siti, ma che condivide i tuoi dati tra piattaforme"
+  },
+  {
+    "domanda": "Se un servizio è 'Gratis', con cosa paghi di solito?",
+    "risposte": ["Con i tuoi Dati Personali", "Non paghi nulla davvero", "Con le tasse"],
+    "corretta": "Con i tuoi Dati Personali"
+  },
+  {
+    "domanda": "Cosa significa 'Tagging'?",
+    "risposte": ["Identificare una persona in una foto o post, collegandola al suo profilo", "Disegnare sui muri", "Cancellare un amico"],
+    "corretta": "Identificare una persona in una foto o post, collegandola al suo profilo"
+  },
+  {
+    "domanda": "Chi possiede i contenuti che carichi sui social (secondo i Termini di Servizio)?",
+    "risposte": ["Tu ne rimani proprietario, ma concedi alla piattaforma una licenza d'uso mondiale e gratuita", "La piattaforma diventa proprietaria esclusiva", "Diventano di dominio pubblico"],
+    "corretta": "Tu ne rimani proprietario, ma concedi alla piattaforma una licenza d'uso mondiale e gratuita"
+  },
+  {
+    "domanda": "Qual è il rischio di accettare richieste di amicizia da sconosciuti?",
+    "risposte": ["Potrebbero essere bot, truffatori o raccoglitori di dati", "Potrebbero essere simpatici", "Il tuo feed si riempie"],
+    "corretta": "Potrebbero essere bot, truffatori o raccoglitori di dati"
+  },
+  {
+    "domanda": "Cosa è il 'Revenge Porn' (o diffusione non consensuale di immagini intime)?",
+    "risposte": ["Un reato grave che consiste nel diffondere immagini intime per vendetta o ricatto", "Un tipo di film", "Uno scherzo"],
+    "corretta": "Un reato grave che consiste nel diffondere immagini intime per vendetta o ricatto"
+  },
+  {
+    "domanda": "Come puoi limitare la tua impronta digitale passiva?",
+    "risposte": ["Usando browser che bloccano i traccianti o la navigazione in incognito (parzialmente)", "Non si può fare nulla", "Cambiando mouse"],
+    "corretta": "Usando browser che bloccano i traccianti o la navigazione in incognito (parzialmente)"
+  },
+  {
+    "domanda": "Le informazioni che pubblichi oggi possono influenzare il tuo futuro tra 10 anni?",
+    "risposte": ["Sì, l'archivio del web è vasto", "No, dopo un anno sparisce tutto", "Solo se diventi politico"],
+    "corretta": "Sì, l'archivio del web è vasto"
+  },
+  {
+    "domanda": "Cosa fare se un amico posta una foto imbarazzante di te?",
+    "risposte": ["Chiedergli gentilmente di rimuoverla", "Insultarlo nei commenti", "Hackerare il suo profilo"],
+    "corretta": "Chiedergli gentilmente di rimuoverla"
+  },
+  {
+    "domanda": "Il 'Geotagging' (aggiungere la posizione) nei post:",
+    "risposte": ["Rivela esattamente dove ti trovi in quel momento", "Serve solo per la mappa", "Non è pericoloso"],
+    "corretta": "Rivela esattamente dove ti trovi in quel momento"
+  },
+  {
+    "domanda": "Cosa si intende per 'Eredità Digitale'?",
+    "risposte": ["Cosa succede ai tuoi account e dati dopo la tua morte", "I soldi che lasci online", "I vecchi computer"],
+    "corretta": "Cosa succede ai tuoi account e dati dopo la tua morte"
+  },
+  {
+    "domanda": "Qual è un buon modo per proteggere la privacy sui social?",
+    "risposte": ["Impostare il profilo come 'Privato' e controllare la lista amici", "Mettere una foto falsa", "Non usare il proprio nome"],
+    "corretta": "Impostare il profilo come 'Privato' e controllare la lista amici"
+  },
+  {
+    "domanda": "I quiz online tipo 'Che personaggio di Harry Potter sei?' spesso servono a:",
+    "risposte": ["Raccogliere dati sulle tue preferenze e amici (tramite l'accesso al profilo)", "Divertire e basta", "Insegnare magia"],
+    "corretta": "Raccogliere dati sulle tue preferenze e amici (tramite l'accesso al profilo)"
+  },
+  {
+    "domanda": "Cancellare la cronologia del browser elimina la tua impronta digitale dai server di Google/Facebook?",
+    "risposte": ["No, elimina solo la traccia sul tuo computer locale", "Sì, cancella tutto ovunque", "Sì, se lo fai due volte"],
+    "corretta": "No, elimina solo la traccia sul tuo computer locale"
+  }
+]

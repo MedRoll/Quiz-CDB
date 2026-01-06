@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Qual è il detto famoso che spiega il modello di business dei social media gratuiti?",
+    "risposte": ["Se non paghi per il prodotto, allora il prodotto sei tu", "Il cliente ha sempre ragione", "Tutto ciò che luccica è oro"],
+    "corretta": "Se non paghi per il prodotto, allora il prodotto sei tu"
+  },
+  {
+    "domanda": "Cosa vendono realmente piattaforme come Facebook e TikTok agli inserzionisti?",
+    "risposte": ["Spazio di archiviazione", "La tua attenzione e i tuoi dati per mostrarti pubblicità mirata", "Videogiochi"],
+    "corretta": "La tua attenzione e i tuoi dati per mostrarti pubblicità mirata"
+  },
+  {
+    "domanda": "Cos'è la 'Profilazione'?",
+    "risposte": ["La creazione di una foto profilo perfetta", "La raccolta di dati sui tuoi gusti e comportamenti per capire chi sei", "Il numero di like che ricevi"],
+    "corretta": "La raccolta di dati sui tuoi gusti e comportamenti per capire chi sei"
+  },
+  {
+    "domanda": "Quale ormone viene stimolato quando riceviamo un 'Mi piace' o una notifica?",
+    "risposte": ["Adrenalina", "Dopamina (ormone del piacere/ricompensa)", "Melatonina"],
+    "corretta": "Dopamina (ormone del piacere/ricompensa)"
+  },
+  {
+    "domanda": "Cosa significa l'acronimo FOMO?",
+    "risposte": ["Fear Of Missing Out (Paura di perdersi qualcosa)", "Fear Of Mobile Online", "Free Online Music Only"],
+    "corretta": "Fear Of Missing Out (Paura di perdersi qualcosa)"
+  },
+  {
+    "domanda": "Perché lo 'Scroll Infinito' (scorrimento senza fine) è progettato così?",
+    "risposte": ["Per risparmiare batteria", "Per tenerti incollato allo schermo senza darti un punto di stop naturale", "Perché è più facile da programmare"],
+    "corretta": "Per tenerti incollato allo schermo senza darti un punto di stop naturale"
+  },
+  {
+    "domanda": "Cos'è una 'Filter Bubble' (Bolla di filtraggio)?",
+    "risposte": ["Un filtro per le foto di Instagram", "Una situazione in cui l'algoritmo ti mostra solo cose che ti piacciono, isolandoti da opinioni diverse", "Un virus informatico"],
+    "corretta": "Una situazione in cui l'algoritmo ti mostra solo cose che ti piacciono, isolandoti da opinioni diverse"
+  },
+  {
+    "domanda": "Come guadagnano principalmente i Social Network?",
+    "risposte": ["Con le donazioni degli utenti", "Con la pubblicità (Advertising) basata sui dati degli utenti", "Vendendo magliette"],
+    "corretta": "Con la pubblicità (Advertising) basata sui dati degli utenti"
+  },
+  {
+    "domanda": "Cosa si intende per 'Echo Chamber' (Camera dell'eco)?",
+    "risposte": ["Un ambiente virtuale dove senti solo opinioni identiche alla tua, che rinforzano le tue convinzioni", "Una stanza vuota", "Un effetto audio per i video"],
+    "corretta": "Un ambiente virtuale dove senti solo opinioni identiche alla tua, che rinforzano le tue convinzioni"
+  },
+  {
+    "domanda": "Le notifiche rosse (badge) sono disegnate per:",
+    "risposte": ["Rilassarti", "Creare un senso di urgenza e attirare la tua attenzione immediata", "Decorare lo schermo"],
+    "corretta": "Creare un senso di urgenza e attirare la tua attenzione immediata"
+  },
+  {
+    "domanda": "Se cerchi 'scarpe da corsa' su Google e poi vedi pubblicità di scarpe su Instagram, è:",
+    "risposte": ["Una coincidenza", "Il risultato del tracciamento dei cookie e della profilazione condivisa", "Magia"],
+    "corretta": "Il risultato del tracciamento dei cookie e della profilazione condivisa"
+  },
+  {
+    "domanda": "Cosa registra l'algoritmo oltre ai tuoi 'Mi piace'?",
+    "risposte": ["Nulla, guarda solo i like", "Il tempo che passi a guardare un post, anche se non interagisci", "Il colore dei tuoi occhi"],
+    "corretta": "Il tempo che passi a guardare un post, anche se non interagisci"
+  },
+  {
+    "domanda": "Perché le Fake News si diffondono più velocemente delle notizie vere?",
+    "risposte": ["Perché fanno leva su emozioni forti come rabbia o paura", "Perché sono scritte meglio", "Perché gli algoritmi amano la verità"],
+    "corretta": "Perché fanno leva su emozioni forti come rabbia o paura"
+  },
+  {
+    "domanda": "Qual è l'obiettivo principale di un algoritmo social?",
+    "risposte": ["Educarti", "Massimizzare il tempo che passi sulla piattaforma (Engagement)", "Farti uscire di casa"],
+    "corretta": "Massimizzare il tempo che passi sulla piattaforma (Engagement)"
+  },
+  {
+    "domanda": "Cosa sono i 'Dark Pattern' nel design delle app?",
+    "risposte": ["Modalità scura per la notte", "Trucchi di design per manipolarti a fare cose che non vorresti (es. iscrizioni difficili da cancellare)", "Sfondi neri"],
+    "corretta": "Trucchi di design per manipolarti a fare cose che non vorresti (es. iscrizioni difficili da cancellare)"
+  },
+  {
+    "domanda": "Il 'Clickbait' (acchiappaclic) serve a:",
+    "risposte": ["Fornire informazioni accurate", "Attirare clic con titoli sensazionalistici o ingannevoli", "Proteggere dai virus"],
+    "corretta": "Attirare clic con titoli sensazionalistici o ingannevoli"
+  },
+  {
+    "domanda": "Quale di questi è un segnale di dipendenza da social media?",
+    "risposte": ["Controllare il telefono appena svegli e sentirsi ansiosi se non c'è connessione", "Usare il telefono per chiamare", "Avere un account Facebook"],
+    "corretta": "Controllare il telefono appena svegli e sentirsi ansiosi se non c'è connessione"
+  },
+  {
+    "domanda": "Cosa significa che l'attenzione è una 'risorsa scarsa'?",
+    "risposte": ["Che abbiamo poche ore al giorno e le aziende lottano per averle", "Che nessuno presta attenzione", "Che costa poco"],
+    "corretta": "Che abbiamo poche ore al giorno e le aziende lottano per averle"
+  },
+  {
+    "domanda": "La 'Gamification' (uso di premi, livelli, badge) nei social serve a:",
+    "risposte": ["Renderti dipendente dal sistema di ricompensa", "Insegnarti a giocare", "Farti vincere soldi veri"],
+    "corretta": "Renderti dipendente dal sistema di ricompensa"
+  },
+  {
+    "domanda": "Perché è difficile smettere di guardare i video brevi (es. TikTok/Reels)?",
+    "risposte": ["Perché offrono ricompense variabili e immediate (come una slot machine)", "Perché sono lunghi", "Perché sono noiosi"],
+    "corretta": "Perché offrono ricompense variabili e immediate (come una slot machine)"
+  },
+  {
+    "domanda": "Cosa dovresti fare per rompere la 'Filter Bubble'?",
+    "risposte": ["Seguire attivamente pagine e persone con opinioni diverse dalle tue", "Smettere di usare internet", "Mettere like a tutto a caso"],
+    "corretta": "Seguire attivamente pagine e persone con opinioni diverse dalle tue"
+  },
+  {
+    "domanda": "I dati raccolti dai social vengono usati anche per:",
+    "risposte": ["Addestrare le intelligenze artificiali", "Spiare le tue conversazioni telefoniche (illegalmente)", "Creare cloni"],
+    "corretta": "Addestrare le intelligenze artificiali"
+  },
+  {
+    "domanda": "Qual è un effetto negativo del confronto sociale online?",
+    "risposte": ["Sentirsi inadeguati vedendo le vite apparentemente perfette degli altri", "Migliorare l'autostima", "Risparmiare soldi"],
+    "corretta": "Sentirsi inadeguati vedendo le vite apparentemente perfette degli altri"
+  },
+  {
+    "domanda": "Cosa è il 'Doomscrolling'?",
+    "risposte": ["Continuare a scorrere notizie negative compulsivamente", "Giocare a Doom", "Scorrere velocemente le foto"],
+    "corretta": "Continuare a scorrere notizie negative compulsivamente"
+  },
+  {
+    "domanda": "Chi decide cosa vedi nel tuo Feed?",
+    "risposte": ["Un redattore umano", "Un algoritmo matematico basato sui tuoi comportamenti passati", "Il caso"],
+    "corretta": "Un algoritmo matematico basato sui tuoi comportamenti passati"
+  },
+  {
+    "domanda": "Il termine 'Engagement' si riferisce a:",
+    "risposte": ["Il fidanzamento online", "Il livello di interazione (like, commenti, tempo speso) degli utenti", "La velocità di connessione"],
+    "corretta": "Il livello di interazione (like, commenti, tempo speso) degli utenti"
+  },
+  {
+    "domanda": "Perché i social sono gratuiti?",
+    "risposte": ["Per generosità dei fondatori", "Perché i nostri dati valgono più dell'abbonamento mensile", "Perché sono finanziati dallo stato"],
+    "corretta": "Perché i nostri dati valgono più dell'abbonamento mensile"
+  },
+  {
+    "domanda": "Cosa succede quando disattivi le notifiche?",
+    "risposte": ["Riprendi il controllo della tua attenzione", "Il telefono smette di funzionare", "Ti cancelli dai social"],
+    "corretta": "Riprendi il controllo della tua attenzione"
+  },
+  {
+    "domanda": "La 'Polarizzazione' sui social significa:",
+    "risposte": ["Che le opinioni diventano sempre più estreme e divise", "Che fa freddo", "Che tutti vanno d'accordo"],
+    "corretta": "Che le opinioni diventano sempre più estreme e divise"
+  },
+  {
+    "domanda": "Qual è il primo passo per un uso consapevole?",
+    "risposte": ["Rendersi conto di quanto tempo passiamo online (Monitoraggio)", "Buttare il telefono", "Comprare un nuovo telefono"],
+    "corretta": "Rendersi conto di quanto tempo passiamo online (Monitoraggio)"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Facebook e Instagram sono gratis perché sono enti di beneficenza.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Quando cancelli una foto dal tuo profilo, scompare sicuramente da tutto il web.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I 'Mi piace' stimolano la dopamina nel cervello.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È legale pubblicare foto di altre persone senza il loro consenso (o consenso dei genitori se minori).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le Fake News sono progettate per essere noiose.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'algoritmo ti mostra contenuti diversi da quelli del tuo vicino per tenerti più tempo sull'app.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Dovresti usare la stessa password per tutti i tuoi account per ricordarla meglio.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il Cyberbullismo può avere conseguenze legali reali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La modalità 'In Incognito' ti rende invisibile alla polizia e al tuo provider internet.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Un Deepfake può far dire a un politico cose che non ha mai detto.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Scrivere in MAIUSCOLO in chat equivale a urlare.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se un servizio online è gratis, il prodotto sei tu.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le app possono accedere al tuo microfono o posizione solo se glielo permetti.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I quiz su Facebook sono sempre sicuri e non raccolgono dati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'Echo Chamber ti aiuta a sviluppare un pensiero critico ascoltando diverse opinioni.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il 'Doomscrolling' fa bene all'umore.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I datori di lavoro possono controllare i tuoi profili social prima di assumerti.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La '2FA' (autenticazione a due fattori) rende l'account più sicuro.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un profilo con la spunta blu è sempre affidabile al 100% su tutto ciò che dice.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Lo 'Sharenting' riguarda la condivisione di file aziendali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Bisogna nutrire i troll rispondendo ai loro commenti.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'indirizzo IP identifica approssimativamente la tua connessione e posizione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I 'Cookie' sono biscotti che Google ti invia a casa.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La luce blu degli schermi può disturbare il sonno.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È buona norma chiedere 'È vero?' prima di condividere un post scioccante.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I social media non influenzano l'autostima degli adolescenti.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi scaricare una copia dei tuoi dati (backup) da Facebook o Google.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il phishing avviene solo via email, mai via SMS o WhatsApp.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le impostazioni di privacy predefinite dei social sono sempre le più sicure.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La disinformazione può influenzare le elezioni politiche.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Cos'è una 'Fake News'?",
+    "risposte": ["Una notizia falsa creata deliberatamente per ingannare o manipolare", "Una notizia vecchia", "Un errore di stampa"],
+    "corretta": "Una notizia falsa creata deliberatamente per ingannare o manipolare"
+  },
+  {
+    "domanda": "Cos'è un 'Deepfake'?",
+    "risposte": ["Un video manipolato con l'IA che sovrappone il volto di una persona a un'altra in modo realistico", "Una notizia molto approfondita", "Un virus sottomarino"],
+    "corretta": "Un video manipolato con l'IA che sovrappone il volto di una persona a un'altra in modo realistico"
+  },
+  {
+    "domanda": "Qual è il primo controllo da fare per verificare una notizia?",
+    "risposte": ["Controllare la fonte (chi l'ha scritta?)", "Condividerla subito", "Leggere solo il titolo"],
+    "corretta": "Controllare la fonte (chi l'ha scritta?)"
+  },
+  {
+    "domanda": "Cosa significa 'Fact-Checking'?",
+    "risposte": ["Verifica dei fatti e delle fonti", "Controllare la posta", "Fare una lista di cose da fare"],
+    "corretta": "Verifica dei fatti e delle fonti"
+  },
+  {
+    "domanda": "Se un titolo è scritto TUTTO IN MAIUSCOLO con tanti punti esclamativi!!!!, probabilmente è:",
+    "risposte": ["Clickbait o Fake News", "Una notizia urgentissima ufficiale", "Un comunicato del governo"],
+    "corretta": "Clickbait o Fake News"
+  },
+  {
+    "domanda": "Cos'è il Cyberbullismo?",
+    "risposte": ["Bullismo perpetrato attraverso strumenti digitali (molestie, insulti, esclusione)", "Un videogioco di lotta", "Un virus"],
+    "corretta": "Bullismo perpetrato attraverso strumenti digitali (molestie, insulti, esclusione)"
+  },
+  {
+    "domanda": "Cosa fare se sei vittima di Cyberbullismo?",
+    "risposte": ["Non rispondere, bloccare il bullo, salvare le prove (screenshot) e parlarne con un adulto/autorità", "Rispondere insultando più forte", "Cancellare tutto e piangere"],
+    "corretta": "Non rispondere, bloccare il bullo, salvare le prove (screenshot) e parlarne con un adulto/autorità"
+  },
+  {
+    "domanda": "Cos'è un 'Troll' su internet?",
+    "risposte": ["Qualcuno che posta commenti provocatori solo per disturbare e creare litigi", "Un mostro delle favole", "Un virus"],
+    "corretta": "Qualcuno che posta commenti provocatori solo per disturbare e creare litigi"
+  },
+  {
+    "domanda": "La regola 'Don't feed the troll' significa:",
+    "risposte": ["Non rispondere alle provocazioni, ignorali", "Non dare cibo agli animali", "Non cliccare sui link"],
+    "corretta": "Non rispondere alle provocazioni, ignorali"
+  },
+  {
+    "domanda": "Cosa si intende per 'Netiquette'?",
+    "risposte": ["Il galateo della rete (regole di buona educazione online)", "Un tipo di etichetta adesiva", "La velocità della rete"],
+    "corretta": "Il galateo della rete (regole di buona educazione online)"
+  },
+  {
+    "domanda": "Perché scrivere TUTTO IN MAIUSCOLO è sconsigliato?",
+    "risposte": ["Perché online equivale a URLARE", "Perché consuma più inchiostro", "Perché è difficile da leggere"],
+    "corretta": "Perché online equivale a URLARE"
+  },
+  {
+    "domanda": "Cos'è il 'Phishing'?",
+    "risposte": ["Un tentativo di truffa via email/messaggio per rubare password o dati bancari", "Uno sport acquatico", "Un modo per pescare follower"],
+    "corretta": "Un tentativo di truffa via email/messaggio per rubare password o dati bancari"
+  },
+  {
+    "domanda": "Un'immagine può essere manipolata/falsa?",
+    "risposte": ["Sì, facilmente con software di fotoritocco o IA", "No, le foto sono sempre prove reali", "Solo se è in bianco e nero"],
+    "corretta": "Sì, facilmente con software di fotoritocco o IA"
+  },
+  {
+    "domanda": "Cosa è la 'Ricerca Inversa per Immagini' (Reverse Image Search)?",
+    "risposte": ["Uno strumento per vedere dove altro è stata pubblicata un'immagine e scoprirne l'origine", "Girare l'immagine al contrario", "Cercare immagini capovolte"],
+    "corretta": "Uno strumento per vedere dove altro è stata pubblicata un'immagine e scoprirne l'origine"
+  },
+  {
+    "domanda": "Se una notizia sembra 'troppo bella (o troppo brutta) per essere vera', probabilmente:",
+    "risposte": ["È falsa o esagerata", "È vera", "È un miracolo"],
+    "corretta": "È falsa o esagerata"
+  },
+  {
+    "domanda": "Qual è lo scopo della 'Disinformazione' (rispetto alla Misinformazione)?",
+    "risposte": ["La Disinformazione è intenzionale (vuole fare danno), la Misinformazione può essere un errore involontario", "Sono la stessa cosa", "La Disinformazione è solo politica"],
+    "corretta": "La Disinformazione è intenzionale (vuole fare danno), la Misinformazione può essere un errore involontario"
+  },
+  {
+    "domanda": "Cosa fare prima di condividere un post allarmistico?",
+    "risposte": ["Verificare se è vero su siti affidabili", "Condividerlo subito per avvisare tutti", "Mettere mi piace"],
+    "corretta": "Verificare se è vero su siti affidabili"
+  },
+  {
+    "domanda": "L'Hate Speech (discorso d'odio) è:",
+    "risposte": ["Linguaggio che attacca o insulta un gruppo basandosi su razza, religione, genere, ecc.", "Parlare di odio in generale", "Un discorso noioso"],
+    "corretta": "Linguaggio che attacca o insulta un gruppo basandosi su razza, religione, genere, ecc."
+  },
+  {
+    "domanda": "Cosa rischi condividendo Fake News?",
+    "risposte": ["Di danneggiare la tua reputazione e diffondere panico ingiustificato", "Nulla", "Di diventare giornalista"],
+    "corretta": "Di danneggiare la tua reputazione e diffondere panico ingiustificato"
+  },
+  {
+    "domanda": "Come riconosci un profilo 'Bot'?",
+    "risposte": ["Spesso non ha foto profilo, posta ossessivamente su un solo tema, ha nome generico con numeri", "È molto simpatico", "Scrive poesie"],
+    "corretta": "Spesso non ha foto profilo, posta ossessivamente su un solo tema, ha nome generico con numeri"
+  },
+  {
+    "domanda": "La 'Sextortion' è:",
+    "risposte": ["Il ricatto sessuale (minacciare di pubblicare foto intime se non si paga)", "Una nuova app", "Un tipo di ballo"],
+    "corretta": "Il ricatto sessuale (minacciare di pubblicare foto intime se non si paga)"
+  },
+  {
+    "domanda": "Cosa significa 'Doxing'?",
+    "risposte": ["Pubblicare online i dati privati (indirizzo, telefono) di qualcuno per esporlo a molestie", "Portare a spasso il cane", "Fare documenti"],
+    "corretta": "Pubblicare online i dati privati (indirizzo, telefono) di qualcuno per esporlo a molestie"
+  },
+  {
+    "domanda": "Se ricevi un link strano da un amico in chat, cosa fai?",
+    "risposte": ["Chiedo conferma all'amico se me l'ha mandato lui davvero prima di cliccare", "Clicco subito", "Lo ignoro"],
+    "corretta": "Chiedo conferma all'amico se me l'ha mandato lui davvero prima di cliccare"
+  },
+  {
+    "domanda": "Per creare una password sicura è meglio usare:",
+    "risposte": ["Una frase lunga (Passphrase) con numeri e simboli", "123456", "Il proprio nome"],
+    "corretta": "Una frase lunga (Passphrase) con numeri e simboli"
+  },
+  {
+    "domanda": "Autenticazione a Due Fattori (2FA) significa:",
+    "risposte": ["Usare password + un secondo codice (es. SMS o App) per entrare", "Avere due account", "Usare due computer"],
+    "corretta": "Usare password + un secondo codice (es. SMS o App) per entrare"
+  },
+  {
+    "domanda": "Cos'è il 'Grooming' online?",
+    "risposte": ["L'adescamento di minori da parte di adulti che fingono amicizia per scopi sessuali", "La cura del profilo", "Pulire il computer"],
+    "corretta": "L'adescamento di minori da parte di adulti che fingono amicizia per scopi sessuali"
+  },
+  {
+    "domanda": "Qual è l'atteggiamento migliore verso le notizie sui social?",
+    "risposte": ["Sano scetticismo (dubitare e verificare)", "Fiducia cieca", "Indifferenza"],
+    "corretta": "Sano scetticismo (dubitare e verificare)"
+  },
+  {
+    "domanda": "Cosa è un 'Bias di Conferma'?",
+    "risposte": ["La tendenza a credere solo alle notizie che confermano ciò che pensiamo già", "Un errore del computer", "Un virus"],
+    "corretta": "La tendenza a credere solo alle notizie che confermano ciò che pensiamo già"
+  },
+  {
+    "domanda": "Se sei testimone di odio online, cosa puoi fare?",
+    "risposte": ["Segnalare il contenuto alla piattaforma", "Ridere", "Condividere"],
+    "corretta": "Segnalare il contenuto alla piattaforma"
+  },
+  {
+    "domanda": "Il benessere digitale (Digital Wellbeing) promuove:",
+    "risposte": ["Un uso equilibrato e consapevole della tecnologia che non danneggi la vita reale", "Stare online 24 ore su 24", "Non usare mai internet"],
+    "corretta": "Un uso equilibrato e consapevole della tecnologia che non danneggi la vita reale"
+  }
+]
