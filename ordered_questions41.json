@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Qual è la definizione informale di 'Cloud' citata nella lezione?",
+    "risposte": ["È una nuvola di dati nel cielo", "È solo il computer di qualcun altro", "È un sistema meteo digitale"],
+    "corretta": "È solo il computer di qualcun altro"
+  },
+  {
+    "domanda": "Cosa significa l'acronimo SaaS?",
+    "risposte": ["Storage as a Service", "Software as a Service", "Security as a System"],
+    "corretta": "Software as a Service"
+  },
+  {
+    "domanda": "Quale dei seguenti è un esempio di Cloud Storage puro (archiviazione)?",
+    "risposte": ["Google Docs", "Dropbox", "Canva"],
+    "corretta": "Dropbox"
+  },
+  {
+    "domanda": "Qual è il vantaggio principale di Google Docs rispetto a Word installato sul PC?",
+    "risposte": ["Funziona senza internet", "Collaborazione in tempo reale e salvataggio automatico", "Ha più font"],
+    "corretta": "Collaborazione in tempo reale e salvataggio automatico"
+  },
+  {
+    "domanda": "Quanti GB di spazio gratuito offre un account Google standard?",
+    "risposte": ["5 GB", "15 GB", "50 GB"],
+    "corretta": "15 GB"
+  },
+  {
+    "domanda": "Dove finiscono i file che crei tu personalmente in Google Drive?",
+    "risposte": ["In 'Condivisi con me'", "In 'Il mio Drive'", "Nel Cestino"],
+    "corretta": "In 'Il mio Drive'"
+  },
+  {
+    "domanda": "A quale programma Office corrisponde Google Sheets?",
+    "risposte": ["Word", "PowerPoint", "Excel"],
+    "corretta": "Excel"
+  },
+  {
+    "domanda": "Cosa succede se spegni il PC mentre scrivi su Google Docs senza aver premuto salva?",
+    "risposte": ["Perdi tutto il lavoro", "Nulla, il file si salva da solo ogni pochi secondi", "Devi recuperarlo dal cestino"],
+    "corretta": "Nulla, il file si salva da solo ogni pochi secondi"
+  },
+  {
+    "domanda": "Quale icona rappresenta solitamente Google Drive?",
+    "risposte": ["Una busta da lettere", "Un triangolo verde, giallo e blu", "Una nuvola azzurra"],
+    "corretta": "Un triangolo verde, giallo e blu"
+  },
+  {
+    "domanda": "Per usare i servizi Google Workspace (Docs, Drive, ecc.) cosa è indispensabile?",
+    "risposte": ["Avere un account Google (Gmail)", "Avere Windows 11", "Pagare un abbonamento"],
+    "corretta": "Avere un account Google (Gmail)"
+  },
+  {
+    "domanda": "Cosa trovi nella sezione 'Condivisi con me'?",
+    "risposte": ["I file che tu hai inviato ad altri", "I file che altri utenti hanno condiviso con te", "Le foto del telefono"],
+    "corretta": "I file che altri utenti hanno condiviso con te"
+  },
+  {
+    "domanda": "Quale strumento Google serve per creare sondaggi o raccogliere iscrizioni?",
+    "risposte": ["Google Sheets", "Google Forms (Moduli)", "Google Slides"],
+    "corretta": "Google Forms (Moduli)"
+  },
+  {
+    "domanda": "Se modifichi un file condiviso, gli altri utenti quando vedono la modifica?",
+    "risposte": ["Immediatamente (Tempo Reale)", "Dopo che glielo invii via mail", "Il giorno dopo"],
+    "corretta": "Immediatamente (Tempo Reale)"
+  },
+  {
+    "domanda": "Qual è il rischio principale del Cloud Computing?",
+    "risposte": ["I virus", "La dipendenza dalla connessione Internet", "Il costo dell'elettricità"],
+    "corretta": "La dipendenza dalla connessione Internet"
+  },
+  {
+    "domanda": "Come si crea una nuova cartella in Drive?",
+    "risposte": ["Tasto Nuovo > Cartella", "Invio sulla tastiera", "Non si possono creare cartelle"],
+    "corretta": "Tasto Nuovo > Cartella"
+  },
+  {
+    "domanda": "A quale programma Office corrisponde Google Slides?",
+    "risposte": ["Excel", "PowerPoint", "Word"],
+    "corretta": "PowerPoint"
+  },
+  {
+    "domanda": "Cosa significa che i file sono 'nel Cloud'?",
+    "risposte": ["Che sono salvati su server remoti accessibili via internet", "Che sono salvati nella RAM del tuo PC", "Che sono trasmessi via satellite"],
+    "corretta": "Che sono salvati su server remoti accessibili via internet"
+  },
+  {
+    "domanda": "Per scaricare un file Google Doc in formato PDF sul tuo PC, cosa fai?",
+    "risposte": ["File > Scarica > Documento PDF", "File > Stampa > Invia a casa", "Copia e incolla tutto"],
+    "corretta": "File > Scarica > Documento PDF"
+  },
+  {
+    "domanda": "Quale colore è associato a Google Docs (Documenti)?",
+    "risposte": ["Verde", "Blu", "Giallo"],
+    "corretta": "Blu"
+  },
+  {
+    "domanda": "Quale colore è associato a Google Sheets (Fogli)?",
+    "risposte": ["Verde", "Blu", "Rosso"],
+    "corretta": "Verde"
+  },
+  {
+    "domanda": "Cosa permette di fare l'accesso 'Offline'?",
+    "risposte": ["Lavorare ai file anche senza connessione internet", "Navigare su Facebook senza internet", "Scaricare film"],
+    "corretta": "Lavorare ai file anche senza connessione internet"
+  },
+  {
+    "domanda": "In un Google Form, dove finiscono le risposte raccolte?",
+    "risposte": ["In una mail", "In un Foglio Google (Sheets) collegato o nel Form stesso", "Vengono cancellate subito"],
+    "corretta": "In un Foglio Google (Sheets) collegato o nel Form stesso"
+  },
+  {
+    "domanda": "Se cancelli per sbaglio un file in Drive, dove va?",
+    "risposte": ["Sparisce per sempre", "Nel Cestino (recuperabile per 30 giorni)", "Viene archiviato"],
+    "corretta": "Nel Cestino (recuperabile per 30 giorni)"
+  },
+  {
+    "domanda": "Cosa serve la 'Stella' (Aggiungi a Speciali) in Drive?",
+    "risposte": ["A dare un voto al file", "A mettere il file nei preferiti per trovarlo subito", "A renderlo pubblico"],
+    "corretta": "A mettere il file nei preferiti per trovarlo subito"
+  },
+  {
+    "domanda": "È possibile modificare un file Word (.docx) dentro Google Drive?",
+    "risposte": ["Sì, Google Drive lo apre e permette la modifica", "No, devi convertirlo per forza", "No, serve Word installato"],
+    "corretta": "Sì, Google Drive lo apre e permette la modifica"
+  },
+  {
+    "domanda": "Qual è un esempio di servizio Cloud per la musica?",
+    "risposte": ["Spotify", "VLC Media Player", "Notepad"],
+    "corretta": "Spotify"
+  },
+  {
+    "domanda": "Per cercare un file in Drive, cosa usi?",
+    "risposte": ["La barra di ricerca in alto", "Scorri tutti i file uno per uno", "Chiedi a Google Assistant"],
+    "corretta": "La barra di ricerca in alto"
+  },
+  {
+    "domanda": "Cosa succede ai file nel Cloud se il tuo computer si rompe?",
+    "risposte": ["Vengono persi", "Sono salvi e accessibili da un altro dispositivo", "Si danneggiano"],
+    "corretta": "Sono salvi e accessibili da un altro dispositivo"
+  },
+  {
+    "domanda": "Google Drive è un servizio di:",
+    "risposte": ["Solo posta elettronica", "Cloud Storage e Suite di produttività", "Social Network"],
+    "corretta": "Cloud Storage e Suite di produttività"
+  },
+  {
+    "domanda": "Qual è il limite di dimensione per un singolo file di testo Google Doc?",
+    "risposte": ["Non c'è limite pratico per l'uso normale", "10 Pagine", "1 KB"],
+    "corretta": "Non c'è limite pratico per l'uso normale"
+  }
+]

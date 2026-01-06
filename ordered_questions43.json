@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Il Cloud Computing richiede obbligatoriamente una connessione Internet per funzionare in tempo reale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un utente 'Visualizzatore' può cancellare il file condiviso.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Google Drive salva automaticamente le modifiche mentre scrivi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La password 'ciao123' è considerata sicura.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il Phishing avviene solo tramite telefonate.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi ripristinare una versione del documento risalente a ieri.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il protocollo HTTPS garantisce che il sito web sia legittimo e criptato.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un 'Commentatore' può modificare direttamente il testo del documento.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Google Forms serve principalmente per creare presentazioni.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "È possibile lavorare sullo stesso file in due persone contemporaneamente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La 2FA (Autenticazione a due fattori) è inutile se hai una password lunga.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I file nella cartella 'Condivisi con me' occupano il tuo spazio di archiviazione (i tuoi 15GB).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Dovresti sempre fare il logout quando usi un computer della biblioteca o dell'hotel.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "SaaS sta per 'Storage as a Service'.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Google Sheets è l'alternativa cloud a Microsoft Excel.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "In modalità 'Suggerimento', le modifiche sono definitive appena le scrivi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi scaricare i file di Google Drive sul tuo computer locale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il Cestino di Google Drive si svuota automaticamente dopo 30 giorni.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Condividere un file tramite link è più sicuro che invitare tramite email specifica.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Dropbox è un esempio di servizio Cloud.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se qualcuno ti ruba la password ma hai la 2FA attiva, non può entrare nel tuo account.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le banche chiedono spesso la password via email per controlli di sicurezza.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi menzionare un collega in un commento usando la chiocciola (@).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Lavorare nel Cloud elimina il rischio di perdere i dati se si rompe l'hard disk del PC.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Google Drive offre solo 100 MB di spazio gratuito.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Un file Word caricato su Drive può essere convertito in formato Google Docs.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Usare un Password Manager è sconsigliato per la sicurezza.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il lucchetto nel browser garantisce che il sito sia onesto e non una truffa.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La collaborazione sincrona avviene in Tempo Reale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Google Slides serve per creare Fogli di Calcolo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  }
+]

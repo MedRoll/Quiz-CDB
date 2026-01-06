@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Qual è la password più sicura tra queste opzioni?",
+    "risposte": ["12345678", "Password!", "Tr@ttor3-Giallo!24"],
+    "corretta": "Tr@ttor3-Giallo!24"
+  },
+  {
+    "domanda": "Cosa significa '2FA'?",
+    "risposte": ["2 Fast Answers", "Autenticazione a Due Fattori", "Second File Archive"],
+    "corretta": "Autenticazione a Due Fattori"
+  },
+  {
+    "domanda": "Nel ruolo di 'Visualizzatore', cosa può fare l'utente?",
+    "risposte": ["Solo leggere il file", "Leggere e lasciare commenti", "Modificare il testo"],
+    "corretta": "Solo leggere il file"
+  },
+  {
+    "domanda": "Cosa può fare un utente con ruolo 'Editor'?",
+    "risposte": ["Tutto: leggere, modificare, cancellare e condividere", "Solo suggerire modifiche", "Solo visualizzare"],
+    "corretta": "Tutto: leggere, modificare, cancellare e condividere"
+  },
+  {
+    "domanda": "Cos'è il Phishing?",
+    "risposte": ["Un modo per pescare online", "Una truffa via email per rubare dati sensibili", "Un virus che blocca il PC"],
+    "corretta": "Una truffa via email per rubare dati sensibili"
+  },
+  {
+    "domanda": "Se ricevi una mail dalla 'Banca' che ti chiede di cliccare un link urgente, cosa fai?",
+    "risposte": ["Clicco subito per risolvere il problema", "Controllo il mittente e non clicco il link", "Rispondo con la mia password"],
+    "corretta": "Controllo il mittente e non clicco il link"
+  },
+  {
+    "domanda": "A cosa serve la 'Cronologia Versioni'?",
+    "risposte": ["A vedere chi ha aperto il file", "A vedere le modifiche passate e ripristinare versioni precedenti", "A cancellare il file"],
+    "corretta": "A vedere le modifiche passate e ripristinare versioni precedenti"
+  },
+  {
+    "domanda": "Qual è la funzione della modalità 'Suggerimento'?",
+    "risposte": ["Modifica il testo direttamente senza avvisare", "Propone una modifica che il proprietario deve approvare o rifiutare", "Aggiunge solo commenti a lato"],
+    "corretta": "Propone una modifica che il proprietario deve approvare o rifiutare"
+  },
+  {
+    "domanda": "Cos'è un 'Password Manager' (Gestore Password)?",
+    "risposte": ["Un foglio Excel con le password", "Un'app sicura che ricorda le password complesse al posto tuo", "Una persona che gestisce il tuo account"],
+    "corretta": "Un'app sicura che ricorda le password complesse al posto tuo"
+  },
+  {
+    "domanda": "Quale ruolo dai a un collega se vuoi che possa commentare ma NON cambiare il testo?",
+    "risposte": ["Visualizzatore", "Commentatore", "Editor"],
+    "corretta": "Commentatore"
+  },
+  {
+    "domanda": "Perché dovresti fare il Logout (Disconnetti) da un PC pubblico?",
+    "risposte": ["Per risparmiare energia", "Per evitare che estranei accedano al tuo account", "Per pulire la cronologia"],
+    "corretta": "Per evitare che estranei accedano al tuo account"
+  },
+  {
+    "domanda": "Cosa indica il lucchetto (HTTPS) nella barra degli indirizzi del browser?",
+    "risposte": ["Che il sito è criptato e la connessione è sicura", "Che il sito è bloccato", "Che devi pagare per entrare"],
+    "corretta": "Che il sito è criptato e la connessione è sicura"
+  },
+  {
+    "domanda": "Qual è un indizio tipico di una mail di Phishing?",
+    "risposte": ["Errori grammaticali e senso di urgenza", "Il tuo nome scritto correttamente", "Un link a google.com"],
+    "corretta": "Errori grammaticali e senso di urgenza"
+  },
+  {
+    "domanda": "Nella 2FA, il secondo fattore è solitamente:",
+    "risposte": ["Il nome del tuo cane", "Un codice temporaneo inviato al telefono o generato da un'app", "La tua data di nascita"],
+    "corretta": "Un codice temporaneo inviato al telefono o generato da un'app"
+  },
+  {
+    "domanda": "Come si tagga una persona in un commento su Google Docs?",
+    "risposte": ["Scrivendo il suo nome in maiuscolo", "Usando il simbolo @ seguito dalla sua mail", "Usando l'hashtag #"],
+    "corretta": "Usando il simbolo @ seguito dalla sua mail"
+  },
+  {
+    "domanda": "Se condividi un file tramite Link impostato su 'Chiunque abbia il link', chi può vederlo?",
+    "risposte": ["Solo le persone invitate via mail", "Chiunque nel mondo entri in possesso di quel link", "Solo tu"],
+    "corretta": "Chiunque nel mondo entri in possesso di quel link"
+  },
+  {
+    "domanda": "Cosa significa 'Collaborazione Asincrona'?",
+    "risposte": ["Lavorare insieme nello stesso momento", "Lavorare sullo stesso file in momenti diversi", "Lavorare senza internet"],
+    "corretta": "Lavorare sullo stesso file in momenti diversi"
+  },
+  {
+    "domanda": "È sicuro usare la stessa password per Banca, Facebook e Email?",
+    "risposte": ["Sì, così non la dimentico", "No, se ne scoprono una accedono a tutto", "Sì, se è complessa"],
+    "corretta": "No, se ne scoprono una accedono a tutto"
+  },
+  {
+    "domanda": "Cosa succede quando 'Risolvi' un commento in un Doc?",
+    "risposte": ["Il commento viene cancellato per sempre", "Il commento viene archiviato/nascosto perché la discussione è chiusa", "Il file viene cancellato"],
+    "corretta": "Il commento viene archiviato/nascosto perché la discussione è chiusa"
+  },
+  {
+    "domanda": "Quale di questi è un buon metodo per creare una password robusta?",
+    "risposte": ["Usare una frase lunga (Passphrase) con numeri e simboli", "Usare la data di nascita", "Usare 'password123'"],
+    "corretta": "Usare una frase lunga (Passphrase) con numeri e simboli"
+  },
+  {
+    "domanda": "Se vedi un cursore colorato con un nome che si muove nel tuo documento, cosa significa?",
+    "risposte": ["Che c'è un virus", "Che un collaboratore sta lavorando sul file in quel momento", "Che il mouse è rotto"],
+    "corretta": "Che un collaboratore sta lavorando sul file in quel momento"
+  },
+  {
+    "domanda": "Qual è il modo più sicuro per condividere un file sensibile?",
+    "risposte": ["Tramite Link pubblico su Facebook", "Invitando l'indirizzo email specifico della persona", "Scrivendolo su un foglietto"],
+    "corretta": "Invitando l'indirizzo email specifico della persona"
+  },
+  {
+    "domanda": "Cosa fare se sospetti che la tua password sia stata rubata?",
+    "risposte": ["Cambiarla immediatamente", "Aspettare e vedere", "Cancellare l'account"],
+    "corretta": "Cambiarla immediatamente"
+  },
+  {
+    "domanda": "I file eliminati dal Cestino di Drive possono essere recuperati dall'utente dopo 60 giorni?",
+    "risposte": ["Sì, sempre", "No, solitamente sono persi definitivamente", "Sì, pagando"],
+    "corretta": "No, solitamente sono persi definitivamente"
+  },
+  {
+    "domanda": "L'autenticazione a due fattori protegge contro:",
+    "risposte": ["La rottura del computer", "Il furto della sola password", "La lentezza di internet"],
+    "corretta": "Il furto della sola password"
+  },
+  {
+    "domanda": "Qual è il vantaggio di usare i commenti invece di scrivere nel testo?",
+    "risposte": ["Non 'sporcano' il documento finale e permettono la discussione", "Sono più facili da leggere", "Occupano meno memoria"],
+    "corretta": "Non 'sporcano' il documento finale e permettono la discussione"
+  },
+  {
+    "domanda": "Per vedere le versioni precedenti di un file, dove clicchi?",
+    "risposte": ["File > Cronologia versioni", "Modifica > Annulla", "Visualizza > Zoom"],
+    "corretta": "File > Cronologia versioni"
+  },
+  {
+    "domanda": "Un link che inizia con 'http://' (senza S) è considerato:",
+    "risposte": ["Sicuro", "Non sicuro (traffico non criptato)", "Più veloce"],
+    "corretta": "Non sicuro (traffico non criptato)"
+  },
+  {
+    "domanda": "Quale tasto premi per accettare un suggerimento di modifica?",
+    "risposte": ["La spunta (V)", "La X", "Il tasto Canc"],
+    "corretta": "La spunta (V)"
+  },
+  {
+    "domanda": "Il Cloud elimina la necessità di fare backup locali su chiavetta?",
+    "risposte": ["Sì, è sempre tutto sicuro al 100%", "No, è buona norma avere comunque una copia offline per sicurezza critica", "Il Cloud non fa backup"],
+    "corretta": "No, è buona norma avere comunque una copia offline per sicurezza critica"
+  }
+]

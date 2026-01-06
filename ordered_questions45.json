@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Puoi accedere al tuo Google Drive da qualsiasi computer connesso a internet.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se condividi un link 'Visualizzatore', la persona può scaricare o stampare il file (se non lo blocchi).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È impossibile recuperare un file se svuoti il Cestino.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Google Drive funziona solo su computer Windows.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le cartelle in Drive non possono avere sottocartelle.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi cercare testo all'interno di un PDF o di un'immagine caricata su Drive (OCR).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Disconnettersi (Logout) cancella tutti i tuoi file dal Cloud.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Una password sicura dovrebbe contenere solo lettere minuscole.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I 'Moduli Google' (Forms) possono essere compilati anche da smartphone.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se modifichi un file Offline, devi ricordarti di cliccare 'Sincronizza' manualmente appena hai internet.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il proprietario di un file può trasferire la proprietà a un'altra persona.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È sicuro cliccare sui link nelle email che finiscono nella cartella Spam.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Google Docs conta automaticamente le parole mentre scrivi (o con Ctrl+Shift+C).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Puoi caricare video su Google Drive.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'autenticazione a due fattori richiede sempre un SMS.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Se cambi il nome a un file condiviso nel tuo Drive, cambia anche per gli altri.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Puoi aggiungere una 'Scadenza' temporale a un accesso condiviso (funzione avanzata).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I commenti risolti spariscono completamente e non si possono più vedere.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "È possibile usare la dettatura vocale in Google Docs.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un file Excel convertito in Google Sheets perde sempre tutti i dati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il tasto 'Stamp' sulla tastiera invia il file alla stampante.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi visualizzare l'anteprima di un file premendo 'P' o l'occhio (o barra spaziatrice su alcuni sistemi).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Google Drive ha un limite di spazio gratuito.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se blocchi un utente, questo non può più condividere file con te.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le 'Parti Rapide' (Quick Parts) sono una funzione esclusiva di Google Docs.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi inserire un link a un sito web dentro un documento.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La cronologia delle versioni mostra chi ha fatto le modifiche.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Non puoi usare Google Drive se non hai Gmail.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Scaricare un file come PDF lo rende non modificabile facilmente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il Cloud è fisicamente situato nei server farm (centri dati).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  }
+]
