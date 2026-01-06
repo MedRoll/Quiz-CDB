@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Secondo la filosofia del corso, qual è il primo passo per creare una presentazione efficace?",
+    "risposte": ["Aprire PowerPoint e scegliere un template", "Progettare su carta o mentalmente la struttura", "Cercare immagini su Google"],
+    "corretta": "Progettare su carta o mentalmente la struttura"
+  },
+  {
+    "domanda": "Chi è il vero protagonista durante una presentazione?",
+    "risposte": ["Le slide", "Lo speaker (tu)", "Il proiettore"],
+    "corretta": "Lo speaker (tu)"
+  },
+  {
+    "domanda": "Cosa afferma il 'Paradosso della Lettura'?",
+    "risposte": ["Se scrivi tutto sulla slide, il pubblico leggerà invece di ascoltarti", "Più scrivi, più il pubblico capisce", "Bisogna leggere le slide ad alta voce per aiutare il pubblico"],
+    "corretta": "Se scrivi tutto sulla slide, il pubblico leggerà invece di ascoltarti"
+  },
+  {
+    "domanda": "Qual è la 'Regola Aurea' 6x6 per il testo?",
+    "risposte": ["Massimo 6 slide per presentazione, 6 minuti totali", "Massimo 6 righe per slide, massimo 6 parole per riga", "Usare 6 colori e 6 font diversi"],
+    "corretta": "Massimo 6 righe per slide, massimo 6 parole per riga"
+  },
+  {
+    "domanda": "Qual è la dimensione minima del font consigliata per la leggibilità?",
+    "risposte": ["12 pt", "18 pt", "24 pt"],
+    "corretta": "24 pt"
+  },
+  {
+    "domanda": "Perché si consiglia di usare Parole Chiave invece di frasi intere?",
+    "risposte": ["Per risparmiare inchiostro", "Perché la slide deve fissare il concetto mentre tu spieghi a voce", "Perché PowerPoint ha un limite di caratteri"],
+    "corretta": "Perché la slide deve fissare il concetto mentre tu spieghi a voce"
+  },
+  {
+    "domanda": "Cosa trasmettono i font 'Serif' (con grazie)?",
+    "risposte": ["Modernità e tecnologia", "Tradizione, eleganza e autorità", "Caos e disordine"],
+    "corretta": "Tradizione, eleganza e autorità"
+  },
+  {
+    "domanda": "Quale dei seguenti è un font 'Sans Serif' (bastoni)?",
+    "risposte": ["Times New Roman", "Arial", "Garamond"],
+    "corretta": "Arial"
+  },
+  {
+    "domanda": "Secondo la struttura narrativa, cosa deve contenere l'Inizio?",
+    "risposte": ["La soluzione tecnica", "La Call to Action", "La cattura dell'attenzione e il problema"],
+    "corretta": "La cattura dell'attenzione e il problema"
+  },
+  {
+    "domanda": "Qual è la differenza tra l'approccio Standard (Dati) e lo Storytelling?",
+    "risposte": ["I dati sono falsi, le storie sono vere", "I dati sono freddi, le storie creano una narrativa emotiva e comprensibile", "Non c'è differenza"],
+    "corretta": "I dati sono freddi, le storie creano una narrativa emotiva e comprensibile"
+  },
+  {
+    "domanda": "Cosa succede se una slide è troppo densa di testo (Carico Cognitivo)?",
+    "risposte": ["Il cervello non riesce a leggere e ascoltare contemporaneamente con attenzione", "Il pubblico impara più velocemente", "La presentazione diventa più professionale"],
+    "corretta": "Il cervello non riesce a leggere e ascoltare contemporaneamente con attenzione"
+  },
+  {
+    "domanda": "Se qualcuno ti chiede di mandargli le slide per leggerle e queste si capiscono perfettamente senza di te, cosa hai creato?",
+    "risposte": ["Una presentazione perfetta", "Un documento (Slide-ment), non una presentazione", "Un video"],
+    "corretta": "Un documento (Slide-ment), non una presentazione"
+  },
+  {
+    "domanda": "Qual è la dimensione ideale del font per essere ben visibile?",
+    "risposte": ["24 pt", "32 pt o superiore", "14 pt"],
+    "corretta": "32 pt o superiore"
+  },
+  {
+    "domanda": "Quanti font diversi dovresti usare al massimo in una presentazione?",
+    "risposte": ["Uno per ogni slide", "Massimo 2 (uno per titoli, uno per testo)", "Almeno 5 per variare"],
+    "corretta": "Massimo 2 (uno per titoli, uno per testo)"
+  },
+  {
+    "domanda": "I font 'Sans Serif' sono ideali per trasmettere:",
+    "risposte": ["Storia e antichità", "Pulizia, modernità e tecnologia", "Eleganza classica"],
+    "corretta": "Pulizia, modernità e tecnologia"
+  },
+  {
+    "domanda": "Cosa dice la regola 10/20/30 di Guy Kawasaki?",
+    "risposte": ["10 slide, 20 minuti, font minimo 30 pt", "10 minuti, 20 slide, 30 persone", "10 immagini, 20 parole, 30 secondi"],
+    "corretta": "10 slide, 20 minuti, font minimo 30 pt"
+  },
+  {
+    "domanda": "Perché è sconsigliato scrivere frasi lunghe come 'La nostra azienda è stata fondata nel...' sulle slide?",
+    "risposte": ["Perché è noioso e il pubblico legge più veloce di quanto tu parli", "Perché occupa poco spazio", "Perché è troppo informale"],
+    "corretta": "Perché è noioso e il pubblico legge più veloce di quanto tu parli"
+  },
+  {
+    "domanda": "Il 'Call to Action' (Invito all'azione) dove si posiziona solitamente?",
+    "risposte": ["All'inizio", "Nel corpo", "Alla fine"],
+    "corretta": "Alla fine"
+  },
+  {
+    "domanda": "Cosa significa che le persone ricorderanno 'come le hai fatte sentire'?",
+    "risposte": ["Che l'emozione è più persistente dei dati freddi", "Che devi alzare la temperatura della sala", "Che devi toccare il pubblico"],
+    "corretta": "Che l'emozione è più persistente dei dati freddi"
+  },
+  {
+    "domanda": "Un font leggibile da fondo sala evita:",
+    "risposte": ["L'uso del binocolo da parte del pubblico", "Che il pubblico si addormenti", "Che il proiettore si rompa"],
+    "corretta": "L'uso del binocolo da parte del pubblico"
+  },
+  {
+    "domanda": "Qual è lo scopo principale delle slide?",
+    "risposte": ["Sostituire il relatore", "Fare da supporto visivo al relatore", "Mostrare quanto sei bravo a usare PowerPoint"],
+    "corretta": "Fare da supporto visivo al relatore"
+  },
+  {
+    "domanda": "Nell'esempio 'Chi siamo', cosa è meglio scrivere al posto di un paragrafo intero?",
+    "risposte": ["Un elenco puntato sintetico (es. Fondata nel 1990)", "Nulla", "Il testo in piccolo"],
+    "corretta": "Un elenco puntato sintetico (es. Fondata nel 1990)"
+  },
+  {
+    "domanda": "I font 'Safe' (Sicuri) come Arial e Calibri sono preferibili perché:",
+    "risposte": ["Sono più belli", "Sono presenti su tutti i computer e non saltano l'impaginazione", "Costano meno"],
+    "corretta": "Sono presenti su tutti i computer e non saltano l'impaginazione"
+  },
+  {
+    "domanda": "Se usi un 'Custom Font' scaricato da internet, cosa devi fare per sicurezza?",
+    "risposte": ["Portarti il computer da casa o incorporare il font nel file", "Sperare che ci sia sul PC della sala", "Scriverlo a mano"],
+    "corretta": "Portarti il computer da casa o incorporare il font nel file"
+  },
+  {
+    "domanda": "La narrazione 'Luca, un nostro cliente...' è un esempio di:",
+    "risposte": ["Approccio basato sui Dati", "Approccio Storytelling", "Bugia"],
+    "corretta": "Approccio Storytelling"
+  },
+  {
+    "domanda": "Cosa limita il carico cognitivo del pubblico?",
+    "risposte": ["La capacità di elaborazione del cervello", "La luminosità dello schermo", "Il numero di sedie in sala"],
+    "corretta": "La capacità di elaborazione del cervello"
+  },
+  {
+    "domanda": "Qual è l'alternativa corretta a leggere le slide?",
+    "risposte": ["Guardare il pubblico e parlare a braccio (o usando note nascoste)", "Guardare il pavimento", "Guardare il soffitto"],
+    "corretta": "Guardare il pubblico e parlare a braccio (o usando note nascoste)"
+  },
+  {
+    "domanda": "Un titolo in 'Sans Serif' grassetto si abbina bene con:",
+    "risposte": ["Un corpo del testo in Serif leggibile o Sans Serif leggero", "Un titolo in Comic Sans", "Un testo in grassetto uguale"],
+    "corretta": "Un corpo del testo in Serif leggibile o Sans Serif leggero"
+  },
+  {
+    "domanda": "Cosa si intende per 'Slide fissano il concetto'?",
+    "risposte": ["Che le slide devono essere immobili", "Che la slide mostra la parola chiave che riassume il tuo discorso", "Che devi usare la colla"],
+    "corretta": "Che la slide mostra la parola chiave che riassume il tuo discorso"
+  },
+  {
+    "domanda": "La risoluzione narrativa serve a:",
+    "risposte": ["Concludere la storia e mostrare il risultato", "Introdurre il problema", "Annoiare il pubblico"],
+    "corretta": "Concludere la storia e mostrare il risultato"
+  }
+]

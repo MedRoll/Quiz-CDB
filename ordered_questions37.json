@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Dove cade per primo l'occhio umano su una slide?",
+    "risposte": ["In basso a destra", "Sugli elementi grandi, colorati e in alto a sinistra", "Al centro esatto"],
+    "corretta": "Sugli elementi grandi, colorati e in alto a sinistra"
+  },
+  {
+    "domanda": "Cos'è il 'White Space' (Spazio Bianco)?",
+    "risposte": ["Spazio sprecato da riempire", "Uno spazio attivo che aiuta a focalizzare l'attenzione e far respirare il contenuto", "Il colore dello sfondo"],
+    "corretta": "Uno spazio attivo che aiuta a focalizzare l'attenzione e far respirare il contenuto"
+  },
+  {
+    "domanda": "Perché bisogna evitare il testo appiccicato ai bordi (No Margini)?",
+    "risposte": ["Perché crea disordine e poca professionalità", "Perché costa di più stampare", "Perché PowerPoint non lo permette"],
+    "corretta": "Perché crea disordine e poca professionalità"
+  },
+  {
+    "domanda": "A cosa servono le Griglie e le Guide?",
+    "risposte": ["A giocare a battaglia navale", "Ad allineare perfettamente gli oggetti", "A disegnare tabelle"],
+    "corretta": "Ad allineare perfettamente gli oggetti"
+  },
+  {
+    "domanda": "Qual è la regola numero uno per la leggibilità dei colori?",
+    "risposte": ["Il Contrasto", "La Saturazione", "La Luminosità"],
+    "corretta": "Il Contrasto"
+  },
+  {
+    "domanda": "Cosa si intende per 'Dark Mode' nelle presentazioni?",
+    "risposte": ["Sfondo scuro, testo chiaro", "Presentare a luci spente", "Usare solo il nero"],
+    "corretta": "Sfondo scuro, testo chiaro"
+  },
+  {
+    "domanda": "Qual è l'errore cromatico grave citato come esempio di illeggibilità?",
+    "risposte": ["Testo Nero su Bianco", "Testo Rosso su Sfondo Blu", "Testo Giallo su Nero"],
+    "corretta": "Testo Rosso su Sfondo Blu"
+  },
+  {
+    "domanda": "Cosa significa 'Coerenza' (Consistency) nel design?",
+    "risposte": ["Cambiare stile ogni slide per divertire", "Mantenere lo stesso stile (colori, font) per tutta la presentazione", "Usare tutti i colori dell'arcobaleno"],
+    "corretta": "Mantenere lo stesso stile (colori, font) per tutta la presentazione"
+  },
+  {
+    "domanda": "Quanti colori dovresti avere al massimo nella tua palette?",
+    "risposte": ["3-4 colori (Dominante, Primario, Accento)", "Almeno 10", "Solo 1"],
+    "corretta": "3-4 colori (Dominante, Primario, Accento)"
+  },
+  {
+    "domanda": "Cosa trasmette il colore Blu?",
+    "risposte": ["Pericolo ed energia", "Fiducia, calma, professionalità", "Crescita e natura"],
+    "corretta": "Fiducia, calma, professionalità"
+  },
+  {
+    "domanda": "Cosa trasmette il colore Rosso?",
+    "risposte": ["Energia, urgenza, pericolo", "Lusso e potere", "Minimalismo"],
+    "corretta": "Energia, urgenza, pericolo"
+  },
+  {
+    "domanda": "Qual è la 'Regola della Qualità' per le immagini?",
+    "risposte": ["Mai usare immagini sgranate o pixelate", "Usare solo immagini in bianco e nero", "Usare immagini piccole"],
+    "corretta": "Mai usare immagini sgranate o pixelate"
+  },
+  {
+    "domanda": "Perché non dovresti usare la prima immagine trovata su Google?",
+    "risposte": ["Perché è brutta", "Perché potrebbe essere protetta da copyright o avere bassa qualità", "Perché Google si arrabbia"],
+    "corretta": "Perché potrebbe essere protetta da copyright o avere bassa qualità"
+  },
+  {
+    "domanda": "Quali siti sono consigliati per trovare immagini gratuite e legali?",
+    "risposte": ["Google Immagini", "Unsplash, Pexels, Pixabay", "Facebook"],
+    "corretta": "Unsplash, Pexels, Pixabay"
+  },
+  {
+    "domanda": "Perché usare le Icone al posto dei punti elenco?",
+    "risposte": ["Perché occupano meno spazio", "Perché il cervello associa l'immagine al concetto e lo memorizza meglio", "Perché sono colorate"],
+    "corretta": "Perché il cervello associa l'immagine al concetto e lo memorizza meglio"
+  },
+  {
+    "domanda": "Cosa dice la 'Regola dei Terzi'?",
+    "risposte": ["Posiziona i punti focali dove si incrociano le linee di una griglia 3x3 immaginaria", "Dividi la slide in 3 parti uguali di testo", "Usa 3 immagini per slide"],
+    "corretta": "Posiziona i punti focali dove si incrociano le linee di una griglia 3x3 immaginaria"
+  },
+  {
+    "domanda": "Cosa sono le immagini a 'Smarginatura' (Bleed)?",
+    "risposte": ["Immagini con un bordo bianco spesso", "Immagini che arrivano fino al bordo estremo della slide (a tutto schermo)", "Immagini trasparenti"],
+    "corretta": "Immagini che arrivano fino al bordo estremo della slide (a tutto schermo)"
+  },
+  {
+    "domanda": "Se hai un'immagine di sfondo caotica e il testo non si legge, cosa puoi fare?",
+    "risposte": ["Cancellare l'immagine", "Inserire una forma (es. rettangolo nero) semitrasparente sotto il testo", "Scrivere più piccolo"],
+    "corretta": "Inserire una forma (es. rettangolo nero) semitrasparente sotto il testo"
+  },
+  {
+    "domanda": "Il formato 16:9 è adatto per:",
+    "risposte": ["I vecchi televisori quadrati", "La maggior parte degli schermi moderni (Widescreen)", "La stampa su carta A4"],
+    "corretta": "La maggior parte degli schermi moderni (Widescreen)"
+  },
+  {
+    "domanda": "Cosa è un 'Mockup'?",
+    "risposte": ["Una cornice realistica (es. schermo PC o telefono) in cui inserire uno screenshot", "Un tipo di caffè", "Un errore di stampa"],
+    "corretta": "Una cornice realistica (es. schermo PC o telefono) in cui inserire uno screenshot"
+  },
+  {
+    "domanda": "Perché usare i Codici QR nelle slide?",
+    "risposte": ["Per decorazione", "Per permettere al pubblico di visitare un link velocemente col telefono", "Per riempire lo spazio vuoto"],
+    "corretta": "Per permettere al pubblico di visitare un link velocemente col telefono"
+  },
+  {
+    "domanda": "Le Infografiche servono a:",
+    "risposte": ["Visualizzare processi complessi in modo comprensibile", "Scrivere più testo", "Confondere il pubblico"],
+    "corretta": "Visualizzare processi complessi in modo comprensibile"
+  },
+  {
+    "domanda": "Il colore 'Colore Accento' serve per:",
+    "risposte": ["Lo sfondo", "Evidenziare dati importanti", "Scrivere tutto il testo"],
+    "corretta": "Evidenziare dati importanti"
+  },
+  {
+    "domanda": "Perché evitare immagini con filigrana (watermark) tipo 'Shutterstock'?",
+    "risposte": ["Perché trasmettono scarsa professionalità (fanno capire che non hai pagato l'immagine)", "Perché sono brutte", "Perché rallentano il PC"],
+    "corretta": "Perché trasmettono scarsa professionalità (fanno capire che non hai pagato l'immagine)"
+  },
+  {
+    "domanda": "Qual è il vantaggio della 'Light Mode' (sfondo bianco)?",
+    "risposte": ["È standard aziendale e ottimo per stanze molto illuminate", "Stanca meno la vista al buio", "Risparmia batteria"],
+    "corretta": "È standard aziendale e ottimo per stanze molto illuminate"
+  },
+  {
+    "domanda": "In una gerarchia visiva, il Titolo deve essere:",
+    "risposte": ["Più piccolo del testo", "Uguale al testo", "L'elemento più grande e visibile"],
+    "corretta": "L'elemento più grande e visibile"
+  },
+  {
+    "domanda": "Se un titolo è spostato di 2 pixel rispetto al testo sottostante:",
+    "risposte": ["Nessuno se ne accorge", "L'occhio lo nota e crea un senso di disturbo", "È artistico"],
+    "corretta": "L'occhio lo nota e crea un senso di disturbo"
+  },
+  {
+    "domanda": "Il Verde trasmette:",
+    "risposte": ["Pericolo", "Crescita, soldi, natura", "Lusso"],
+    "corretta": "Crescita, soldi, natura"
+  },
+  {
+    "domanda": "Cosa usare al posto di una tabella Excel piena di numeri?",
+    "risposte": ["Un grafico o estrarre solo il numero chiave", "Uno screenshot della tabella", "Un file PDF allegato"],
+    "corretta": "Un grafico o estrarre solo il numero chiave"
+  },
+  {
+    "domanda": "Le immagini 'vettoriali' e 'illustrazioni' si trovano su siti come:",
+    "risposte": ["Pixabay o Canva", "Solo su Google", "Non esistono"],
+    "corretta": "Pixabay o Canva"
+  }
+]

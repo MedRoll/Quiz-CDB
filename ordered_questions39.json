@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Le slide devono contenere tutto quello che dirai a voce.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La regola 6x6 suggerisce massimo 6 righe per slide e 6 parole per riga.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È consigliabile usare almeno 5 font diversi per rendere la presentazione vivace.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il bianco e nero sono considerati colori eleganti e minimalisti.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un'immagine sgranata (pixelata) è accettabile se vista da lontano.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le icone aiutano il cervello a memorizzare meglio i concetti rispetto ai pallini neri.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il pubblico può leggere una slide densa e ascoltarti attentamente nello stesso momento.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le transizioni tipo 'Origami' o 'Aereo' sono professionali e consigliate.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La 'Modalità Relatore' permette a te di vedere le note mentre il pubblico vede solo la slide.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Incorporare i font nel file aiuta a mantenere la formattazione su altri PC.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il formato PDF può essere modificato facilmente durante la presentazione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "PowerPoint ha uno strumento per rimuovere lo sfondo dalle immagini.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Dovresti sempre guardare lo schermo alle tue spalle mentre parli.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le immagini a 'Smarginatura' (Bleed) arrivano fino al bordo della slide.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il contrasto testo/sfondo è fondamentale per la leggibilità.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I grafici a torta sono ideali per confrontare molte categorie con dati simili.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Canva funziona perfettamente anche senza connessione internet per creare slide.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I font Serif (con grazie) trasmettono modernità e tecnologia.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Una pausa nel discorso può dare peso a una frase importante.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'occhio umano cade naturalmente prima in alto a sinistra.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il colore Giallo trasmette ottimismo e attenzione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È bene mettere il logo su ogni slide copiandolo e incollandolo manualmente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I QR Code nelle slide sono utili per condividere link complessi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il tasto B in presentazione fa diventare lo schermo Bianco.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le animazioni non servono a fare scena, ma a controllare il flusso delle informazioni.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il formato 4:3 (quadrato) è lo standard moderno per le presentazioni.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Unsplash è un sito consigliato per immagini di alta qualità gratis.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Dovresti leggere le tue note ad alta voce al pubblico.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il 'Mockup' serve a inserire uno screenshot in una cornice realistica.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La dimensione 12pt è leggibile per il pubblico in sala.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  }
+]

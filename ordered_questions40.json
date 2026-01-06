@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Shift + F5 avvia la presentazione dalla slide corrente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il font Arial è un esempio di font Serif (con grazie).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La regola di Guy Kawasaki è 10 slide, 20 minuti, 30 pt font.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le immagini con watermark 'Adobe Stock' dimostrano che hai comprato l'immagine.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il 'Carico Cognitivo' si riferisce al peso del file PowerPoint in megabyte.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "SmartArt è utile per creare infografiche e diagrammi di processo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Usare un rettangolo nero semitrasparente aiuta a leggere il testo su sfondi caotici.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le 'Guide' di PowerPoint servono per i tour guidati della presentazione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I video linkati da YouTube funzionano sempre, anche offline.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il colore Blu trasmette urgenza e pericolo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il 'Magic Resize' è una funzione esclusiva di PowerPoint.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La gerarchia visiva aiuta a guidare l'occhio del pubblico sugli elementi importanti.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I margini ampi danno una sensazione di eleganza e pulizia.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Times New Roman è un font Sans Serif (bastoni).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'animazione 'Uscita' (Rosso) serve a far apparire un oggetto.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Dovresti evitare di dire 'Ehhhm' o 'Mmh' durante le pause.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il formato 16:9 è più largo del 4:3.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'uso di tabelle Excel complesse nelle slide è consigliato per la completezza dei dati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La regola dei terzi prevede una griglia 3x3.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il 'Slide Master' controlla il layout di tutte le diapositive.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Canva offre foto e icone incluse gratuitamente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Testo rosso su sfondo blu è un esempio di alto contrasto leggibile.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il pubblico ricorda meglio le storie rispetto ai semplici elenchi di dati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Dovresti usare frasi complete invece di parole chiave per essere più chiaro.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'allineamento 'Distribuisci Orizzontalmente' serve per spaziare gli oggetti in modo uniforme.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il clicker ti permette di non stare vicino al computer.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Una slide piena di testo crea ansia nel pubblico.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il font 24pt è considerato il minimo accettabile.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La 'Call to Action' va messa all'inizio della presentazione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il file .PPTX è più sicuro del PDF se devi presentare su un PC sconosciuto.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  }
+]

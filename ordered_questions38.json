@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Quali transizioni bisogna EVITARE in contesto lavorativo?",
+    "risposte": ["Sfuma e Spinta", "Effetti 'Circo' come Origami, Aereo, Frantumazione", "Nessuna transizione"],
+    "corretta": "Effetti 'Circo' come Origami, Aereo, Frantumazione"
+  },
+  {
+    "domanda": "Quale transizione è definita 'Elegante e morbida'?",
+    "risposte": ["Sfuma (Fade)", "Vortice", "Scacchi"],
+    "corretta": "Sfuma (Fade)"
+  },
+  {
+    "domanda": "A cosa servono le Animazioni 'Entrata' per un elenco puntato?",
+    "risposte": ["A far ballare il testo", "A far apparire un punto alla volta per mantenere l'attenzione del pubblico su ciò che dici", "A rallentare la presentazione"],
+    "corretta": "A far apparire un punto alla volta per mantenere l'attenzione del pubblico su ciò che dici"
+  },
+  {
+    "domanda": "Qual è il vantaggio di incorporare (Embed) un video in PowerPoint?",
+    "risposte": ["Il file è leggero", "Funziona anche senza internet", "Si vede meglio"],
+    "corretta": "Funziona anche senza internet"
+  },
+  {
+    "domanda": "Qual è lo svantaggio di inserire un video tramite Link (YouTube)?",
+    "risposte": ["Il file diventa pesante", "Se manca il Wi-Fi il video non parte (disastro)", "Non si può fare"],
+    "corretta": "Se manca il Wi-Fi il video non parte (disastro)"
+  },
+  {
+    "domanda": "Cosa permette di fare la 'Modalità Relatore' (Presenter View)?",
+    "risposte": ["Vedere le note e la slide successiva sul tuo laptop mentre il pubblico vede solo la slide attuale", "Vedere il pubblico tramite webcam", "Registrare la voce"],
+    "corretta": "Vedere le note e la slide successiva sul tuo laptop mentre il pubblico vede solo la slide attuale"
+  },
+  {
+    "domanda": "Dove dovresti scrivere il tuo discorso completo?",
+    "risposte": ["Sulla slide", "Nelle 'Note' sotto la slide", "Sulla mano"],
+    "corretta": "Nelle 'Note' sotto la slide"
+  },
+  {
+    "domanda": "Qual è il rischio del formato .PPTX modificabile?",
+    "risposte": ["Non si può aprire", "Se aperto su un PC senza i tuoi font, l'impaginazione salta", "È troppo piccolo"],
+    "corretta": "Se aperto su un PC senza i tuoi font, l'impaginazione salta"
+  },
+  {
+    "domanda": "Quando è consigliato usare il formato PDF per le slide?",
+    "risposte": ["Quando devi inviarle via email o presentare da un PC non tuo (blocca tutto)", "Quando devi modificarle", "Mai"],
+    "corretta": "Quando devi inviarle via email o presentare da un PC non tuo (blocca tutto)"
+  },
+  {
+    "domanda": "Cos'è il 'Brand Kit' di Canva?",
+    "risposte": ["Un set di adesivi", "Una funzione per salvare colori, font e logo aziendali pronti all'uso", "Un tipo di abbonamento"],
+    "corretta": "Una funzione per salvare colori, font e logo aziendali pronti all'uso"
+  },
+  {
+    "domanda": "Cosa fa la funzione 'Magic Resize' di Canva?",
+    "risposte": ["Ingrandisce lo schermo", "Adatta automaticamente il design a formati diversi (es. da Slide a Post Instagram)", "Cancella il design"],
+    "corretta": "Adatta automaticamente il design a formati diversi (es. da Slide a Post Instagram)"
+  },
+  {
+    "domanda": "Quale tasto rapido avvia la presentazione dall'inizio in PowerPoint?",
+    "risposte": ["F5", "Esc", "Invio"],
+    "corretta": "F5"
+  },
+  {
+    "domanda": "Quale combinazione avvia la presentazione dalla slide CORRENTE?",
+    "risposte": ["F5", "Shift + F5", "Alt + F4"],
+    "corretta": "Shift + F5"
+  },
+  {
+    "domanda": "Se premi il tasto 'B' durante la presentazione, cosa succede?",
+    "risposte": ["Schermo Nero (Black) per far guardare te", "Schermo Bianco", "Torna indietro"],
+    "corretta": "Schermo Nero (Black) per far guardare te"
+  },
+  {
+    "domanda": "A cosa serve la 'Maschera Diapositiva' (Slide Master)?",
+    "risposte": ["A mettere una maschera alle immagini", "A inserire elementi (es. logo) su TUTTE le slide in un colpo solo", "A nascondere le slide"],
+    "corretta": "A inserire elementi (es. logo) su TUTTE le slide in un colpo solo"
+  },
+  {
+    "domanda": "Come si rimuove lo sfondo di un'immagine in PowerPoint?",
+    "risposte": ["Non si può", "Formato Immagine > Rimuovi Sfondo", "Usando la gomma"],
+    "corretta": "Formato Immagine > Rimuovi Sfondo"
+  },
+  {
+    "domanda": "Durante il Public Speaking, dove devi guardare?",
+    "risposte": ["Lo schermo alle tue spalle", "Il pubblico (contatto visivo)", "Le tue scarpe"],
+    "corretta": "Il pubblico (contatto visivo)"
+  },
+  {
+    "domanda": "A cosa serve un 'Clicker' (telecomando)?",
+    "risposte": ["A cambiare canale TV", "A muoverti liberamente sul palco senza stare incollato al PC", "A puntare laser negli occhi"],
+    "corretta": "A muoverti liberamente sul palco senza stare incollato al PC"
+  },
+  {
+    "domanda": "L'uso della Pausa nel discorso serve a:",
+    "risposte": ["Dare peso alle parole importanti", "Cercare cosa dire", "Bere acqua"],
+    "corretta": "Dare peso alle parole importanti"
+  },
+  {
+    "domanda": "Qual è uno svantaggio di Canva rispetto a PowerPoint?",
+    "risposte": ["È più lento", "Ha meno funzioni avanzate sui grafici dati (Excel)", "Non ha template"],
+    "corretta": "Ha meno funzioni avanzate sui grafici dati (Excel)"
+  },
+  {
+    "domanda": "Per distribuire le icone equidistanti orizzontalmente, quale comando usi?",
+    "risposte": ["Sposti a occhio", "Allinea > Distribuisci Orizzontalmente", "Tasto destro > Spazia"],
+    "corretta": "Allinea > Distribuisci Orizzontalmente"
+  },
+  {
+    "domanda": "Perché attivare il salvataggio automatico (Autosave)?",
+    "risposte": ["Per evitare di perdere il lavoro se il PC si blocca", "Per occupare memoria", "Perché è obbligatorio"],
+    "corretta": "Per evitare di perdere il lavoro se il PC si blocca"
+  },
+  {
+    "domanda": "Qual è la 'best practice' per il backup della presentazione?",
+    "risposte": ["Sperare che vada tutto bene", "Portarla su chiavetta USB e mandarsela via email", "Lasciarla solo sul desktop"],
+    "corretta": "Portarla su chiavetta USB e mandarsela via email"
+  },
+  {
+    "domanda": "Perché chiedere feedback a un collega prima della presentazione?",
+    "risposte": ["Per farti dire quanto sei bravo", "Per capire se ci sono passaggi poco chiari che diamo per scontati", "Per perdere tempo"],
+    "corretta": "Per capire se ci sono passaggi poco chiari che diamo per scontati"
+  },
+  {
+    "domanda": "Le animazioni di 'Enfasi' (Giallo) servono a:",
+    "risposte": ["Far entrare un oggetto", "Far cambiare colore o pulsare un oggetto già presente", "Far sparire un oggetto"],
+    "corretta": "Far cambiare colore o pulsare un oggetto già presente"
+  },
+  {
+    "domanda": "Se vuoi mostrare un processo temporale, quale transizione può essere utile?",
+    "risposte": ["Spinta (Push)", "Dissolvenza", "Nessuna"],
+    "corretta": "Spinta (Push)"
+  },
+  {
+    "domanda": "I 'Safe Fonts' sono importanti perché:",
+    "risposte": ["Sono gratuiti", "Garantiscono che la visualizzazione sia corretta su qualsiasi computer", "Sono più moderni"],
+    "corretta": "Garantiscono che la visualizzazione sia corretta su qualsiasi computer"
+  },
+  {
+    "domanda": "Cosa si intende per 'Embed'?",
+    "risposte": ["Incorporare un file dentro un altro", "Cancellare", "Linkare"],
+    "corretta": "Incorporare un file dentro un altro"
+  },
+  {
+    "domanda": "Il tasto 'W' durante la presentazione:",
+    "risposte": ["Apre Word", "Mostra lo schermo Bianco (White)", "Chiude tutto"],
+    "corretta": "Mostra lo schermo Bianco (White)"
+  },
+  {
+    "domanda": "Qual è l'obiettivo dell'esercizio 'Vacanza Ideale'?",
+    "risposte": ["Prenotare un viaggio", "Applicare le regole di design, testo e animazione in 5 slide", "Scrivere un saggio"],
+    "corretta": "Applicare le regole di design, testo e animazione in 5 slide"
+  }
+]
