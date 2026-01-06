@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "In Google Docs devi premere il pulsante 'Salva' ogni volta che fai una modifica.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il 'Testo Liquido' significa che il testo scorre automaticamente alla riga successiva senza dover premere Invio.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Fare doppio clic su una parola la seleziona interamente senza includere lo spazio successivo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I font 'Sans Serif' (come Arial) hanno i piedini alle estremità delle lettere.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "È buona norma usare almeno 5 o 6 font diversi in un documento professionale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'evidenziatore (colore sfondo testo) viene rimosso automaticamente quando stampi il documento.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Facendo doppio clic sull'icona 'Copia Formato' (Pennello), puoi applicare la formattazione a più elementi consecutivamente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il simbolo Pilcrow (¶) viene stampato su carta insieme al testo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Per separare i paragrafi è corretto premere due volte il tasto Invio.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Se cancelli il punto numero 2 in un elenco numerato, Word rinumera automaticamente il 3 in 2.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Premere SHIFT+TAB in un elenco puntato serve a tornare al livello superiore (sposta a sinistra).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le tabulazioni permettono di allineare il testo in colonne senza usare le tabelle.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I margini 'Stretti' impostano solitamente 2.5 cm di spazio per lato.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Inserire un'Interruzione di Pagina è meglio che premere tanti Invio per andare a pagina nuova.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il Frontespizio viene numerato automaticamente come 'Pagina 1'.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La Filigrana (Watermark) serve a inserire una scritta fantasma sullo sfondo (es. BOZZA).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Quando inserisci un'immagine, di default questa è 'In linea con il testo' (si comporta come una lettera gigante).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Ritagliare un'immagine (Crop) in Word richiede per forza un software esterno come Photoshop.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Gli SmartArt servono a trasformare elenchi puntati in diagrammi grafici.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I numeri di pagina devono essere scritti a mano su ogni pagina per essere corretti.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Per creare un Sommario automatico, devi aver applicato gli Stili (Titolo 1, Titolo 2) ai tuoi titoli.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La Stampa Unione permette di creare lettere personalizzate prendendo i dati da Excel.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Una sottolineatura blu sotto una parola indica un errore di ortografia.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I commenti inseriti nel documento 'sporcano' il testo e vengono stampati di default nella versione finale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La funzione 'Traccia Modifiche' applica subito le correzioni in modo definitivo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Word può aprire i file PDF e convertirli in testo modificabile.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il comando 'Salva con Nome' sovrascrive il file originale con le nuove modifiche.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La scorciatoia CTRL+Z serve per Annullare l'ultima azione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È consigliabile usare sempre i lati (non gli angoli) per ridimensionare una foto.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Premere CTRL+Home ti porta all'inizio del documento.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  }
+]

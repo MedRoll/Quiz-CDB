@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Vuoi selezionare un intero paragrafo velocemente con il mouse. Quale azione esegui?",
+    "risposte": ["Doppio clic su una parola", "Triplo clic all'interno del paragrafo", "Clic singolo nel margine destro"],
+    "corretta": "Triplo clic all'interno del paragrafo"
+  },
+  {
+    "domanda": "A cosa serve principalmente il Righello in Word?",
+    "risposte": ["Solo a misurare la lunghezza del foglio", "A vedere e gestire margini, rientri e tabulazioni", "A disegnare linee rette sul foglio"],
+    "corretta": "A vedere e gestire margini, rientri e tabulazioni"
+  },
+  {
+    "domanda": "Se aumenti lo Zoom al 140% mentre lavori, cosa succede alla stampa finale?",
+    "risposte": ["Il testo verrà stampato più grande", "La stampa sarà sgranata", "Nulla, lo zoom cambia solo la visualizzazione a monitor"],
+    "corretta": "Nulla, lo zoom cambia solo la visualizzazione a monitor"
+  },
+  {
+    "domanda": "Devi applicare il grassetto a tre parole diverse sparse nel testo. Come le selezioni tutte insieme?",
+    "risposte": ["Selezioni la prima, tieni premuto CTRL (o CMD) e selezioni le altre", "Selezioni la prima, tieni premuto SHIFT e selezioni le altre", "Devi farlo una alla volta, non si può fare selezione multipla"],
+    "corretta": "Selezioni la prima, tieni premuto CTRL (o CMD) e selezioni le altre"
+  },
+  {
+    "domanda": "Secondo le regole di abbinamento font, quale tipo di carattere è consigliato per i Titoli per avere impatto?",
+    "risposte": ["Serif (con grazie, es. Garamond)", "Sans Serif (bastoni, es. Arial)", "Script (corsivo a mano)"],
+    "corretta": "Sans Serif (bastoni, es. Arial)"
+  },
+  {
+    "domanda": "Perché si sconsiglia di usare la sottolineatura per dare enfasi in un documento digitale?",
+    "risposte": ["Perché consuma troppo inchiostro", "Perché il lettore potrebbe confonderla con un link cliccabile", "Perché non è professionale"],
+    "corretta": "Perché il lettore potrebbe confonderla con un link cliccabile"
+  },
+  {
+    "domanda": "Hai incollato un testo dal web ed è pieno di formattazioni strane. Quale strumento usi per pulirlo rapidamente?",
+    "risposte": ["Lo strumento 'Gomma' (Cancella formattazione)", "Il tasto Canc sulla tastiera", "Cambi il colore del font in nero"],
+    "corretta": "Lo strumento 'Gomma' (Cancella formattazione)"
+  },
+  {
+    "domanda": "Qual è il modo corretto per aggiungere spazio tra due paragrafi?",
+    "risposte": ["Premere due volte il tasto Invio", "Usare l'opzione 'Spaziatura Dopo' nelle impostazioni paragrafo", "Inserire una riga vuota con la barra spaziatrice"],
+    "corretta": "Usare l'opzione 'Spaziatura Dopo' nelle impostazioni paragrafo"
+  },
+  {
+    "domanda": "Vuoi copiare lo stile (colore, font, grandezza) di un titolo su un altro testo. Cosa usi?",
+    "risposte": ["Copia e Incolla", "Copia Formato (Pennello)", "Lo strumento Evidenziatore"],
+    "corretta": "Copia Formato (Pennello)"
+  },
+  {
+    "domanda": "Stai scrivendo un elenco puntato e vuoi creare un sotto-livello (es. da 1. a 1.a). Quale tasto premi?",
+    "risposte": ["TAB", "Invio", "Barra Spaziatrice"],
+    "corretta": "TAB"
+  },
+  {
+    "domanda": "A cosa serve il Rientro Sporgente (Hanging Indent)?",
+    "risposte": ["A far rientrare la prima riga e lasciare le altre a sinistra", "A mantenere la prima riga a sinistra e far rientrare tutte le successive", "A centrare tutto il testo"],
+    "corretta": "A mantenere la prima riga a sinistra e far rientrare tutte le successive"
+  },
+  {
+    "domanda": "Vuoi allineare i prezzi di un menu perfettamente a destra con dei puntini di riempimento. Cosa usi?",
+    "risposte": ["Premo tanti punti finché non arrivo a destra", "Uso una tabella con bordi visibili", "Imposto una Tabulazione con riempimento"],
+    "corretta": "Imposto una Tabulazione con riempimento"
+  },
+  {
+    "domanda": "Devi stampare un documento fronte-retro e vuoi lasciare spazio per la rilegatura. Quale margine imposti?",
+    "risposte": ["Margini Stretti", "Margini Speculari", "Margini Larghi"],
+    "corretta": "Margini Speculari"
+  },
+  {
+    "domanda": "Vuoi che il prossimo capitolo inizi tassativamente a pagina nuova. Cosa inserisci?",
+    "risposte": ["Tanti 'Invio' finché non vado alla pagina dopo", "Un'Interruzione di Pagina (CTRL+Invio)", "Una linea orizzontale"],
+    "corretta": "Un'Interruzione di Pagina (CTRL+Invio)"
+  },
+  {
+    "domanda": "Hai bisogno di una singola pagina in orizzontale in un documento verticale. Cosa devi usare?",
+    "risposte": ["Non si può fare", "Un'Interruzione di Sezione", "Ruota schermo"],
+    "corretta": "Un'Interruzione di Sezione"
+  },
+  {
+    "domanda": "Per ridimensionare un'immagine senza deformarla, quale parte devi trascinare?",
+    "risposte": ["Uno dei lati verticali", "Uno dei lati orizzontali", "Uno dei quattro angoli"],
+    "corretta": "Uno dei quattro angoli"
+  },
+  {
+    "domanda": "Vuoi che il testo scorra intorno a un logo circolare seguendone la forma. Quale opzione di 'Testo a capo' scegli?",
+    "risposte": ["In linea con il testo", "Ravvicinato", "Dietro al testo"],
+    "corretta": "Ravvicinato"
+  },
+  {
+    "domanda": "Sei nell'ultima cella di una tabella e vuoi aggiungere una nuova riga vuota. Cosa premi?",
+    "risposte": ["Tasto destro > Aggiungi", "Invio", "Il tasto TAB"],
+    "corretta": "Il tasto TAB"
+  },
+  {
+    "domanda": "Vuoi allineare testo e immagini usando una tabella, ma non vuoi che si veda la griglia in stampa. Cosa fai?",
+    "risposte": ["Imposti il colore dei bordi su Bianco", "Imposti 'Nessun Bordo' nelle proprietà tabella", "Cancelli la tabella"],
+    "corretta": "Imposti 'Nessun Bordo' nelle proprietà tabella"
+  },
+  {
+    "domanda": "Qual è il vantaggio principale dell'uso degli 'Stili' (es. Titolo 1, Titolo 2)?",
+    "risposte": ["Fanno solo diventare il testo blu", "Permettono di creare il Sommario automatico e garantire coerenza", "Aumentano la dimensione del file"],
+    "corretta": "Permettono di creare il Sommario automatico e garantire coerenza"
+  },
+  {
+    "domanda": "Hai modificato i titoli del documento. Il Sommario automatico si aggiorna da solo?",
+    "risposte": ["Sì, istantaneamente", "No, devi cliccarci sopra e scegliere 'Aggiorna campo'", "Sì, ma solo se salvi il file"],
+    "corretta": "No, devi cliccarci sopra e scegliere 'Aggiorna campo'"
+  },
+  {
+    "domanda": "Word sottolinea una parola in rosso. Cosa significa?",
+    "risposte": ["Errore grammaticale o di sintassi", "Errore di ortografia o parola non nel dizionario", "La parola è troppo lunga"],
+    "corretta": "Errore di ortografia o parola non nel dizionario"
+  },
+  {
+    "domanda": "Stai usando troppe volte la parola 'importante'. Quale scorciatoia usi per trovare sinonimi?",
+    "risposte": ["CTRL + S", "SHIFT + F7", "F1"],
+    "corretta": "SHIFT + F7"
+  },
+  {
+    "domanda": "Attivi 'Revisioni' (Track Changes). Cosa succede quando cancelli una frase?",
+    "risposte": ["La frase sparisce immediatamente", "La frase rimane visibile ma barrata e colorata", "Ti viene chiesto un motivo per la cancellazione"],
+    "corretta": "La frase rimane visibile ma barrata e colorata"
+  },
+  {
+    "domanda": "Vuoi recuperare una versione del documento di ieri pomeriggio su OneDrive. Dove vai?",
+    "risposte": ["File > Cronologia versioni", "Non si può recuperare", "Premi CTRL+Z tante volte"],
+    "corretta": "File > Cronologia versioni"
+  },
+  {
+    "domanda": "Qual è il tasto rapido per 'Salva con Nome' (creare una nuova copia)?",
+    "risposte": ["CTRL + S", "F12", "ALT + F4"],
+    "corretta": "F12"
+  },
+  {
+    "domanda": "Non hai un programma per creare PDF. Come trasformi il tuo file Word in PDF?",
+    "risposte": ["Fai uno screenshot", "Rinomini il file scrivendo .pdf alla fine", "Usi File > Salva come PDF o Stampa su 'Microsoft Print to PDF'"],
+    "corretta": "Usi File > Salva come PDF o Stampa su 'Microsoft Print to PDF'"
+  },
+  {
+    "domanda": "A cosa serve la scorciatoia Windows + V?",
+    "risposte": ["A incollare solo l'ultima cosa copiata", "Ad aprire la Cronologia degli Appunti (ultimi elementi copiati)", "A chiudere Word"],
+    "corretta": "Ad aprire la Cronologia degli Appunti (ultimi elementi copiati)"
+  },
+  {
+    "domanda": "Vuoi sostituire la parola 'Rossi' con 'Bianchi' in tutto il documento di 50 pagine. Cosa usi?",
+    "risposte": ["Leggi tutto e correggi a mano", "Trova e Sostituisci (CTRL+H)", "Il controllo ortografico"],
+    "corretta": "Trova e Sostituisci (CTRL+H)"
+  },
+  {
+    "domanda": "Qual è la differenza tra Cursore e Puntatore?",
+    "risposte": ["Sono la stessa cosa", "Il Cursore lampeggia e scrive, il Puntatore (mouse) serve a spostare il cursore", "Il Puntatore scrive, il Cursore serve a cliccare"],
+    "corretta": "Il Cursore lampeggia e scrive, il Puntatore (mouse) serve a spostare il cursore"
+  }
+]
