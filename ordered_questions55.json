@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Su smartphone i file sono solitamente nascosti all'interno delle App.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I file .APK sono il formato standard per installare app su iPhone.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Scaricare app dal Play Store è più sicuro che da siti web esterni.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Gli aggiornamenti software servono solo a migliorare la grafica.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Un'app Torcia ha legittimamente bisogno di accedere ai tuoi Contatti.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "È possibile revocare i permessi (es. microfono) a un'app dopo averla installata.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La luminosità dello schermo incide molto sul consumo della batteria.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Chiudere tutte le app in background fa durare la batteria molto di più.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'Hotspot trasforma il telefono in un modem Wi-Fi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il Cloud permette di recuperare i dati se perdi il telefono.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Installare APK da fonti sconosciute espone a rischi di virus.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Google Maps funziona bene anche senza il permesso di Posizione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Un telefono non aggiornato è vulnerabile agli hacker.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I 'Bloatware' sono app utili che non dovresti mai cancellare.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'opzione 'Solo mentre usi l'app' protegge la tua privacy.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Tethering e Hotspot sono funzioni completamente diverse.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le patch di sicurezza chiudono i buchi nel software.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Disinstallare le app che non usi libera spazio e migliora la sicurezza.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'App Store è il negozio ufficiale di Android.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "È impossibile prendere virus su uno smartphone.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi usare lo smartphone come modem per il PC.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Su iPhone si usa un File Manager per trovare i download.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I permessi delle app servono a proteggere i tuoi dati personali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se un gioco di puzzle chiede il microfono, dovresti accettare.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'Hotspot consuma pochi dati e poca batteria.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il Sideloading è il metodo consigliato per installare app sicure.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le app possono usare l'hardware del telefono come il GPS.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Per navigare tra i file su Android si usa l'app 'Files'.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Lasciare il Bluetooth sempre acceso risparmia batteria.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Bisogna scaricare app solo dagli store ufficiali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  }
+]

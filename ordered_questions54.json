@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "L'AI Generativa si limita a copiare e incollare frasi esistenti.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le 'Allucinazioni' sono risposte inventate dall'AI ma presentate come fatti certi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Bisogna sempre verificare le informazioni fornite dall'AI.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È sicuro inserire password o dati sanitari nelle chat dell'AI.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il Prompt è la risposta che l'AI ti dà.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La frase 'Agisci come un esperto' serve a definire il Ruolo nel prompt.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'AI ha una comprensione della verità assoluta.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Copilot di Microsoft utilizza la tecnologia GPT-4.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Gemini è l'AI sviluppata da Apple.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'AI Generativa può creare immagini, poesie e codice.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un 'Pappagallo Istruito' è una metafora per spiegare come funzionano gli LLM.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'AI non ha pregiudizi (bias) perché è una macchina.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il principio 'Garbage In, Garbage Out' significa che un prompt scarso dà un risultato scarso.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Iterare con l'AI significa ripeterle la stessa domanda identica più volte.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'AI può aiutarti a scrivere formule di Excel.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Non serve dare contesto all'AI, capisce tutto da sola.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi chiedere all'AI di cambiare il tono di una mail (es. da aggressivo a gentile).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'AI ragiona esattamente come un cervello umano.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I dati usati per addestrare l'AI possono contenere stereotipi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "ChatGPT Free è sempre aggiornato in tempo reale su tutte le notizie.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'AI Generativa analizza solo dati esistenti per classificarli (come un filtro spam).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Google Search fornisce una lista di link, mentre l'AI elabora una risposta.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Dare un esempio all'AI nel prompt la aiuta a capire lo stile desiderato.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'AI è inutile per il brainstorming o il blocco dello scrittore.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi chiedere all'AI di riassumere un testo complesso in parole semplici.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'AI Generativa calcola la parola successiva basandosi sulla probabilità.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le allucinazioni avvengono solo se l'AI è rotta.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I revisori umani potrebbero leggere le tue conversazioni con l'AI.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'AI può tradurre un testo spiegando anche le sfumature culturali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un prompt generico come 'Scrivi una mail' produce solitamente risultati eccellenti.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  }
+]

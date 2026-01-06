@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Qual è la differenza filosofica tra PC e Smartphone?",
+    "risposte": ["Il PC è basato su File visibili, lo Smartphone su App (file nascosti)", "Il PC è touch, lo smartphone no", "Nessuna differenza"],
+    "corretta": "Il PC è basato su File visibili, lo Smartphone su App (file nascosti)"
+  },
+  {
+    "domanda": "Dove trovi i file scaricati (PDF, download) su Android?",
+    "risposte": ["Sulla scrivania", "Nell'App 'Files' o 'Archivio'", "Non si trovano"],
+    "corretta": "Nell'App 'Files' o 'Archivio'"
+  },
+  {
+    "domanda": "Perché usiamo le App invece del browser sul cellulare?",
+    "risposte": ["Perché sono più colorate", "Perché possono sfruttare l'hardware (GPS, Camera, Notifiche)", "Perché occupano meno spazio"],
+    "corretta": "Perché possono sfruttare l'hardware (GPS, Camera, Notifiche)"
+  },
+  {
+    "domanda": "Qual è la Regola N.1 della sicurezza mobile?",
+    "risposte": ["Non usare il telefono", "Scaricare App SOLO dagli store ufficiali (Play Store, App Store)", "Avere due telefoni"],
+    "corretta": "Scaricare App SOLO dagli store ufficiali (Play Store, App Store)"
+  },
+  {
+    "domanda": "Cosa sono i file .APK su Android?",
+    "risposte": ["File di testo", "Pacchetti di installazione app scaricati fuori dallo store (Sideloading)", "Virus sicuri"],
+    "corretta": "Pacchetti di installazione app scaricati fuori dallo store (Sideloading)"
+  },
+  {
+    "domanda": "Perché è pericoloso installare APK da siti web?",
+    "risposte": ["Nessuno controlla se contengono virus o spyware", "Occupano troppa memoria", "Non funzionano mai"],
+    "corretta": "Nessuno controlla se contengono virus o spyware"
+  },
+  {
+    "domanda": "A cosa servono gli aggiornamenti delle App e del Sistema?",
+    "risposte": ["Solo a cambiare le icone", "Alle Patch di Sicurezza che chiudono i buchi per gli hacker", "A rallentare il telefono"],
+    "corretta": "Alle Patch di Sicurezza che chiudono i buchi per gli hacker"
+  },
+  {
+    "domanda": "Chi è il 'portiere' della sicurezza del tuo telefono?",
+    "risposte": ["Google", "Tu, gestendo i permessi delle app", "La batteria"],
+    "corretta": "Tu, gestendo i permessi delle app"
+  },
+  {
+    "domanda": "Se un'app 'Torcia' ti chiede l'accesso alla Rubrica, cosa fai?",
+    "risposte": ["Accetti", "Rifiuti, è sospetto (non le serve)", "Disinstalli il telefono"],
+    "corretta": "Rifiuti, è sospetto (non le serve)"
+  },
+  {
+    "domanda": "Un'app come Google Maps ha legittimamente bisogno di:",
+    "risposte": ["Posizione GPS", "Microfono", "Rubrica"],
+    "corretta": "Posizione GPS"
+  },
+  {
+    "domanda": "Instagram ha legittimamente bisogno di:",
+    "risposte": ["Fotocamera", "GPS sempre attivo", "Dati bancari"],
+    "corretta": "Fotocamera"
+  },
+  {
+    "domanda": "È possibile revocare un permesso dato a un'app?",
+    "risposte": ["Sì, dalle Impostazioni > Privacy", "No, è per sempre", "Solo formattando"],
+    "corretta": "Sì, dalle Impostazioni > Privacy"
+  },
+  {
+    "domanda": "Qual è l'impostazione privacy consigliata per la Posizione?",
+    "risposte": ["Sempre consentita", "Mai", "Solo mentre usi l'app"],
+    "corretta": "Solo mentre usi l'app"
+  },
+  {
+    "domanda": "Cosa sono i 'Bloatware'?",
+    "risposte": ["App inutili preinstallate nel telefono", "Accessori per il telefono", "Virus"],
+    "corretta": "App inutili preinstallate nel telefono"
+  },
+  {
+    "domanda": "Cosa consuma più batteria in assoluto?",
+    "risposte": ["Il Wi-Fi", "Lo Schermo (Luminosità)", "La vibrazione"],
+    "corretta": "Lo Schermo (Luminosità)"
+  },
+  {
+    "domanda": "Chiudere compulsivamente le app in background serve a risparmiare batteria?",
+    "risposte": ["Sì, moltissimo", "No, spesso peggiora i consumi perché il sistema deve ricaricarle da zero", "È indifferente"],
+    "corretta": "No, spesso peggiora i consumi perché il sistema deve ricaricarle da zero"
+  },
+  {
+    "domanda": "Qual è il vantaggio del Cloud sul Mobile?",
+    "risposte": ["Se perdi il telefono non perdi i dati (se sincronizzati)", "Il telefono diventa più leggero", "Non serve la password"],
+    "corretta": "Se perdi il telefono non perdi i dati (se sincronizzati)"
+  },
+  {
+    "domanda": "Cosa è l'Hotspot (o Tethering)?",
+    "risposte": ["Un punto caldo", "La funzione che trasforma il telefono in un modem Wi-Fi per altri dispositivi", "Un'app di cucina"],
+    "corretta": "La funzione che trasforma il telefono in un modem Wi-Fi per altri dispositivi"
+  },
+  {
+    "domanda": "Qual è lo svantaggio dell'uso dell'Hotspot?",
+    "risposte": ["Nessuno", "Consuma molti Giga e molta batteria", "Rompe il Wi-Fi"],
+    "corretta": "Consuma molti Giga e molta batteria"
+  },
+  {
+    "domanda": "Dove controlli se i tuoi dati sono sincronizzati?",
+    "risposte": ["Impostazioni > Account (Google/iCloud)", "Nella galleria", "Su WhatsApp"],
+    "corretta": "Impostazioni > Account (Google/iCloud)"
+  },
+  {
+    "domanda": "Come si chiama l'App per gestire i file su iPhone?",
+    "risposte": ["File", "Finder", "Esplora Risorse"],
+    "corretta": "File"
+  },
+  {
+    "domanda": "Perché un telefono non aggiornato è come 'una casa con la porta aperta'?",
+    "risposte": ["Perché ha i buchi di sicurezza noti agli hacker non corretti", "Perché entra polvere", "Perché è vecchio"],
+    "corretta": "Perché ha i buchi di sicurezza noti agli hacker non corretti"
+  },
+  {
+    "domanda": "Se un gioco di Puzzle chiede l'accesso al Microfono:",
+    "risposte": ["È normale", "È sospetto, meglio negarlo", "Serve per la musica"],
+    "corretta": "È sospetto, meglio negarlo"
+  },
+  {
+    "domanda": "Il risparmio energetico agisce su:",
+    "risposte": ["Prestazioni e luminosità schermo", "Volume suoneria", "Spazio memoria"],
+    "corretta": "Prestazioni e luminosità schermo"
+  },
+  {
+    "domanda": "Lo Store ufficiale di Android è:",
+    "risposte": ["App Store", "Google Play Store", "Amazon"],
+    "corretta": "Google Play Store"
+  },
+  {
+    "domanda": "Lo Store ufficiale di Apple è:",
+    "risposte": ["App Store", "Play Store", "iTunes"],
+    "corretta": "App Store"
+  },
+  {
+    "domanda": "Cosa significa 'Sideloading'?",
+    "risposte": ["Installare app da fonti esterne allo store ufficiale", "Caricare il telefono di lato", "Scaricare musica"],
+    "corretta": "Installare app da fonti esterne allo store ufficiale"
+  },
+  {
+    "domanda": "Per navigare tra i file su smartphone serve:",
+    "risposte": ["Un File Manager", "Un browser", "Una mappa"],
+    "corretta": "Un File Manager"
+  },
+  {
+    "domanda": "L'interazione principale su smartphone è:",
+    "risposte": ["Mouse e tastiera", "Touch e Sensori", "Vocale"],
+    "corretta": "Touch e Sensori"
+  },
+  {
+    "domanda": "Disinstallare le app inutili (Bloatware) aiuta a:",
+    "risposte": ["Risparmiare batteria, dati e proteggere la privacy", "Rendere il telefono più bello", "Avere più icone"],
+    "corretta": "Risparmiare batteria, dati e proteggere la privacy"
+  }
+]

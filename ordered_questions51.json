@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Cosa significa 'AI Generativa'?",
+    "risposte": ["Un'intelligenza artificiale che analizza solo dati esistenti", "Un'intelligenza artificiale in grado di creare nuovi contenuti (testo, immagini, codice)", "Un robot fisico che pulisce casa"],
+    "corretta": "Un'intelligenza artificiale in grado di creare nuovi contenuti (testo, immagini, codice)"
+  },
+  {
+    "domanda": "Su quale tecnologia si basano ChatGPT e Gemini?",
+    "risposte": ["LLM (Large Language Models)", "GPS", "Database Excel"],
+    "corretta": "LLM (Large Language Models)"
+  },
+  {
+    "domanda": "Qual è la differenza principale tra AI Classica e AI Generativa?",
+    "risposte": ["L'AI Classica crea, la Generativa analizza", "L'AI Classica classifica dati esistenti (es. filtro spam), la Generativa ne crea di nuovi", "Non c'è differenza"],
+    "corretta": "L'AI Classica classifica dati esistenti (es. filtro spam), la Generativa ne crea di nuovi"
+  },
+  {
+    "domanda": "La metafora del 'Pappagallo Istruito' serve a spiegare che:",
+    "risposte": ["L'AI capisce profondamente quello che dice", "L'AI non pensa, ma calcola quale parola è più probabile che segua", "L'AI ripete solo le stesse frasi"],
+    "corretta": "L'AI non pensa, ma calcola quale parola è più probabile che segua"
+  },
+  {
+    "domanda": "Come sceglie l'AI la parola successiva in una frase?",
+    "risposte": ["In base alla probabilità statistica", "Tira a indovinare", "Chiede a un umano"],
+    "corretta": "In base alla probabilità statistica"
+  },
+  {
+    "domanda": "Quali sono i 'Tre Grandi' strumenti di AI citati?",
+    "risposte": ["Facebook, Instagram, TikTok", "ChatGPT, Gemini, Copilot", "Word, Excel, PowerPoint"],
+    "corretta": "ChatGPT, Gemini, Copilot"
+  },
+  {
+    "domanda": "Qual è un punto di forza di ChatGPT?",
+    "risposte": ["La generazione di mappe stradali", "L'eccellenza nella scrittura creativa e ragionamento logico", "L'integrazione con Windows"],
+    "corretta": "L'eccellenza nella scrittura creativa e ragionamento logico"
+  },
+  {
+    "domanda": "Gemini (Google) era precedentemente noto come:",
+    "risposte": ["Bard", "Bing", "Cortana"],
+    "corretta": "Bard"
+  },
+  {
+    "domanda": "Qual è il vantaggio principale di Microsoft Copilot?",
+    "risposte": ["È integrato in Windows/Office e usa GPT-4 gratuitamente", "Funziona solo offline", "È un social network"],
+    "corretta": "È integrato in Windows/Office e usa GPT-4 gratuitamente"
+  },
+  {
+    "domanda": "Qual è la differenza tra Google Search e l'AI Generativa?",
+    "risposte": ["Google dà una lista di link, l'AI elabora una risposta sintetica", "Google inventa risposte, l'AI cerca link", "Sono identici"],
+    "corretta": "Google dà una lista di link, l'AI elabora una risposta sintetica"
+  },
+  {
+    "domanda": "L'AI possiede il concetto di 'Verità'?",
+    "risposte": ["Sì, dice sempre la verità", "No, ha solo il concetto di 'Verosimiglianza' (ciò che sembra vero)", "Sì, ma solo la versione a pagamento"],
+    "corretta": "No, ha solo il concetto di 'Verosimiglianza' (ciò che sembra vero)"
+  },
+  {
+    "domanda": "Cosa sono le 'Allucinazioni' dell'AI?",
+    "risposte": ["Quando l'AI vede fantasmi", "Quando l'AI inventa fatti o risposte con tono sicuro perché non sa la risposta reale", "Quando lo schermo lampeggia"],
+    "corretta": "Quando l'AI inventa fatti o risposte con tono sicuro perché non sa la risposta reale"
+  },
+  {
+    "domanda": "Se chiedi all'AI chi era il sindaco di una città inventata (es. Paperopoli), cosa potrebbe fare?",
+    "risposte": ["Dire 'Non esiste'", "Inventare un nome verosimile basandosi su fumetti o dati misti", "Spegnere il computer"],
+    "corretta": "Inventare un nome verosimile basandosi su fumetti o dati misti"
+  },
+  {
+    "domanda": "Cosa sono i 'Bias' nell'AI?",
+    "risposte": ["Errori di connessione", "Pregiudizi e stereotipi umani che l'AI ha imparato leggendo internet", "Virus informatici"],
+    "corretta": "Pregiudizi e stereotipi umani che l'AI ha imparato leggendo internet"
+  },
+  {
+    "domanda": "Quale regola di privacy bisogna seguire con l'AI?",
+    "risposte": ["Non inserire mai dati sensibili, password o segreti aziendali", "Scrivere sempre il proprio indirizzo di casa", "Condividere le password per sicurezza"],
+    "corretta": "Non inserire mai dati sensibili, password o segreti aziendali"
+  },
+  {
+    "domanda": "Chi può vedere potenzialmente le tue chat con l'AI?",
+    "risposte": ["Nessuno, sono criptate per sempre", "Revisori umani per l'addestramento del modello", "Tutti gli utenti di internet"],
+    "corretta": "Revisori umani per l'addestramento del modello"
+  },
+  {
+    "domanda": "Qual è il ruolo dell'umano quando usa l'AI?",
+    "risposte": ["Spettatore passivo", "Pilota e responsabile della verifica dei fatti", "Schiavo della macchina"],
+    "corretta": "Pilota e responsabile della verifica dei fatti"
+  },
+  {
+    "domanda": "L'AI Classica (Analitica) è usata per:",
+    "risposte": ["Scrivere romanzi", "Riconoscimento facciale e filtri spam", "Creare immagini artistiche"],
+    "corretta": "Riconoscimento facciale e filtri spam"
+  },
+  {
+    "domanda": "Gemini di Google è integrato con:",
+    "risposte": ["Solo la calcolatrice", "Google Drive, Maps, YouTube e Search", "Facebook"],
+    "corretta": "Google Drive, Maps, YouTube e Search"
+  },
+  {
+    "domanda": "Cosa significa LLM?",
+    "risposte": ["Large Language Models", "Long Learning Machine", "Little Logic Maker"],
+    "corretta": "Large Language Models"
+  },
+  {
+    "domanda": "Perché l'AI a volte sbaglia con sicurezza?",
+    "risposte": ["Perché vuole ingannarti", "Perché il suo obiettivo è completare la frase in modo coerente, non per forza veritiero", "Perché è rotta"],
+    "corretta": "Perché il suo obiettivo è completare la frase in modo coerente, non per forza veritiero"
+  },
+  {
+    "domanda": "Copilot può generare immagini?",
+    "risposte": ["No, solo testo", "Sì, usando la tecnologia DALL-E", "Solo se paghi extra"],
+    "corretta": "Sì, usando la tecnologia DALL-E"
+  },
+  {
+    "domanda": "ChatGPT Free è sempre connesso al web in tempo reale?",
+    "risposte": ["Sì, sempre", "No, o in modo limitato a seconda degli aggiornamenti", "Solo la domenica"],
+    "corretta": "No, o in modo limitato a seconda degli aggiornamenti"
+  },
+  {
+    "domanda": "È sicuro usare l'AI per fare diagnosi mediche fai-da-te?",
+    "risposte": ["Sì, ne sa più dei medici", "No, rischia di allucinare o dare consigli errati", "Solo per il mal di testa"],
+    "corretta": "No, rischia di allucinare o dare consigli errati"
+  },
+  {
+    "domanda": "L'AI è ottima per:",
+    "risposte": ["Superare il blocco dello scrittore (Brainstorming)", "Prendere decisioni di vita al posto tuo", "Predire il futuro"],
+    "corretta": "Superare il blocco dello scrittore (Brainstorming)"
+  },
+  {
+    "domanda": "Se chiedi all'AI di generare un'immagine di un CEO, a causa dei bias mostrerà spesso:",
+    "risposte": ["Una donna giovane", "Un uomo bianco di mezza età", "Un robot"],
+    "corretta": "Un uomo bianco di mezza età"
+  },
+  {
+    "domanda": "L'AI non sostituisce:",
+    "risposte": ["La tastiera", "La verifica umana delle fonti", "Il mouse"],
+    "corretta": "La verifica umana delle fonti"
+  },
+  {
+    "domanda": "Qual è l'input che diamo all'AI?",
+    "risposte": ["Il Prompt", "Il Clic", "Il File"],
+    "corretta": "Il Prompt"
+  },
+  {
+    "domanda": "Quale azienda ha creato ChatGPT?",
+    "risposte": ["Google", "Microsoft", "OpenAI"],
+    "corretta": "OpenAI"
+  },
+  {
+    "domanda": "L'AI 'sente' emozioni?",
+    "risposte": ["Sì, prova empatia", "No, simula solo il linguaggio umano", "A volte si arrabbia"],
+    "corretta": "No, simula solo il linguaggio umano"
+  }
+]

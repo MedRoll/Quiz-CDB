@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Cos'è un 'Prompt'?",
+    "risposte": ["Il comando o domanda che scrivi nella chat dell'AI", "Il tempo di risposta", "Un programma antivirus"],
+    "corretta": "Il comando o domanda che scrivi nella chat dell'AI"
+  },
+  {
+    "domanda": "Cosa dice il principio 'Garbage In, Garbage Out'?",
+    "risposte": ["Che l'AI produce rifiuti", "Se inserisci un prompt scarso (spazzatura), otterrai una risposta scarsa", "Bisogna buttare il computer"],
+    "corretta": "Se inserisci un prompt scarso (spazzatura), otterrai una risposta scarsa"
+  },
+  {
+    "domanda": "Quali sono i 4 elementi del Prompt Perfetto?",
+    "risposte": ["Soggetto, Verbo, Complemento, Punto", "Ruolo, Contesto, Compito, Formato", "Idea, Sviluppo, Conclusione, Firma"],
+    "corretta": "Ruolo, Contesto, Compito, Formato"
+  },
+  {
+    "domanda": "La frase 'Agisci come un esperto di marketing' definisce:",
+    "risposte": ["Il Ruolo", "Il Compito", "Il Formato"],
+    "corretta": "Il Ruolo"
+  },
+  {
+    "domanda": "La frase 'Sto scrivendo a un cliente arrabbiato...' definisce:",
+    "risposte": ["Il Contesto", "Il Formato", "Il Ruolo"],
+    "corretta": "Il Contesto"
+  },
+  {
+    "domanda": "La frase 'Scrivi una mail di scuse' definisce:",
+    "risposte": ["Il Compito (Task)", "Il Ruolo", "Il Contesto"],
+    "corretta": "Il Compito (Task)"
+  },
+  {
+    "domanda": "La frase 'Usa un elenco puntato' definisce:",
+    "risposte": ["Il Formato", "Il Contesto", "Il Compito"],
+    "corretta": "Il Formato"
+  },
+  {
+    "domanda": "Perché è utile dare un esempio all'AI nel prompt?",
+    "risposte": ["Per confonderla", "Per farle copiare lo stile desiderato", "Per allungare il testo"],
+    "corretta": "Per farle copiare lo stile desiderato"
+  },
+  {
+    "domanda": "Cosa significa 'Iterazione' con l'AI?",
+    "risposte": ["Spegnere e riaccendere", "Non fermarsi alla prima risposta ma chattare per raffinare il risultato", "Scrivere lo stesso prompt due volte"],
+    "corretta": "Non fermarsi alla prima risposta ma chattare per raffinare il risultato"
+  },
+  {
+    "domanda": "Come dovresti trattare l'AI per ottenere il meglio?",
+    "risposte": ["Come una calcolatrice", "Come uno stagista intelligente che va guidato", "Come un nemico"],
+    "corretta": "Come uno stagista intelligente che va guidato"
+  },
+  {
+    "domanda": "Se vuoi capire un testo complesso, quale prompt è utile?",
+    "risposte": ["Copiami il testo", "Spiegami questo testo come se avessi 10 anni", "Traduci in latino"],
+    "corretta": "Spiegami questo testo come se avessi 10 anni"
+  },
+  {
+    "domanda": "L'AI è utile per le traduzioni perché:",
+    "risposte": ["Capisce il contesto e le sfumature culturali meglio dei traduttori letterali", "Conosce solo l'inglese", "Non serve a tradurre"],
+    "corretta": "Capisce il contesto e le sfumature culturali meglio dei traduttori letterali"
+  },
+  {
+    "domanda": "Se non ricordi una formula di Excel, cosa puoi fare?",
+    "risposte": ["Chiedere all'AI descrivendo le colonne e il calcolo che vuoi fare", "Rinunciare", "Aprire un libro"],
+    "corretta": "Chiedere all'AI descrivendo le colonne e il calcolo che vuoi fare"
+  },
+  {
+    "domanda": "L'AI può agire come 'Critico' del tuo lavoro?",
+    "risposte": ["No, è sempre gentile", "Sì, puoi chiederle di trovare errori o migliorare il tono di una mail", "Solo se paghi"],
+    "corretta": "Sì, puoi chiederle di trovare errori o migliorare il tono di una mail"
+  },
+  {
+    "domanda": "A cosa serve definire il 'Ruolo' (Persona)?",
+    "risposte": ["A settare il tono, il vocabolario e la prospettiva della risposta", "A dare un nome all'AI", "A nulla"],
+    "corretta": "A settare il tono, il vocabolario e la prospettiva della risposta"
+  },
+  {
+    "domanda": "Dare più dettagli nel 'Contesto' serve a:",
+    "risposte": ["Annoiare l'AI", "Ridurre le invenzioni e rendere la risposta più pertinente", "Far bloccare il sistema"],
+    "corretta": "Ridurre le invenzioni e rendere la risposta più pertinente"
+  },
+  {
+    "domanda": "Nel 'Compito' è meglio usare:",
+    "risposte": ["Verbi d'azione chiari (Scrivi, Riassumi, Crea)", "Frasi vaghe", "Solo aggettivi"],
+    "corretta": "Verbi d'azione chiari (Scrivi, Riassumi, Crea)"
+  },
+  {
+    "domanda": "Se la risposta dell'AI è troppo lunga, cosa fai?",
+    "risposte": ["La tieni così", "Le chiedi: 'È troppo lunga, accorciala'", "Cambi AI"],
+    "corretta": "Le chiedi: 'È troppo lunga, accorciala'"
+  },
+  {
+    "domanda": "Quale prompt è migliore?",
+    "risposte": ["Scrivi una mail", "Scrivi una mail formale per chiedere un preventivo per 10 computer", "Mail preventivo"],
+    "corretta": "Scrivi una mail formale per chiedere un preventivo per 10 computer"
+  },
+  {
+    "domanda": "Puoi chiedere all'AI di formattare l'output come una tabella?",
+    "risposte": ["Sì, specificandolo nel Formato", "No, solo testo", "Solo su Excel"],
+    "corretta": "Sì, specificandolo nel Formato"
+  },
+  {
+    "domanda": "Per scrivere una Cover Letter efficace con l'AI:",
+    "risposte": ["Le chiedi di inventare le tue esperienze", "Le fornisci le tue skills reali e chiedi di sottolinearle", "Copi quella di un altro"],
+    "corretta": "Le fornisci le tue skills reali e chiedi di sottolinearle"
+  },
+  {
+    "domanda": "Cosa NON è un Prompt?",
+    "risposte": ["La domanda", "Il risultato finale generato dall'AI", "Le istruzioni"],
+    "corretta": "Il risultato finale generato dall'AI"
+  },
+  {
+    "domanda": "Il 'Brainstorming' con l'AI serve a:",
+    "risposte": ["Avere idee (nomi, liste) quando hai il blocco dello scrittore", "Copiare compiti", "Perdere tempo"],
+    "corretta": "Avere idee (nomi, liste) quando hai il blocco dello scrittore"
+  },
+  {
+    "domanda": "Se chiedi 'Traduci in bocca al lupo', l'AI può:",
+    "risposte": ["Tradurre letteralmente 'In the mouth of the wolf'", "Spiegare che si dice 'Break a leg' o 'Good luck'", "Dire che non sa l'inglese"],
+    "corretta": "Spiegare che si dice 'Break a leg' o 'Good luck'"
+  },
+  {
+    "domanda": "Cosa significa 'Rifinire' il prompt?",
+    "risposte": ["Lucidare lo schermo", "Modificare la richiesta aggiungendo dettagli per migliorare il risultato", "Cancellare tutto"],
+    "corretta": "Modificare la richiesta aggiungendo dettagli per migliorare il risultato"
+  },
+  {
+    "domanda": "Un esempio di 'Formato' richiesto può essere:",
+    "risposte": ["Un Tweet", "Una Tabella", "Tutti gli altri"],
+    "corretta": "Tutti gli altri"
+  },
+  {
+    "domanda": "Perché usare verbi chiari nel task?",
+    "risposte": ["Perché l'AI esegue meglio istruzioni dirette", "Per educazione", "Per grammatica"],
+    "corretta": "Perché l'AI esegue meglio istruzioni dirette"
+  },
+  {
+    "domanda": "L'AI può aiutarti a capire contratti o leggi?",
+    "risposte": ["Sì, chiedendo di semplificare o estrarre punti chiave", "No, è illegale", "Solo se è un avvocato"],
+    "corretta": "Sì, chiedendo di semplificare o estrarre punti chiave"
+  },
+  {
+    "domanda": "Se il risultato è troppo generico, probabilmente:",
+    "risposte": ["Il prompt era troppo generico (mancava Contesto)", "L'AI è stanca", "Non c'è soluzione"],
+    "corretta": "Il prompt era troppo generico (mancava Contesto)"
+  },
+  {
+    "domanda": "Prompt: 'Dammi 10 idee per...' è un esempio di:",
+    "risposte": ["Brainstorming", "Traduzione", "Analisi dati"],
+    "corretta": "Brainstorming"
+  }
+]
