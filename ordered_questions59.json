@@ -1,0 +1,272 @@
+[
+  {
+    "domanda": "Qual è il motore di ricerca più diffuso al mondo?",
+    "risposte": [
+      "Google",
+      "Facebook",
+      "Excel"
+    ],
+    "corretta": "Google"
+  },
+  {
+    "domanda": "Cosa sono le 'Parole Chiave' (Keywords) nella ricerca?",
+    "risposte": [
+      "Le password per entrare in Google",
+      "I termini specifici che scrivi nella barra di ricerca per trovare ciò che cerchi",
+      "Le parole segrete"
+    ],
+    "corretta": "I termini specifici che scrivi nella barra di ricerca per trovare ciò che cerchi"
+  },
+  {
+    "domanda": "Cosa è un Link (Collegamento Ipertestuale)?",
+    "risposte": [
+      "Un testo cliccabile (spesso blu/sottolineato) che ti porta a un'altra pagina o sito",
+      "Un errore del computer",
+      "Un'immagine statica"
+    ],
+    "corretta": "Un testo cliccabile (spesso blu/sottolineato) che ti porta a un'altra pagina o sito"
+  },
+  {
+    "domanda": "Se il Wi-Fi non funziona, qual è la prima cosa da provare?",
+    "risposte": [
+      "Comprare un nuovo computer",
+      "Spegnere e riaccendere il Router (Riavviare)",
+      "Chiamare la polizia"
+    ],
+    "corretta": "Spegnere e riaccendere il Router (Riavviare)"
+  },
+  {
+    "domanda": "Cosa significa 'Scaricare un'App'?",
+    "risposte": [
+      "Installare un programma sullo smartphone o tablet",
+      "Rimuoverla dal telefono",
+      "Pulirla"
+    ],
+    "corretta": "Installare un programma sullo smartphone o tablet"
+  },
+  {
+    "domanda": "Qual è lo store ufficiale per Android?",
+    "risposte": [
+      "App Store",
+      "Google Play Store",
+      "Supermercato"
+    ],
+    "corretta": "Google Play Store"
+  },
+  {
+    "domanda": "Qual è lo store ufficiale per iPhone (iOS)?",
+    "risposte": [
+      "App Store",
+      "Google Play",
+      "Windows Store"
+    ],
+    "corretta": "App Store"
+  },
+  {
+    "domanda": "Cosa sono i Social Media (es. Facebook, Instagram)?",
+    "risposte": [
+      "Piattaforme online per connettersi, condividere contenuti e interagire con persone",
+      "Programmi per scrivere lettere formali",
+      "Siti governativi"
+    ],
+    "corretta": "Piattaforme online per connettersi, condividere contenuti e interagire con persone"
+  },
+  {
+    "domanda": "Cosa devi fare prima di pubblicare una foto di altre persone sui social?",
+    "risposte": [
+      "Chiedere il loro permesso (rispetto della privacy)",
+      "Niente",
+      "Modificarla per farli sembrare brutti"
+    ],
+    "corretta": "Chiedere il loro permesso (rispetto della privacy)"
+  },
+  {
+    "domanda": "Le notizie trovate sui social sono sempre vere?",
+    "risposte": [
+      "Sì, sempre",
+      "No, bisogna verificare le fonti (rischio Fake News)",
+      "Sì, se hanno una foto"
+    ],
+    "corretta": "No, bisogna verificare le fonti (rischio Fake News)"
+  },
+  {
+    "domanda": "Cos'è il Cyberbullismo?",
+    "risposte": [
+      "Bullismo attuato tramite strumenti digitali (insulti, minacce online)",
+      "Un videogioco",
+      "Un virus"
+    ],
+    "corretta": "Bullismo attuato tramite strumenti digitali (insulti, minacce online)"
+  },
+  {
+    "domanda": "Se ricevi un messaggio 'Hai vinto un iPhone, clicca qui', cosa fai?",
+    "risposte": [
+      "Clicco subito",
+      "Lo ignoro e cancello, è sicuramente una truffa (Phishing)",
+      "Rispondo dando i miei dati"
+    ],
+    "corretta": "Lo ignoro e cancello, è sicuramente una truffa (Phishing)"
+  },
+  {
+    "domanda": "Qual è il modo migliore per imparare a usare un nuovo programma?",
+    "risposte": [
+      "Provare, esplorare i menu e non aver paura di sbagliare (o cercare tutorial)",
+      "Non aprirlo mai",
+      "Leggere il manuale di istruzioni di 1000 pagine a memoria"
+    ],
+    "corretta": "Provare, esplorare i menu e non aver paura di sbagliare (o cercare tutorial)"
+  },
+  {
+    "domanda": "Cosa significa 'Offline'?",
+    "risposte": [
+      "Non connesso a internet",
+      "Connesso a internet",
+      "Computer acceso"
+    ],
+    "corretta": "Non connesso a internet"
+  },
+  {
+    "domanda": "A cosa serve la Cronologia del browser?",
+    "risposte": [
+      "A vedere l'elenco dei siti visitati in passato",
+      "A vedere il futuro",
+      "A cancellare i virus"
+    ],
+    "corretta": "A vedere l'elenco dei siti visitati in passato"
+  },
+  {
+    "domanda": "Cos'è un QR Code?",
+    "risposte": [
+      "Un codice a barre quadrato che, se inquadrato con la fotocamera, apre un link o mostra info",
+      "Un disegno astratto",
+      "Un errore di stampa"
+    ],
+    "corretta": "Un codice a barre quadrato che, se inquadrato con la fotocamera, apre un link o mostra info"
+  },
+  {
+    "domanda": "L'icona della lente d'ingrandimento indica solitamente:",
+    "risposte": [
+      "La funzione Cerca",
+      "Lo zoom",
+      "Un detective"
+    ],
+    "corretta": "La funzione Cerca"
+  },
+  {
+    "domanda": "Se il mouse non funziona (su un portatile), cosa puoi usare?",
+    "risposte": [
+      "Il Touchpad (la superficie tattile sotto la tastiera)",
+      "Lo schermo (se touch)",
+      "Entrambi"
+    ],
+    "corretta": "Entrambi"
+  },
+  {
+    "domanda": "Cosa significa 'Drag and Drop'?",
+    "risposte": [
+      "Trascina e Rilascia (spostare file cliccando e tenendo premuto)",
+      "Un tipo di musica",
+      "Spegnere e riaccendere"
+    ],
+    "corretta": "Trascina e Rilascia (spostare file cliccando e tenendo premuto)"
+  },
+  {
+    "domanda": "Per vedere un video online, quale piattaforma è la più famosa?",
+    "risposte": [
+      "YouTube",
+      "Excel",
+      "Word"
+    ],
+    "corretta": "YouTube"
+  },
+  {
+    "domanda": "Cosa significa 'Scaricare la batteria'?",
+    "risposte": [
+      "Che l'energia del dispositivo è finita e va ricaricato",
+      "Buttare la batteria",
+      "Scaricare un file sulla batteria"
+    ],
+    "corretta": "Che l'energia del dispositivo è finita e va ricaricato"
+  },
+  {
+    "domanda": "L'icona del 'Floppy Disk' (quadratino) serve solitamente a:",
+    "risposte": [
+      "Salvare il file",
+      "Cancellare il file",
+      "Stampare"
+    ],
+    "corretta": "Salvare il file"
+  },
+  {
+    "domanda": "Se il PC fa un rumore strano e forte dalla ventola, potrebbe essere:",
+    "risposte": [
+      "Surriscaldato o pieno di polvere",
+      "Felice",
+      "Spento"
+    ],
+    "corretta": "Surriscaldato o pieno di polvere"
+  },
+  {
+    "domanda": "Cosa è un 'Tutorial'?",
+    "risposte": [
+      "Una guida (video o testo) che spiega come fare qualcosa passo dopo passo",
+      "Un esame",
+      "Un virus"
+    ],
+    "corretta": "Una guida (video o testo) che spiega come fare qualcosa passo dopo passo"
+  },
+  {
+    "domanda": "Se cancelli un'icona dal Desktop, hai disinstallato il programma?",
+    "risposte": [
+      "No, hai solo cancellato il collegamento. Il programma c'è ancora",
+      "Sì, è sparito per sempre",
+      "Forse"
+    ],
+    "corretta": "No, hai solo cancellato il collegamento. Il programma c'è ancora"
+  },
+  {
+    "domanda": "Cos'è l'Home Banking?",
+    "risposte": [
+      "La possibilità di gestire il conto corrente bancario online da casa",
+      "Costruire una banca",
+      "Giocare a Monopoli"
+    ],
+    "corretta": "La possibilità di gestire il conto corrente bancario online da casa"
+  },
+  {
+    "domanda": "Per scrivere la chiocciola (@) sulla tastiera italiana di solito premi:",
+    "risposte": [
+      "Alt Gr + ò",
+      "Shift + 2",
+      "Ctrl + Alt + Canc"
+    ],
+    "corretta": "Alt Gr + ò"
+  },
+  {
+    "domanda": "Il tasto ESC serve a:",
+    "risposte": [
+      "Uscire da una modalità, annullare un menu o chiudere la visualizzazione a schermo intero",
+      "Entrare",
+      "Salvare"
+    ],
+    "corretta": "Uscire da una modalità, annullare un menu o chiudere la visualizzazione a schermo intero"
+  },
+  {
+    "domanda": "Cosa significa 'Mettere in pausa' un video?",
+    "risposte": [
+      "Fermarlo momentaneamente per riprenderlo dopo",
+      "Cancellarlo",
+      "Scaricarlo"
+    ],
+    "corretta": "Fermarlo momentaneamente per riprenderlo dopo"
+  },
+  {
+    "domanda": "La tecnologia deve essere:",
+    "risposte": [
+      "Uno strumento al servizio dell'uomo",
+      "Il padrone della nostra vita",
+      "Ignorata completamente"
+    ],
+    "corretta": "Uno strumento al servizio dell'uomo"
+  }
+]

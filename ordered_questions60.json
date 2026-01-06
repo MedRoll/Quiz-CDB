@@ -1,0 +1,242 @@
+[
+  {
+    "domanda": "Un computer portatile (Notebook) ha bisogno di essere sempre collegato alla presa per funzionare.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "È possibile usare WhatsApp anche sul computer (WhatsApp Web).",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se non hai internet, non puoi usare Word installato sul PC.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le batterie dei dispositivi moderni durano per sempre.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il tasto 'Bloc Maiusc' (Caps Lock) fa scrivere tutto in lettere maiuscole.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Non è necessario avere un antivirus su Windows se stai attento.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi creare cartelle sul Desktop per organizzare i tuoi file.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il Cestino si svuota da solo ogni volta che spegni il PC.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Google Drive offre uno spazio di archiviazione gratuito limitato (15GB).",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È buona norma non cliccare su link strani ricevuti via SMS.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Per spegnere il computer basta chiudere lo schermo (sul portatile).",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Un file .jpg è un documento di testo.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La webcam serve per fare videochiamate.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se il PC è lento, cancellare file a caso nella cartella Windows è una buona idea.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi annullare un'azione sbagliata con CTRL + Z.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La PEC serve solo agli avvocati.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Lo SPID è gratuito (nella maggior parte dei casi per i cittadini).",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È possibile stampare una pagina web.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il doppio clic serve solitamente per aprire un file o una cartella.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se dimentichi la password della mail, non puoi più recuperarla in nessun modo.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'Intelligenza Artificiale può scrivere riassunti di testi lunghi.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il tasto 'Windows' sulla tastiera apre il menu Start.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un Terabyte (TB) è più grande di un Gigabyte (GB).",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I cookie dei siti web sono biscotti reali.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La modalità aereo scollega il telefono dalla rete cellulare.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Puoi usare il computer anche senza mouse (usando solo la tastiera per molte cose).",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le icone sul desktop sono solo decorazioni e non fanno nulla.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Salvare spesso il lavoro mentre si scrive è una buona abitudine.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Internet e il World Wide Web (WWW) sono tecnicamente la stessa cosa identica.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Non si smette mai di imparare con la tecnologia.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "domanda": "Qual è la funzione principale di un programma di videoscrittura come Word?",
+    "risposte": [
+      "Creare tabelle per calcoli matematici",
+      "Scrivere, formattare e impaginare testi professionali",
+      "Navigare su internet"
+    ],
+    "corretta": "Scrivere, formattare e impaginare testi professionali"
+  },
+  {
+    "domanda": "Per andare a capo e iniziare un nuovo paragrafo in Word, cosa premi?",
+    "risposte": [
+      "Barra spaziatrice fino alla fine della riga",
+      "Tasto Invio (Enter)",
+      "Tasto Tab"
+    ],
+    "corretta": "Tasto Invio (Enter)"
+  },
+  {
+    "domanda": "In Excel, come si chiama l'intersezione tra una riga e una colonna?",
+    "risposte": [
+      "Casella",
+      "Cella",
+      "Punto"
+    ],
+    "corretta": "Cella"
+  },
+  {
+    "domanda": "Quale simbolo devi digitare per iniziare una formula in Excel?",
+    "risposte": [
+      "=",
+      "#",
+      "@"
+    ],
+    "corretta": "="
+  },
+  {
+    "domanda": "Cosa differenzia una PEC (Posta Elettronica Certificata) da una email normale?",
+    "risposte": [
+      "La PEC ha valore legale equiparato a una raccomandata con ricevuta di ritorno",
+      "La PEC è più veloce",
+      "La PEC permette di inviare video"
+    ],
+    "corretta": "La PEC ha valore legale equiparato a una raccomandata con ricevuta di ritorno"
+  },
+  {
+    "domanda": "Cos'è lo SPID (Sistema Pubblico di Identità Digitale)?",
+    "risposte": [
+      "Un virus",
+      "Un sistema di accesso unico per i servizi online della Pubblica Amministrazione",
+      "Un tipo di social network"
+    ],
+    "corretta": "Un sistema di accesso unico per i servizi online della Pubblica Amministrazione"
+  },
+  {
+    "domanda": "Quando scrivi una mail formale, cosa è importante inserire nell'Oggetto?",
+    "risposte": [
+      "Nulla, per creare suspense",
+      "Un riassunto chiaro e breve del contenuto della mail",
+      "Solo saluti"
+    ],
+    "corretta": "Un riassunto chiaro e breve del contenuto della mail"
+  },
+  {
+    "domanda": "In Word, a cosa serve il 'Grassetto' (Bold)?",
+    "risposte": [
+      "A evidenziare parole chiave rendendole più marcate",
+      "A inclinare il testo",
+      "A cancellare il testo"
+    ],
+    "corretta": "A evidenziare parole chiave rendendole più marcate"
+  },
+  {
+    "domanda": "Qual è l'estensione tipica di un file Excel?",
+    "risposte": [
+      ".xlsx",
+      ".docx",
+      ".pdf"
+    ],
+    "corretta": ".xlsx"
+  },
+  {
+    "domanda": "Per sommare una colonna di numeri in Excel, quale funzione usi?",
+    "risposte": [
+      "=SOMMA()",
+      "=TOTALE()",
+      "=AGGIUNGI()"
+    ],
+    "corretta": "=SOMMA()"
+  },
+  {
+    "domanda": "Cosa significa 'Allegare' un file a una mail?",
+    "risposte": [
+      "Incollare il testo nel corpo della mail",
+      "Inviare un documento o file insieme al messaggio di posta",
+      "Legarlo con una corda"
+    ],
+    "corretta": "Inviare un documento o file insieme al messaggio di posta"
+  },
+  {
+    "domanda": "Se vuoi stampare un documento in orizzontale, quale impostazione modifichi?",
+    "risposte": [
+      "Orientamento pagina",
+      "Colore del font",
+      "Zoom"
+    ],
+    "corretta": "Orientamento pagina"
+  },
+  {
+    "domanda": "La Firma Digitale serve a:",
+    "risposte": [
+      "Scrivere il proprio nome in corsivo sullo schermo",
+      "Garantire l'autenticità e l'integrità di un documento informatico con valore legale",
+      "Fare disegni"
+    ],
+    "corretta": "Garantire l'autenticità e l'integrità di un documento informatico con valore legale"
+  },
+  {
+    "domanda": "Quale tasto rapido si usa per Incollare?",
+    "risposte": [
+      "CTRL + V",
+      "CTRL + C",
+      "CTRL + P"
+    ],
+    "corretta": "CTRL + V"
+  },
+  {
+    "domanda": "In una mail, cosa significa 'Rispondi a tutti'?",
+    "risposte": [
+      "Rispondere solo al mittente",
+      "Rispondere al mittente e a tutti gli altri destinatari in copia",
+      "Inviare la mail a tutto il mondo"
+    ],
+    "corretta": "Rispondere al mittente e a tutti gli altri destinatari in copia"
+  },
+  {
+    "domanda": "Cosa succede se trascini il quadratino di riempimento in basso in Excel?",
+    "risposte": [
+      "Cancelli la cella",
+      "Copi il contenuto o estendi la serie (es. lunedì, martedì...)",
+      "Chiudi il programma"
+    ],
+    "corretta": "Copi il contenuto o estendi la serie (es. lunedì, martedì...)"
+  },
+  {
+    "domanda": "Per centrare un titolo in Word, usi:",
+    "risposte": [
+      "Tanti spazi",
+      "Il tasto Tab",
+      "Il pulsante 'Allinea al centro' nella barra degli strumenti"
+    ],
+    "corretta": "Il pulsante 'Allinea al centro' nella barra degli strumenti"
+  },
+  {
+    "domanda": "Cos'è lo Spam?",
+    "risposte": [
+      "Posta indesiderata, pubblicità o tentativi di truffa",
+      "Una carne in scatola",
+      "Un virus"
+    ],
+    "corretta": "Posta indesiderata, pubblicità o tentativi di truffa"
+  },
+  {
+    "domanda": "Perché è meglio non scrivere password su post-it attaccati al monitor?",
+    "risposte": [
+      "Perché cadono",
+      "Perché chiunque passi può vederle (rischio sicurezza fisica)",
+      "Perché è brutto esteticamente"
+    ],
+    "corretta": "Perché chiunque passi può vederle (rischio sicurezza fisica)"
+  },
+  {
+    "domanda": "Quale programma della suite Office serve per le presentazioni?",
+    "risposte": [
+      "PowerPoint",
+      "Excel",
+      "Outlook"
+    ],
+    "corretta": "PowerPoint"
+  },
+  {
+    "domanda": "Cosa significa l'errore '404 Not Found'?",
+    "risposte": [
+      "Il computer è rotto",
+      "La pagina web richiesta non esiste o è stata spostata",
+      "Hai vinto un premio"
+    ],
+    "corretta": "La pagina web richiesta non esiste o è stata spostata"
+  },
+  {
+    "domanda": "In Excel, per fare una moltiplicazione si usa il simbolo:",
+    "risposte": [
+      "X",
+      "* (asterisco)",
+      ":"
+    ],
+    "corretta": "* (asterisco)"
+  },
+  {
+    "domanda": "Cosa fa il correttore ortografico (sottolineatura rossa)?",
+    "risposte": [
+      "Segnala possibili errori di scrittura",
+      "Cancella la parola",
+      "Traduce la parola"
+    ],
+    "corretta": "Segnala possibili errori di scrittura"
+  },
+  {
+    "domanda": "Per salvare un file con un nuovo nome o in una nuova posizione, usi:",
+    "risposte": [
+      "Salva",
+      "Salva con nome",
+      "Chiudi"
+    ],
+    "corretta": "Salva con nome"
+  },
+  {
+    "domanda": "Qual è il formato standard per le immagini sul web?",
+    "risposte": [
+      ".jpg o .png",
+      ".txt",
+      ".exe"
+    ],
+    "corretta": ".jpg o .png"
+  },
+  {
+    "domanda": "Se vuoi inviare un file molto grande (es. 2GB), cosa usi invece dell'allegato email?",
+    "risposte": [
+      "Un servizio di trasferimento file (WeTransfer) o un link al Cloud (Drive/Dropbox)",
+      "Lo stampi e lo spedisci",
+      "Lo dividi in 1000 mail"
+    ],
+    "corretta": "Un servizio di trasferimento file (WeTransfer) o un link al Cloud (Drive/Dropbox)"
+  },
+  {
+    "domanda": "Cosa significa 'Rinomina' un file?",
+    "risposte": [
+      "Cambiare il nome del file",
+      "Aprirlo due volte",
+      "Nasconderlo"
+    ],
+    "corretta": "Cambiare il nome del file"
+  },
+  {
+    "domanda": "L'app 'Calcolatrice' su Windows si trova:",
+    "risposte": [
+      "Nel menu Start",
+      "Dentro Word",
+      "Non esiste su Windows"
+    ],
+    "corretta": "Nel menu Start"
+  },
+  {
+    "domanda": "Per selezionare tutto il testo in un documento, la scorciatoia è:",
+    "risposte": [
+      "CTRL + A",
+      "CTRL + S",
+      "CTRL + Z"
+    ],
+    "corretta": "CTRL + A"
+  },
+  {
+    "domanda": "La CIE (Carta d'Identità Elettronica) può essere usata per accedere ai servizi online PA?",
+    "risposte": [
+      "Sì, con un lettore o smartphone NFC",
+      "No, serve solo per viaggiare",
+      "Solo se scaduta"
+    ],
+    "corretta": "Sì, con un lettore o smartphone NFC"
+  }
+]

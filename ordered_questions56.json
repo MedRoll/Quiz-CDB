@@ -1,0 +1,272 @@
+[
+  {
+    "domanda": "Qual è la differenza principale tra Hardware e Software?",
+    "risposte": [
+      "L'Hardware è la parte fisica (che puoi toccare), il Software sono i programmi (parte logica)",
+      "L'Hardware costa poco, il Software costa molto",
+      "Non c'è differenza, sono sinonimi"
+    ],
+    "corretta": "L'Hardware è la parte fisica (che puoi toccare), il Software sono i programmi (parte logica)"
+  },
+  {
+    "domanda": "Cosa succede al contenuto della memoria RAM quando spegni il computer?",
+    "risposte": [
+      "Viene salvato automaticamente",
+      "Si svuota completamente (è una memoria volatile)",
+      "Viene inviato al Cloud"
+    ],
+    "corretta": "Si svuota completamente (è una memoria volatile)"
+  },
+  {
+    "domanda": "Quale di questi è un dispositivo di Input (Entrata)?",
+    "risposte": [
+      "Monitor",
+      "Stampante",
+      "Tastiera"
+    ],
+    "corretta": "Tastiera"
+  },
+  {
+    "domanda": "A cosa serve il disco SSD (o Hard Disk)?",
+    "risposte": [
+      "A raffreddare il PC",
+      "Ad archiviare i dati in modo permanente (l'armadio)",
+      "A calcolare le operazioni matematiche"
+    ],
+    "corretta": "Ad archiviare i dati in modo permanente (l'armadio)"
+  },
+  {
+    "domanda": "Cos'è Windows?",
+    "risposte": [
+      "Un Sistema Operativo",
+      "Un programma di scrittura",
+      "Un tipo di mouse"
+    ],
+    "corretta": "Un Sistema Operativo"
+  },
+  {
+    "domanda": "Quale estensione identifica solitamente un documento di testo modificabile?",
+    "risposte": [
+      ".jpg",
+      ".docx",
+      ".mp3"
+    ],
+    "corretta": ".docx"
+  },
+  {
+    "domanda": "Cos'è un Browser (es. Chrome, Edge)?",
+    "risposte": [
+      "Il motore di ricerca",
+      "Il programma che serve per navigare su Internet",
+      "Un sito web"
+    ],
+    "corretta": "Il programma che serve per navigare su Internet"
+  },
+  {
+    "domanda": "Cosa significa 'Phishing'?",
+    "risposte": [
+      "Andare a pesca online",
+      "Una truffa via email che cerca di rubare i tuoi dati fingendosi una banca o un ente",
+      "Un virus che rallenta il PC"
+    ],
+    "corretta": "Una truffa via email che cerca di rubare i tuoi dati fingendosi una banca o un ente"
+  },
+  {
+    "domanda": "Qual è una caratteristica di una password sicura?",
+    "risposte": [
+      "È lunga, contiene numeri, simboli e maiuscole",
+      "È la tua data di nascita",
+      "È 123456"
+    ],
+    "corretta": "È lunga, contiene numeri, simboli e maiuscole"
+  },
+  {
+    "domanda": "Cosa indica il lucchetto chiuso (HTTPS) nella barra degli indirizzi?",
+    "risposte": [
+      "Che il sito è bloccato",
+      "Che la connessione è sicura e crittografata",
+      "Che devi pagare per entrare"
+    ],
+    "corretta": "Che la connessione è sicura e crittografata"
+  },
+  {
+    "domanda": "A cosa serve l'Autenticazione a Due Fattori (2FA)?",
+    "risposte": [
+      "A entrare con due account diversi",
+      "Ad aggiungere un secondo livello di sicurezza (es. codice SMS) oltre alla password",
+      "A recuperare la password persa"
+    ],
+    "corretta": "Ad aggiungere un secondo livello di sicurezza (es. codice SMS) oltre alla password"
+  },
+  {
+    "domanda": "Quale programma useresti per creare un bilancio familiare con calcoli automatici?",
+    "risposte": [
+      "Microsoft Word",
+      "Microsoft Excel",
+      "PowerPoint"
+    ],
+    "corretta": "Microsoft Excel"
+  },
+  {
+    "domanda": "Cosa significa 'Salvare in Cloud'?",
+    "risposte": [
+      "Salvare i dati su server remoti accessibili via internet (computer di qualcun altro)",
+      "Salvare sulla chiavetta USB",
+      "Stampare il foglio"
+    ],
+    "corretta": "Salvare i dati su server remoti accessibili via internet (computer di qualcun altro)"
+  },
+  {
+    "domanda": "Qual è la funzione del tasto CTRL + Z?",
+    "risposte": [
+      "Salva",
+      "Annulla l'ultima azione",
+      "Taglia"
+    ],
+    "corretta": "Annulla l'ultima azione"
+  },
+  {
+    "domanda": "In una email, a cosa serve il campo CCN (Copia Conoscenza Nascosta)?",
+    "risposte": [
+      "A nascondere il testo della mail",
+      "A inviare la mail a più persone senza che vedano gli indirizzi degli altri",
+      "A inviare una copia a se stessi"
+    ],
+    "corretta": "A inviare la mail a più persone senza che vedano gli indirizzi degli altri"
+  },
+  {
+    "domanda": "Cosa fare se il computer è bloccato o molto lento?",
+    "risposte": [
+      "Comprarne uno nuovo",
+      "Provare a riavviarlo o usare Gestione Attività (CTRL+ALT+CANC)",
+      "Premere tutti i tasti a caso"
+    ],
+    "corretta": "Provare a riavviarlo o usare Gestione Attività (CTRL+ALT+CANC)"
+  },
+  {
+    "domanda": "Qual è il vantaggio principale del formato PDF?",
+    "risposte": [
+      "È facile da modificare per chiunque",
+      "Mantiene l'impaginazione fissa e si vede uguale su tutti i dispositivi",
+      "È un file audio"
+    ],
+    "corretta": "Mantiene l'impaginazione fissa e si vede uguale su tutti i dispositivi"
+  },
+  {
+    "domanda": "Cosa è un 'Update' (Aggiornamento)?",
+    "risposte": [
+      "Un virus",
+      "Un miglioramento del software che corregge errori e buchi di sicurezza",
+      "Un nuovo computer"
+    ],
+    "corretta": "Un miglioramento del software che corregge errori e buchi di sicurezza"
+  },
+  {
+    "domanda": "Se ricevi una mail con un allegato .exe da uno sconosciuto, cosa fai?",
+    "risposte": [
+      "Lo apro subito",
+      "Lo cancello immediatamente, è probabilmente un virus",
+      "Lo inoltro a un amico"
+    ],
+    "corretta": "Lo cancello immediatamente, è probabilmente un virus"
+  },
+  {
+    "domanda": "A cosa serve il cestino del computer?",
+    "risposte": [
+      "A eliminare i file definitivamente subito",
+      "A conservare i file eliminati temporaneamente prima della cancellazione definitiva",
+      "A pulire lo schermo"
+    ],
+    "corretta": "A conservare i file eliminati temporaneamente prima della cancellazione definitiva"
+  },
+  {
+    "domanda": "Cos'è il Wi-Fi?",
+    "risposte": [
+      "Un cavo blu",
+      "Una tecnologia per connettersi a internet senza fili tramite onde radio",
+      "Un programma di chat"
+    ],
+    "corretta": "Una tecnologia per connettersi a internet senza fili tramite onde radio"
+  },
+  {
+    "domanda": "Cosa significa l'icona della 'Casa' nel browser?",
+    "risposte": [
+      "Spegne il computer",
+      "Torna alla pagina iniziale (Home Page)",
+      "Apre un sito di immobiliare"
+    ],
+    "corretta": "Torna alla pagina iniziale (Home Page)"
+  },
+  {
+    "domanda": "Qual è la regola d'oro del Backup?",
+    "risposte": [
+      "Avere almeno una copia dei dati importanti su un dispositivo diverso (es. Cloud o disco esterno)",
+      "Copiare i file sul desktop",
+      "Stampare tutto"
+    ],
+    "corretta": "Avere almeno una copia dei dati importanti su un dispositivo diverso (es. Cloud o disco esterno)"
+  },
+  {
+    "domanda": "L'Intelligenza Artificiale (come ChatGPT) dice sempre la verità?",
+    "risposte": [
+      "Sì, è un computer e non sbaglia mai",
+      "No, può avere 'allucinazioni' e inventare informazioni verosimili ma false",
+      "Sì, ma solo se paghi"
+    ],
+    "corretta": "No, può avere 'allucinazioni' e inventare informazioni verosimili ma false"
+  },
+  {
+    "domanda": "Cosa si intende per 'Digital Detox'?",
+    "risposte": [
+      "Pulire lo schermo del PC",
+      "Prendersi una pausa dalla tecnologia per recuperare benessere mentale",
+      "Cancellare tutti i file"
+    ],
+    "corretta": "Prendersi una pausa dalla tecnologia per recuperare benessere mentale"
+  },
+  {
+    "domanda": "Quale tasto usi per fare uno screenshot (cattura schermo) su Windows?",
+    "risposte": [
+      "Stamp / PrtScn (o Win + Shift + S)",
+      "Canc",
+      "Esc"
+    ],
+    "corretta": "Stamp / PrtScn (o Win + Shift + S)"
+  },
+  {
+    "domanda": "A cosa serve la modalità 'Aereo'?",
+    "risposte": [
+      "A far volare il telefono",
+      "A disattivare tutte le connessioni radio (Wi-Fi, 4G, Bluetooth)",
+      "A risparmiare batteria senza perdere le chiamate"
+    ],
+    "corretta": "A disattivare tutte le connessioni radio (Wi-Fi, 4G, Bluetooth)"
+  },
+  {
+    "domanda": "Un file compresso (.zip) serve a:",
+    "risposte": [
+      "Ridurre lo spazio occupato da uno o più file per inviarli più facilmente",
+      "Proteggere i file con password",
+      "Rompere i file"
+    ],
+    "corretta": "Ridurre lo spazio occupato da uno o più file per inviarli più facilmente"
+  },
+  {
+    "domanda": "Cosa identifica univocamente un computer in rete?",
+    "risposte": [
+      "L'indirizzo IP",
+      "La marca del PC",
+      "Il colore del case"
+    ],
+    "corretta": "L'indirizzo IP"
+  },
+  {
+    "domanda": "Qual è il modo corretto per spegnere un PC Windows?",
+    "risposte": [
+      "Staccare la spina",
+      "Start > Arresta",
+      "Chiudere lo schermo (sui portatili)"
+    ],
+    "corretta": "Start > Arresta"
+  }
+]

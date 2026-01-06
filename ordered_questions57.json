@@ -1,0 +1,242 @@
+[
+  {
+    "domanda": "La RAM conserva i dati anche quando manca la corrente.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Un SSD è generalmente più veloce di un vecchio Hard Disk meccanico.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il Monitor è una periferica di Output (Uscita).",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È sicuro usare la stessa password per tutti i siti (Banca, Facebook, Email).",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Phishing significa rubare dati sensibili tramite inganno.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Riavviare il computer può risolvere molti problemi temporanei.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Word è il programma migliore per fare calcoli complessi e grafici finanziari.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il Cloud funziona anche se non hai mai una connessione internet.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'autenticazione a due fattori (2FA) è inutile se hai una password difficile.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "CTRL + C serve per Copiare.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un file PDF può essere letto su quasi tutti i dispositivi senza cambiare aspetto.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il campo CC in una mail nasconde gli indirizzi dei destinatari.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Browser e Motore di Ricerca sono la stessa cosa.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "È importante fare il Logout (Disconnetti) quando usi un PC pubblico.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'antivirus protegge il computer dai furti fisici.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Una cartella può contenere altre cartelle (sottocartelle).",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La modalità 'In Incognito' ti rende invisibile alla polizia.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Scaricare allegati da mittenti sconosciuti è pericoloso.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'impronta digitale online (Digital Footprint) è permanente.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Wikipedia contiene informazioni verificate sempre al 100%.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il Wi-Fi pubblico aperto (senza password) è sicuro per fare operazioni bancarie.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Aggiornare il sistema operativo è importante per la sicurezza.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un file con estensione .exe è solitamente un'immagine.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Cancellare la cronologia del browser cancella i tuoi dati dai server di Google.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Google Maps ha bisogno del GPS per funzionare come navigatore.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La 'Sincronizzazione' permette di avere gli stessi file su PC e Telefono.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'AI generativa crea risposte basandosi sulla statistica, non sulla comprensione.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Scrivere TUTTO IN MAIUSCOLO in chat equivale a urlare.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il mouse è un dispositivo di Output.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La tecnologia dovrebbe essere uno strumento per migliorare la vita, non una dipendenza.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  }
+]
