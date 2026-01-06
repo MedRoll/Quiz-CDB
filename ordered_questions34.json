@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "In Excel, le righe sono indicate dalle lettere (A, B, C).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi avere più fogli di lavoro all'interno di un unico file Excel.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se una cella mostra '#######' significa che hai perso i dati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Excel allinea automaticamente i numeri a destra della cella.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione SOMMA può calcolare solo due numeri alla volta.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Per iniziare una formula puoi usare il simbolo @ in versioni recenti, ma = è lo standard.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Unire le celle (Merge) mantiene tutto il testo di tutte le celle unite.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "CTRL + C serve per tagliare il contenuto.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi inserire un'immagine dentro un foglio Excel.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La formattazione condizionale può cambiare il colore della cella in base al suo valore.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Eliminare una riga è lo stesso di cancellare il contenuto (Canc) della riga.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il formato .CSV salva formule e formattazione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La funzione MEDIA include nel calcolo anche le celle vuote come se fossero zero.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi ordinare i dati per colore della cella.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il simbolo $ in $A$1 blocca sia la riga che la colonna.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un grafico a torta può visualizzare più serie di dati (più anelli) facilmente come un istogramma.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Premere INVIO ti sposta normalmente alla cella sottostante.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Puoi proteggere un foglio con password per impedire modifiche.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La barra della formula mostra sempre il risultato del calcolo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Excel è un programma di videoscrittura come Word.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi nascondere un foglio di lavoro senza eliminarlo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione ADESSO() (NOW) si aggiorna ogni volta che ricalcoli il foglio.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "CTRL + T serve per stampare.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Lo strumento 'Copia Formato' si disattiva sempre dopo un solo clic.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Una tabella Pivot modifica i dati sorgente originali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi inserire formule matematiche nell'intestazione di pagina.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'errore #NOME? appare se scrivi male il nome di una funzione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Puoi annullare l'eliminazione di un Foglio di Lavoro con CTRL+Z.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il riempimento automatico (AutoFill) riconosce i giorni della settimana.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Tutte le celle di un nuovo foglio sono bloccate (Locked) di default (ma l'effetto si vede solo se proteggi il foglio).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  }
+]

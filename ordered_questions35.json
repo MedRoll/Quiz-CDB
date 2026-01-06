@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Il Cerca.Vert (VLOOKUP) funziona solo se la colonna di ricerca è la prima a sinistra dell'intervallo selezionato.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Puoi usare caratteri jolly (* o ?) nelle funzioni come CONTA.SE.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Una Macro registrata cattura anche i movimenti del mouse che non cliccano nulla.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Power Query può unire dati provenienti da due file Excel diversi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il formato condizionale si sovrascrive se cambi manualmente il colore della cella.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le Tabelle Pivot si aggiornano automaticamente appena modifichi un dato nella sorgente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La funzione CONTA.VALORI conta anche le celle contenenti testo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Puoi creare un grafico combinato con barre e linee insieme.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La 'Ricerca Obiettivo' può variare più celle contemporaneamente per trovare il risultato.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "In Excel Online (Web) le Macro VBA funzionano esattamente come su Desktop.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Se nascondi una colonna, le formule che fanno riferimento a quella colonna smettono di funzionare.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La funzione SE può essere annidata (un SE dentro un altro SE).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Usare 'Testo in Colonne' sovrascrive le celle alla destra della colonna originale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'errore #RIF! (#REF!) indica che un riferimento di cella non è più valido (es. cella eliminata).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Puoi filtrare per colore in una Tabella Pivot standard.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Lo Slicer funziona solo con le Tabelle Pivot o Tabelle formattate come tali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Per usare la funzione SOMMA.PIÙ.SE (SUMIFS) devi mettere l'intervallo somma come primo argomento.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Google Sheets salva i file con estensione .gsheet sul tuo disco rigido locale come Excel.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La Convalida Dati può impedire a un utente di scrivere testo in una cella numerica.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È possibile inserire un'interruzione di pagina manuale in Excel.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I 'Grafici Consigliati' mostrano sempre l'opzione migliore per i tuoi dati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Se copi un foglio in un'altra cartella di lavoro, le formule mantengono i collegamenti al file originale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Power Query può unpivotare (trasformare colonne in righe) i dati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione =OGGI() cambia data se apri il file domani.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Puoi usare CTRL + ; per inserire la data corrente statica.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I riferimenti misti (es. $A1) bloccano solo la colonna.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Excel può leggere ad alta voce il contenuto delle celle (Text to Speech).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un file .XLSM è identico a un .XLSX ma permette l'esecuzione di macro.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione CONCATENA mette automaticamente uno spazio tra le parole unite.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi condividere un file Excel in tempo reale solo se è salvato su OneDrive o SharePoint.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  }
+]

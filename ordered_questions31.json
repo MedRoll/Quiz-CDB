@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "Qual è il carattere obbligatorio per iniziare qualsiasi formula in Excel?",
+    "risposte": ["#", "=", "$"],
+    "corretta": "="
+  },
+  {
+    "domanda": "Come viene identificata univocamente una cella?",
+    "risposte": ["Prima la riga poi la colonna (es. 1A)", "Prima la colonna poi la riga (es. A1)", "Solo con un numero progressivo"],
+    "corretta": "Prima la colonna poi la riga (es. A1)"
+  },
+  {
+    "domanda": "Cosa succede se vedi una serie di simboli '####' in una cella?",
+    "risposte": ["Hai sbagliato la formula", "La colonna è troppo stretta per mostrare il contenuto", "Il file è corrotto"],
+    "corretta": "La colonna è troppo stretta per mostrare il contenuto"
+  },
+  {
+    "domanda": "Quale estensione di file devi usare se vuoi salvare un file Excel contenente Macro?",
+    "risposte": [".xlsx", ".xlsm", ".csv"],
+    "corretta": ".xlsm"
+  },
+  {
+    "domanda": "Se trascini il quadratino di riempimento (in basso a destra nella cella) verso il basso su una cella che contiene 'Gennaio', cosa succede?",
+    "risposte": ["Copia 'Gennaio' in tutte le celle", "Completa la serie con 'Febbraio', 'Marzo', ecc.", "Cancella il contenuto"],
+    "corretta": "Completa la serie con 'Febbraio', 'Marzo', ecc."
+  },
+  {
+    "domanda": "Per sommare velocemente una colonna di numeri senza scrivere la formula a mano, quale pulsante usi?",
+    "risposte": ["Somma Automatica (AutoSum)", "Ordina e Filtra", "Testo in Colonne"],
+    "corretta": "Somma Automatica (AutoSum)"
+  },
+  {
+    "domanda": "Qual è la differenza tra 'Incolla' e 'Incolla Valori'?",
+    "risposte": ["Nessuna", "'Incolla Valori' rimuove le formule e mantiene solo il risultato", "'Incolla Valori' copia anche la larghezza delle colonne"],
+    "corretta": "'Incolla Valori' rimuove le formule e mantiene solo il risultato"
+  },
+  {
+    "domanda": "Vuoi unire il contenuto di due celle (es. Nome e Cognome) in una sola. Quale simbolo usi nella formula?",
+    "risposte": ["& (e commerciale)", "+ (più)", "% (percentuale)"],
+    "corretta": "& (e commerciale)"
+  },
+  {
+    "domanda": "A cosa serve il tasto F4 mentre scrivi una formula?",
+    "risposte": ["Cancella la formula", "Inserisce i dollari ($) per bloccare il riferimento (Riferimento Assoluto)", "Apre la guida"],
+    "corretta": "Inserisce i dollari ($) per bloccare il riferimento (Riferimento Assoluto)"
+  },
+  {
+    "domanda": "Se selezioni due celle unite e clicchi di nuovo su 'Unisci e allinea al centro', cosa succede?",
+    "risposte": ["Le celle si dividono tornando singole", "Il testo viene cancellato", "Non succede nulla"],
+    "corretta": "Le celle si dividono tornando singole"
+  },
+  {
+    "domanda": "Di default, come viene allineato un testo (non numerico) in una cella?",
+    "risposte": ["A destra", "A sinistra", "Al centro"],
+    "corretta": "A sinistra"
+  },
+  {
+    "domanda": "Quale funzione usi per trovare il valore più alto in un intervallo di numeri?",
+    "risposte": ["=MAX()", "=ALTO()", "=TOP()"],
+    "corretta": "=MAX()"
+  },
+  {
+    "domanda": "Vuoi che una cella diventi rossa automaticamente se il valore è inferiore a 0. Cosa usi?",
+    "risposte": ["Stili Cella", "Formattazione Condizionale", "Colore Carattere"],
+    "corretta": "Formattazione Condizionale"
+  },
+  {
+    "domanda": "Cosa fa la combinazione di tasti CTRL + Z?",
+    "risposte": ["Salva il file", "Annulla l'ultima azione", "Taglia il contenuto"],
+    "corretta": "Annulla l'ultima azione"
+  },
+  {
+    "domanda": "Per inserire una nuova riga vuota tra la riga 4 e la 5, dove devi cliccare col tasto destro?",
+    "risposte": ["Sulla riga 4", "Sulla riga 5", "In una cella a caso"],
+    "corretta": "Sulla riga 5"
+  },
+  {
+    "domanda": "Quale di queste formule è corretta per fare una media?",
+    "risposte": ["=MEDIA(A1:A10)", "=MEZZO(A1:A10)", "=SOMMA(A1:A10)/2"],
+    "corretta": "=MEDIA(A1:A10)"
+  },
+  {
+    "domanda": "Se vuoi stampare solo una piccola tabella di un foglio enorme, cosa imposti?",
+    "risposte": ["L'Area di Stampa", "I Margini stretti", "La visualizzazione Layout di Pagina"],
+    "corretta": "L'Area di Stampa"
+  },
+  {
+    "domanda": "Cosa indica l'errore #DIV/0! ?",
+    "risposte": ["Stai provando a dividere un numero per zero", "La formula è scritta male", "Manca un collegamento"],
+    "corretta": "Stai provando a dividere un numero per zero"
+  },
+  {
+    "domanda": "Vuoi bloccare la prima riga in alto in modo che resti visibile quando scorri in basso. Cosa usi?",
+    "risposte": ["Blocca Riquadri (Freeze Panes)", "Dividi finestra", "Nascondi riga"],
+    "corretta": "Blocca Riquadri (Freeze Panes)"
+  },
+  {
+    "domanda": "Come si chiama l'insieme di fogli di lavoro salvati in un unico file?",
+    "risposte": ["Cartella di lavoro (Workbook)", "Progetto", "Spreadsheet"],
+    "corretta": "Cartella di lavoro (Workbook)"
+  },
+  {
+    "domanda": "Per scrivere un numero come testo (es. '001' senza perdere gli zeri), cosa metti davanti al numero?",
+    "risposte": ["Un apice singolo (')", "Uno spazio", "Un punto"],
+    "corretta": "Un apice singolo (')"
+  },
+  {
+    "domanda": "Qual è il tasto rapido per selezionare l'intera colonna dove ti trovi?",
+    "risposte": ["CTRL + Barra Spaziatrice", "SHIFT + Barra Spaziatrice", "CTRL + A"],
+    "corretta": "CTRL + Barra Spaziatrice"
+  },
+  {
+    "domanda": "Se vuoi rinominare un Foglio di lavoro (es. Foglio1), cosa fai?",
+    "risposte": ["Doppio clic sulla linguetta del foglio in basso", "Rinomini il file Excel", "Usi la barra della formula"],
+    "corretta": "Doppio clic sulla linguetta del foglio in basso"
+  },
+  {
+    "domanda": "La funzione =OGGI() cosa restituisce?",
+    "risposte": ["La data corrente (dinamica)", "La data e l'ora corrente", "La scritta 'OGGI'"],
+    "corretta": "La data corrente (dinamica)"
+  },
+  {
+    "domanda": "Per eliminare definitivamente il contenuto e la formattazione di una cella, cosa usi?",
+    "risposte": ["Il tasto Canc", "Home > Cancella > Cancella tutto", "Tasto destro > Elimina"],
+    "corretta": "Home > Cancella > Cancella tutto"
+  },
+  {
+    "domanda": "Quale simbolo matematico viene eseguito per primo in una formula senza parentesi?",
+    "risposte": ["Moltiplicazione (*)", "Addizione (+)", "Sono uguali"],
+    "corretta": "Moltiplicazione (*)"
+  },
+  {
+    "domanda": "Cosa succede se fai doppio clic sul bordo destro dell'intestazione di una colonna (tra A e B)?",
+    "risposte": ["La colonna si adatta automaticamente alla larghezza del contenuto (AutoFit)", "La colonna viene nascosta", "Si apre il menu formato"],
+    "corretta": "La colonna si adatta automaticamente alla larghezza del contenuto (AutoFit)"
+  },
+  {
+    "domanda": "Quale formato numerico aggiunge automaticamente il simbolo € e due decimali?",
+    "risposte": ["Contabilità o Valuta", "Numero", "Generale"],
+    "corretta": "Contabilità o Valuta"
+  },
+  {
+    "domanda": "Se vuoi copiare solo lo stile (colore, font) da una cella all'altra, usi:",
+    "risposte": ["Copia Formato (Pennello)", "Copia e Incolla", "Taglia e Incolla"],
+    "corretta": "Copia Formato (Pennello)"
+  },
+  {
+    "domanda": "Come si inserisce un commento/nota in una cella?",
+    "risposte": ["Tasto destro > Inserisci Commento/Nota", "Scrivendo tra parentesi", "Usando la funzione =COMMENTO()"],
+    "corretta": "Tasto destro > Inserisci Commento/Nota"
+  }
+]

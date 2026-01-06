@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "A cosa serve principalmente una Tabella Pivot?",
+    "risposte": ["A riassumere, analizzare e raggruppare grandi quantità di dati", "A creare grafici colorati", "A fare calcoli matematici complessi riga per riga"],
+    "corretta": "A riassumere, analizzare e raggruppare grandi quantità di dati"
+  },
+  {
+    "domanda": "Se i dati originali cambiano, la Tabella Pivot si aggiorna da sola?",
+    "risposte": ["No, devi premere 'Aggiorna' (Refresh)", "Sì, sempre in tempo reale", "Sì, ma solo se chiudi il file"],
+    "corretta": "No, devi premere 'Aggiorna' (Refresh)"
+  },
+  {
+    "domanda": "Quale strumento di Excel permette di importare e pulire dati da fonti esterne (Web, CSV)?",
+    "risposte": ["Power Query (Recupera e Trasforma)", "Power Point", "Cerca.Vert"],
+    "corretta": "Power Query (Recupera e Trasforma)"
+  },
+  {
+    "domanda": "Cosa fa la funzione 'Ricerca Obiettivo' (Goal Seek)?",
+    "risposte": ["Trova l'input necessario per ottenere un certo risultato finale", "Cerca un file nel computer", "Cerca un obiettivo di vendita"],
+    "corretta": "Trova l'input necessario per ottenere un certo risultato finale"
+  },
+  {
+    "domanda": "Cos'è una Macro in Excel?",
+    "risposte": ["Una sequenza registrata di azioni per automatizzare compiti ripetitivi", "Una formula molto grande", "Un tipo di grafico gigante"],
+    "corretta": "Una sequenza registrata di azioni per automatizzare compiti ripetitivi"
+  },
+  {
+    "domanda": "Perché i file con Macro devono essere salvati come .XLSM?",
+    "risposte": ["Per motivi di sicurezza, per distinguere file che contengono codice eseguibile", "Perché occupano meno spazio", "È solo una preferenza estetica"],
+    "corretta": "Per motivi di sicurezza, per distinguere file che contengono codice eseguibile"
+  },
+  {
+    "domanda": "Quale funzione esclusiva di Google Sheets permette di tradurre celle?",
+    "risposte": ["=GOOGLETRANSLATE()", "=TRANSLATE()", "=TRADUCI()"],
+    "corretta": "=GOOGLETRANSLATE()"
+  },
+  {
+    "domanda": "Nelle Tabelle Pivot, dove trascini un campo per filtrare l'intero report?",
+    "risposte": ["Nell'area Filtri", "Nell'area Colonne", "Nell'area Valori"],
+    "corretta": "Nell'area Filtri"
+  },
+  {
+    "domanda": "Qual è il limite principale del Cerca.Vert (VLOOKUP) classico?",
+    "risposte": ["Cerca solo nella prima colonna a sinistra e restituisce valori alla sua destra", "Non può cercare numeri", "Funziona solo su fogli diversi"],
+    "corretta": "Cerca solo nella prima colonna a sinistra e restituisce valori alla sua destra"
+  },
+  {
+    "domanda": "Cosa permette di fare lo 'Slicer' (Filtro Dati) in una Pivot?",
+    "risposte": ["Filtrare i dati tramite pulsanti visivi cliccabili", "Tagliare i dati a metà", "Nascondere il foglio"],
+    "corretta": "Filtrare i dati tramite pulsanti visivi cliccabili"
+  },
+  {
+    "domanda": "Se vuoi proteggere solo alcune celle lasciando le altre modificabili, cosa devi fare prima di proteggere il foglio?",
+    "risposte": ["Sbloccare le celle che vuoi rendere modificabili (Formato celle > Protezione)", "Mettere una password al file", "Nascondere le celle"],
+    "corretta": "Sbloccare le celle che vuoi rendere modificabili (Formato celle > Protezione)"
+  },
+  {
+    "domanda": "In Power Query, i passaggi di pulizia che applichi (es. rimuovi righe):",
+    "risposte": ["Vengono registrati e riapplicati automaticamente ogni volta che aggiorni i dati", "Devono essere rifatti ogni volta", "Modificano irreversibilmente il file originale"],
+    "corretta": "Vengono registrati e riapplicati automaticamente ogni volta che aggiorni i dati"
+  },
+  {
+    "domanda": "Quale errore restituisce il Cerca.Vert se non trova il valore?",
+    "risposte": ["#N/D (#N/A)", "#VALORE!", "#NUM!"],
+    "corretta": "#N/D (#N/A)"
+  },
+  {
+    "domanda": "La funzione =SOMMA.SE (SUMIF) serve a:",
+    "risposte": ["Sommare solo le celle che rispettano una condizione", "Sommare tutto e se c'è errore dare 0", "Sommare due fogli"],
+    "corretta": "Sommare solo le celle che rispettano una condizione"
+  },
+  {
+    "domanda": "Come si chiama l'indirizzo di cella che fa riferimento a un altro foglio? (es. Foglio2!A1)",
+    "risposte": ["Riferimento 3D o Esterno", "Riferimento Assoluto", "Hyperlink"],
+    "corretta": "Riferimento 3D o Esterno"
+  },
+  {
+    "domanda": "Per vedere dove finisce la pagina prima di stampare, quale visualizzazione è utile?",
+    "risposte": ["Anteprima Interruzioni di Pagina", "Layout Web", "Struttura"],
+    "corretta": "Anteprima Interruzioni di Pagina"
+  },
+  {
+    "domanda": "Cosa succede se registri una Macro con i 'Riferimenti Relativi'?",
+    "risposte": ["La macro agisce rispetto alla cella attiva corrente, non su celle fisse", "La macro funziona solo sul file originale", "La macro non viene salvata"],
+    "corretta": "La macro agisce rispetto alla cella attiva corrente, non su celle fisse"
+  },
+  {
+    "domanda": "Quale formato di file è testo puro separato da virgole o punti e virgola?",
+    "risposte": ["CSV", "XLSX", "PDF"],
+    "corretta": "CSV"
+  },
+  {
+    "domanda": "In Google Sheets, come collabori in tempo reale?",
+    "risposte": ["Cliccando 'Condividi' e inviando il link", "Inviando il file via mail", "Non si può"],
+    "corretta": "Cliccando 'Condividi' e inviando il link"
+  },
+  {
+    "domanda": "Per creare un elenco a discesa dipendente (il secondo elenco cambia in base al primo), serve:",
+    "risposte": ["La funzione INDIRETTO() nella Convalida Dati", "Solo la Convalida Dati semplice", "Una Macro per forza"],
+    "corretta": "La funzione INDIRETTO() nella Convalida Dati"
+  },
+  {
+    "domanda": "Qual è il vantaggio principale di lavorare nel Cloud (Excel Online / Google Sheets)?",
+    "risposte": ["Accesso ovunque, salvataggio automatico e cronologia versioni", "Più funzioni di Excel Desktop", "Funziona senza internet"],
+    "corretta": "Accesso ovunque, salvataggio automatico e cronologia versioni"
+  },
+  {
+    "domanda": "Cosa fa la funzione =TESTO()?",
+    "risposte": ["Converte un numero in testo applicando una formattazione specifica", "Cambia il colore del testo", "Legge il testo ad alta voce"],
+    "corretta": "Converte un numero in testo applicando una formattazione specifica"
+  },
+  {
+    "domanda": "Per raggruppare le date in Mesi o Anni in una Pivot:",
+    "risposte": ["Tasto destro sulle date nella Pivot > Raggruppa", "Devi cambiare i dati originali", "Usi una formula SE"],
+    "corretta": "Tasto destro sulle date nella Pivot > Raggruppa"
+  },
+  {
+    "domanda": "L'analisi 'What-If' include quali strumenti?",
+    "risposte": ["Gestione Scenari, Ricerca Obiettivo, Tabella Dati", "Solo Pivot", "Solo Grafici"],
+    "corretta": "Gestione Scenari, Ricerca Obiettivo, Tabella Dati"
+  },
+  {
+    "domanda": "Se vuoi contare quante volte appare 'Mario' in una lista, usi:",
+    "risposte": ["=CONTA.SE(intervallo; \"Mario\")", "=TROVA(\"Mario\")", "=SE(\"Mario\")"],
+    "corretta": "=CONTA.SE(intervallo; \"Mario\")"
+  },
+  {
+    "domanda": "Il formato condizionale 'Barre dei dati' serve a:",
+    "risposte": ["Visualizzare una barra colorata nella cella proporzionale al valore", "Creare un grafico a barre esterno", "Cancellare i dati"],
+    "corretta": "Visualizzare una barra colorata nella cella proporzionale al valore"
+  },
+  {
+    "domanda": "Per navigare velocemente all'ultima cella piena di un database:",
+    "risposte": ["CTRL + Freccia Giù", "Pag Giù", "Fine"],
+    "corretta": "CTRL + Freccia Giù"
+  },
+  {
+    "domanda": "Cosa significa 'Drill Down' in una Tabella Pivot?",
+    "risposte": ["Fare doppio clic su un numero per vedere i dati di dettaglio che lo compongono", "Scorrere verso il basso", "Cancellare il dato"],
+    "corretta": "Fare doppio clic su un numero per vedere i dati di dettaglio che lo compongono"
+  },
+  {
+    "domanda": "La funzione =CERCA.X (XLOOKUP) è migliore di CERCA.VERT perché:",
+    "risposte": ["Cerca in qualsiasi direzione e non rompe se inserisci colonne", "È più vecchia", "Funziona solo su Mac"],
+    "corretta": "Cerca in qualsiasi direzione e non rompe se inserisci colonne"
+  },
+  {
+    "domanda": "Come visualizzi due fogli dello stesso file contemporaneamente?",
+    "risposte": ["Visualizza > Nuova Finestra > Disponi tutto", "Apri il file due volte", "Non si può"],
+    "corretta": "Visualizza > Nuova Finestra > Disponi tutto"
+  }
+]

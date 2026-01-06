@@ -1,0 +1,152 @@
+[
+  {
+    "domanda": "A cosa serve la funzione =SE (IF)?",
+    "risposte": ["A eseguire un test logico e restituire due risultati diversi (Vero/Falso)", "A sommare celle se soddisfano un criterio", "A cercare un valore"],
+    "corretta": "A eseguire un test logico e restituire due risultati diversi (Vero/Falso)"
+  },
+  {
+    "domanda": "Quale tipo di grafico è ideale per mostrare le percentuali di un tutto (es. quote di mercato)?",
+    "risposte": ["Grafico a Torta", "Grafico a Linee", "Istogramma"],
+    "corretta": "Grafico a Torta"
+  },
+  {
+    "domanda": "Cosa fa lo strumento 'Rimuovi Duplicati'?",
+    "risposte": ["Elimina le righe interamente identiche o basate su colonne specifiche", "Nasconde i duplicati", "Evidenzia i duplicati in rosso"],
+    "corretta": "Elimina le righe interamente identiche o basate su colonne specifiche"
+  },
+  {
+    "domanda": "Vuoi trasformare un intervallo di celle in una Tabella Excel ufficiale (con filtri e stile). Quale scorciatoia usi?",
+    "risposte": ["CTRL + T", "CTRL + B", "ALT + F4"],
+    "corretta": "CTRL + T"
+  },
+  {
+    "domanda": "Nella funzione =CERCA.VERT (VLOOKUP), cosa indica il quarto argomento (Range_lookup) se è FALSO (0)?",
+    "risposte": ["Corrispondenza esatta", "Corrispondenza approssimativa", "Cerca a sinistra"],
+    "corretta": "Corrispondenza esatta"
+  },
+  {
+    "domanda": "Quale funzione conta quante celle in un intervallo contengono numeri?",
+    "risposte": ["=CONTA.NUMERI() (COUNT)", "=CONTA.VALORI() (COUNTA)", "=SOMMA()"],
+    "corretta": "=CONTA.NUMERI() (COUNT)"
+  },
+  {
+    "domanda": "Se applichi un 'Filtro' a una tabella, i dati nascosti vengono cancellati?",
+    "risposte": ["No, sono solo nascosti temporaneamente", "Sì, vengono eliminati per sempre", "Vengono spostati in un altro foglio"],
+    "corretta": "No, sono solo nascosti temporaneamente"
+  },
+  {
+    "domanda": "Cos'è uno 'Sparkline'?",
+    "risposte": ["Un piccolo grafico contenuto dentro una singola cella", "Una linea di tendenza nel grafico principale", "Un tipo di bordo"],
+    "corretta": "Un piccolo grafico contenuto dentro una singola cella"
+  },
+  {
+    "domanda": "Quale strumento usi per separare 'Nome Cognome' in due colonne diverse automaticamente?",
+    "risposte": ["Testo in Colonne", "Unisci Celle", "Convalida Dati"],
+    "corretta": "Testo in Colonne"
+  },
+  {
+    "domanda": "Per forzare il testo ad andare a capo dentro una cella senza allargarla, usi:",
+    "risposte": ["Testo a Capo (Wrap Text)", "Invio", "Riduci e adatta"],
+    "corretta": "Testo a Capo (Wrap Text)"
+  },
+  {
+    "domanda": "Cosa fa la funzione =CONTA.SE?",
+    "risposte": ["Conta le celle che soddisfano un criterio specifico (es. >100)", "Conta tutte le celle piene", "Somma le celle se sono positive"],
+    "corretta": "Conta le celle che soddisfano un criterio specifico (es. >100)"
+  },
+  {
+    "domanda": "Come puoi inserire un grafico velocemente con i dati selezionati?",
+    "risposte": ["Scheda Inserisci > Grafici consigliati", "Scheda Dati > Grafico", "CTRL + G"],
+    "corretta": "Scheda Inserisci > Grafici consigliati"
+  },
+  {
+    "domanda": "Qual è il vantaggio di usare i riferimenti assoluti (es. $A$1) in una formula?",
+    "risposte": ["Il riferimento non cambia quando trascini/copi la formula", "La formula viene calcolata più velocemente", "Il risultato è sempre positivo"],
+    "corretta": "Il riferimento non cambia quando trascini/copi la formula"
+  },
+  {
+    "domanda": "Se vuoi limitare l'inserimento dati in una cella solo a un elenco a discesa, cosa usi?",
+    "risposte": ["Convalida Dati", "Formattazione Condizionale", "Proteggi Foglio"],
+    "corretta": "Convalida Dati"
+  },
+  {
+    "domanda": "Come si chiama l'area in basso che mostra somma e media delle celle selezionate senza scrivere formule?",
+    "risposte": ["Barra di Stato", "Barra della Formula", "Ribbon"],
+    "corretta": "Barra di Stato"
+  },
+  {
+    "domanda": "Per calcolare i giorni tra due date, che operazione fai?",
+    "risposte": ["Sottrai la data più vecchia da quella più recente", "Le sommi", "Usi la funzione =GIORNI.LAVORATIVI per forza"],
+    "corretta": "Sottrai la data più vecchia da quella più recente"
+  },
+  {
+    "domanda": "A cosa serve l'opzione 'Ordina' (Sort)?",
+    "risposte": ["A riorganizzare i dati in ordine alfabetico o numerico", "A mettere in ordine le icone del desktop", "A pulire la formattazione"],
+    "corretta": "A riorganizzare i dati in ordine alfabetico o numerico"
+  },
+  {
+    "domanda": "In un grafico, come si chiama la legenda che spiega i colori?",
+    "risposte": ["Legenda", "Area del tracciato", "Titolo degli assi"],
+    "corretta": "Legenda"
+  },
+  {
+    "domanda": "Quale funzione ti permette di unire stringhe di testo?",
+    "risposte": ["=CONCATENA() o CONCAT()", "=UNISCI()", "=STRINGA()"],
+    "corretta": "=CONCATENA() o CONCAT()"
+  },
+  {
+    "domanda": "Se vedi un triangolino verde nell'angolo di una cella, cosa significa?",
+    "risposte": ["Excel segnala un potenziale errore o incongruenza", "La cella è protetta", "C'è un commento"],
+    "corretta": "Excel segnala un potenziale errore o incongruenza"
+  },
+  {
+    "domanda": "Vuoi vedere tutte le formule del foglio invece dei risultati. Scorciatoia?",
+    "risposte": ["CTRL + SHIFT + 8 (o Mostra Formule nel menu Formule)", "Non si può fare", "ALT + F4"],
+    "corretta": "CTRL + SHIFT + 8 (o Mostra Formule nel menu Formule)"
+  },
+  {
+    "domanda": "Quale funzione rimuove gli spazi extra all'inizio e fine di un testo?",
+    "risposte": ["=ANNULLA.SPAZI() (TRIM)", "=PULISCI()", "=TAGLIA()"],
+    "corretta": "=ANNULLA.SPAZI() (TRIM)"
+  },
+  {
+    "domanda": "Se vuoi trasporre una tabella (scambiare righe con colonne), come fai?",
+    "risposte": ["Copia > Incolla Speciale > Trasponi", "Ruota il monitor", "Usi il tasto Ruota"],
+    "corretta": "Copia > Incolla Speciale > Trasponi"
+  },
+  {
+    "domanda": "Cosa succede se premi F2 su una cella selezionata?",
+    "risposte": ["Entri in modalità modifica dentro la cella", "Salvi il file", "Cancelli il contenuto"],
+    "corretta": "Entri in modalità modifica dentro la cella"
+  },
+  {
+    "domanda": "Quale grafico è meglio per vedere l'andamento nel tempo (es. fatturato annuo)?",
+    "risposte": ["Grafico a Linee o Istogramma", "Grafico a Torta", "Grafico a Radar"],
+    "corretta": "Grafico a Linee o Istogramma"
+  },
+  {
+    "domanda": "La funzione =MIN() serve a:",
+    "risposte": ["Trovare il valore minimo", "Scrivere in minuscolo", "Calcolare i minuti"],
+    "corretta": "Trovare il valore minimo"
+  },
+  {
+    "domanda": "Per inserire l'ora corrente statica (che non cambia), la scorciatoia è:",
+    "risposte": ["CTRL + SHIFT + : (due punti)", "CTRL + ;", "ALT + T"],
+    "corretta": "CTRL + SHIFT + : (due punti)"
+  },
+  {
+    "domanda": "Cosa fa il pulsante 'Percentuale' (%) nella scheda Home?",
+    "risposte": ["Moltiplica per 100 e aggiunge il simbolo %", "Divide per 100", "Aggiunge solo il simbolo grafico"],
+    "corretta": "Moltiplica per 100 e aggiunge il simbolo %"
+  },
+  {
+    "domanda": "Se vuoi che le intestazioni di stampa si ripetano su ogni pagina cartacea, dove vai?",
+    "risposte": ["Layout di Pagina > Stampa Titoli", "Inserisci Intestazione", "File > Stampa"],
+    "corretta": "Layout di Pagina > Stampa Titoli"
+  },
+  {
+    "domanda": "Qual è il risultato di =5+2*3?",
+    "risposte": ["11", "21", "10"],
+    "corretta": "11"
+  }
+]
