@@ -1,151 +1,151 @@
 [
   {
-    "domanda": "In Excel, le righe sono indicate dalle lettere (A, B, C).",
+    "domanda": "In Google Fogli è necessario premere spesso il tasto 'Salva' per non perdere i progressi.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Puoi avere più fogli di lavoro all'interno di un unico file Excel.",
+    "domanda": "Le colonne sono identificate da lettere dell'alfabeto.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Se una cella mostra '#######' significa che hai perso i dati.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Excel allinea automaticamente i numeri a destra della cella.",
+    "domanda": "Le righe sono identificate da numeri progressivi.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La funzione SOMMA può calcolare solo due numeri alla volta.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Per iniziare una formula puoi usare il simbolo @ in versioni recenti, ma = è lo standard.",
+    "domanda": "Ogni formula in una cella deve iniziare con il simbolo '='.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Unire le celle (Merge) mantiene tutto il testo di tutte le celle unite.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "CTRL + C serve per tagliare il contenuto.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Puoi inserire un'immagine dentro un foglio Excel.",
+    "domanda": "È possibile collaborare in tempo reale con altri utenti sullo stesso file.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La formattazione condizionale può cambiare il colore della cella in base al suo valore.",
+    "domanda": "Un indirizzo di cella è composto prima dal numero e poi dalla lettera (es. 1A).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Se un dato viene allineato automaticamente a destra, Sheets lo ha riconosciuto come numero.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Eliminare una riga è lo stesso di cancellare il contenuto (Canc) della riga.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Il formato .CSV salva formule e formattazione.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "La funzione MEDIA include nel calcolo anche le celle vuote come se fossero zero.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Puoi ordinare i dati per colore della cella.",
+    "domanda": "Se un dato viene allineato automaticamente a sinistra, Sheets lo ha riconosciuto come testo.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il simbolo $ in $A$1 blocca sia la riga che la colonna.",
+    "domanda": "Le date in Google Fogli vengono trattate internamente come numeri e allineate a destra.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Un grafico a torta può visualizzare più serie di dati (più anelli) facilmente come un istogramma.",
+    "domanda": "La funzione SOMMA può sommare solo due celle alla volta.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Premere INVIO ti sposta normalmente alla cella sottostante.",
+    "domanda": "Il simbolo ':' in un'intervallo (es. A1:A10) significa 'fino a'.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Puoi proteggere un foglio con password per impedire modifiche.",
+    "domanda": "Il Cerca.Vert (VLOOKUP) può cercare un valore partendo da una colonna a destra verso sinistra.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I 'Fogli' (Tab) sono le diverse pagine all'interno di un unico file.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La barra della formula mostra sempre il risultato del calcolo.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Excel è un programma di videoscrittura come Word.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Puoi nascondere un foglio di lavoro senza eliminarlo.",
+    "domanda": "La Tabella Pivot serve per riassumere velocemente grandi quantità di dati.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La funzione ADESSO() (NOW) si aggiorna ogni volta che ricalcoli il foglio.",
+    "domanda": "È possibile inserire commenti nelle celle per comunicare con i colleghi.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "CTRL + T serve per stampare.",
+    "domanda": "I Filtri eliminano definitivamente i dati che non corrispondono ai criteri scelti.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Lo strumento 'Copia Formato' si disattiva sempre dopo un solo clic.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Una tabella Pivot modifica i dati sorgente originali.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Puoi inserire formule matematiche nell'intestazione di pagina.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "L'errore #NOME? appare se scrivi male il nome di una funzione.",
+    "domanda": "La funzione SE (IF) permette di restituire un valore se una condizione è vera e un altro se è falsa.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Puoi annullare l'eliminazione di un Foglio di Lavoro con CTRL+Z.",
+    "domanda": "Google Fogli funziona solo se è installato un software specifico sul PC.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il riempimento automatico (AutoFill) riconosce i giorni della settimana.",
+    "domanda": "Il quadratino blu nell'angolo di una cella serve per trascinare e copiare formule o dati.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Tutte le celle di un nuovo foglio sono bloccate (Locked) di default (ma l'effetto si vede solo se proteggi il foglio).",
+    "domanda": "Un grafico a torta è l'ideale per mostrare come un valore cambia nel tempo giorno dopo giorno.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le colonne AA, AB, AC appaiono solo dopo che è stata esaurita la colonna Z.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La formattazione condizionale cambia il colore di una cella in base a regole specifiche.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È possibile proteggere un intervallo di celle per impedire che altri lo modifichino.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Google Fogli non permette di importare file creati con Microsoft Excel.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La barra delle formule (fx) mostra il contenuto reale della cella, inclusa l'eventuale formula.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Per selezionare un'intera colonna basta cliccare sulla lettera dell'intestazione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione MEDIA calcola il valore centrale di un insieme di numeri.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le tabelle Pivot aggiornano i dati automaticamente se aggiungi nuove righe alla sorgente originale senza modificare l'intervallo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Si può accedere a Google Fogli solo tramite computer e non da smartphone.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Lo strumento 'Convalida dati' serve per creare menu a discesa all'interno delle celle.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   }
