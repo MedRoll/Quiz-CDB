@@ -1,152 +1,272 @@
 [
   {
-    "domanda": "A cosa serve principalmente una Tabella Pivot?",
-    "risposte": ["A riassumere, analizzare e raggruppare grandi quantità di dati", "A creare grafici colorati", "A fare calcoli matematici complessi riga per riga"],
-    "corretta": "A riassumere, analizzare e raggruppare grandi quantità di dati"
+    "domanda": "Qual è il vantaggio principale di lavorare con un file salvato su Google Drive?",
+    "risposte": [
+      "Le modifiche vengono salvate automaticamente in tempo reale",
+      "Il file può essere aperto solo se il computer è collegato a una stampante",
+      "Il file occupa più spazio sul disco fisso locale"
+    ],
+    "corretta": "Le modifiche vengono salvate automaticamente in tempo reale"
   },
   {
-    "domanda": "Se i dati originali cambiano, la Tabella Pivot si aggiorna da sola?",
-    "risposte": ["No, devi premere 'Aggiorna' (Refresh)", "Sì, sempre in tempo reale", "Sì, ma solo se chiudi il file"],
-    "corretta": "No, devi premere 'Aggiorna' (Refresh)"
+    "domanda": "In Google Fogli, come sono identificate le colonne?",
+    "risposte": [
+      "Da numeri progressivi (1, 2, 3...)",
+      "Da lettere dell'alfabeto (A, B, C...)",
+      "Da nomi di colori"
+    ],
+    "corretta": "Da lettere dell'alfabeto (A, B, C...)"
   },
   {
-    "domanda": "Quale strumento di Excel permette di importare e pulire dati da fonti esterne (Web, CSV)?",
-    "risposte": ["Power Query (Recupera e Trasforma)", "Power Point", "Cerca.Vert"],
-    "corretta": "Power Query (Recupera e Trasforma)"
+    "domanda": "Cosa identifica l'indirizzo di una cella (es. B5)?",
+    "risposte": [
+      "La colonna B e la riga 5",
+      "La riga B e la colonna 5",
+      "Il numero di caratteri contenuti nella cella"
+    ],
+    "corretta": "La colonna B e la riga 5"
   },
   {
-    "domanda": "Cosa fa la funzione 'Ricerca Obiettivo' (Goal Seek)?",
-    "risposte": ["Trova l'input necessario per ottenere un certo risultato finale", "Cerca un file nel computer", "Cerca un obiettivo di vendita"],
-    "corretta": "Trova l'input necessario per ottenere un certo risultato finale"
+    "domanda": "Quale simbolo deve sempre precedere l'inserimento di una formula?",
+    "risposte": [
+      "Il simbolo del dollaro ($)",
+      "Il simbolo dell'uguale (=)",
+      "Il simbolo della chiocciola (@)"
+    ],
+    "corretta": "Il simbolo dell'uguale (=)"
   },
   {
-    "domanda": "Cos'è una Macro in Excel?",
-    "risposte": ["Una sequenza registrata di azioni per automatizzare compiti ripetitivi", "Una formula molto grande", "Un tipo di grafico gigante"],
-    "corretta": "Una sequenza registrata di azioni per automatizzare compiti ripetitivi"
+    "domanda": "Che cos'è una cella in Google Fogli?",
+    "risposte": [
+      "Il quadratino singolo dove si inseriscono i dati",
+      "L'intero documento salvato su Drive",
+      "Una singola pagina del file"
+    ],
+    "corretta": "Il quadratino singolo dove si inseriscono i dati"
   },
   {
-    "domanda": "Perché i file con Macro devono essere salvati come .XLSM?",
-    "risposte": ["Per motivi di sicurezza, per distinguere file che contengono codice eseguibile", "Perché occupano meno spazio", "È solo una preferenza estetica"],
-    "corretta": "Per motivi di sicurezza, per distinguere file che contengono codice eseguibile"
+    "domanda": "Cosa succede se trascini il quadratino blu nell'angolo di una cella verso il basso?",
+    "risposte": [
+      "Si cancella il contenuto della cella",
+      "Si copia il contenuto o la formula nelle celle sottostanti",
+      "Si cambia il colore dello sfondo della cella"
+    ],
+    "corretta": "Si copia il contenuto o la formula nelle celle sottostanti"
   },
   {
-    "domanda": "Quale funzione esclusiva di Google Sheets permette di tradurre celle?",
-    "risposte": ["=GOOGLETRANSLATE()", "=TRANSLATE()", "=TRADUCI()"],
-    "corretta": "=GOOGLETRANSLATE()"
+    "domanda": "Se un numero viene allineato automaticamente a destra nella cella, cosa significa?",
+    "risposte": [
+      "Che il programma lo ha riconosciuto correttamente come valore numerico",
+      "Che c'è un errore nel formato della cella",
+      "Che il numero è troppo grande per la colonna"
+    ],
+    "corretta": "Che il programma lo ha riconosciuto correttamente come valore numerico"
   },
   {
-    "domanda": "Nelle Tabelle Pivot, dove trascini un campo per filtrare l'intero report?",
-    "risposte": ["Nell'area Filtri", "Nell'area Colonne", "Nell'area Valori"],
-    "corretta": "Nell'area Filtri"
+    "domanda": "A cosa serve la funzione di 'Filtro'?",
+    "risposte": [
+      "A nascondere temporaneamente i dati che non soddisfano certi criteri",
+      "A cancellare definitivamente le righe vuote",
+      "A inviare il foglio per email automaticamente"
+    ],
+    "corretta": "A nascondere temporaneamente i dati che non soddisfano certi criteri"
   },
   {
-    "domanda": "Qual è il limite principale del Cerca.Vert (VLOOKUP) classico?",
-    "risposte": ["Cerca solo nella prima colonna a sinistra e restituisce valori alla sua destra", "Non può cercare numeri", "Funziona solo su fogli diversi"],
-    "corretta": "Cerca solo nella prima colonna a sinistra e restituisce valori alla sua destra"
+    "domanda": "Dove si trovano le schede per passare da un foglio all'altro (Tab) nello stesso file?",
+    "risposte": [
+      "Nella barra dei menu in alto",
+      "In basso a sinistra",
+      "Nella barra laterale destra"
+    ],
+    "corretta": "In basso a sinistra"
   },
   {
-    "domanda": "Cosa permette di fare lo 'Slicer' (Filtro Dati) in una Pivot?",
-    "risposte": ["Filtrare i dati tramite pulsanti visivi cliccabili", "Tagliare i dati a metà", "Nascondere il foglio"],
-    "corretta": "Filtrare i dati tramite pulsanti visivi cliccabili"
+    "domanda": "Cos'è la 'collaborazione simultanea'?",
+    "risposte": [
+      "Poter lavorare insieme ad altre persone sullo stesso file nello stesso momento",
+      "Dover aspettare che un utente chiuda il file per poterlo aprire",
+      "Stampare più copie dello stesso foglio contemporaneamente"
+    ],
+    "corretta": "Poter lavorare insieme ad altre persone sullo stesso file nello stesso momento"
   },
   {
-    "domanda": "Se vuoi proteggere solo alcune celle lasciando le altre modificabili, cosa devi fare prima di proteggere il foglio?",
-    "risposte": ["Sbloccare le celle che vuoi rendere modificabili (Formato celle > Protezione)", "Mettere una password al file", "Nascondere le celle"],
-    "corretta": "Sbloccare le celle che vuoi rendere modificabili (Formato celle > Protezione)"
+    "domanda": "Come si inserisce un commento in una cella per un collaboratore?",
+    "risposte": [
+      "Scrivendo il testo direttamente sopra il numero",
+      "Facendo tasto destro sulla cella e selezionando 'Commenta'",
+      "Cambiando il colore del font in rosso"
+    ],
+    "corretta": "Facendo tasto destro sulla cella e selezionando 'Commenta'"
   },
   {
-    "domanda": "In Power Query, i passaggi di pulizia che applichi (es. rimuovi righe):",
-    "risposte": ["Vengono registrati e riapplicati automaticamente ogni volta che aggiorni i dati", "Devono essere rifatti ogni volta", "Modificano irreversibilmente il file originale"],
-    "corretta": "Vengono registrati e riapplicati automaticamente ogni volta che aggiorni i dati"
+    "domanda": "Cosa indica l'allineamento automatico a sinistra di un dato?",
+    "risposte": [
+      "Che il dato è stato riconosciuto come testo",
+      "Che il dato è una data valida",
+      "Che la cella è vuota"
+    ],
+    "corretta": "Che il dato è stato riconosciuto come testo"
   },
   {
-    "domanda": "Quale errore restituisce il Cerca.Vert se non trova il valore?",
-    "risposte": ["#N/D (#N/A)", "#VALORE!", "#NUM!"],
-    "corretta": "#N/D (#N/A)"
+    "domanda": "Cosa succede se scrivi una data con il formato 01/01/2025?",
+    "risposte": [
+      "Viene riconosciuta come data e allineata a destra",
+      "Viene considerata un errore di calcolo",
+      "Viene cancellata automaticamente"
+    ],
+    "corretta": "Viene riconosciuta come data e allineata a destra"
   },
   {
-    "domanda": "La funzione =SOMMA.SE (SUMIF) serve a:",
-    "risposte": ["Sommare solo le celle che rispettano una condizione", "Sommare tutto e se c'è errore dare 0", "Sommare due fogli"],
-    "corretta": "Sommare solo le celle che rispettano una condizione"
+    "domanda": "In una formula, cosa significa scrivere =A1+A2?",
+    "risposte": [
+      "Sommare il valore contenuto nella cella A1 al valore della cella A2",
+      "Unire i testi delle due celle",
+      "Cancellare le celle A1 e A2"
+    ],
+    "corretta": "Sommare il valore contenuto nella cella A1 al valore della cella A2"
   },
   {
-    "domanda": "Come si chiama l'indirizzo di cella che fa riferimento a un altro foglio? (es. Foglio2!A1)",
-    "risposte": ["Riferimento 3D o Esterno", "Riferimento Assoluto", "Hyperlink"],
-    "corretta": "Riferimento 3D o Esterno"
+    "domanda": "Qual è la funzione principale di un grafico a torta?",
+    "risposte": [
+      "Mostrare la suddivisione di un totale in diverse parti (percentuali)",
+      "Mostrare l'andamento dei prezzi nel tempo",
+      "Elencare tutti i nomi dei dipendenti in ordine alfabetico"
+    ],
+    "corretta": "Mostrare la suddivisione di un totale in diverse parti (percentuali)"
   },
   {
-    "domanda": "Per vedere dove finisce la pagina prima di stampare, quale visualizzazione è utile?",
-    "risposte": ["Anteprima Interruzioni di Pagina", "Layout Web", "Struttura"],
-    "corretta": "Anteprima Interruzioni di Pagina"
+    "domanda": "Come si può selezionare un'intera colonna?",
+    "risposte": [
+      "Cliccando sulla lettera dell'intestazione in alto",
+      "Trascinando il mouse su ogni singola cella",
+      "Premendo il tasto Invio dieci volte"
+    ],
+    "corretta": "Cliccando sulla lettera dell'intestazione in alto"
   },
   {
-    "domanda": "Cosa succede se registri una Macro con i 'Riferimenti Relativi'?",
-    "risposte": ["La macro agisce rispetto alla cella attiva corrente, non su celle fisse", "La macro funziona solo sul file originale", "La macro non viene salvata"],
-    "corretta": "La macro agisce rispetto alla cella attiva corrente, non su celle fisse"
+    "domanda": "Cosa si intende quando si dice che ogni cella è 'viva'?",
+    "risposte": [
+      "Che può contenere logica e calcoli dinamici",
+      "Che cambia colore in base all'ora del giorno",
+      "Che emette un suono quando viene selezionata"
+    ],
+    "corretta": "Che può contenere logica e calcoli dinamici"
   },
   {
-    "domanda": "Quale formato di file è testo puro separato da virgole o punti e virgola?",
-    "risposte": ["CSV", "XLSX", "PDF"],
-    "corretta": "CSV"
+    "domanda": "A cosa serve la funzione CERCA.VERT?",
+    "risposte": [
+      "A cercare un dato in una tabella e riportare un'informazione correlata",
+      "A cambiare il font di tutte le celle verticali",
+      "A stampare il foglio in formato verticale"
+    ],
+    "corretta": "A cercare un dato in una tabella e riportare un'informazione correlata"
   },
   {
-    "domanda": "In Google Sheets, come collabori in tempo reale?",
-    "risposte": ["Cliccando 'Condividi' e inviando il link", "Inviando il file via mail", "Non si può"],
-    "corretta": "Cliccando 'Condividi' e inviando il link"
+    "domanda": "Qual è la funzione di una tabella Pivot?",
+    "risposte": [
+      "Riassumere e analizzare grandi quantità di dati in modo rapido",
+      "Tradurre il testo in un'altra lingua",
+      "Aggiungere immagini decorative al foglio"
+    ],
+    "corretta": "Riassumere e analizzare grandi quantità di dati in modo rapido"
   },
   {
-    "domanda": "Per creare un elenco a discesa dipendente (il secondo elenco cambia in base al primo), serve:",
-    "risposte": ["La funzione INDIRETTO() nella Convalida Dati", "Solo la Convalida Dati semplice", "Una Macro per forza"],
-    "corretta": "La funzione INDIRETTO() nella Convalida Dati"
+    "domanda": "Cosa permette di fare la funzione 'SE'?",
+    "risposte": [
+      "Restituire un risultato diverso in base al verificarsi di una condizione",
+      "Sommare tutti i numeri che finiscono con lo zero",
+      "Salvare il file in un formato diverso"
+    ],
+    "corretta": "Restituire un risultato diverso in base al verificarsi di una condizione"
   },
   {
-    "domanda": "Qual è il vantaggio principale di lavorare nel Cloud (Excel Online / Google Sheets)?",
-    "risposte": ["Accesso ovunque, salvataggio automatico e cronologia versioni", "Più funzioni di Excel Desktop", "Funziona senza internet"],
-    "corretta": "Accesso ovunque, salvataggio automatico e cronologia versioni"
+    "domanda": "In Google Fogli, dove si trova la barra delle formule?",
+    "risposte": [
+      "Sotto la griglia delle celle",
+      "Sopra la griglia delle celle",
+      "Nel menu 'Strumenti'"
+    ],
+    "corretta": "Sopra la griglia delle celle"
   },
   {
-    "domanda": "Cosa fa la funzione =TESTO()?",
-    "risposte": ["Converte un numero in testo applicando una formattazione specifica", "Cambia il colore del testo", "Legge il testo ad alta voce"],
-    "corretta": "Converte un numero in testo applicando una formattazione specifica"
+    "domanda": "Come si aggiunge una nuova riga?",
+    "risposte": [
+      "Tasto destro sul numero della riga e selezione di 'Inserisci riga'",
+      "Bisogna cancellare tutto il foglio e ricominciare",
+      "Si preme il tasto 'Spazio' sulla riga corrente"
+    ],
+    "corretta": "Tasto destro sul numero della riga e selezione di 'Inserisci riga'"
   },
   {
-    "domanda": "Per raggruppare le date in Mesi o Anni in una Pivot:",
-    "risposte": ["Tasto destro sulle date nella Pivot > Raggruppa", "Devi cambiare i dati originali", "Usi una formula SE"],
-    "corretta": "Tasto destro sulle date nella Pivot > Raggruppa"
+    "domanda": "A cosa serve il pulsante 'Condividi'?",
+    "risposte": [
+      "A dare l'accesso al file ad altri utenti e gestire i permessi",
+      "A pubblicare il file su un social network",
+      "A dividere una cella in due parti più piccole"
+    ],
+    "corretta": "A dare l'accesso al file ad altri utenti e gestire i permessi"
   },
   {
-    "domanda": "L'analisi 'What-If' include quali strumenti?",
-    "risposte": ["Gestione Scenari, Ricerca Obiettivo, Tabella Dati", "Solo Pivot", "Solo Grafici"],
-    "corretta": "Gestione Scenari, Ricerca Obiettivo, Tabella Dati"
+    "domanda": "Cosa indica l'indirizzo 'AA1'?",
+    "risposte": [
+      "Una cella che si trova in una colonna successiva alla Z",
+      "Un errore nel sistema di coordinate",
+      "Il nome dell'autore del foglio"
+    ],
+    "corretta": "Una cella che si trova in una colonna successiva alla Z"
   },
   {
-    "domanda": "Se vuoi contare quante volte appare 'Mario' in una lista, usi:",
-    "risposte": ["=CONTA.SE(intervallo; \"Mario\")", "=TROVA(\"Mario\")", "=SE(\"Mario\")"],
-    "corretta": "=CONTA.SE(intervallo; \"Mario\")"
+    "domanda": "Quale tra questi è un esempio corretto di 'Valuta' in Fogli?",
+    "risposte": [
+      "10,00 €",
+      "Euro 10",
+      "10 (Valuta)"
+    ],
+    "corretta": "10,00 €"
   },
   {
-    "domanda": "Il formato condizionale 'Barre dei dati' serve a:",
-    "risposte": ["Visualizzare una barra colorata nella cella proporzionale al valore", "Creare un grafico a barre esterno", "Cancellare i dati"],
-    "corretta": "Visualizzare una barra colorata nella cella proporzionale al valore"
+    "domanda": "Che cos'è un 'Intervallo' di celle?",
+    "risposte": [
+      "Un gruppo di celle selezionate insieme",
+      "La pausa tra una modifica e l'altra",
+      "Il tempo di caricamento del file"
+    ],
+    "corretta": "Un gruppo di celle selezionate insieme"
   },
   {
-    "domanda": "Per navigare velocemente all'ultima cella piena di un database:",
-    "risposte": ["CTRL + Freccia Giù", "Pag Giù", "Fine"],
-    "corretta": "CTRL + Freccia Giù"
+    "domanda": "A cosa serve la 'Formattazione condizionale'?",
+    "risposte": [
+      "A cambiare colore alle celle automaticamente in base al loro contenuto",
+      "A decidere chi può leggere il file",
+      "A cancellare le celle che contengono numeri bassi"
+    ],
+    "corretta": "A cambiare colore alle celle automaticamente in base al loro contenuto"
   },
   {
-    "domanda": "Cosa significa 'Drill Down' in una Tabella Pivot?",
-    "risposte": ["Fare doppio clic su un numero per vedere i dati di dettaglio che lo compongono", "Scorrere verso il basso", "Cancellare il dato"],
-    "corretta": "Fare doppio clic su un numero per vedere i dati di dettaglio che lo compongono"
+    "domanda": "In Google Fogli, cosa si intende per 'Cloud'?",
+    "risposte": [
+      "Che il file è salvato online e accessibile da qualsiasi dispositivo",
+      "Che il file viene stampato in modo sfocato",
+      "Che il file è protetto da un antivirus speciale"
+    ],
+    "corretta": "Che il file è salvato online e accessibile da qualsiasi dispositivo"
   },
   {
-    "domanda": "La funzione =CERCA.X (XLOOKUP) è migliore di CERCA.VERT perché:",
-    "risposte": ["Cerca in qualsiasi direzione e non rompe se inserisci colonne", "È più vecchia", "Funziona solo su Mac"],
-    "corretta": "Cerca in qualsiasi direzione e non rompe se inserisci colonne"
+    "domanda": "Come si può selezionare un'intera riga?",
+    "risposte": [
+      "Cliccando sul numero a sinistra della riga",
+      "Premendo due volte il tasto 'Invio'",
+      "Cambiando il titolo del file"
+    ],
+    "corretta": "Cliccando sul numero a sinistra della riga"
   },
   {
-    "domanda": "Come visualizzi due fogli dello stesso file contemporaneamente?",
-    "risposte": ["Visualizza > Nuova Finestra > Disponi tutto", "Apri il file due volte", "Non si può"],
-    "corretta": "Visualizza > Nuova Finestra > Disponi tutto"
+    "domanda": "Cosa significa 'nessun tasto Salva' in Google Sheets?",
+    "risposte": [
+      "Che ogni singola modifica è registrata all'istante su Drive",
+      "Che devi ricordarti di salvare prima di uscire premendo un tasto segreto",
+      "Che il file è solo temporaneo e verrà cancellato"
+    ],
+    "corretta": "Che ogni singola modifica è registrata all'istante su Drive"
   }
 ]
