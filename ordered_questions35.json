@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Il Cerca.Vert (VLOOKUP) funziona solo se la colonna di ricerca è la prima a sinistra dell'intervallo selezionato.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Puoi usare caratteri jolly (* o ?) nelle funzioni come CONTA.SE.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Una Macro registrata cattura anche i movimenti del mouse che non cliccano nulla.",
+    "domanda": "Per sommare un intervallo di celle, la funzione corretta è =TOTALE(A1:A10).",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Power Query può unire dati provenienti da due file Excel diversi.",
+    "domanda": "Se trascini il quadratino blu di una cella che contiene 'Lunedì', Fogli riempirà le celle successive con 'Martedì', 'Mercoledì', ecc.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il formato condizionale si sovrascrive se cambi manualmente il colore della cella.",
+    "domanda": "In Google Fogli, il simbolo per la moltiplicazione è la lettera 'x'.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Le Tabelle Pivot si aggiornano automaticamente appena modifichi un dato nella sorgente.",
+    "domanda": "La funzione =MEDIA(B1:B5) somma i valori e li divide per il numero di celle nell'intervallo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le celle possono contenere solo numeri o testo, non possono contenere link a siti web.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "La funzione CONTA.VALORI conta anche le celle contenenti testo.",
+    "domanda": "Il comando 'Blocca righe' permette di mantenere visibili le intestazioni anche quando si scorre verso il basso.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Puoi creare un grafico combinato con barre e linee insieme.",
+    "domanda": "Per eliminare una colonna, bisogna selezionarla, fare tasto destro e scegliere 'Elimina colonna'.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La 'Ricerca Obiettivo' può variare più celle contemporaneamente per trovare il risultato.",
+    "domanda": "La funzione =OGGI() restituisce automaticamente la data corrente ogni volta che apri il file.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un file di Google Fogli può avere un solo foglio di lavoro (Tab) al suo interno.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "In Excel Online (Web) le Macro VBA funzionano esattamente come su Desktop.",
+    "domanda": "La 'Cronologia delle versioni' permette di vedere le modifiche passate e ripristinare uno stato precedente del file.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se scrivi '10%' in una cella, Fogli lo riconosce come valore numerico (0,1).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I grafici a barre sono più indicati dei grafici a torta per confrontare molte categorie diverse.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione =CONTA.NUMERI(A1:A20) conta quante celle nell'intervallo contengono del testo.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Se nascondi una colonna, le formule che fanno riferimento a quella colonna smettono di funzionare.",
+    "domanda": "È possibile scaricare un file di Google Fogli in formato .xlsx (Excel) sul proprio computer.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il simbolo per la divisione nelle formule è la barra diagonale (/).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione =MIN(C1:C10) restituisce il valore più basso trovato nell'intervallo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Per unire due o più celle in una sola, si usa il comando 'Unisci celle'.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "In Google Fogli, non è possibile cambiare il colore del testo o dello sfondo della cella.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "La funzione SE può essere annidata (un SE dentro un altro SE).",
+    "domanda": "La funzione =MAX(D1:D100) serve a trovare il valore più alto in un database.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Usare 'Testo in Colonne' sovrascrive le celle alla destra della colonna originale.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "L'errore #RIF! (#REF!) indica che un riferimento di cella non è più valido (es. cella eliminata).",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Puoi filtrare per colore in una Tabella Pivot standard.",
+    "domanda": "I collaboratori con permesso di 'Sola visualizzazione' possono cancellare i dati degli altri.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Lo Slicer funziona solo con le Tabelle Pivot o Tabelle formattate come tali.",
+    "domanda": "L'errore #DIV/0! appare quando una formula tenta di dividere un numero per zero.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Per usare la funzione SOMMA.PIÙ.SE (SUMIFS) devi mettere l'intervallo somma come primo argomento.",
+    "domanda": "La funzione =CONCATENA(A1; B1) serve a unire il testo di due celle diverse in una sola.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Google Sheets salva i file con estensione .gsheet sul tuo disco rigido locale come Excel.",
+    "domanda": "Per inserire un grafico, bisogna prima selezionare i dati che si desidera visualizzare.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La 'Ricerca e Sostituzione' permette di cambiare una parola specifica in tutto il foglio contemporaneamente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se una colonna è troppo stretta, Google Fogli mostra sempre il simbolo '####' invece del numero.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "La Convalida Dati può impedire a un utente di scrivere testo in una cella numerica.",
+    "domanda": "Le tabelle Pivot sono utili per raggruppare i dati per categoria (es. vendite totali per regione).",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "È possibile inserire un'interruzione di pagina manuale in Excel.",
+    "domanda": "In Google Fogli si possono usare le scorciatoie da tastiera come Ctrl+C (Copia) e Ctrl+V (Incolla).",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "I 'Grafici Consigliati' mostrano sempre l'opzione migliore per i tuoi dati.",
+    "domanda": "La funzione =ARROTONDA(A1; 2) riduce i decimali di un numero a due cifre.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il simbolo '$' usato dentro una formula (es. $A$1) serve a bloccare il riferimento alla cella quando si trascina la formula.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È impossibile inserire immagini all'interno delle celle di un foglio di calcolo.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
-  },
-  {
-    "domanda": "Se copi un foglio in un'altra cartella di lavoro, le formule mantengono i collegamenti al file originale.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Power Query può unpivotare (trasformare colonne in righe) i dati.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La funzione =OGGI() cambia data se apri il file domani.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Puoi usare CTRL + ; per inserire la data corrente statica.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "I riferimenti misti (es. $A1) bloccano solo la colonna.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Excel può leggere ad alta voce il contenuto delle celle (Text to Speech).",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Un file .XLSM è identico a un .XLSX ma permette l'esecuzione di macro.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La funzione CONCATENA mette automaticamente uno spazio tra le parole unite.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Puoi condividere un file Excel in tempo reale solo se è salvato su OneDrive o SharePoint.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
   }
 ]
