@@ -1,152 +1,272 @@
 [
   {
-    "domanda": "A cosa serve la funzione =SE (IF)?",
-    "risposte": ["A eseguire un test logico e restituire due risultati diversi (Vero/Falso)", "A sommare celle se soddisfano un criterio", "A cercare un valore"],
-    "corretta": "A eseguire un test logico e restituire due risultati diversi (Vero/Falso)"
+    "domanda": "Qual è il vantaggio principale di lavorare con un file salvato su Google Drive?",
+    "risposte": [
+      "Le modifiche vengono salvate automaticamente in tempo reale",
+      "Il file può essere aperto solo se il computer è collegato a una stampante",
+      "Il file occupa più spazio sul disco fisso locale"
+    ],
+    "corretta": "Le modifiche vengono salvate automaticamente in tempo reale"
   },
   {
-    "domanda": "Quale tipo di grafico è ideale per mostrare le percentuali di un tutto (es. quote di mercato)?",
-    "risposte": ["Grafico a Torta", "Grafico a Linee", "Istogramma"],
-    "corretta": "Grafico a Torta"
+    "domanda": "In Google Fogli, come sono identificate le colonne?",
+    "risposte": [
+      "Da numeri progressivi (1, 2, 3...)",
+      "Da lettere dell'alfabeto (A, B, C...)",
+      "Da nomi di colori"
+    ],
+    "corretta": "Da lettere dell'alfabeto (A, B, C...)"
   },
   {
-    "domanda": "Cosa fa lo strumento 'Rimuovi Duplicati'?",
-    "risposte": ["Elimina le righe interamente identiche o basate su colonne specifiche", "Nasconde i duplicati", "Evidenzia i duplicati in rosso"],
-    "corretta": "Elimina le righe interamente identiche o basate su colonne specifiche"
+    "domanda": "Cosa identifica l'indirizzo di una cella (es. C4)?",
+    "risposte": [
+      "La colonna C e la riga 4",
+      "La riga C e la colonna 4",
+      "Il numero di caratteri contenuti nella cella"
+    ],
+    "corretta": "La colonna C e la riga 4"
   },
   {
-    "domanda": "Vuoi trasformare un intervallo di celle in una Tabella Excel ufficiale (con filtri e stile). Quale scorciatoia usi?",
-    "risposte": ["CTRL + T", "CTRL + B", "ALT + F4"],
-    "corretta": "CTRL + T"
+    "domanda": "Quale simbolo deve sempre precedere l'inserimento di una formula?",
+    "risposte": [
+      "Il simbolo del dollaro ($)",
+      "Il simbolo dell'uguale (=)",
+      "Il simbolo della chiocciola (@)"
+    ],
+    "corretta": "Il simbolo dell'uguale (=)"
   },
   {
-    "domanda": "Nella funzione =CERCA.VERT (VLOOKUP), cosa indica il quarto argomento (Range_lookup) se è FALSO (0)?",
-    "risposte": ["Corrispondenza esatta", "Corrispondenza approssimativa", "Cerca a sinistra"],
-    "corretta": "Corrispondenza esatta"
+    "domanda": "Cosa succede se trascini il quadratino blu nell'angolo di una cella verso il basso?",
+    "risposte": [
+      "Si cancella il contenuto della cella",
+      "Si copia il contenuto o la formula nelle celle sottostanti",
+      "Si cambia il colore dello sfondo della cella"
+    ],
+    "corretta": "Si copia il contenuto o la formula nelle celle sottostanti"
   },
   {
-    "domanda": "Quale funzione conta quante celle in un intervallo contengono numeri?",
-    "risposte": ["=CONTA.NUMERI() (COUNT)", "=CONTA.VALORI() (COUNTA)", "=SOMMA()"],
-    "corretta": "=CONTA.NUMERI() (COUNT)"
+    "domanda": "Se un numero viene allineato automaticamente a destra nella cella, cosa significa?",
+    "risposte": [
+      "Che il programma lo ha riconosciuto correttamente come valore numerico",
+      "Che c'è un errore nel formato della cella",
+      "Che il numero è troppo grande per la colonna"
+    ],
+    "corretta": "Che il programma lo ha riconosciuto correttamente come valore numerico"
   },
   {
-    "domanda": "Se applichi un 'Filtro' a una tabella, i dati nascosti vengono cancellati?",
-    "risposte": ["No, sono solo nascosti temporaneamente", "Sì, vengono eliminati per sempre", "Vengono spostati in un altro foglio"],
-    "corretta": "No, sono solo nascosti temporaneamente"
+    "domanda": "A cosa serve la funzione di 'Filtro'?",
+    "risposte": [
+      "A nascondere temporaneamente i dati che non soddisfano certi criteri",
+      "A cancellare definitivamente le righe vuote",
+      "A inviare il foglio per email automaticamente"
+    ],
+    "corretta": "A nascondere temporaneamente i dati che non soddisfano certi criteri"
   },
   {
-    "domanda": "Cos'è uno 'Sparkline'?",
-    "risposte": ["Un piccolo grafico contenuto dentro una singola cella", "Una linea di tendenza nel grafico principale", "Un tipo di bordo"],
-    "corretta": "Un piccolo grafico contenuto dentro una singola cella"
+    "domanda": "Dove si trovano le schede per passare da un foglio all'altro (Tab) nello stesso file?",
+    "risposte": [
+      "Nella barra dei menu in alto",
+      "In basso a sinistra",
+      "Nella barra laterale destra"
+    ],
+    "corretta": "In basso a sinistra"
   },
   {
-    "domanda": "Quale strumento usi per separare 'Nome Cognome' in due colonne diverse automaticamente?",
-    "risposte": ["Testo in Colonne", "Unisci Celle", "Convalida Dati"],
-    "corretta": "Testo in Colonne"
+    "domanda": "Cos'è la 'collaborazione simultanea'?",
+    "risposte": [
+      "Poter lavorare insieme ad altre persone sullo stesso file nello stesso momento",
+      "Dover aspettare che un utente chiuda il file per poterlo aprire",
+      "Stampare più copie dello stesso foglio contemporaneamente"
+    ],
+    "corretta": "Poter lavorare insieme ad altre persone sullo stesso file nello stesso momento"
   },
   {
-    "domanda": "Per forzare il testo ad andare a capo dentro una cella senza allargarla, usi:",
-    "risposte": ["Testo a Capo (Wrap Text)", "Invio", "Riduci e adatta"],
-    "corretta": "Testo a Capo (Wrap Text)"
+    "domanda": "Come si inserisce un commento in una cella per un collaboratore?",
+    "risposte": [
+      "Scrivendo il testo direttamente sopra il numero",
+      "Facendo tasto destro sulla cella e selezionando 'Commenta'",
+      "Cambiando il colore del font in rosso"
+    ],
+    "corretta": "Facendo tasto destro sulla cella e selezionando 'Commenta'"
   },
   {
-    "domanda": "Cosa fa la funzione =CONTA.SE?",
-    "risposte": ["Conta le celle che soddisfano un criterio specifico (es. >100)", "Conta tutte le celle piene", "Somma le celle se sono positive"],
-    "corretta": "Conta le celle che soddisfano un criterio specifico (es. >100)"
+    "domanda": "Cosa indica l'allineamento automatico a sinistra di un dato?",
+    "risposte": [
+      "Che il dato è stato riconosciuto come testo",
+      "Che il dato è una data valida",
+      "Che la cella è vuota"
+    ],
+    "corretta": "Che il dato è stato riconosciuto come testo"
   },
   {
-    "domanda": "Come puoi inserire un grafico velocemente con i dati selezionati?",
-    "risposte": ["Scheda Inserisci > Grafici consigliati", "Scheda Dati > Grafico", "CTRL + G"],
-    "corretta": "Scheda Inserisci > Grafici consigliati"
+    "domanda": "Cosa succede se scrivi una data con il formato 12/05/2024?",
+    "risposte": [
+      "Viene riconosciuta come data e allineata a destra",
+      "Viene considerata un errore di calcolo",
+      "Viene cancellata automaticamente"
+    ],
+    "corretta": "Viene riconosciuta come data e allineata a destra"
   },
   {
-    "domanda": "Qual è il vantaggio di usare i riferimenti assoluti (es. $A$1) in una formula?",
-    "risposte": ["Il riferimento non cambia quando trascini/copi la formula", "La formula viene calcolata più velocemente", "Il risultato è sempre positivo"],
-    "corretta": "Il riferimento non cambia quando trascini/copi la formula"
+    "domanda": "In una formula, cosa significa scrivere =A1+A2?",
+    "risposte": [
+      "Sommare il valore contenuto nella cella A1 al valore della cella A2",
+      "Unire i testi delle due celle",
+      "Cancellare le celle A1 e A2"
+    ],
+    "corretta": "Sommare il valore contenuto nella cella A1 al valore della cella A2"
   },
   {
-    "domanda": "Se vuoi limitare l'inserimento dati in una cella solo a un elenco a discesa, cosa usi?",
-    "risposte": ["Convalida Dati", "Formattazione Condizionale", "Proteggi Foglio"],
-    "corretta": "Convalida Dati"
+    "domanda": "Qual è la funzione principale di un grafico a torta?",
+    "risposte": [
+      "Mostrare la suddivisione di un totale in diverse parti (percentuali)",
+      "Mostrare l'andamento dei prezzi nel tempo",
+      "Elencare tutti i nomi dei dipendenti in ordine alfabetico"
+    ],
+    "corretta": "Mostrare la suddivisione di un totale in diverse parti (percentuali)"
   },
   {
-    "domanda": "Come si chiama l'area in basso che mostra somma e media delle celle selezionate senza scrivere formule?",
-    "risposte": ["Barra di Stato", "Barra della Formula", "Ribbon"],
-    "corretta": "Barra di Stato"
+    "domanda": "Come si può selezionare un'intera colonna?",
+    "risposte": [
+      "Cliccando sulla lettera dell'intestazione (es. B)",
+      "Trascinando il mouse su ogni singola cella",
+      "Premendo il tasto Invio dieci volte"
+    ],
+    "corretta": "Cliccando sulla lettera dell'intestazione (es. B)"
   },
   {
-    "domanda": "Per calcolare i giorni tra due date, che operazione fai?",
-    "risposte": ["Sottrai la data più vecchia da quella più recente", "Le sommi", "Usi la funzione =GIORNI.LAVORATIVI per forza"],
-    "corretta": "Sottrai la data più vecchia da quella più recente"
+    "domanda": "Cosa si intende per 'cella viva'?",
+    "risposte": [
+      "Una cella che può contenere formule che si aggiornano da sole se cambiano i dati",
+      "Una cella che cambia colore in base all'ora del giorno",
+      "Una cella che emette un suono quando viene selezionata"
+    ],
+    "corretta": "Una cella che può contenere formule che si aggiornano da sole se cambiano i dati"
   },
   {
-    "domanda": "A cosa serve l'opzione 'Ordina' (Sort)?",
-    "risposte": ["A riorganizzare i dati in ordine alfabetico o numerico", "A mettere in ordine le icone del desktop", "A pulire la formattazione"],
-    "corretta": "A riorganizzare i dati in ordine alfabetico o numerico"
+    "domanda": "A cosa serve la funzione CERCA.VERT?",
+    "risposte": [
+      "A cercare un dato in una tabella e riportare un'informazione correlata",
+      "A cambiare il font di tutte le celle verticali",
+      "A stampare il foglio in formato verticale"
+    ],
+    "corretta": "A cercare un dato in una tabella e riportare un'informazione correlata"
   },
   {
-    "domanda": "In un grafico, come si chiama la legenda che spiega i colori?",
-    "risposte": ["Legenda", "Area del tracciato", "Titolo degli assi"],
-    "corretta": "Legenda"
+    "domanda": "Qual è la funzione di una tabella Pivot?",
+    "risposte": [
+      "Riassumere e analizzare grandi quantità di dati in modo rapido",
+      "Tradurre il testo in un'altra lingua",
+      "Aggiungere immagini decorative al foglio"
+    ],
+    "corretta": "Riassumere e analizzare grandi quantità di dati in modo rapido"
   },
   {
-    "domanda": "Quale funzione ti permette di unire stringhe di testo?",
-    "risposte": ["=CONCATENA() o CONCAT()", "=UNISCI()", "=STRINGA()"],
-    "corretta": "=CONCATENA() o CONCAT()"
+    "domanda": "Cosa permette di fare la funzione 'SE'?",
+    "risposte": [
+      "Restituire un risultato diverso in base al verificarsi di una condizione",
+      "Sommare tutti i numeri che finiscono con lo zero",
+      "Salvare il file in un formato diverso"
+    ],
+    "corretta": "Restituire un risultato diverso in base al verificarsi di una condizione"
   },
   {
-    "domanda": "Se vedi un triangolino verde nell'angolo di una cella, cosa significa?",
-    "risposte": ["Excel segnala un potenziale errore o incongruenza", "La cella è protetta", "C'è un commento"],
-    "corretta": "Excel segnala un potenziale errore o incongruenza"
+    "domanda": "In Google Fogli, dove si trova la barra delle formule?",
+    "risposte": [
+      "Sotto la griglia delle celle",
+      "Sopra la griglia delle celle, indicata dal simbolo 'fx'",
+      "Nel menu 'Strumenti'"
+    ],
+    "corretta": "Sopra la griglia delle celle, indicata dal simbolo 'fx'"
   },
   {
-    "domanda": "Vuoi vedere tutte le formule del foglio invece dei risultati. Scorciatoia?",
-    "risposte": ["CTRL + SHIFT + 8 (o Mostra Formule nel menu Formule)", "Non si può fare", "ALT + F4"],
-    "corretta": "CTRL + SHIFT + 8 (o Mostra Formule nel menu Formule)"
+    "domanda": "Come si aggiunge una nuova riga tra la 4 e la 5?",
+    "risposte": [
+      "Tasto destro sul numero della riga e seleziona 'Inserisci riga'",
+      "Bisogna cancellare tutto il foglio e ricominciare",
+      "Si preme il tasto 'Spazio' sulla riga 4"
+    ],
+    "corretta": "Tasto destro sul numero della riga e seleziona 'Inserisci riga'"
   },
   {
-    "domanda": "Quale funzione rimuove gli spazi extra all'inizio e fine di un testo?",
-    "risposte": ["=ANNULLA.SPAZI() (TRIM)", "=PULISCI()", "=TAGLIA()"],
-    "corretta": "=ANNULLA.SPAZI() (TRIM)"
+    "domanda": "A cosa serve il pulsante 'Condividi'?",
+    "risposte": [
+      "A dare l'accesso al file ad altri utenti tramite link o email",
+      "A pubblicare il file su un social network",
+      "A dividere una cella in due parti più piccole"
+    ],
+    "corretta": "A dare l'accesso al file ad altri utenti tramite link o email"
   },
   {
-    "domanda": "Se vuoi trasporre una tabella (scambiare righe con colonne), come fai?",
-    "risposte": ["Copia > Incolla Speciale > Trasponi", "Ruota il monitor", "Usi il tasto Ruota"],
-    "corretta": "Copia > Incolla Speciale > Trasponi"
+    "domanda": "Cosa indica l'indirizzo 'AA1'?",
+    "risposte": [
+      "Una cella che si trova oltre la colonna Z",
+      "Un errore nel sistema di coordinate",
+      "Il nome dell'autore del foglio"
+    ],
+    "corretta": "Una cella che si trova oltre la colonna Z"
   },
   {
-    "domanda": "Cosa succede se premi F2 su una cella selezionata?",
-    "risposte": ["Entri in modalità modifica dentro la cella", "Salvi il file", "Cancelli il contenuto"],
-    "corretta": "Entri in modalità modifica dentro la cella"
+    "domanda": "Quale tra questi è un esempio corretto di 'Valuta' in Fogli?",
+    "risposte": [
+      "15,50 €",
+      "Euro 15",
+      "15 (Valuta)"
+    ],
+    "corretta": "15,50 €"
   },
   {
-    "domanda": "Quale grafico è meglio per vedere l'andamento nel tempo (es. fatturato annuo)?",
-    "risposte": ["Grafico a Linee o Istogramma", "Grafico a Torta", "Grafico a Radar"],
-    "corretta": "Grafico a Linee o Istogramma"
+    "domanda": "Che cos'è un 'Intervallo' di celle?",
+    "risposte": [
+      "Un gruppo di celle selezionate insieme (es. A1:B10)",
+      "La pausa tra una modifica e l'altra",
+      "Il tempo di caricamento del file"
+    ],
+    "corretta": "Un gruppo di celle selezionate insieme (es. A1:B10)"
   },
   {
-    "domanda": "La funzione =MIN() serve a:",
-    "risposte": ["Trovare il valore minimo", "Scrivere in minuscolo", "Calcolare i minuti"],
-    "corretta": "Trovare il valore minimo"
+    "domanda": "A cosa serve la 'Formattazione condizionale'?",
+    "risposte": [
+      "A cambiare colore alle celle automaticamente in base al loro contenuto",
+      "A decidere chi può leggere il file",
+      "A cancellare le celle che contengono numeri bassi"
+    ],
+    "corretta": "A cambiare colore alle celle automaticamente in base al loro contenuto"
   },
   {
-    "domanda": "Per inserire l'ora corrente statica (che non cambia), la scorciatoia è:",
-    "risposte": ["CTRL + SHIFT + : (due punti)", "CTRL + ;", "ALT + T"],
-    "corretta": "CTRL + SHIFT + : (due punti)"
+    "domanda": "In Google Fogli, cosa si intende per 'Cloud'?",
+    "risposte": [
+      "Che il file è salvato su internet e accessibile da qualsiasi dispositivo",
+      "Che il file viene stampato in modo sfocato",
+      "Che il file è protetto da un antivirus speciale"
+    ],
+    "corretta": "Che il file è salvato su internet e accessibile da qualsiasi dispositivo"
   },
   {
-    "domanda": "Cosa fa il pulsante 'Percentuale' (%) nella scheda Home?",
-    "risposte": ["Moltiplica per 100 e aggiunge il simbolo %", "Divide per 100", "Aggiunge solo il simbolo grafico"],
-    "corretta": "Moltiplica per 100 e aggiunge il simbolo %"
+    "domanda": "Cosa fa la funzione =SOMMA(B1:B5)?",
+    "risposte": [
+      "Calcola il totale dei numeri presenti nelle celle da B1 a B5",
+      "Conta quante parole ci sono nelle celle B1 e B5",
+      "Moltiplica il valore di B1 per quello di B5"
+    ],
+    "corretta": "Calcola il totale dei numeri presenti nelle celle da B1 a B5"
   },
   {
-    "domanda": "Se vuoi che le intestazioni di stampa si ripetano su ogni pagina cartacea, dove vai?",
-    "risposte": ["Layout di Pagina > Stampa Titoli", "Inserisci Intestazione", "File > Stampa"],
-    "corretta": "Layout di Pagina > Stampa Titoli"
+    "domanda": "Come si rinomina un foglio (Tab)?",
+    "risposte": [
+      "Facendo doppio clic sul nome del foglio in basso",
+      "Scrivendo il nuovo nome nella cella A1",
+      "Premendo il tasto F5 sulla tastiera"
+    ],
+    "corretta": "Facendo doppio clic sul nome del foglio in basso"
   },
   {
-    "domanda": "Qual è il risultato di =5+2*3?",
-    "risposte": ["11", "21", "10"],
-    "corretta": "11"
+    "domanda": "Cosa significa 'nessun tasto Salva' in Google Sheets?",
+    "risposte": [
+      "Che ogni singola modifica è registrata all'istante",
+      "Che devi ricordarti di salvare prima di uscire premendo un tasto segreto",
+      "Che il file è solo temporaneo e verrà cancellato"
+    ],
+    "corretta": "Che ogni singola modifica è registrata all'istante"
   }
 ]
