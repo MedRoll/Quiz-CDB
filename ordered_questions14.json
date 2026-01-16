@@ -1,0 +1,127 @@
+[
+  {
+    "domanda": "Internet e il World Wide Web sono esattamente la stessa cosa.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Google Chrome è un sistema operativo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il simbolo del lucchetto indica che il sito usa una connessione sicura.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Scaricare un file significa copiarlo dal web sul proprio computer.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Internet funziona grazie a cavi sottomarini reali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un link può essere solo testuale e mai un'immagine.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La barra degli indirizzi serve per scrivere cosa cercare su Google.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I Preferiti servono a salvare i siti che visitiamo spesso.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "HTTPS è meno sicuro di HTTP.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La cronologia registra l'elenco dei siti visitati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Per navigare su Internet è necessario avere un browser.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se chiudi una scheda, si chiude automaticamente tutto il browser.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il tasto 'Home' nel browser ti riporta alla pagina iniziale impostata.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un URL è l'indirizzo unico di una pagina web.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'estensione .it indica che il sito è cinese.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il Wi-Fi permette di connettersi senza l'uso di cavi fisici al dispositivo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Google è l'unico motore di ricerca esistente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le parole chiave aiutano il motore di ricerca a trovare quello che cerchi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Navigare in incognito ti rende invisibile al tuo fornitore internet.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I file scaricati da internet possono contenere virus.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un sito responsive si vede bene sia su PC che su smartphone.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il tasto ricarica serve a vedere se ci sono aggiornamenti nella pagina.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Si possono tenere aperti più siti contemporaneamente usando le schede.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La cartella 'Download' è dove finiscono solitamente i file scaricati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Internet Explorer è il browser più moderno oggi esistente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  }
+]

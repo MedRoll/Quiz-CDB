@@ -1,0 +1,127 @@
+[
+  {
+    "domanda": "Ogni sito web ha un indirizzo unico chiamato URL.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La manina che appare sul cursore indica la presenza di un link.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Non è possibile scaricare immagini da internet.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il tasto 'Indietro' serve a tornare alla pagina visitata precedentemente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Microsoft Edge è un browser creato da Google.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'estensione .gov indica siti di enti governativi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Cliccare sulla 'X' in alto a destra chiude tutto il browser.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il modem è l'apparecchio che permette la connessione a internet.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Tutti i siti su internet dicono sempre la verità.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Scaricare un modulo PDF permette di leggerlo anche senza internet.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I siti con pubblicità sono sempre pericolosi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La barra degli indirizzi si trova solitamente in alto nel browser.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Premere il tasto Invio avvia la ricerca su Google.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il browser Safari è tipico dei computer Apple.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Upload significa scaricare musica sul PC.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La fibra ottica è più lenta del vecchio modem 56k.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I Cookie possono servire a ricordare i prodotti in un carrello online.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un sito web è composto da una sola pagina.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Cancellare la cronologia elimina anche i file scaricati dal PC.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Lo streaming permette di guardare film in tempo reale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Internet è gestito da un'unica persona nel mondo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I motori di ricerca sono database di pagine web.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La chiocciola (@) serve negli indirizzi dei siti web.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi avere più di un browser installato sul computer.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La pagina iniziale di un browser può essere personalizzata.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "domanda": "Qual è il compito principale di un Router?",
+    "risposte": ["Pulire la polvere", "Distribuire la connessione ai dispositivi", "Scaricare foto"],
+    "corretta": "Distribuire la connessione ai dispositivi"
+  },
+  {
+    "domanda": "Cos'è un 'Motore di Ricerca'?",
+    "risposte": ["Un sito per ordinare cibo", "Un archivio che indicizza le pagine web", "Un programma per scrivere lettere"],
+    "corretta": "Un archivio che indicizza le pagine web"
+  },
+  {
+    "domanda": "In un indirizzo email, quale simbolo è fondamentale?",
+    "risposte": ["Il punto esclamativo", "La chiocciola (@)", "Il segno del dollaro"],
+    "corretta": "La chiocciola (@)"
+  },
+  {
+    "domanda": "Qual è il formato di file più comune per i documenti scaricabili?",
+    "risposte": ["MP3", "PDF", "JPG"],
+    "corretta": "PDF"
+  },
+  {
+    "domanda": "Cosa significa 'Sito Responsive'?",
+    "risposte": ["Un sito che risponde ai messaggi", "Un sito che si adatta a schermi di PC e smartphone", "Un sito molto lento"],
+    "corretta": "Un sito che si adatta a schermi di PC e smartphone"
+  },
+  {
+    "domanda": "Cosa significa 'Streaming'?",
+    "risposte": ["Vedere un video o ascoltare musica senza scaricare il file", "Stampare un documento", "Spegnere il computer"],
+    "corretta": "Vedere un video o ascoltare musica senza scaricare il file"
+  },
+  {
+    "domanda": "Perché è utile usare più schede?",
+    "risposte": ["Per consumare più energia", "Per confrontare informazioni su siti diversi contemporaneamente", "Per rendere lo schermo più colorato"],
+    "corretta": "Per confrontare informazioni su siti diversi contemporaneamente"
+  },
+  {
+    "domanda": "Cosa indica l'estensione '.edu'?",
+    "risposte": ["Sito di un negozio", "Sito di un'istituzione educativa (università, scuola)", "Sito di un editore"],
+    "corretta": "Sito di un'istituzione educativa (università, scuola)"
+  },
+  {
+    "domanda": "Cosa si intende per 'Connessione a Banda Larga'?",
+    "risposte": ["Una connessione internet veloce (ADSL o Fibra)", "Una connessione che costa poco", "Una connessione radio"],
+    "corretta": "Una connessione internet veloce (ADSL o Fibra)"
+  },
+  {
+    "domanda": "Cosa sono i 'Pop-up'?",
+    "risposte": ["Finestre pubblicitarie che si aprono improvvisamente", "I tasti del mouse", "Le icone sul desktop"],
+    "corretta": "Finestre pubblicitarie che si aprono improvvisamente"
+  },
+  {
+    "domanda": "Si può navigare su internet senza un Browser?",
+    "risposte": ["Sì, usando la calcolatrice", "No, è lo strumento necessario per il Web", "Solo di lunedì"],
+    "corretta": "No, è lo strumento necessario per il Web"
+  },
+  {
+    "domanda": "A cosa serve il tasto 'Avanti' del browser?",
+    "risposte": ["A vedere il futuro", "A tornare alla pagina visitata prima di aver cliccato 'Indietro'", "A chiudere il computer"],
+    "corretta": "A tornare alla pagina visitata prima di aver cliccato 'Indietro'"
+  },
+  {
+    "domanda": "Cosa indica l'estensione '.org'?",
+    "risposte": ["Sito di un'organizzazione (spesso non profit)", "Sito di organi musicali", "Sito di orologi"],
+    "corretta": "Sito di un'organizzazione (spesso non profit)"
+  },
+  {
+    "domanda": "Qual è il principale vantaggio di Google rispetto a un libro?",
+    "risposte": ["È più pesante", "Permette ricerche istantanee su miliardi di pagine", "Ha meno figure"],
+    "corretta": "Permette ricerche istantanee su miliardi di pagine"
+  },
+  {
+    "domanda": "Quale tra questi è un Browser per dispositivi Apple?",
+    "risposte": ["Safari", "Internet Explorer", "Chrome"],
+    "corretta": "Safari"
+  },
+  {
+    "domanda": "Cos'è la 'Cache' del browser?",
+    "risposte": ["Uno spazio dove vengono salvati dati temporanei per velocizzare il caricamento", "Una cassaforte per le password", "Il nome del cestino"],
+    "corretta": "Uno spazio dove vengono salvati dati temporanei per velocizzare il caricamento"
+  },
+  {
+    "domanda": "Come si può riconoscere se una parola è un link?",
+    "risposte": ["È scritta in grassetto", "Spesso è sottolineata o di un colore diverso (es. blu)", "Fa rumore quando ci passi sopra"],
+    "corretta": "Spesso è sottolineata o di un colore diverso (es. blu)"
+  },
+  {
+    "domanda": "Cosa significa 'Server'?",
+    "risposte": ["Un computer potente che ospita siti web e fornisce dati", "La tastiera del PC", "Un utente che naviga molto"],
+    "corretta": "Un computer potente che ospita siti web e fornisce dati"
+  },
+  {
+    "domanda": "Cosa indica l'errore '404 Not Found'?",
+    "risposte": ["Il computer è rotto", "La pagina web richiesta non esiste più o l'indirizzo è errato", "Hai vinto un premio"],
+    "corretta": "La pagina web richiesta non esiste più o l'indirizzo è errato"
+  },
+  {
+    "domanda": "Cos'è la Fibra Ottica?",
+    "risposte": ["Un tipo di cavo velocissimo per Internet", "Una dieta per informatici", "Un tipo di schermo"],
+    "corretta": "Un tipo di cavo velocissimo per Internet"
+  },
+  {
+    "domanda": "Dove si trova la barra di ricerca in Google?",
+    "risposte": ["In fondo alla pagina", "Al centro della pagina", "Dietro lo schermo"],
+    "corretta": "Al centro della pagina"
+  },
+  {
+    "domanda": "Si può scaricare una foto da Google Immagini?",
+    "risposte": ["Sì, cliccando col tasto destro e scegliendo 'Salva immagine con nome'", "No, è vietato tecnicamente", "Solo se la foto è piccola"],
+    "corretta": "Sì, cliccando col tasto destro e scegliendo 'Salva immagine con nome'"
+  },
+  {
+    "domanda": "Cosa si intende per 'Navigazione Web'?",
+    "risposte": ["Usare i social media", "L'atto di consultare pagine web tramite link", "Guidare una nave digitale"],
+    "corretta": "L'atto di consultare pagine web tramite link"
+  },
+  {
+    "domanda": "Cosa significa 'Log-in'?",
+    "risposte": ["Uscire da un sito", "Entrare in un'area riservata inserendo username e password", "Spegnere internet"],
+    "corretta": "Entrare in un'area riservata inserendo username e password"
+  },
+  {
+    "domanda": "Qual è il tasto rapido per aggiornare una pagina su Windows?",
+    "risposte": ["F5", "Esc", "Barra Spaziatrice"],
+    "corretta": "F5"
+  }
+]
