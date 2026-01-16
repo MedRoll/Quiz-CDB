@@ -1,152 +1,127 @@
 [
   {
-    "domanda": "Qual è il significato della 'Profilazione Utente' citata nel modulo 1?",
-    "risposte": ["L'analisi dei comportamenti per creare un modello degli interessi dell'utente", "La creazione di una foto profilo professionale", "L'eliminazione dei profili inattivi dai social"],
-    "corretta": "L'analisi dei comportamenti per creare un modello degli interessi dell'utente"
+    "domanda": "Secondo il materiale, qual è stato il contributo principale di Facebook all'evoluzione dei Social Media?",
+    "risposte": ["Ha introdotto per la prima volta l'idea di profilo personale", "Ha trasformato i social da semplici strumenti di comunicazione a veri fenomeni culturali", "È stata la prima piattaforma a permettere la condivisione di video brevi"],
+    "corretta": "Ha trasformato i social da semplici strumenti di comunicazione a veri fenomeni culturali"
   },
   {
-    "domanda": "Perché si parla di 'illusione del gratuito'?",
-    "risposte": ["Perché le app sono a pagamento ma non lo dicono", "Perché paghiamo con dati che hanno un valore economico enorme", "Perché internet diventerà presto a pagamento per tutti"],
-    "corretta": "Perché paghiamo con dati che hanno un valore economico enorme"
+    "domanda": "In che modo i Social Media hanno influenzato il modo in cui riceviamo le informazioni oggi?",
+    "risposte": ["Rendendo la comunicazione più lenta ma più approfondita", "Eliminando totalmente il rischio di disinformazione grazie ai controlli", "Riducendo il tempo e lo spazio, rendendo le notizie istantanee e globali"],
+    "corretta": "Riducendo il tempo e lo spazio, rendendo le notizie istantanee e globali"
   },
   {
-    "domanda": "Cosa si intende per 'Mappatura delle piattaforme' nel modulo 3?",
-    "risposte": ["Trovare la posizione geografica dei server", "Comprendere le differenze e gli utilizzi specifici di ogni social", "Contare quanti utenti ci sono in ogni stato"],
-    "corretta": "Comprendere le differenze e gli utilizzi specifici di ogni social"
+    "domanda": "Qual è una delle principali sfide etiche citate riguardo all'impatto sociale dei social network?",
+    "risposte": ["L'impossibilità di creare gruppi di interesse comune", "I rischi legati alla privacy e alla diffusione della disinformazione", "La scarsa visibilità dei contenuti visuali come foto e video"],
+    "corretta": "I rischi legati alla privacy e alla diffusione della disinformazione"
   },
   {
-    "domanda": "Nel modulo 5, la gestione dell'impronta digitale è legata soprattutto a:",
-    "risposte": ["La velocità di digitazione sulla tastiera", "La reputazione professionale dell'utente", "Il risparmio energetico dello smartphone"],
-    "corretta": "La reputazione professionale dell'utente"
+    "domanda": "Perché YouTube viene considerato un Social Media a tutti gli effetti e non solo un sito di video?",
+    "risposte": ["Perché è di proprietà di Google", "Perché permette l'interazione tramite commenti, iscrizioni e community", "Perché è il secondo sito più visitato al mondo"],
+    "corretta": "Perché permette l'interazione tramite commenti, iscrizioni e community"
   },
   {
-    "domanda": "Quale di questi è un 'protocollo di sicurezza' citato per i dati sensibili?",
-    "risposte": ["Condividere le password con gli amici fidati", "Implementare misure di protezione contro i furti d'identità", "Non usare mai i social media dopo le ore 22:00"],
-    "corretta": "Implementare misure di protezione contro i furti d'identità"
+    "domanda": "Quale sensazione psicologica negativa può essere alimentata dal confronto costante su piattaforme come Instagram?",
+    "risposte": ["La sensazione di avere troppa privacy", "La FOMO (Fear of Missing Out), ovvero la paura di essere esclusi", "Il disinteresse verso i contenuti creativi degli altri"],
+    "corretta": "La FOMO (Fear of Missing Out), ovvero la paura di essere esclusi"
   },
   {
-    "domanda": "Cosa indica il termine 'Cittadino Digitale Resiliente'?",
-    "risposte": ["Un utente che non si disconnette mai", "Una persona capace di adattarsi e proteggersi dalle insidie del web", "Un esperto di riparazioni hardware"],
-    "corretta": "Una persona capace di adattarsi e proteggersi dalle insidie del web"
+    "domanda": "Qual è la differenza filosofica tra marketing 'organico' e 'a pagamento'?",
+    "risposte": ["L'organico punta a costruire relazioni autentiche; il pagamento punta a risultati rapidi e mirati", "L'organico è solo per i privati; il pagamento è solo per le grandi aziende", "Non c'è differenza, entrambi richiedono lo stesso investimento economico"],
+    "corretta": "L'organico punta a costruire relazioni autentiche; il pagamento punta a risultati rapidi e mirati"
   },
   {
-    "domanda": "Perché le piattaforme analizzano 'ogni nostro click'?",
-    "risposte": ["Per controllare se il mouse funziona correttamente", "Per alimentare l'algoritmo con dati sulle nostre preferenze", "Per calcolare quanto tempo resta prima della fine del contratto"],
-    "corretta": "Per alimentare l'algoritmo con dati sulle nostre preferenze"
+    "domanda": "In un'ottica aziendale, perché i gruppi di Facebook sono considerati preziosi rispetto alle pagine?",
+    "risposte": ["Perché permettono di vendere prodotti direttamente nel marketplace", "Perché favoriscono una comunicazione più intima, diretta e stimolano discussioni", "Perché non richiedono mai la moderazione dei contenuti"],
+    "corretta": "Perché favoriscono una comunicazione più intima, diretta e stimolano discussioni"
   },
   {
-    "domanda": "Qual è uno degli impatti del digitale sulla salute mentale citati nel modulo 8?",
-    "risposte": ["L'aumento della memoria a breve termine", "Lo stress tecnologico e l'impatto sul sonno", "Il miglioramento della vista"],
-    "corretta": "Lo stress tecnologico e l'impatto sul sonno"
+    "domanda": "Perché l'algoritmo di TikTok è considerato un elemento di successo per la creatività?",
+    "risposte": ["Perché obbliga gli utenti a usare solo musiche classiche", "Perché favorisce la scoperta di nuovi contenuti e facilita la viralità dei trend", "Perché limita il tempo di utilizzo a soli 15 minuti al giorno"],
+    "corretta": "Perché favorisce la scoperta di nuovi contenuti e facilita la viralità dei trend"
   },
   {
-    "domanda": "Il termine 'Cittadinanza Digitale' implica:",
-    "risposte": ["Avere una connessione internet veloce", "Esercitare diritti e doveri anche nello spazio virtuale", "Essere nati dopo l'anno 2000"],
-    "corretta": "Esercitare diritti e doveri anche nello spazio virtuale"
+    "domanda": "Qual è il vantaggio principale di utilizzare LinkedIn per un professionista?",
+    "risposte": ["Condividere foto delle vacanze con i colleghi", "Fare networking professionale e costruire la propria identità lavorativa", "Partecipare a sfide di ballo virali"],
+    "corretta": "Fare networking professionale e costruire la propria identità lavorativa"
   },
   {
-    "domanda": "In che modo gli algoritmi influenzano la nostra 'dieta informativa'?",
-    "risposte": ["Selezionando quali notizie mostrarci in base ai nostri gusti", "Suggerendoci ricette di cucina salutare", "Cancellando automaticamente le mail pubblicitarie"],
-    "corretta": "Selezionando quali notizie mostrarci in base ai nostri gusti"
+    "domanda": "Cosa si intende per 'bolle di informazione' create dagli algoritmi dei social?",
+    "risposte": ["Un sistema che protegge l'utente dai virus informatici", "La tendenza a mostrare solo contenuti che confermano le opinioni dell'utente, limitando il confronto", "Un modo per raggruppare i messaggi non letti"],
+    "corretta": "La tendenza a mostrare solo contenuti che confermano le opinioni dell'utente, limitando il confronto"
   },
   {
-    "domanda": "Cos'è il 'Surplus Comportamentale' secondo il modello di business attuale?",
-    "risposte": ["L'eccesso di tempo che passiamo a dormire", "Dati comportamentali extra usati per predire azioni future", "Il numero di app installate ma mai usate"],
-    "corretta": "Dati comportamentali extra usati per predire azioni future"
+    "domanda": "Qual è la differenza fondamentale tra un sito web 'vetrina' e un e-commerce?",
+    "risposte": ["Il sito vetrina è più costoso da mantenere", "L'e-commerce è strutturato per completare transazioni e vendite online", "Il sito vetrina non può essere visualizzato su smartphone"],
+    "corretta": "L'e-commerce è strutturato per completare transazioni e vendite online"
   },
   {
-    "domanda": "Nel design persuasivo, il rosso delle notifiche serve a:",
-    "risposte": ["Rendere l'app esteticamente più moderna", "Innescare un senso di urgenza e stimolare l'apertura", "Indicare che l'app ha un errore di sistema"],
-    "corretta": "Innescare un senso di urgenza e stimolare l'apertura"
+    "domanda": "Perché la 'Call-to-Action' (CTA) è fondamentale in un sito aziendale?",
+    "risposte": ["Perché serve a riempire lo spazio vuoto nella home page", "Perché guida l'utente a compiere un'azione specifica come 'Contattaci' o 'Acquista'", "Perché migliora la qualità delle immagini caricate"],
+    "corretta": "Perché guida l'utente a compiere un'azione specifica come 'Contattaci' o 'Acquista'"
   },
   {
-    "domanda": "Cosa si intende per 'Reputazione Online'?",
-    "risposte": ["Il punteggio che riceviamo nei giochi online", "L'opinione che gli altri si fanno di noi osservando i nostri contenuti", "La marca dello smartphone che utilizziamo"],
-    "corretta": "L'opinione che gli altri si fanno di noi osservando i nostri contenuti"
+    "domanda": "Qual è il rischio principale legato al copyright su YouTube per un creatore di contenuti?",
+    "risposte": ["Ricevere troppi commenti positivi", "Incorrere in problemi legali usando musica o immagini protette senza autorizzazione", "Non poter cambiare il nome del proprio canale"],
+    "corretta": "Incorrere in problemi legali usando musica o immagini protette senza autorizzazione"
   },
   {
-    "domanda": "Il modulo sulla Cyber-Security si concentra su:",
-    "risposte": ["La protezione da phishing e abusi della privacy", "L'acquisto dei migliori monitor sul mercato", "La pulizia interna dei componenti del PC"],
-    "corretta": "La protezione da phishing e abusi della privacy"
+    "domanda": "Perché la 'Home Page' di un sito è definita il suo biglietto da visita?",
+    "risposte": ["Perché contiene sempre l'indirizzo fisico dell'azienda", "Perché è la prima pagina che l'utente vede e deve essere chiara e accattivante", "Perché è l'unica pagina del sito che può contenere video"],
+    "corretta": "Perché è la prima pagina che l'utente vede e deve essere chiara e accattivante"
   },
   {
-    "domanda": "Qual è lo scopo principale del 'Capitalismo della Sorveglianza'?",
-    "risposte": ["Proteggere i cittadini dai criminali", "Trasformare l'esperienza umana in dati per il profitto", "Migliorare la qualità delle chiamate vocali"],
-    "corretta": "Trasformare l'esperienza umana in dati per il profitto"
+    "domanda": "Cosa caratterizza la comunicazione su Twitter (X) rispetto ad altri social?",
+    "risposte": ["La possibilità di pubblicare solo foto di alta qualità", "La brevità dei messaggi e l'orientamento verso notizie e attualità in tempo reale", "L'obbligo di iscriversi a gruppi professionali"],
+    "corretta": "La brevità dei messaggi e l'orientamento verso notizie e attualità in tempo reale"
   },
   {
-    "domanda": "Lo 'Scroll Infinito' è progettato per:",
-    "risposte": ["Far durare di più la batteria", "Evitare che l'utente trovi un momento naturale per fermarsi", "Aiutare gli utenti che hanno problemi di vista"],
-    "corretta": "Evitare che l'utente trovi un momento naturale per fermarsi"
+    "domanda": "Qual è il valore aggiunto dello streaming live (YouTube Live) per un'azienda?",
+    "risposte": ["Permette di modificare i video dopo che sono stati trasmessi", "Favorisce l'interazione immediata e autentica con la propria community", "Sostituisce completamente la necessità di avere un sito web"],
+    "corretta": "Favorisce l'interazione immediata e autentica con la propria community"
   },
   {
-    "domanda": "Cosa significa 'sviluppare anticorpi contro la disinformazione'?",
-    "risposte": ["Ignorare ogni tipo di notizia online", "Imparare tecniche di verifica delle fonti (fact-checking)", "Installare un nuovo browser"],
-    "corretta": "Imparare tecniche di verifica delle fonti (fact-checking)"
+    "domanda": "Perché le aziende collaborano con gli influencer su piattaforme come TikTok o Instagram?",
+    "risposte": ["Perché gli influencer lavorano gratuitamente per i brand", "Perché gli influencer godono di credibilità e hanno un pubblico fedele e mirato", "Perché è l'unico modo per pubblicare annunci su quelle piattaforme"],
+    "corretta": "Perché gli influencer godono di credibilità e hanno un pubblico fedele e mirato"
   },
   {
-    "domanda": "Perché il tempo è una risorsa 'finita' nell'economia dell'attenzione?",
-    "risposte": ["Perché le giornate hanno solo 24 ore", "Perché internet potrebbe spegnersi da un momento all'altro", "Perché la memoria dei server è limitata"],
-    "corretta": "Perché le giornate hanno solo 24 ore"
+    "domanda": "Quale di questi è un vantaggio 'organico' della SEO su YouTube?",
+    "risposte": ["Pagare Google per apparire primi nei risultati", "Ottimizzare titoli e descrizioni affinché i video siano trovati naturalmente dagli utenti", "Cancellare i commenti negativi sotto i video"],
+    "corretta": "Ottimizzare titoli e descrizioni affinché i video siano trovati naturalmente dagli utenti"
   },
   {
-    "domanda": "Cosa può dedurre l'algoritmo dalla nostra velocità di scorrimento?",
-    "risposte": ["Se siamo stanchi o particolarmente interessati a un tema", "Quanti anni ha il nostro schermo", "Se abbiamo pagato la bolletta internet"],
-    "corretta": "Se siamo stanchi o particolarmente interessati a un tema"
+    "domanda": "Cosa si intende per 'Citizen Journalism' nel contesto dell'evoluzione dei social?",
+    "risposte": ["Un corso di giornalismo tenuto online dalle università", "La possibilità per i cittadini comuni di diffondere notizie in tempo reale tramite i social", "L'obbligo per i giornalisti di avere un profilo Facebook"],
+    "corretta": "La possibilità per i cittadini comuni di diffondere notizie in tempo reale tramite i social"
   },
   {
-    "domanda": "La 'Protezione Strategica' serve a:",
-    "risposte": ["Difendere il computer dai ladri in casa", "Gestire in modo intelligente i propri dati e la propria immagine", "Vincere nei giochi di strategia online"],
-    "corretta": "Gestire in modo intelligente i propri dati e la propria immagine"
+    "domanda": "In che modo l'estetica visiva influenza il successo su Instagram?",
+    "risposte": ["Non ha alcuna importanza, contano solo i testi lunghi", "È fondamentale per catturare l'attenzione e costruire un'identità di brand riconoscibile", "Serve solo a rendere il sito più veloce da caricare"],
+    "corretta": "È fondamentale per catturare l'attenzione e costruire un'identità di brand riconoscibile"
   },
   {
-    "domanda": "Cosa si intende per 'Ganci psicologici' nelle app?",
-    "risposte": ["I supporti fisici per appendere il telefono", "Meccanismi di design che creano l'abitudine all'uso", "I tasti per chiudere le applicazioni"],
-    "corretta": "Meccanismi di design che creano l'abitudine all'uso"
+    "domanda": "Perché l'uso dei Social Media può essere considerato un'arma a doppio taglio per la politica?",
+    "risposte": ["Perché i politici non sanno usare gli emoji", "Perché offrono visibilità immediata ma espongono al rischio di manipolazione dell'opinione pubblica", "Perché i social sono accessibili solo ai giovani che non votano"],
+    "corretta": "Perché offrono visibilità immediata ma espongono al rischio di manipolazione dell'opinione pubblica"
   },
   {
-    "domanda": "Il modulo 'Benessere Digitale' suggerisce di:",
-    "risposte": ["Usare i social solo durante le ore di lavoro", "Monitorare l'impatto della tecnologia sulle nostre emozioni", "Comprare solo dispositivi prodotti in Italia"],
-    "corretta": "Monitorare l'impatto della tecnologia sulle nostre emozioni"
+    "domanda": "Qual è lo scopo principale della sezione 'Chi Siamo' in un sito web aziendale?",
+    "risposte": ["Mostrare il catalogo completo dei prodotti in vendita", "Comunicare la mission, la storia e i valori dell'azienda per creare fiducia", "Fornire i dati tecnici del server che ospita il sito"],
+    "corretta": "Comunicare la mission, la storia e i valori dell'azienda per creare fiducia"
   },
   {
-    "domanda": "In che modo l'identità digitale può influenzare la carriera?",
-    "risposte": ["I datori di lavoro possono cercare informazioni sui candidati online", "I social regalano premi in denaro ai migliori lavoratori", "I profili social sostituiscono la laurea"],
-    "corretta": "I datori di lavoro possono cercare informazioni sui candidati online"
+    "domanda": "Perché la disinformazione si diffonde così rapidamente sui social media?",
+    "risposte": ["Perché gli algoritmi bloccano le notizie vere", "Perché la comunicazione è immediata, visiva e spesso priva di filtri o verifiche", "Perché gli utenti leggono solo i libri cartacei"],
+    "corretta": "Perché la comunicazione è immediata, visiva e spesso priva di filtri o verifiche"
   },
   {
-    "domanda": "Perché è pericoloso il 'furto d'identità'?",
-    "risposte": ["Perché qualcuno potrebbe usare il nostro nome per commettere illeciti", "Perché perdiamo tutte le nostre foto", "Perché dobbiamo cambiare numero di telefono"],
-    "corretta": "Perché qualcuno potrebbe usare il nostro nome per commettere illeciti"
+    "domanda": "Cosa si intende per 'Remarketing' o 'Retargeting' nelle pubblicità su Facebook?",
+    "risposte": ["Inviare messaggi a utenti che non hanno mai sentito parlare del brand", "Raggiungere nuovamente utenti che hanno già mostrato interesse o interagito con il brand", "Cambiare il nome dell'azienda ogni mese per attirare nuovi clienti"],
+    "corretta": "Raggiungere nuovamente utenti che hanno già mostrato interesse o interagito con il brand"
   },
   {
-    "domanda": "Qual è il ruolo del 'Gemello Digitale' per le aziende?",
-    "risposte": ["Permette all'utente di giocare in mondi virtuali", "Aiuta le aziende a testare pubblicità su un modello prima di inviarle a noi", "È una copia di sicurezza del nostro profilo"],
-    "corretta": "Aiuta le aziende a testare pubblicità su un modello prima di inviarle a noi"
-  },
-  {
-    "domanda": "Cosa si intende per 'Consapevolezza Critica'?",
-    "risposte": ["Essere sempre arrabbiati con le aziende tecnologiche", "Capire i meccanismi invisibili dietro ciò che vediamo online", "Saper smontare un tablet per ripararlo"],
-    "corretta": "Capire i meccanismi invisibili dietro ciò che vediamo online"
-  },
-  {
-    "domanda": "Quale comportamento protegge meglio la nostra privacy?",
-    "risposte": ["Pubblicare ogni momento della giornata", "Controllare periodicamente le impostazioni di condivisione dati", "Usare la stessa password per dieci anni"],
-    "corretta": "Controllare periodicamente le impostazioni di condivisione dati"
-  },
-  {
-    "domanda": "Il 'Capitalismo della Sorveglianza' trasforma i nostri comportamenti in:",
-    "risposte": ["Prodotti di previsione vendibili", "Opere d'arte digitali", "Semplici statistiche anonime senza valore"],
-    "corretta": "Prodotti di previsione vendibili"
-  },
-  {
-    "domanda": "Cosa si intende per 'Logica Algoritmica'?",
-    "risposte": ["Il linguaggio di programmazione più difficile", "Il sistema con cui i social scelgono i contenuti per noi", "La velocità di calcolo della CPU"],
-    "corretta": "Il sistema con cui i social scelgono i contenuti per noi"
-  },
-  {
-    "domanda": "Qual è l'ultimo modulo (n. 8) della roadmap presentata?",
-    "risposte": ["Ecosistema Social", "Identità Digitale", "Benessere Digitale"],
-    "corretta": "Benessere Digitale"
+    "domanda": "Qual è il ruolo principale dei 'Meme' e degli 'Hashtag' nei nuovi linguaggi digitali?",
+    "risposte": ["Sono errori di battitura che gli utenti fanno spesso", "Sono strumenti che influenzano il modo in cui esprimiamo emozioni e opinioni online", "Servono solo a nascondere l'identità dell'utente"],
+    "corretta": "Sono strumenti che influenzano il modo in cui esprimiamo emozioni e opinioni online"
   }
 ]
