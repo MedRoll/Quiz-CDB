@@ -1,152 +1,182 @@
 [
   {
-    "domanda": "Secondo il documento, qual è il vero 'costo' dei servizi digitali gratuiti?",
-    "risposte": ["L'acquisto di hardware", "I nostri dati e il nostro tempo", "La manutenzione della rete"],
-    "corretta": "I nostri dati e il nostro tempo"
+    "domanda": "Qual è stata la prima funzione principale di Instagram?",
+    "risposte": [
+      "Condivisione di foto con filtri artistici",
+      "Creazione di eventi pubblici",
+      "Streaming live di lunga durata"
+    ],
+    "corretta": "Condivisione di foto con filtri artistici"
   },
   {
-    "domanda": "Quale di queste affermazioni descrive l'Economia dell'Attenzione?",
-    "risposte": ["Un mercato basato sulla vendita di smartphone", "Un sistema dove l'attenzione umana è la risorsa principale", "Un modo per risparmiare sui costi internet"],
-    "corretta": "Un sistema dove l'attenzione umana è la risorsa principale"
+    "domanda": "In che anno Facebook ha acquisito Instagram?",
+    "risposte": [
+      "2008",
+      "2012",
+      "2016"
+    ],
+    "corretta": "2012"
   },
   {
-    "domanda": "Cosa significa 'profilazione utente'?",
-    "risposte": ["Cambiare la foto del profilo regolarmente", "Raccogliere dati per creare un modello dei tuoi interessi", "Cancellare i propri dati dai social"],
-    "corretta": "Raccogliere dati per creare un modello dei tuoi interessi"
+    "domanda": "Qual è la durata massima dei Reels di Instagram?",
+    "risposte": [
+      "30 secondi",
+      "60 secondi",
+      "90 secondi"
+    ],
+    "corretta": "60 secondi"
   },
   {
-    "domanda": "In che modo i social media usano i dati sulla 'velocità di connessione'?",
-    "risposte": ["Per regalarti un router nuovo", "Come metadato per capire il tuo contesto d'uso", "Per bloccare i contenuti pesanti"],
-    "corretta": "Come metadato per capire il tuo contesto d'uso"
+    "domanda": "Quale tra questi è un rischio associato a Instagram?",
+    "risposte": [
+      "Perdita di dati bancari",
+      "Dipendenza e FOMO",
+      "Virus informatici"
+    ],
+    "corretta": "Dipendenza e FOMO"
   },
   {
-    "domanda": "Qual è lo scopo delle previsioni algoritmiche?",
-    "risposte": ["Indovinare il meteo", "Prevedere il comportamento futuro dell'utente", "Calcolare la durata della batteria"],
-    "corretta": "Prevedere il comportamento futuro dell'utente"
+    "domanda": "A cosa serve Facebook Ads Manager?",
+    "risposte": [
+      "Gestire eventi online",
+      "Creare e monitorare annunci pubblicitari",
+      "Moderare i gruppi"
+    ],
+    "corretta": "Creare e monitorare annunci pubblicitari"
   },
   {
-    "domanda": "Perché le piattaforme monitorano il 'livello della batteria'?",
-    "risposte": ["Per avvisarti di caricare il telefono", "Perché gli utenti con batteria scarica sono più vulnerabili o impulsivi", "Per spegnere l'app automaticamente"],
-    "corretta": "Perché gli utenti con batteria scarica sono più vulnerabili o impulsivi"
+    "domanda": "Qual è la fascia d’età più attiva su Facebook?",
+    "risposte": [
+      "13-18 anni",
+      "25-34 anni",
+      "45-54 anni"
+    ],
+    "corretta": "25-34 anni"
   },
   {
-    "domanda": "Cosa si intende per 'utente resiliente'?",
-    "risposte": ["Un utente che non spegne mai il telefono", "Un cittadino capace di navigare nei rischi digitali senza subirli", "Un utente che ha molti follower"],
-    "corretta": "Un cittadino capace di navigare nei rischi digitali senza subirli"
+    "domanda": "Quale funzione di Facebook permette di riunire persone con interessi comuni?",
+    "risposte": [
+      "Marketplace",
+      "Gruppi",
+      "Pagine"
+    ],
+    "corretta": "Gruppi"
   },
   {
-    "domanda": "Cosa si intende per 'Capitalismo della Sorveglianza'?",
-    "risposte": ["Un sistema di telecamere stradali", "Un modello economico basato sull'estrazione di dati dai comportamenti umani", "La vendita di sistemi di allarme"],
-    "corretta": "Un modello economico basato sull'estrazione di dati dai comportamenti umani"
+    "domanda": "In che anno è stato lanciato TikTok (come Douyin in Cina)?",
+    "risposte": [
+      "2014",
+      "2016",
+      "2018"
+    ],
+    "corretta": "2016"
   },
   {
-    "domanda": "Le piattaforme social sono 'neutrali'?",
-    "risposte": ["Sì, mostrano tutto in ordine cronologico", "No, sono progettate per influenzare il comportamento", "Sì, non hanno interessi economici"],
-    "corretta": "No, sono progettate per influenzare il comportamento"
+    "domanda": "Con quale app si è fuso TikTok nel 2018?",
+    "risposte": [
+      "Snapchat",
+      "Musical.ly",
+      "Vine"
+    ],
+    "corretta": "Musical.ly"
   },
   {
-    "domanda": "Cosa si intende per 'Reputazione Online'?",
-    "risposte": ["Il numero di 'mi piace' su una foto", "L'immagine di noi che emerge dalle nostre attività digitali", "Il costo del nostro abbonamento social"],
-    "corretta": "L'immagine di noi che emerge dalle nostre attività digitali"
+    "domanda": "Qual è la durata media dei video su TikTok?",
+    "risposte": [
+      "5–10 secondi",
+      "15–60 secondi",
+      "2–5 minuti"
+    ],
+    "corretta": "15–60 secondi"
   },
   {
-    "domanda": "Cosa sono le 'Notifiche Push' dal punto di vista psicologico?",
-    "risposte": ["Semplici promemoria", "Ganci per riportare l'attenzione dell'utente sulla piattaforma", "Errori del sistema operativo"],
-    "corretta": "Ganci per riportare l'attenzione dell'utente sulla piattaforma"
+    "domanda": "Quale elemento caratterizza i trend di TikTok?",
+    "risposte": [
+      "Uso di filtri statici",
+      "Coinvolgimento di audio e musica",
+      "Condivisione di documenti PDF"
+    ],
+    "corretta": "Coinvolgimento di audio e musica"
   },
   {
-    "domanda": "Cosa analizza il modulo 'Identità Digitale'?",
-    "risposte": ["Come creare un nome utente originale", "La gestione dell'impronta e della reputazione professionale", "La scelta dei colori del profilo"],
-    "corretta": "La gestione dell'impronta e della reputazione professionale"
+    "domanda": "Qual è il tempo medio giornaliero trascorso su TikTok per utente?",
+    "risposte": [
+      "20 minuti",
+      "35 minuti",
+      "Oltre 50 minuti"
+    ],
+    "corretta": "Oltre 50 minuti"
   },
   {
-    "domanda": "Quale di questi è un rischio della 'dieta informativa' non curata?",
-    "risposte": ["Rottura dello schermo", "Esposizione a fake news e manipolazione", "Aumento del costo delle app"],
-    "corretta": "Esposizione a fake news e manipolazione"
+    "domanda": "In che anno è stato lanciato YouTube?",
+    "risposte": [
+      "2003",
+      "2005",
+      "2007"
+    ],
+    "corretta": "2005"
   },
   {
-    "domanda": "Perché è importante la 'Protezione dei dati sensibili'?",
-    "risposte": ["Per evitare phishing e furti d'identità", "Per rendere il telefono più veloce", "Per avere più spazio in memoria"],
-    "corretta": "Per evitare phishing e furti d'identità"
+    "domanda": "Qual è stato il primo video caricato su YouTube?",
+    "risposte": [
+      "Me at the Zoo",
+      "Hello World",
+      "My First Vlog"
+    ],
+    "corretta": "Me at the Zoo"
   },
   {
-    "domanda": "Cosa si intende per 'Stress Tecnologico'?",
-    "risposte": ["Il surriscaldamento del processore", "L'impatto negativo del digitale sulla salute mentale e sul sonno", "La difficoltà nel caricare un video"],
-    "corretta": "L'impatto negativo del digitale sulla salute mentale e sul sonno"
+    "domanda": "Qual è uno dei vantaggi principali di un sito web aziendale?",
+    "risposte": [
+      "Accessibilità continua alle informazioni",
+      "Obbligo di iscrizione a pagamento",
+      "Riduzione dei costi pubblicitari offline"
+    ],
+    "corretta": "Accessibilità continua alle informazioni"
   },
   {
-    "domanda": "Qual è la funzione degli psicologi comportamentali nelle Big Tech?",
-    "risposte": ["Aiutare i dipendenti stressati", "Progettare interfacce che creino abitudine e dipendenza", "Scrivere i post per gli utenti"],
-    "corretta": "Progettare interfacce che creino abitudine e dipendenza"
+    "domanda": "Quale tipologia di e-commerce rappresenta le transazioni tra privati?",
+    "risposte": [
+      "B2C",
+      "C2C",
+      "B2B"
+    ],
+    "corretta": "C2C"
   },
   {
-    "domanda": "Quale sensazione stimola lo 'Scroll Infinito'?",
-    "risposte": ["Noia improvvisa", "Ricompensa variabile (curiosità di vedere cosa c'è dopo)", "Stanchezza fisica"],
-    "corretta": "Ricompensa variabile (curiosità di vedere cosa c'è dopo)"
+    "domanda": "Quale piattaforma di e-commerce è un plug-in di WordPress?",
+    "risposte": [
+      "Shopify",
+      "WooCommerce",
+      "Magento"
+    ],
+    "corretta": "WooCommerce"
   },
   {
-    "domanda": "A cosa serve la 'Mappatura delle piattaforme'?",
-    "risposte": ["A trovare i negozi fisici dei social", "A capire gli scopi e i linguaggi diversi di ogni social", "A misurare la distanza tra i server"],
-    "corretta": "A capire gli scopi e i linguaggi diversi di ogni social"
+    "domanda": "Qual è il vantaggio principale del SEO rispetto al SEM?",
+    "risposte": [
+      "Risultati immediati",
+      "Traffico organico senza costi pubblicitari",
+      "Possibilità di targeting avanzato"
+    ],
+    "corretta": "Traffico organico senza costi pubblicitari"
   },
   {
-    "domanda": "Cosa si intende per 'Cittadinanza Digitale'?",
-    "risposte": ["Avere un passaporto elettronico", "Esercitare i propri diritti e doveri consapevolmente online", "Vivere in una città tecnologica"],
-    "corretta": "Esercitare i propri diritti e doveri consapevolmente online"
+    "domanda": "Qual è lo strumento pubblicitario di Google per annunci a pagamento?",
+    "risposte": [
+      "Google Analytics",
+      "Google Ads",
+      "Google Search Console"
+    ],
+    "corretta": "Google Ads"
   },
   {
-    "domanda": "Perché le piattaforme vogliono conoscere la tua posizione GPS?",
-    "risposte": ["Per controllare se sei a casa", "Per offrirti pubblicità mirata basata su dove ti trovi", "Per migliorare la luminosità dello schermo"],
-    "corretta": "Per offrirti pubblicità mirata basata su dove ti trovi"
-  },
-  {
-    "domanda": "Cosa significa 'implementare protocolli di sicurezza'?",
-    "risposte": ["Comprare un nuovo smartphone ogni anno", "Usare strumenti e comportamenti che proteggono i dati", "Scrivere la password su un post-it"],
-    "corretta": "Usare strumenti e comportamenti che proteggono i dati"
-  },
-  {
-    "domanda": "Qual è il rischio di un algoritmo che decide cosa farti vedere?",
-    "risposte": ["Che il telefono si spenga", "La creazione di una 'bolla' che limita i punti di vista", "L'aumento della luminosità"],
-    "corretta": "La creazione di una 'bolla' che limita i punti di vista"
-  },
-  {
-    "domanda": "Il termine 'gratis' nel mondo social è considerato:",
-    "risposte": ["Un'opportunità incredibile", "Un'illusione", "Una legge dello Stato"],
-    "corretta": "Un'illusione"
-  },
-  {
-    "domanda": "Cosa si intende per 'gestione proattiva' della reputazione?",
-    "risposte": ["Agire prima che sorgano problemi per costruire un'immagine positiva", "Cancellare tutti i social", "Aspettare che qualcuno ci tagghi"],
-    "corretta": "Agire prima che sorgano problemi per costruire un'immagine positiva"
-  },
-  {
-    "domanda": "La 'Voodoo Doll' (Gemello Digitale) viene aggiornata:",
-    "risposte": ["Una volta all'anno", "In tempo reale a ogni nostra interazione", "Solo quando cambiamo telefono"],
-    "corretta": "In tempo reale a ogni nostra interazione"
-  },
-  {
-    "domanda": "Quale tra questi è un comportamento consapevole?",
-    "risposte": ["Cliccare su ogni link ricevuto via SMS", "Chiedersi perché un'app ci sta mostrando un certo contenuto", "Condividere subito una notizia scioccante"],
-    "corretta": "Chiedersi perché un'app ci sta mostrando un certo contenuto"
-  },
-  {
-    "domanda": "Cosa studia la 'Logica Algoritmica'?",
-    "risposte": ["Il funzionamento dei motori a scoppio", "Il 'perché' dietro l'ordine dei contenuti nel nostro feed", "La matematica delle scuole elementari"],
-    "corretta": "Il 'perché' dietro l'ordine dei contenuti nel nostro feed"
-  },
-  {
-    "domanda": "Perché l'utente è definito 'passivo' all'inizio del percorso?",
-    "risposte": ["Perché non scrive mai post", "Perché subisce le dinamiche della piattaforma senza comprenderle", "Perché usa poco internet"],
-    "corretta": "Perché subisce le dinamiche della piattaforma senza comprenderle"
-  },
-  {
-    "domanda": "Il benessere digitale suggerisce di:",
-    "risposte": ["Usare i social solo di notte", "Bilanciare l'uso della tecnologia con momenti di disconnessione", "Non usare mai la modalità aereo"],
-    "corretta": "Bilanciare l'uso della tecnologia con momenti di disconnessione"
-  },
-  {
-    "domanda": "In un corso di competenze digitali, la 'consapevolezza' serve a:",
-    "risposte": ["Navigare in modo più sicuro e libero", "Diventare famosi", "Lavorare gratis per le piattaforme"],
-    "corretta": "Navigare in modo più sicuro e libero"
+    "domanda": "Quale elemento NON appartiene al SEO on-page?",
+    "risposte": [
+      "Tag di titolo e descrizioni",
+      "Velocità di caricamento della pagina",
+      "Budget pubblicitario"
+    ],
+    "corretta": "Budget pubblicitario"
   }
 ]
