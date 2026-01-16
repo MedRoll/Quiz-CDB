@@ -1,127 +1,127 @@
 [
   {
-    "domanda": "L'obiettivo finale della lezione è trasformare l'utente passivo in un cittadino digitale resiliente.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Secondo la lezione, i social media sono gratuiti perché non hanno costi di gestione.",
+    "domanda": "I Social Media sono nati esclusivamente per scopi commerciali e di marketing fin dalle prime versioni.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "L'attenzione umana è considerata una risorsa scarsa e finita nell'economia digitale.",
+    "domanda": "L'interattività è l'elemento fondamentale che distingue i Social Media dai media tradizionali come la televisione.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il 'Dwell Time' si riferisce esclusivamente al tempo trascorso effettuando acquisti online.",
+    "domanda": "Secondo il materiale, Facebook ha avuto un ruolo cruciale nel rendere i social un fenomeno di massa globale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Instagram è una piattaforma che punta principalmente sulla comunicazione testuale e sugli approfondimenti scritti.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "I metadati includono informazioni come la velocità di connessione e il livello della batteria.",
+    "domanda": "LinkedIn viene utilizzato dalle aziende non solo per cercare dipendenti, ma anche per rafforzare la propria autorevolezza nel settore.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il 'Gemello Digitale' è un modello virtuale creato dalle piattaforme per prevedere i nostri comportamenti.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Il Surplus Comportamentale viene utilizzato dalle aziende per migliorare esclusivamente l'esperienza dell'utente.",
+    "domanda": "L'algoritmo di TikTok privilegia i contenuti basandosi quasi esclusivamente sulla data di pubblicazione.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "I 'Dark Patterns' sono tecniche di design che mirano a manipolare le scelte dell'utente.",
+    "domanda": "YouTube può essere considerato un potente motore di ricerca, oltre che una piattaforma di intrattenimento.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La funzione 'Pull to Refresh' è stata progettata ispirandosi al funzionamento di una slot machine.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Le notifiche rosse sono usate perché il colore rosso evoca urgenza a livello biologico.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Lo 'Scroll Infinito' serve a incoraggiare l'utente a fare pause regolari durante la navigazione.",
+    "domanda": "I 'contenuti organici' sui social sono quelli per cui l'azienda paga la piattaforma per ottenere visibilità.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "La profilazione utente permette alle piattaforme di intuire stati emotivi, come la tristezza.",
+    "domanda": "Una strategia social efficace richiede la comprensione profonda degli interessi e dei comportamenti del pubblico di riferimento.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il modulo 'Ecosistema Social' si occupa di analizzare come riparare i guasti dello smartphone.",
+    "domanda": "La disinformazione sui social si diffonde meno velocemente rispetto ai canali ufficiali perché gli utenti verificano sempre le fonti.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "La gestione della reputazione professionale fa parte del modulo sull'Identità Digitale.",
+    "domanda": "Le 'Stories' (contenuti che spariscono dopo 24 ore) servono a creare un senso di urgenza e una comunicazione più spontanea.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La Cyber-Security include la protezione da attacchi di phishing e furti d'identità.",
+    "domanda": "Il Citizen Journalism permette a chiunque di documentare eventi in tempo reale, cambiando il volto dell'informazione.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il benessere digitale riguarda anche la gestione dello stress tecnologico e del sonno.",
+    "domanda": "Un sito web aziendale è considerato 'reattivo' (responsive) se si adatta graficamente alla dimensione dello schermo di smartphone e tablet.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Sviluppare 'anticorpi contro la disinformazione' significa ignorare ogni tipo di notizia online.",
+    "domanda": "Il marketing a pagamento (Paid) è l'unico modo per costruire una community fedele nel lungo periodo.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Ogni esitazione o scroll durante la navigazione fornisce dati preziosi alle piattaforme social.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Il 'Capitalismo della Sorveglianza' trasforma l'esperienza umana in dati grezzi per fini commerciali.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "L'impronta digitale è un dato biometrico usato solo per sbloccare i dispositivi.",
+    "domanda": "La 'Call-to-Action' (CTA) serve a confondere l'utente per evitare che abbandoni troppo presto il sito.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Gli algoritmi decidono cosa mostrarci in base a ciò che massimizza il nostro tempo sulla piattaforma.",
+    "domanda": "Un e-commerce ben strutturato deve offrire un processo di acquisto semplice e sicuro per essere efficace.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La roadmap del corso prevede in totale 8 moduli tematici.",
+    "domanda": "La SEO serve a migliorare il posizionamento naturale di un sito sui motori di ricerca senza pagare per ogni clic.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Le piattaforme tecnologiche non hanno alcun interesse a prevedere i nostri comportamenti futuri.",
+    "domanda": "Su Twitter (X), la brevità dei messaggi favorisce la rapidità del dibattito e la circolazione di notizie lampo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'identità digitale di un'azienda sui social non ha alcuna influenza sulla percezione del marchio da parte dei consumatori.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Essere un cittadino digitale consapevole significa comprendere le dinamiche economiche dietro le app.",
+    "domanda": "Gli hashtag servono a categorizzare i contenuti e permettono agli utenti di trovare argomenti di loro interesse.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La 'Logica Algoritmica' spiega come i social media mantengono l'ordine dei post esclusivamente cronologico.",
+    "domanda": "Le dirette streaming (Live) diminuiscono l'interazione umana perché non permettono il contatto fisico.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
+  },
+  {
+    "domanda": "Google Ads permette alle aziende di apparire in cima ai risultati di ricerca tramite annunci sponsorizzati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le 'bolle di filtraggio' create dagli algoritmi aiutano l'utente ad avere una visione sempre oggettiva e completa del mondo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il piano editoriale è lo strumento che permette di programmare i contenuti social in modo strategico e coerente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'obiettivo finale di una presenza digitale consapevole è trasformare l'utente da consumatore passivo a cittadino digitale informato.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
   }
 ]
