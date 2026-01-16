@@ -1,152 +1,127 @@
 [
   {
-    "domanda": "Puoi accedere al tuo Google Drive da qualsiasi computer connesso a internet.",
+    "domanda": "L'obiettivo finale della lezione è trasformare l'utente passivo in un cittadino digitale resiliente.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Se condividi un link 'Visualizzatore', la persona può scaricare o stampare il file (se non lo blocchi).",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "È impossibile recuperare un file se svuoti il Cestino.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Google Drive funziona solo su computer Windows.",
+    "domanda": "Secondo la lezione, i social media sono gratuiti perché non hanno costi di gestione.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Le cartelle in Drive non possono avere sottocartelle.",
+    "domanda": "L'attenzione umana è considerata una risorsa scarsa e finita nell'economia digitale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il 'Dwell Time' si riferisce esclusivamente al tempo trascorso effettuando acquisti online.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Puoi cercare testo all'interno di un PDF o di un'immagine caricata su Drive (OCR).",
+    "domanda": "I metadati includono informazioni come la velocità di connessione e il livello della batteria.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Disconnettersi (Logout) cancella tutti i tuoi file dal Cloud.",
+    "domanda": "Il 'Gemello Digitale' è un modello virtuale creato dalle piattaforme per prevedere i nostri comportamenti.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il Surplus Comportamentale viene utilizzato dalle aziende per migliorare esclusivamente l'esperienza dell'utente.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Una password sicura dovrebbe contenere solo lettere minuscole.",
+    "domanda": "I 'Dark Patterns' sono tecniche di design che mirano a manipolare le scelte dell'utente.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione 'Pull to Refresh' è stata progettata ispirandosi al funzionamento di una slot machine.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le notifiche rosse sono usate perché il colore rosso evoca urgenza a livello biologico.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Lo 'Scroll Infinito' serve a incoraggiare l'utente a fare pause regolari durante la navigazione.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "I 'Moduli Google' (Forms) possono essere compilati anche da smartphone.",
+    "domanda": "La profilazione utente permette alle piattaforme di intuire stati emotivi, come la tristezza.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Se modifichi un file Offline, devi ricordarti di cliccare 'Sincronizza' manualmente appena hai internet.",
+    "domanda": "Il modulo 'Ecosistema Social' si occupa di analizzare come riparare i guasti dello smartphone.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il proprietario di un file può trasferire la proprietà a un'altra persona.",
+    "domanda": "La gestione della reputazione professionale fa parte del modulo sull'Identità Digitale.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "È sicuro cliccare sui link nelle email che finiscono nella cartella Spam.",
+    "domanda": "La Cyber-Security include la protezione da attacchi di phishing e furti d'identità.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il benessere digitale riguarda anche la gestione dello stress tecnologico e del sonno.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Sviluppare 'anticorpi contro la disinformazione' significa ignorare ogni tipo di notizia online.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Google Docs conta automaticamente le parole mentre scrivi (o con Ctrl+Shift+C).",
+    "domanda": "Ogni esitazione o scroll durante la navigazione fornisce dati preziosi alle piattaforme social.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Puoi caricare video su Google Drive.",
+    "domanda": "Il 'Capitalismo della Sorveglianza' trasforma l'esperienza umana in dati grezzi per fini commerciali.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "L'autenticazione a due fattori richiede sempre un SMS.",
+    "domanda": "L'impronta digitale è un dato biometrico usato solo per sbloccare i dispositivi.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Se cambi il nome a un file condiviso nel tuo Drive, cambia anche per gli altri.",
+    "domanda": "Gli algoritmi decidono cosa mostrarci in base a ciò che massimizza il nostro tempo sulla piattaforma.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Puoi aggiungere una 'Scadenza' temporale a un accesso condiviso (funzione avanzata).",
+    "domanda": "La roadmap del corso prevede in totale 8 moduli tematici.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "I commenti risolti spariscono completamente e non si possono più vedere.",
+    "domanda": "Le piattaforme tecnologiche non hanno alcun interesse a prevedere i nostri comportamenti futuri.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "È possibile usare la dettatura vocale in Google Docs.",
+    "domanda": "Essere un cittadino digitale consapevole significa comprendere le dinamiche economiche dietro le app.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Un file Excel convertito in Google Sheets perde sempre tutti i dati.",
+    "domanda": "La 'Logica Algoritmica' spiega come i social media mantengono l'ordine dei post esclusivamente cronologico.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
-  },
-  {
-    "domanda": "Il tasto 'Stamp' sulla tastiera invia il file alla stampante.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Puoi visualizzare l'anteprima di un file premendo 'P' o l'occhio (o barra spaziatrice su alcuni sistemi).",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Google Drive ha un limite di spazio gratuito.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Se blocchi un utente, questo non può più condividere file con te.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Le 'Parti Rapide' (Quick Parts) sono una funzione esclusiva di Google Docs.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Puoi inserire un link a un sito web dentro un documento.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La cronologia delle versioni mostra chi ha fatto le modifiche.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Non puoi usare Google Drive se non hai Gmail.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Scaricare un file come PDF lo rende non modificabile facilmente.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Il Cloud è fisicamente situato nei server farm (centri dati).",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
   }
 ]
