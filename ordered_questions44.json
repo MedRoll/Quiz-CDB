@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Come fai a spostare un file dentro una cartella in Google Drive?",
-    "risposte": ["Trascina e Rilascia (Drag & Drop) o Tasto Destro > Sposta in", "Devi cancellarlo e ricaricarlo", "Fai doppio clic veloce"],
-    "corretta": "Trascina e Rilascia (Drag & Drop) o Tasto Destro > Sposta in"
+    "domanda": "Qual è il significato della 'Profilazione Utente' citata nel modulo 1?",
+    "risposte": ["L'analisi dei comportamenti per creare un modello degli interessi dell'utente", "La creazione di una foto profilo professionale", "L'eliminazione dei profili inattivi dai social"],
+    "corretta": "L'analisi dei comportamenti per creare un modello degli interessi dell'utente"
   },
   {
-    "domanda": "Se vuoi inviare un file pesante (es. 100 MB) via email, cosa succede con Gmail/Drive?",
-    "risposte": ["Non si può inviare", "Viene inviato automaticamente come link di Google Drive invece di allegato", "Il computer esplode"],
-    "corretta": "Viene inviato automaticamente come link di Google Drive invece di allegato"
+    "domanda": "Perché si parla di 'illusione del gratuito'?",
+    "risposte": ["Perché le app sono a pagamento ma non lo dicono", "Perché paghiamo con dati che hanno un valore economico enorme", "Perché internet diventerà presto a pagamento per tutti"],
+    "corretta": "Perché paghiamo con dati che hanno un valore economico enorme"
   },
   {
-    "domanda": "Qual è il vantaggio di installare l'app Google Drive sul cellulare?",
-    "risposte": ["Per chiamare gratis", "Per accedere ai tuoi documenti, scansionare fogli e caricare foto ovunque", "Per aumentare la batteria"],
-    "corretta": "Per accedere ai tuoi documenti, scansionare fogli e caricare foto ovunque"
+    "domanda": "Cosa si intende per 'Mappatura delle piattaforme' nel modulo 3?",
+    "risposte": ["Trovare la posizione geografica dei server", "Comprendere le differenze e gli utilizzi specifici di ogni social", "Contare quanti utenti ci sono in ogni stato"],
+    "corretta": "Comprendere le differenze e gli utilizzi specifici di ogni social"
   },
   {
-    "domanda": "Cosa indica l'icona a forma di 'Omino con un + accanto'?",
-    "risposte": ["Aggiungi amico su Facebook", "Condividi (Share) il file con qualcuno", "Crea nuovo account"],
-    "corretta": "Condividi (Share) il file con qualcuno"
+    "domanda": "Nel modulo 5, la gestione dell'impronta digitale è legata soprattutto a:",
+    "risposte": ["La velocità di digitazione sulla tastiera", "La reputazione professionale dell'utente", "Il risparmio energetico dello smartphone"],
+    "corretta": "La reputazione professionale dell'utente"
   },
   {
-    "domanda": "Se lavori su un file 'Offline' (senza internet), quando vengono salvate le modifiche nel Cloud?",
-    "risposte": ["Mai, vengono perse", "Appena il dispositivo si riconnette a Internet (Sincronizzazione)", "Devi copiarle a mano"],
-    "corretta": "Appena il dispositivo si riconnette a Internet (Sincronizzazione)"
+    "domanda": "Quale di questi è un 'protocollo di sicurezza' citato per i dati sensibili?",
+    "risposte": ["Condividere le password con gli amici fidati", "Implementare misure di protezione contro i furti d'identità", "Non usare mai i social media dopo le ore 22:00"],
+    "corretta": "Implementare misure di protezione contro i furti d'identità"
   },
   {
-    "domanda": "Come puoi riconoscere un file Google Sheets dall'icona?",
-    "risposte": ["È un quadrato verde con una griglia/croce bianca", "È un foglio blu con righe", "È un cerchio rosso"],
-    "corretta": "È un quadrato verde con una griglia/croce bianca"
+    "domanda": "Cosa indica il termine 'Cittadino Digitale Resiliente'?",
+    "risposte": ["Un utente che non si disconnette mai", "Una persona capace di adattarsi e proteggersi dalle insidie del web", "Un esperto di riparazioni hardware"],
+    "corretta": "Una persona capace di adattarsi e proteggersi dalle insidie del web"
   },
   {
-    "domanda": "Cosa significa 'Scaricare' (Download) un file da Drive?",
-    "risposte": ["Copiare una versione dal Cloud al tuo computer locale", "Cancellare il file dal Cloud", "Mandarlo nel cestino"],
-    "corretta": "Copiare una versione dal Cloud al tuo computer locale"
+    "domanda": "Perché le piattaforme analizzano 'ogni nostro click'?",
+    "risposte": ["Per controllare se il mouse funziona correttamente", "Per alimentare l'algoritmo con dati sulle nostre preferenze", "Per calcolare quanto tempo resta prima della fine del contratto"],
+    "corretta": "Per alimentare l'algoritmo con dati sulle nostre preferenze"
   },
   {
-    "domanda": "Quale funzione usi per trovare velocemente tutti i PDF nel tuo Drive?",
-    "risposte": ["Scorri a mano tutte le cartelle", "Usi la barra di ricerca scrivendo 'type:pdf' o usando i filtri", "Non si può fare"],
-    "corretta": "Usi la barra di ricerca scrivendo 'type:pdf' o usando i filtri"
+    "domanda": "Qual è uno degli impatti del digitale sulla salute mentale citati nel modulo 8?",
+    "risposte": ["L'aumento della memoria a breve termine", "Lo stress tecnologico e l'impatto sul sonno", "Il miglioramento della vista"],
+    "corretta": "Lo stress tecnologico e l'impatto sul sonno"
   },
   {
-    "domanda": "Se vuoi che una cartella sia subito visibile perché è urgente, cosa puoi fare visivamente?",
-    "risposte": ["Cambiare colore alla cartella (Tasto destro > Cambia colore)", "Farla lampeggiare", "Metterla in grassetto"],
-    "corretta": "Cambiare colore alla cartella (Tasto destro > Cambia colore)"
+    "domanda": "Il termine 'Cittadinanza Digitale' implica:",
+    "risposte": ["Avere una connessione internet veloce", "Esercitare diritti e doveri anche nello spazio virtuale", "Essere nati dopo l'anno 2000"],
+    "corretta": "Esercitare diritti e doveri anche nello spazio virtuale"
   },
   {
-    "domanda": "Chi è il 'Proprietario' di un file?",
-    "risposte": ["Chi lo ha creato o caricato inizialmente", "Chi lo legge per ultimo", "Google"],
-    "corretta": "Chi lo ha creato o caricato inizialmente"
+    "domanda": "In che modo gli algoritmi influenzano la nostra 'dieta informativa'?",
+    "risposte": ["Selezionando quali notizie mostrarci in base ai nostri gusti", "Suggerendoci ricette di cucina salutare", "Cancellando automaticamente le mail pubblicitarie"],
+    "corretta": "Selezionando quali notizie mostrarci in base ai nostri gusti"
   },
   {
-    "domanda": "Cosa succede se condividi una cartella intera con un collega?",
-    "risposte": ["Lui vedrà solo la cartella vuota", "Lui avrà accesso a tutti i file contenuti in quella cartella", "Il tuo Drive si blocca"],
-    "corretta": "Lui avrà accesso a tutti i file contenuti in quella cartella"
+    "domanda": "Cos'è il 'Surplus Comportamentale' secondo il modello di business attuale?",
+    "risposte": ["L'eccesso di tempo che passiamo a dormire", "Dati comportamentali extra usati per predire azioni future", "Il numero di app installate ma mai usate"],
+    "corretta": "Dati comportamentali extra usati per predire azioni future"
   },
   {
-    "domanda": "Per creare un nuovo documento di testo vuoto, cosa clicchi?",
-    "risposte": ["Nuovo > Documenti Google", "Nuovo > Cartella", "Barra di ricerca"],
-    "corretta": "Nuovo > Documenti Google"
+    "domanda": "Nel design persuasivo, il rosso delle notifiche serve a:",
+    "risposte": ["Rendere l'app esteticamente più moderna", "Innescare un senso di urgenza e stimolare l'apertura", "Indicare che l'app ha un errore di sistema"],
+    "corretta": "Innescare un senso di urgenza e stimolare l'apertura"
   },
   {
-    "domanda": "Qual è la differenza tra Google Keep e Google Docs?",
-    "risposte": ["Keep serve per note rapide e post-it, Docs per documenti impaginati", "Sono la stessa cosa", "Keep è a pagamento"],
-    "corretta": "Keep serve per note rapide e post-it, Docs per documenti impaginati"
+    "domanda": "Cosa si intende per 'Reputazione Online'?",
+    "risposte": ["Il punteggio che riceviamo nei giochi online", "L'opinione che gli altri si fanno di noi osservando i nostri contenuti", "La marca dello smartphone che utilizziamo"],
+    "corretta": "L'opinione che gli altri si fanno di noi osservando i nostri contenuti"
   },
   {
-    "domanda": "Se ricevi un file Word (.docx) via mail e lo apri in Drive, puoi modificarlo?",
-    "risposte": ["Sì, Drive ha una modalità di compatibilità per i file Office", "No, devi comprare Word", "Solo se lo stampi"],
-    "corretta": "Sì, Drive ha una modalità di compatibilità per i file Office"
+    "domanda": "Il modulo sulla Cyber-Security si concentra su:",
+    "risposte": ["La protezione da phishing e abusi della privacy", "L'acquisto dei migliori monitor sul mercato", "La pulizia interna dei componenti del PC"],
+    "corretta": "La protezione da phishing e abusi della privacy"
   },
   {
-    "domanda": "Cosa significa l'icona della 'Campanella' in alto a destra nelle app Google?",
-    "risposte": ["Sveglia", "Notifiche (commenti, accessi, ecc.)", "Volume"],
-    "corretta": "Notifiche (commenti, accessi, ecc.)"
+    "domanda": "Qual è lo scopo principale del 'Capitalismo della Sorveglianza'?",
+    "risposte": ["Proteggere i cittadini dai criminali", "Trasformare l'esperienza umana in dati per il profitto", "Migliorare la qualità delle chiamate vocali"],
+    "corretta": "Trasformare l'esperienza umana in dati per il profitto"
   },
   {
-    "domanda": "Qual è un buon motivo per usare i 'Modelli' (Templates) di Google?",
-    "risposte": ["Per risparmiare tempo partendo da un design già pronto (es. CV, Brochure)", "Perché sono obbligatori", "Per consumare meno spazio"],
-    "corretta": "Per risparmiare tempo partendo da un design già pronto (es. CV, Brochure)"
+    "domanda": "Lo 'Scroll Infinito' è progettato per:",
+    "risposte": ["Far durare di più la batteria", "Evitare che l'utente trovi un momento naturale per fermarsi", "Aiutare gli utenti che hanno problemi di vista"],
+    "corretta": "Evitare che l'utente trovi un momento naturale per fermarsi"
   },
   {
-    "domanda": "Se elimini un file condiviso di cui TU sei il proprietario, cosa succede agli altri?",
-    "risposte": ["Perdono l'accesso al file anche loro", "Continuano a vederlo per sempre", "Ricevono una copia via mail"],
-    "corretta": "Perdono l'accesso al file anche loro"
+    "domanda": "Cosa significa 'sviluppare anticorpi contro la disinformazione'?",
+    "risposte": ["Ignorare ogni tipo di notizia online", "Imparare tecniche di verifica delle fonti (fact-checking)", "Installare un nuovo browser"],
+    "corretta": "Imparare tecniche di verifica delle fonti (fact-checking)"
   },
   {
-    "domanda": "La 'Sincronizzazione' permette di:",
-    "risposte": ["Avere gli stessi file aggiornati su PC, Tablet e Smartphone", "Ricaricare la batteria", "Navigare più veloce"],
-    "corretta": "Avere gli stessi file aggiornati su PC, Tablet e Smartphone"
+    "domanda": "Perché il tempo è una risorsa 'finita' nell'economia dell'attenzione?",
+    "risposte": ["Perché le giornate hanno solo 24 ore", "Perché internet potrebbe spegnersi da un momento all'altro", "Perché la memoria dei server è limitata"],
+    "corretta": "Perché le giornate hanno solo 24 ore"
   },
   {
-    "domanda": "Per trasformare una foto di un documento cartaceo in PDF usando il telefono:",
-    "risposte": ["Fai una foto normale", "Usi la funzione 'Scansiona' nell'app Google Drive", "Devi usare uno scanner da ufficio"],
-    "corretta": "Usi la funzione 'Scansiona' nell'app Google Drive"
+    "domanda": "Cosa può dedurre l'algoritmo dalla nostra velocità di scorrimento?",
+    "risposte": ["Se siamo stanchi o particolarmente interessati a un tema", "Quanti anni ha il nostro schermo", "Se abbiamo pagato la bolletta internet"],
+    "corretta": "Se siamo stanchi o particolarmente interessati a un tema"
   },
   {
-    "domanda": "Cosa indica la sezione 'Recenti' nel menu laterale?",
-    "risposte": ["I file che hai aperto o modificato per ultimi", "I file creati oggi", "I file cancellati"],
-    "corretta": "I file che hai aperto o modificato per ultimi"
+    "domanda": "La 'Protezione Strategica' serve a:",
+    "risposte": ["Difendere il computer dai ladri in casa", "Gestire in modo intelligente i propri dati e la propria immagine", "Vincere nei giochi di strategia online"],
+    "corretta": "Gestire in modo intelligente i propri dati e la propria immagine"
   },
   {
-    "domanda": "È possibile rendere un file disponibile a 'Chiunque sul web'?",
-    "risposte": ["Sì, modificando le impostazioni del link su 'Pubblico'", "No, è sempre privato", "Solo pagando"],
-    "corretta": "Sì, modificando le impostazioni del link su 'Pubblico'"
+    "domanda": "Cosa si intende per 'Ganci psicologici' nelle app?",
+    "risposte": ["I supporti fisici per appendere il telefono", "Meccanismi di design che creano l'abitudine all'uso", "I tasti per chiudere le applicazioni"],
+    "corretta": "Meccanismi di design che creano l'abitudine all'uso"
   },
   {
-    "domanda": "Cosa devi fare per rinominare un file in Drive?",
-    "risposte": ["Tasto destro > Rinomina", "Cancellarlo e rifarlo", "Scrivere il nome sul monitor"],
-    "corretta": "Tasto destro > Rinomina"
+    "domanda": "Il modulo 'Benessere Digitale' suggerisce di:",
+    "risposte": ["Usare i social solo durante le ore di lavoro", "Monitorare l'impatto della tecnologia sulle nostre emozioni", "Comprare solo dispositivi prodotti in Italia"],
+    "corretta": "Monitorare l'impatto della tecnologia sulle nostre emozioni"
   },
   {
-    "domanda": "Quale browser è consigliato per usare al meglio le app Google?",
-    "risposte": ["Google Chrome", "Internet Explorer 6", "Nessun browser"],
-    "corretta": "Google Chrome"
+    "domanda": "In che modo l'identità digitale può influenzare la carriera?",
+    "risposte": ["I datori di lavoro possono cercare informazioni sui candidati online", "I social regalano premi in denaro ai migliori lavoratori", "I profili social sostituiscono la laurea"],
+    "corretta": "I datori di lavoro possono cercare informazioni sui candidati online"
   },
   {
-    "domanda": "Se vedi un cerchio colorato intorno alla foto profilo di un utente nel documento:",
-    "risposte": ["È il suo compleanno", "Sta guardando il documento in quel momento", "È offline"],
-    "corretta": "Sta guardando il documento in quel momento"
+    "domanda": "Perché è pericoloso il 'furto d'identità'?",
+    "risposte": ["Perché qualcuno potrebbe usare il nostro nome per commettere illeciti", "Perché perdiamo tutte le nostre foto", "Perché dobbiamo cambiare numero di telefono"],
+    "corretta": "Perché qualcuno potrebbe usare il nostro nome per commettere illeciti"
   },
   {
-    "domanda": "Come si chiama lo spazio dove vedi le miniature di tutti i tuoi file?",
-    "risposte": ["Il mio Drive", "La scrivania", "La cartella Download"],
-    "corretta": "Il mio Drive"
+    "domanda": "Qual è il ruolo del 'Gemello Digitale' per le aziende?",
+    "risposte": ["Permette all'utente di giocare in mondi virtuali", "Aiuta le aziende a testare pubblicità su un modello prima di inviarle a noi", "È una copia di sicurezza del nostro profilo"],
+    "corretta": "Aiuta le aziende a testare pubblicità su un modello prima di inviarle a noi"
   },
   {
-    "domanda": "Puoi caricare una cartella intera dal PC al Drive?",
-    "risposte": ["Sì, con 'Caricamento cartella'", "No, solo file singoli", "Solo se è vuota"],
-    "corretta": "Sì, con 'Caricamento cartella'"
+    "domanda": "Cosa si intende per 'Consapevolezza Critica'?",
+    "risposte": ["Essere sempre arrabbiati con le aziende tecnologiche", "Capire i meccanismi invisibili dietro ciò che vediamo online", "Saper smontare un tablet per ripararlo"],
+    "corretta": "Capire i meccanismi invisibili dietro ciò che vediamo online"
   },
   {
-    "domanda": "Se clicchi su 'Rimuovi' su un file condiviso con te (non tuo):",
-    "risposte": ["Viene rimosso dalla tua visualizzazione, ma non cancellato per gli altri", "Viene cancellato per tutti", "Viene bloccato"],
-    "corretta": "Viene rimosso dalla tua visualizzazione, ma non cancellato per gli altri"
+    "domanda": "Quale comportamento protegge meglio la nostra privacy?",
+    "risposte": ["Pubblicare ogni momento della giornata", "Controllare periodicamente le impostazioni di condivisione dati", "Usare la stessa password per dieci anni"],
+    "corretta": "Controllare periodicamente le impostazioni di condivisione dati"
   },
   {
-    "domanda": "A cosa serve la funzione 'Crea una copia'?",
-    "risposte": ["A duplicare un file per lavorarci senza modificare l'originale", "A fare un backup su carta", "A stampare due volte"],
-    "corretta": "A duplicare un file per lavorarci senza modificare l'originale"
+    "domanda": "Il 'Capitalismo della Sorveglianza' trasforma i nostri comportamenti in:",
+    "risposte": ["Prodotti di previsione vendibili", "Opere d'arte digitali", "Semplici statistiche anonime senza valore"],
+    "corretta": "Prodotti di previsione vendibili"
   },
   {
-    "domanda": "Qual è il limite di tempo per modificare un documento Google?",
-    "risposte": ["Nessuno, puoi modificarlo per anni", "1 ora", "24 ore"],
-    "corretta": "Nessuno, puoi modificarlo per anni"
+    "domanda": "Cosa si intende per 'Logica Algoritmica'?",
+    "risposte": ["Il linguaggio di programmazione più difficile", "Il sistema con cui i social scelgono i contenuti per noi", "La velocità di calcolo della CPU"],
+    "corretta": "Il sistema con cui i social scelgono i contenuti per noi"
   },
   {
-    "domanda": "Cosa significa l'icona della 'Nuvola con la spunta' in alto nel documento?",
-    "risposte": ["Che sta piovendo", "Che tutte le modifiche sono state salvate in Drive", "Che non c'è connessione"],
-    "corretta": "Che tutte le modifiche sono state salvate in Drive"
+    "domanda": "Qual è l'ultimo modulo (n. 8) della roadmap presentata?",
+    "risposte": ["Ecosistema Social", "Identità Digitale", "Benessere Digitale"],
+    "corretta": "Benessere Digitale"
   }
 ]
