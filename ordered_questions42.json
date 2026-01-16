@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Qual è la password più sicura tra queste opzioni?",
-    "risposte": ["12345678", "Password!", "Tr@ttor3-Giallo!24"],
-    "corretta": "Tr@ttor3-Giallo!24"
+    "domanda": "Secondo il documento, qual è il vero 'costo' dei servizi digitali gratuiti?",
+    "risposte": ["L'acquisto di hardware", "I nostri dati e il nostro tempo", "La manutenzione della rete"],
+    "corretta": "I nostri dati e il nostro tempo"
   },
   {
-    "domanda": "Cosa significa '2FA'?",
-    "risposte": ["2 Fast Answers", "Autenticazione a Due Fattori", "Second File Archive"],
-    "corretta": "Autenticazione a Due Fattori"
+    "domanda": "Quale di queste affermazioni descrive l'Economia dell'Attenzione?",
+    "risposte": ["Un mercato basato sulla vendita di smartphone", "Un sistema dove l'attenzione umana è la risorsa principale", "Un modo per risparmiare sui costi internet"],
+    "corretta": "Un sistema dove l'attenzione umana è la risorsa principale"
   },
   {
-    "domanda": "Nel ruolo di 'Visualizzatore', cosa può fare l'utente?",
-    "risposte": ["Solo leggere il file", "Leggere e lasciare commenti", "Modificare il testo"],
-    "corretta": "Solo leggere il file"
+    "domanda": "Cosa significa 'profilazione utente'?",
+    "risposte": ["Cambiare la foto del profilo regolarmente", "Raccogliere dati per creare un modello dei tuoi interessi", "Cancellare i propri dati dai social"],
+    "corretta": "Raccogliere dati per creare un modello dei tuoi interessi"
   },
   {
-    "domanda": "Cosa può fare un utente con ruolo 'Editor'?",
-    "risposte": ["Tutto: leggere, modificare, cancellare e condividere", "Solo suggerire modifiche", "Solo visualizzare"],
-    "corretta": "Tutto: leggere, modificare, cancellare e condividere"
+    "domanda": "In che modo i social media usano i dati sulla 'velocità di connessione'?",
+    "risposte": ["Per regalarti un router nuovo", "Come metadato per capire il tuo contesto d'uso", "Per bloccare i contenuti pesanti"],
+    "corretta": "Come metadato per capire il tuo contesto d'uso"
   },
   {
-    "domanda": "Cos'è il Phishing?",
-    "risposte": ["Un modo per pescare online", "Una truffa via email per rubare dati sensibili", "Un virus che blocca il PC"],
-    "corretta": "Una truffa via email per rubare dati sensibili"
+    "domanda": "Qual è lo scopo delle previsioni algoritmiche?",
+    "risposte": ["Indovinare il meteo", "Prevedere il comportamento futuro dell'utente", "Calcolare la durata della batteria"],
+    "corretta": "Prevedere il comportamento futuro dell'utente"
   },
   {
-    "domanda": "Se ricevi una mail dalla 'Banca' che ti chiede di cliccare un link urgente, cosa fai?",
-    "risposte": ["Clicco subito per risolvere il problema", "Controllo il mittente e non clicco il link", "Rispondo con la mia password"],
-    "corretta": "Controllo il mittente e non clicco il link"
+    "domanda": "Perché le piattaforme monitorano il 'livello della batteria'?",
+    "risposte": ["Per avvisarti di caricare il telefono", "Perché gli utenti con batteria scarica sono più vulnerabili o impulsivi", "Per spegnere l'app automaticamente"],
+    "corretta": "Perché gli utenti con batteria scarica sono più vulnerabili o impulsivi"
   },
   {
-    "domanda": "A cosa serve la 'Cronologia Versioni'?",
-    "risposte": ["A vedere chi ha aperto il file", "A vedere le modifiche passate e ripristinare versioni precedenti", "A cancellare il file"],
-    "corretta": "A vedere le modifiche passate e ripristinare versioni precedenti"
+    "domanda": "Cosa si intende per 'utente resiliente'?",
+    "risposte": ["Un utente che non spegne mai il telefono", "Un cittadino capace di navigare nei rischi digitali senza subirli", "Un utente che ha molti follower"],
+    "corretta": "Un cittadino capace di navigare nei rischi digitali senza subirli"
   },
   {
-    "domanda": "Qual è la funzione della modalità 'Suggerimento'?",
-    "risposte": ["Modifica il testo direttamente senza avvisare", "Propone una modifica che il proprietario deve approvare o rifiutare", "Aggiunge solo commenti a lato"],
-    "corretta": "Propone una modifica che il proprietario deve approvare o rifiutare"
+    "domanda": "Cosa si intende per 'Capitalismo della Sorveglianza'?",
+    "risposte": ["Un sistema di telecamere stradali", "Un modello economico basato sull'estrazione di dati dai comportamenti umani", "La vendita di sistemi di allarme"],
+    "corretta": "Un modello economico basato sull'estrazione di dati dai comportamenti umani"
   },
   {
-    "domanda": "Cos'è un 'Password Manager' (Gestore Password)?",
-    "risposte": ["Un foglio Excel con le password", "Un'app sicura che ricorda le password complesse al posto tuo", "Una persona che gestisce il tuo account"],
-    "corretta": "Un'app sicura che ricorda le password complesse al posto tuo"
+    "domanda": "Le piattaforme social sono 'neutrali'?",
+    "risposte": ["Sì, mostrano tutto in ordine cronologico", "No, sono progettate per influenzare il comportamento", "Sì, non hanno interessi economici"],
+    "corretta": "No, sono progettate per influenzare il comportamento"
   },
   {
-    "domanda": "Quale ruolo dai a un collega se vuoi che possa commentare ma NON cambiare il testo?",
-    "risposte": ["Visualizzatore", "Commentatore", "Editor"],
-    "corretta": "Commentatore"
+    "domanda": "Cosa si intende per 'Reputazione Online'?",
+    "risposte": ["Il numero di 'mi piace' su una foto", "L'immagine di noi che emerge dalle nostre attività digitali", "Il costo del nostro abbonamento social"],
+    "corretta": "L'immagine di noi che emerge dalle nostre attività digitali"
   },
   {
-    "domanda": "Perché dovresti fare il Logout (Disconnetti) da un PC pubblico?",
-    "risposte": ["Per risparmiare energia", "Per evitare che estranei accedano al tuo account", "Per pulire la cronologia"],
-    "corretta": "Per evitare che estranei accedano al tuo account"
+    "domanda": "Cosa sono le 'Notifiche Push' dal punto di vista psicologico?",
+    "risposte": ["Semplici promemoria", "Ganci per riportare l'attenzione dell'utente sulla piattaforma", "Errori del sistema operativo"],
+    "corretta": "Ganci per riportare l'attenzione dell'utente sulla piattaforma"
   },
   {
-    "domanda": "Cosa indica il lucchetto (HTTPS) nella barra degli indirizzi del browser?",
-    "risposte": ["Che il sito è criptato e la connessione è sicura", "Che il sito è bloccato", "Che devi pagare per entrare"],
-    "corretta": "Che il sito è criptato e la connessione è sicura"
+    "domanda": "Cosa analizza il modulo 'Identità Digitale'?",
+    "risposte": ["Come creare un nome utente originale", "La gestione dell'impronta e della reputazione professionale", "La scelta dei colori del profilo"],
+    "corretta": "La gestione dell'impronta e della reputazione professionale"
   },
   {
-    "domanda": "Qual è un indizio tipico di una mail di Phishing?",
-    "risposte": ["Errori grammaticali e senso di urgenza", "Il tuo nome scritto correttamente", "Un link a google.com"],
-    "corretta": "Errori grammaticali e senso di urgenza"
+    "domanda": "Quale di questi è un rischio della 'dieta informativa' non curata?",
+    "risposte": ["Rottura dello schermo", "Esposizione a fake news e manipolazione", "Aumento del costo delle app"],
+    "corretta": "Esposizione a fake news e manipolazione"
   },
   {
-    "domanda": "Nella 2FA, il secondo fattore è solitamente:",
-    "risposte": ["Il nome del tuo cane", "Un codice temporaneo inviato al telefono o generato da un'app", "La tua data di nascita"],
-    "corretta": "Un codice temporaneo inviato al telefono o generato da un'app"
+    "domanda": "Perché è importante la 'Protezione dei dati sensibili'?",
+    "risposte": ["Per evitare phishing e furti d'identità", "Per rendere il telefono più veloce", "Per avere più spazio in memoria"],
+    "corretta": "Per evitare phishing e furti d'identità"
   },
   {
-    "domanda": "Come si tagga una persona in un commento su Google Docs?",
-    "risposte": ["Scrivendo il suo nome in maiuscolo", "Usando il simbolo @ seguito dalla sua mail", "Usando l'hashtag #"],
-    "corretta": "Usando il simbolo @ seguito dalla sua mail"
+    "domanda": "Cosa si intende per 'Stress Tecnologico'?",
+    "risposte": ["Il surriscaldamento del processore", "L'impatto negativo del digitale sulla salute mentale e sul sonno", "La difficoltà nel caricare un video"],
+    "corretta": "L'impatto negativo del digitale sulla salute mentale e sul sonno"
   },
   {
-    "domanda": "Se condividi un file tramite Link impostato su 'Chiunque abbia il link', chi può vederlo?",
-    "risposte": ["Solo le persone invitate via mail", "Chiunque nel mondo entri in possesso di quel link", "Solo tu"],
-    "corretta": "Chiunque nel mondo entri in possesso di quel link"
+    "domanda": "Qual è la funzione degli psicologi comportamentali nelle Big Tech?",
+    "risposte": ["Aiutare i dipendenti stressati", "Progettare interfacce che creino abitudine e dipendenza", "Scrivere i post per gli utenti"],
+    "corretta": "Progettare interfacce che creino abitudine e dipendenza"
   },
   {
-    "domanda": "Cosa significa 'Collaborazione Asincrona'?",
-    "risposte": ["Lavorare insieme nello stesso momento", "Lavorare sullo stesso file in momenti diversi", "Lavorare senza internet"],
-    "corretta": "Lavorare sullo stesso file in momenti diversi"
+    "domanda": "Quale sensazione stimola lo 'Scroll Infinito'?",
+    "risposte": ["Noia improvvisa", "Ricompensa variabile (curiosità di vedere cosa c'è dopo)", "Stanchezza fisica"],
+    "corretta": "Ricompensa variabile (curiosità di vedere cosa c'è dopo)"
   },
   {
-    "domanda": "È sicuro usare la stessa password per Banca, Facebook e Email?",
-    "risposte": ["Sì, così non la dimentico", "No, se ne scoprono una accedono a tutto", "Sì, se è complessa"],
-    "corretta": "No, se ne scoprono una accedono a tutto"
+    "domanda": "A cosa serve la 'Mappatura delle piattaforme'?",
+    "risposte": ["A trovare i negozi fisici dei social", "A capire gli scopi e i linguaggi diversi di ogni social", "A misurare la distanza tra i server"],
+    "corretta": "A capire gli scopi e i linguaggi diversi di ogni social"
   },
   {
-    "domanda": "Cosa succede quando 'Risolvi' un commento in un Doc?",
-    "risposte": ["Il commento viene cancellato per sempre", "Il commento viene archiviato/nascosto perché la discussione è chiusa", "Il file viene cancellato"],
-    "corretta": "Il commento viene archiviato/nascosto perché la discussione è chiusa"
+    "domanda": "Cosa si intende per 'Cittadinanza Digitale'?",
+    "risposte": ["Avere un passaporto elettronico", "Esercitare i propri diritti e doveri consapevolmente online", "Vivere in una città tecnologica"],
+    "corretta": "Esercitare i propri diritti e doveri consapevolmente online"
   },
   {
-    "domanda": "Quale di questi è un buon metodo per creare una password robusta?",
-    "risposte": ["Usare una frase lunga (Passphrase) con numeri e simboli", "Usare la data di nascita", "Usare 'password123'"],
-    "corretta": "Usare una frase lunga (Passphrase) con numeri e simboli"
+    "domanda": "Perché le piattaforme vogliono conoscere la tua posizione GPS?",
+    "risposte": ["Per controllare se sei a casa", "Per offrirti pubblicità mirata basata su dove ti trovi", "Per migliorare la luminosità dello schermo"],
+    "corretta": "Per offrirti pubblicità mirata basata su dove ti trovi"
   },
   {
-    "domanda": "Se vedi un cursore colorato con un nome che si muove nel tuo documento, cosa significa?",
-    "risposte": ["Che c'è un virus", "Che un collaboratore sta lavorando sul file in quel momento", "Che il mouse è rotto"],
-    "corretta": "Che un collaboratore sta lavorando sul file in quel momento"
+    "domanda": "Cosa significa 'implementare protocolli di sicurezza'?",
+    "risposte": ["Comprare un nuovo smartphone ogni anno", "Usare strumenti e comportamenti che proteggono i dati", "Scrivere la password su un post-it"],
+    "corretta": "Usare strumenti e comportamenti che proteggono i dati"
   },
   {
-    "domanda": "Qual è il modo più sicuro per condividere un file sensibile?",
-    "risposte": ["Tramite Link pubblico su Facebook", "Invitando l'indirizzo email specifico della persona", "Scrivendolo su un foglietto"],
-    "corretta": "Invitando l'indirizzo email specifico della persona"
+    "domanda": "Qual è il rischio di un algoritmo che decide cosa farti vedere?",
+    "risposte": ["Che il telefono si spenga", "La creazione di una 'bolla' che limita i punti di vista", "L'aumento della luminosità"],
+    "corretta": "La creazione di una 'bolla' che limita i punti di vista"
   },
   {
-    "domanda": "Cosa fare se sospetti che la tua password sia stata rubata?",
-    "risposte": ["Cambiarla immediatamente", "Aspettare e vedere", "Cancellare l'account"],
-    "corretta": "Cambiarla immediatamente"
+    "domanda": "Il termine 'gratis' nel mondo social è considerato:",
+    "risposte": ["Un'opportunità incredibile", "Un'illusione", "Una legge dello Stato"],
+    "corretta": "Un'illusione"
   },
   {
-    "domanda": "I file eliminati dal Cestino di Drive possono essere recuperati dall'utente dopo 60 giorni?",
-    "risposte": ["Sì, sempre", "No, solitamente sono persi definitivamente", "Sì, pagando"],
-    "corretta": "No, solitamente sono persi definitivamente"
+    "domanda": "Cosa si intende per 'gestione proattiva' della reputazione?",
+    "risposte": ["Agire prima che sorgano problemi per costruire un'immagine positiva", "Cancellare tutti i social", "Aspettare che qualcuno ci tagghi"],
+    "corretta": "Agire prima che sorgano problemi per costruire un'immagine positiva"
   },
   {
-    "domanda": "L'autenticazione a due fattori protegge contro:",
-    "risposte": ["La rottura del computer", "Il furto della sola password", "La lentezza di internet"],
-    "corretta": "Il furto della sola password"
+    "domanda": "La 'Voodoo Doll' (Gemello Digitale) viene aggiornata:",
+    "risposte": ["Una volta all'anno", "In tempo reale a ogni nostra interazione", "Solo quando cambiamo telefono"],
+    "corretta": "In tempo reale a ogni nostra interazione"
   },
   {
-    "domanda": "Qual è il vantaggio di usare i commenti invece di scrivere nel testo?",
-    "risposte": ["Non 'sporcano' il documento finale e permettono la discussione", "Sono più facili da leggere", "Occupano meno memoria"],
-    "corretta": "Non 'sporcano' il documento finale e permettono la discussione"
+    "domanda": "Quale tra questi è un comportamento consapevole?",
+    "risposte": ["Cliccare su ogni link ricevuto via SMS", "Chiedersi perché un'app ci sta mostrando un certo contenuto", "Condividere subito una notizia scioccante"],
+    "corretta": "Chiedersi perché un'app ci sta mostrando un certo contenuto"
   },
   {
-    "domanda": "Per vedere le versioni precedenti di un file, dove clicchi?",
-    "risposte": ["File > Cronologia versioni", "Modifica > Annulla", "Visualizza > Zoom"],
-    "corretta": "File > Cronologia versioni"
+    "domanda": "Cosa studia la 'Logica Algoritmica'?",
+    "risposte": ["Il funzionamento dei motori a scoppio", "Il 'perché' dietro l'ordine dei contenuti nel nostro feed", "La matematica delle scuole elementari"],
+    "corretta": "Il 'perché' dietro l'ordine dei contenuti nel nostro feed"
   },
   {
-    "domanda": "Un link che inizia con 'http://' (senza S) è considerato:",
-    "risposte": ["Sicuro", "Non sicuro (traffico non criptato)", "Più veloce"],
-    "corretta": "Non sicuro (traffico non criptato)"
+    "domanda": "Perché l'utente è definito 'passivo' all'inizio del percorso?",
+    "risposte": ["Perché non scrive mai post", "Perché subisce le dinamiche della piattaforma senza comprenderle", "Perché usa poco internet"],
+    "corretta": "Perché subisce le dinamiche della piattaforma senza comprenderle"
   },
   {
-    "domanda": "Quale tasto premi per accettare un suggerimento di modifica?",
-    "risposte": ["La spunta (V)", "La X", "Il tasto Canc"],
-    "corretta": "La spunta (V)"
+    "domanda": "Il benessere digitale suggerisce di:",
+    "risposte": ["Usare i social solo di notte", "Bilanciare l'uso della tecnologia con momenti di disconnessione", "Non usare mai la modalità aereo"],
+    "corretta": "Bilanciare l'uso della tecnologia con momenti di disconnessione"
   },
   {
-    "domanda": "Il Cloud elimina la necessità di fare backup locali su chiavetta?",
-    "risposte": ["Sì, è sempre tutto sicuro al 100%", "No, è buona norma avere comunque una copia offline per sicurezza critica", "Il Cloud non fa backup"],
-    "corretta": "No, è buona norma avere comunque una copia offline per sicurezza critica"
+    "domanda": "In un corso di competenze digitali, la 'consapevolezza' serve a:",
+    "risposte": ["Navigare in modo più sicuro e libero", "Diventare famosi", "Lavorare gratis per le piattaforme"],
+    "corretta": "Navigare in modo più sicuro e libero"
   }
 ]
