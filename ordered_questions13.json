@@ -1,127 +1,127 @@
 [
   {
-    "domanda": "Qual è il simbolo che separa il nome del sito dal resto dell'indirizzo?",
-    "risposte": ["Il punto (.)", "La chiocciola (@)", "L'asterisco (*)"],
-    "corretta": "Il punto (.)"
+    "domanda": "Qual è la funzione principale di un Browser?",
+    "risposte": ["Permettere la visualizzazione delle pagine web", "Riparare i guasti elettrici del PC", "Inviare messaggi via posta cartacea"],
+    "corretta": "Permettere la visualizzazione delle pagine web"
   },
   {
-    "domanda": "Se cerchi 'Ricetta Torta' su Google, cosa ottieni?",
-    "risposte": ["Una torta vera a casa", "Una lista di pagine web (SERP) che parlano di torte", "L'indirizzo di un pasticciere"],
-    "corretta": "Una lista di pagine web (SERP) che parlano di torte"
+    "domanda": "In quale parte del browser si digita l'indirizzo di un sito?",
+    "risposte": ["Nella barra degli strumenti", "Nella barra degli indirizzi", "Nel cestino"],
+    "corretta": "Nella barra degli indirizzi"
   },
   {
-    "domanda": "A cosa servono i 'Cookie'?",
-    "risposte": ["A mangiare durante la navigazione", "A memorizzare alcune informazioni dell'utente sui siti", "A pulire lo schermo"],
-    "corretta": "A memorizzare alcune informazioni dell'utente sui siti"
+    "domanda": "Cosa succede se clicchi sul pulsante con la freccia rivolta a sinistra?",
+    "risposte": ["Il computer si spegne", "Torni alla pagina visitata in precedenza", "Apri una nuova finestra"],
+    "corretta": "Torni alla pagina visitata in precedenza"
   },
   {
-    "domanda": "Cosa significa 'Sito Web'?",
-    "risposte": ["Un insieme di pagine web correlate", "Un computer portatile", "Un libro digitale"],
-    "corretta": "Un insieme di pagine web correlate"
+    "domanda": "Quale di questi NON è un browser?",
+    "risposte": ["Google Chrome", "Mozilla Firefox", "Microsoft Excel"],
+    "corretta": "Microsoft Excel"
   },
   {
-    "domanda": "Cosa significa l'estensione '.com'?",
-    "risposte": ["Sito commerciale", "Sito del comune", "Sito di comunicazione"],
-    "corretta": "Sito commerciale"
+    "domanda": "Cosa significa 'Download'?",
+    "risposte": ["Inviare una foto dal PC allo smartphone", "Portare un file da Internet all'interno del proprio computer", "Cancellare un file da una chiavetta USB"],
+    "corretta": "Portare un file da Internet all'interno del proprio computer"
   },
   {
-    "domanda": "Quale tra questi è un rischio di Internet citato?",
-    "risposte": ["La pioggia", "I virus informatici", "Il consumo di carta"],
-    "corretta": "I virus informatici"
+    "domanda": "A cosa servono le 'Parole Chiave' (Keywords) su Google?",
+    "risposte": ["A bloccare l'accesso agli estranei", "A descrivere cosa stiamo cercando per ottenere risultati pertinenti", "A cambiare la lingua della tastiera"],
+    "corretta": "A descrivere cosa stiamo cercando per ottenere risultati pertinenti"
   },
   {
-    "domanda": "Come si chiama l'azione di passare da un sito all'altro?",
-    "risposte": ["Correre", "Navigare", "Volare"],
-    "corretta": "Navigare"
+    "domanda": "Cosa indica l'icona a forma di stella in molti browser?",
+    "risposte": ["Che il sito è a pagamento", "La possibilità di aggiungere il sito ai 'Preferiti'", "Che il computer è surriscaldato"],
+    "corretta": "La possibilità di aggiungere il sito ai 'Preferiti'"
   },
   {
-    "domanda": "Cosa significa 'Upload'?",
-    "risposte": ["Caricare un file dal proprio PC verso il web", "Cancellare un file", "Aggiornare il computer"],
-    "corretta": "Caricare un file dal proprio PC verso il web"
+    "domanda": "Qual è la differenza principale tra Internet e il Web?",
+    "risposte": ["Internet è l'infrastruttura fisica, il Web è l'insieme dei contenuti", "Il Web è una rete di cavi, Internet è un programma", "Non c'è nessuna differenza"],
+    "corretta": "Internet è l'infrastruttura fisica, il Web è l'insieme dei contenuti"
   },
   {
-    "domanda": "Un indirizzo che inizia con 'https' è più sicuro di uno con 'http'?",
-    "risposte": ["Sì, la 's' sta per 'Secure' (Sicuro)", "No, sono uguali", "No, 'http' è più moderno"],
-    "corretta": "Sì, la 's' sta per 'Secure' (Sicuro)"
+    "domanda": "Cos'è un 'Link'?",
+    "risposte": ["Un componente interno del monitor", "Un collegamento cliccabile che porta a un'altra risorsa", "La marca di un modem"],
+    "corretta": "Un collegamento cliccabile che porta a un'altra risorsa"
   },
   {
-    "domanda": "Cosa si clicca per chiudere una sola scheda del browser?",
-    "risposte": ["La 'X' sulla scheda stessa", "Il tasto Invio", "Il tasto destro del mouse"],
-    "corretta": "La 'X' sulla scheda stessa"
+    "domanda": "Cosa significa HTTPS all'inizio di un indirizzo?",
+    "risposte": ["Che il sito è molto lento", "Che la comunicazione tra browser e sito è criptata e più sicura", "Che il sito contiene solo immagini"],
+    "corretta": "Che la comunicazione tra browser e sito è criptata e più sicura"
   },
   {
-    "domanda": "Chi è il fornitore di servizi Internet (ISP)?",
-    "risposte": ["L'azienda che ti vende la connessione", "Il produttore del PC", "Il creatore di Google"],
-    "corretta": "L'azienda che ti vende la connessione"
+    "domanda": "In Windows, dove finiscono solitamente i file scaricati dal Web?",
+    "risposte": ["Nella cartella 'Documenti'", "Nella cartella 'Download'", "Sul Desktop"],
+    "corretta": "Nella cartella 'Download'"
   },
   {
-    "domanda": "Cosa succede se clicchi sul logo di un sito (solitamente in alto a sinistra)?",
-    "risposte": ["Si spegne il sito", "Si torna alla pagina principale del sito", "Si apre Google"],
-    "corretta": "Si torna alla pagina principale del sito"
+    "domanda": "Cos'è un motore di ricerca?",
+    "risposte": ["Un pezzo del motore della macchina", "Un sito che indicizza il web e ci permette di trovare informazioni", "Un programma per scrivere testi"],
+    "corretta": "Un sito che indicizza il web e ci permette di trovare informazioni"
   },
   {
-    "domanda": "Qual è lo scopo principale di un browser?",
-    "risposte": ["Scrivere testi", "Interpretare il codice e mostrare le pagine web", "Fare calcoli matematici"],
-    "corretta": "Interpretare il codice e mostrare le pagine web"
+    "domanda": "Cosa sono le 'Schede' (Tabs) di un browser?",
+    "risposte": ["Pagine diverse aperte contemporaneamente nella stessa finestra", "I tasti del volume", "Le tessere magnetiche del PC"],
+    "corretta": "Pagine diverse aperte contemporaneamente nella stessa finestra"
   },
   {
-    "domanda": "Dove si trova solitamente la barra delle schede?",
-    "risposte": ["In fondo alla pagina", "In alto, sopra la barra degli indirizzi", "A destra dello schermo"],
-    "corretta": "In alto, sopra la barra degli indirizzi"
+    "domanda": "Quale tasto si preme per aggiornare una pagina web?",
+    "risposte": ["F5", "Invio", "Barra spaziatrice"],
+    "corretta": "F5"
   },
   {
-    "domanda": "Cosa significa 'Sito Istituzionale' (es. .gov)?",
-    "risposte": ["Sito di un ente governativo", "Sito di un negozio di abbigliamento", "Sito di un gioco"],
-    "corretta": "Sito di un ente governativo"
+    "domanda": "Cosa indica l'estensione '.gov'?",
+    "risposte": ["Un sito di videogiochi", "Un sito governativo o istituzionale", "Un sito di cucina"],
+    "corretta": "Un sito governativo o istituzionale"
   },
   {
-    "domanda": "Cosa si deve fare se appare un avviso di 'Sito non sicuro'?",
-    "risposte": ["Continuare comunque", "Chiudere la pagina e non inserire dati", "Riavviare il PC"],
-    "corretta": "Chiudere la pagina e non inserire dati"
+    "domanda": "Che aspetto assume solitamente il puntatore del mouse sopra un link?",
+    "risposte": ["Una freccia che lampeggia", "Una manina con l'indice puntato", "Un cerchio rosso"],
+    "corretta": "Una manina con l'indice puntato"
   },
   {
-    "domanda": "Perché si scaricano i moduli (es. PDF) da internet?",
-    "risposte": ["Per poterli stampare o compilare offline", "Per liberare spazio sul sito", "Per cambiare il colore del modulo"],
-    "corretta": "Per poterli stampare o compilare offline"
+    "domanda": "A cosa serve la 'Cronologia' del browser?",
+    "risposte": ["A prevedere il futuro del meteo", "A ritrovare i siti visitati nei giorni precedenti", "A cancellare i virus"],
+    "corretta": "A ritrovare i siti visitati nei giorni precedenti"
   },
   {
-    "domanda": "Quale tasto della tastiera si usa per confermare una ricerca?",
-    "risposte": ["Invio (Enter)", "Spazio", "Bloc Maiusc"],
-    "corretta": "Invio (Enter)"
+    "domanda": "Cosa significa navigare 'In Incognito'?",
+    "risposte": ["Che nessuno può vederti fisicamente", "Che il browser non salva cronologia e cookie di quella sessione", "Che la connessione diventa gratis"],
+    "corretta": "Che il browser non salva cronologia e cookie di quella sessione"
   },
   {
-    "domanda": "Cosa significa 'Home Page'?",
-    "risposte": ["La pagina finale di un sito", "La pagina di benvenuto di un sito", "Il nome del browser"],
-    "corretta": "La pagina di benvenuto di un sito"
+    "domanda": "Cosa si intende per 'URL'?",
+    "risposte": ["Un tipo di cavo telefonico", "L'indirizzo univoco di una risorsa su internet", "Il nome dell'utente"],
+    "corretta": "L'indirizzo univoco di una risorsa su internet"
   },
   {
-    "domanda": "Cos'è Microsoft Edge?",
-    "risposte": ["Un motore di ricerca", "Un browser preinstallato su Windows", "Un tipo di mouse"],
-    "corretta": "Un browser preinstallato su Windows"
+    "domanda": "Qual è il compito del modem?",
+    "risposte": ["Stampare le pagine web", "Mettere in comunicazione il PC con la linea internet", "Aumentare la memoria del PC"],
+    "corretta": "Mettere in comunicazione il PC con la linea internet"
   },
   {
-    "domanda": "A cosa serve lo 'Zoom' nel browser?",
-    "risposte": ["A ingrandire o rimpicciolire i testi e le immagini", "A rendere internet più veloce", "A cambiare sito"],
-    "corretta": "A ingrandire o rimpicciolire i testi e le immagini"
+    "domanda": "A cosa serve il pulsante 'Home' del browser?",
+    "risposte": ["A chiudere tutte le finestre", "A tornare alla pagina iniziale predefinita", "A chiamare casa"],
+    "corretta": "A tornare alla pagina iniziale predefinita"
   },
   {
-    "domanda": "Un sito web può contenere video?",
-    "risposte": ["Sì, certamente", "No, solo testo", "Solo se il PC è collegato alla TV"],
-    "corretta": "Sì, certamente"
+    "domanda": "Cosa sono i 'Risultati Sponsorizzati' su Google?",
+    "risposte": ["I risultati più importanti", "Annunci pubblicitari pagati per apparire in alto", "I siti più sicuri"],
+    "corretta": "Annunci pubblicitari pagati per apparire in alto"
   },
   {
-    "domanda": "Cosa indica la barra di avanzamento del download?",
-    "risposte": ["Quanto tempo manca alla fine dello scaricamento", "Il prezzo del file", "La qualità del video"],
-    "corretta": "Quanto tempo manca alla fine dello scaricamento"
+    "domanda": "Cosa indica il simbolo 'X' su una scheda del browser?",
+    "risposte": ["Serve a ricaricare la pagina", "Serve a chiudere solo quella specifica scheda", "Indica un errore"],
+    "corretta": "Serve a chiudere solo quella specifica scheda"
   },
   {
-    "domanda": "Come si aggiunge un sito ai Preferiti in Chrome?",
-    "risposte": ["Cliccando sulla stellina nella barra degli indirizzi", "Premendo il tasto di spegnimento", "Scrivendo il nome su un foglio"],
-    "corretta": "Cliccando sulla stellina nella barra degli indirizzi"
+    "domanda": "Cosa significa che un sito è 'Responsive'?",
+    "risposte": ["Che risponde velocemente ai comandi", "Che adatta la sua grafica allo schermo di smartphone o tablet", "Che è tradotto in molte lingue"],
+    "corretta": "Che adatta la sua grafica allo schermo di smartphone o tablet"
   },
   {
-    "domanda": "Cosa sono le 'Ads' (Pubblicità) nei risultati di ricerca?",
-    "risposte": ["I risultati migliori in assoluto", "Risultati a pagamento che appaiono in alto", "I virus del computer"],
-    "corretta": "Risultati a pagamento che appaiono in alto"
+    "domanda": "Cosa si consiglia di fare prima di scaricare un modulo da un sito sconosciuto?",
+    "risposte": ["Verificare che il sito sia affidabile e sicuro", "Cambiare monitor", "Spegnerlo e riaccenderlo"],
+    "corretta": "Verificare che il sito sia affidabile e sicuro"
   }
 ]
