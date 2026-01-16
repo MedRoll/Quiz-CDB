@@ -1,151 +1,151 @@
 [
   {
-    "domanda": "Il Cloud Computing richiede obbligatoriamente una connessione Internet per funzionare in tempo reale.",
+    "domanda": "L'obiettivo finale del corso è trasformare l'utente passivo in un cittadino digitale consapevole.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Un utente 'Visualizzatore' può cancellare il file condiviso.",
+    "domanda": "Nell'economia dell'attenzione, l'attenzione umana è considerata una risorsa infinita.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Google Drive salva automaticamente le modifiche mentre scrivi.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La password 'ciao123' è considerata sicura.",
+    "domanda": "I social media sono gratuiti perché le aziende non hanno costi di gestione.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il Phishing avviene solo tramite telefonate.",
+    "domanda": "Il 'Dwell Time' misura quanto tempo un utente interagisce con un contenuto, anche senza cliccarci sopra.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I metadati raccolti includono informazioni come il livello della batteria e la velocità di connessione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il 'Gemello Digitale' è un profilo che l'utente crea manualmente per proteggere la sua privacy.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Puoi ripristinare una versione del documento risalente a ieri.",
+    "domanda": "Le aziende tecnologiche vendono agli inserzionisti previsioni sul comportamento futuro degli utenti.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il protocollo HTTPS garantisce che il sito web sia legittimo e criptato.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Un 'Commentatore' può modificare direttamente il testo del documento.",
+    "domanda": "I 'Dark Patterns' sono elementi di design creati per aiutare l'utente a navigare più velocemente.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Google Forms serve principalmente per creare presentazioni.",
+    "domanda": "La funzione 'Pull to Refresh' imita psicologicamente il meccanismo di una slot machine.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le notifiche rosse vengono usate perché il rosso è un colore che biologicamente attira l'attenzione.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Lo 'Scroll Infinito' serve a dare all'utente punti di stop naturali per incoraggiare la pausa.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "È possibile lavorare sullo stesso file in due persone contemporaneamente.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La 2FA (Autenticazione a due fattori) è inutile se hai una password lunga.",
+    "domanda": "Il benessere digitale riguarda solo la protezione del computer dai virus.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "I file nella cartella 'Condivisi con me' occupano il tuo spazio di archiviazione (i tuoi 15GB).",
+    "domanda": "Il 'Capitalismo della Sorveglianza' si basa sull'estrazione di dati dai comportamenti umani.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Gestire la propria reputazione online è un obiettivo del modulo sulla Protezione Strategica.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Gli algoritmi decidono cosa mostrare nel feed in modo totalmente casuale.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Dovresti sempre fare il logout quando usi un computer della biblioteca o dell'hotel.",
+    "domanda": "L'impronta digitale è l'insieme delle tracce che lasciamo online durante la navigazione.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "SaaS sta per 'Storage as a Service'.",
+    "domanda": "La Cyber-Security si occupa esclusivamente di riparare l'hardware danneggiato.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Google Sheets è l'alternativa cloud a Microsoft Excel.",
+    "domanda": "Il surplus comportamentale consiste in dati extra usati per migliorare le previsioni di marketing.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "In modalità 'Suggerimento', le modifiche sono definitive appena le scrivi.",
+    "domanda": "Gli psicologi comportamentali collaborano alla progettazione delle piattaforme social.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Sviluppare 'anticorpi contro la disinformazione' significa imparare a riconoscere le fake news.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le piattaforme non possono mai dedurre lo stato emotivo di un utente dai suoi dati.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Puoi scaricare i file di Google Drive sul tuo computer locale.",
+    "domanda": "La 'Dieta Informativa' analizza come gli algoritmi influenzano i contenuti che leggiamo.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il Cestino di Google Drive si svuota automaticamente dopo 30 giorni.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Condividere un file tramite link è più sicuro che invitare tramite email specifica.",
+    "domanda": "Il phishing è una tecnica utilizzata per proteggere l'identità digitale degli utenti.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Dropbox è un esempio di servizio Cloud.",
+    "domanda": "Il termine 'Voodoo Doll' è usato per descrivere il modello predittivo che le AI hanno di noi.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Se qualcuno ti ruba la password ma hai la 2FA attiva, non può entrare nel tuo account.",
+    "domanda": "Un cittadino digitale 'resiliente' è qualcuno che sa difendersi dai rischi della rete.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Le banche chiedono spesso la password via email per controlli di sicurezza.",
+    "domanda": "La profilazione utente serve solo a migliorare la velocità di caricamento dei video.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Puoi menzionare un collega in un commento usando la chiocciola (@).",
+    "domanda": "L'economia dell'attenzione mira a massimizzare il tempo passato dall'utente online.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Lavorare nel Cloud elimina il rischio di perdere i dati se si rompe l'hard disk del PC.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Google Drive offre solo 100 MB di spazio gratuito.",
+    "domanda": "La roadmap del corso prevede lo studio della Cyber-Security nel modulo 1.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Un file Word caricato su Drive può essere convertito in formato Google Docs.",
+    "domanda": "Essere consapevoli delle dinamiche economiche dei social aiuta a navigare con più libertà.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Usare un Password Manager è sconsigliato per la sicurezza.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Il lucchetto nel browser garantisce che il sito sia onesto e non una truffa.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "La collaborazione sincrona avviene in Tempo Reale.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Google Slides serve per creare Fogli di Calcolo.",
+    "domanda": "Il design 'persuasivo' ha lo scopo di rendere l'utente più indipendente dalla tecnologia.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   }
