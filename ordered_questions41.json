@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Qual è la definizione informale di 'Cloud' citata nella lezione?",
-    "risposte": ["È una nuvola di dati nel cielo", "È solo il computer di qualcun altro", "È un sistema meteo digitale"],
-    "corretta": "È solo il computer di qualcun altro"
+    "domanda": "Qual è l'obiettivo finale del corso di consapevolezza digitale?",
+    "risposte": ["Aumentare il numero di follower sui social", "Trasformare l'utente passivo in un cittadino digitale consapevole e resiliente", "Insegnare a programmare nuove piattaforme"],
+    "corretta": "Trasformare l'utente passivo in un cittadino digitale consapevole e resiliente"
   },
   {
-    "domanda": "Cosa significa l'acronimo SaaS?",
-    "risposte": ["Storage as a Service", "Software as a Service", "Security as a System"],
-    "corretta": "Software as a Service"
+    "domanda": "Cosa si intende per 'illusione del gratuito'?",
+    "risposte": ["Che internet non costa nulla", "Che paghiamo i servizi digitali con i nostri dati e il nostro tempo", "Che le app sono regali delle aziende"],
+    "corretta": "Che paghiamo i servizi digitali con i nostri dati e il nostro tempo"
   },
   {
-    "domanda": "Quale dei seguenti è un esempio di Cloud Storage puro (archiviazione)?",
-    "risposte": ["Google Docs", "Dropbox", "Canva"],
-    "corretta": "Dropbox"
+    "domanda": "Secondo la lezione, se non paghi per il prodotto...",
+    "risposte": ["Il prodotto sei tu", "Il prodotto è difettoso", "Il prodotto è sponsorizzato dallo Stato"],
+    "corretta": "Il prodotto sei tu"
   },
   {
-    "domanda": "Qual è il vantaggio principale di Google Docs rispetto a Word installato sul PC?",
-    "risposte": ["Funziona senza internet", "Collaborazione in tempo reale e salvataggio automatico", "Ha più font"],
-    "corretta": "Collaborazione in tempo reale e salvataggio automatico"
+    "domanda": "Qual è la risorsa considerata 'scarsa e finita' nell'economia digitale?",
+    "risposte": ["Lo spazio di archiviazione", "L'attenzione umana", "La velocità della fibra ottica"],
+    "corretta": "L'attenzione umana"
   },
   {
-    "domanda": "Quanti GB di spazio gratuito offre un account Google standard?",
-    "risposte": ["5 GB", "15 GB", "50 GB"],
-    "corretta": "15 GB"
+    "domanda": "Cos'è il 'Dwell Time'?",
+    "risposte": ["Il tempo di caricamento di un'app", "Quanto tempo un utente si sofferma su un contenuto anche senza cliccare", "Il tempo totale passato offline"],
+    "corretta": "Quanto tempo un utente si sofferma su un contenuto anche senza cliccare"
   },
   {
-    "domanda": "Dove finiscono i file che crei tu personalmente in Google Drive?",
-    "risposte": ["In 'Condivisi con me'", "In 'Il mio Drive'", "Nel Cestino"],
-    "corretta": "In 'Il mio Drive'"
+    "domanda": "Cosa rivela 'ogni esitazione nello scroll'?",
+    "risposte": ["Un errore tecnico della piattaforma", "Un interesse o una debolezza dell'utente", "Che la batteria del telefono è scarica"],
+    "corretta": "Un interesse o una debolezza dell'utente"
   },
   {
-    "domanda": "A quale programma Office corrisponde Google Sheets?",
-    "risposte": ["Word", "PowerPoint", "Excel"],
-    "corretta": "Excel"
+    "domanda": "Quali dei seguenti sono citati come 'metadati' registrati dai social?",
+    "risposte": ["Nome e cognome", "Posizione, velocità di connessione e livello batteria", "Solo i messaggi privati"],
+    "corretta": "Posizione, velocità di connessione e livello batteria"
   },
   {
-    "domanda": "Cosa succede se spegni il PC mentre scrivi su Google Docs senza aver premuto salva?",
-    "risposte": ["Perdi tutto il lavoro", "Nulla, il file si salva da solo ogni pochi secondi", "Devi recuperarlo dal cestino"],
-    "corretta": "Nulla, il file si salva da solo ogni pochi secondi"
+    "domanda": "Cos'è il 'Gemello Digitale' (o Voodoo Doll)?",
+    "risposte": ["Un profilo fake usato per lo spam", "Una copia virtuale dell'utente per prevederne i comportamenti", "Un virus che duplica i file"],
+    "corretta": "Una copia virtuale dell'utente per prevederne i comportamenti"
   },
   {
-    "domanda": "Quale icona rappresenta solitamente Google Drive?",
-    "risposte": ["Una busta da lettere", "Un triangolo verde, giallo e blu", "Una nuvola azzurra"],
-    "corretta": "Un triangolo verde, giallo e blu"
+    "domanda": "Cosa vendono realmente le aziende tecnologiche agli inserzionisti?",
+    "risposte": ["I dati personali grezzi", "Certezze sul comportamento futuro degli utenti", "Hardware per computer"],
+    "corretta": "Certezze sul comportamento futuro degli utenti"
   },
   {
-    "domanda": "Per usare i servizi Google Workspace (Docs, Drive, ecc.) cosa è indispensabile?",
-    "risposte": ["Avere un account Google (Gmail)", "Avere Windows 11", "Pagare un abbonamento"],
-    "corretta": "Avere un account Google (Gmail)"
+    "domanda": "Cos'è il 'Surplus Comportamentale'?",
+    "risposte": ["L'eccesso di post pubblicati in un giorno", "Dati usati per prevedere e manipolare il comportamento", "Il tempo passato oltre il limite consigliato"],
+    "corretta": "Dati usati per prevedere e manipolare il comportamento"
   },
   {
-    "domanda": "Cosa trovi nella sezione 'Condivisi con me'?",
-    "risposte": ["I file che tu hai inviato ad altri", "I file che altri utenti hanno condiviso con te", "Le foto del telefono"],
-    "corretta": "I file che altri utenti hanno condiviso con te"
+    "domanda": "Chi progetta le interfacce dei social media secondo il testo?",
+    "risposte": ["Solo grafici pubblicitari", "Psicologi comportamentali", "Utenti volontari"],
+    "corretta": "Psicologi comportamentali"
   },
   {
-    "domanda": "Quale strumento Google serve per creare sondaggi o raccogliere iscrizioni?",
-    "risposte": ["Google Sheets", "Google Forms (Moduli)", "Google Slides"],
-    "corretta": "Google Forms (Moduli)"
+    "domanda": "Cos'è un 'Dark Pattern'?",
+    "risposte": ["Uno sfondo scuro per risparmiare batteria", "Un elemento di design che manipola il comportamento dell'utente", "Una modalità di ricerca anonima"],
+    "corretta": "Un elemento di design che manipola il comportamento dell'utente"
   },
   {
-    "domanda": "Se modifichi un file condiviso, gli altri utenti quando vedono la modifica?",
-    "risposte": ["Immediatamente (Tempo Reale)", "Dopo che glielo invii via mail", "Il giorno dopo"],
-    "corretta": "Immediatamente (Tempo Reale)"
+    "domanda": "Perché lo 'Scroll Infinito' è considerato manipolatorio?",
+    "risposte": ["Perché consuma troppa banda", "Perché elimina il punto di stop naturale", "Perché rallenta lo smartphone"],
+    "corretta": "Perché elimina il punto di stop naturale"
   },
   {
-    "domanda": "Qual è il rischio principale del Cloud Computing?",
-    "risposte": ["I virus", "La dipendenza dalla connessione Internet", "Il costo dell'elettricità"],
-    "corretta": "La dipendenza dalla connessione Internet"
+    "domanda": "A cosa somiglia il gesto del 'Pull to Refresh'?",
+    "risposte": ["Alla leva di una slot machine", "Al girare la pagina di un libro", "Al premere un interruttore"],
+    "corretta": "Alla leva di una slot machine"
   },
   {
-    "domanda": "Come si crea una nuova cartella in Drive?",
-    "risposte": ["Tasto Nuovo > Cartella", "Invio sulla tastiera", "Non si possono creare cartelle"],
-    "corretta": "Tasto Nuovo > Cartella"
+    "domanda": "Perché le notifiche sono spesso di colore rosso?",
+    "risposte": ["Perché è un colore elegante", "Perché evoca urgenza e pericolo a livello biologico", "Perché è più visibile sotto il sole"],
+    "corretta": "Perché evoca urgenza e pericolo a livello biologico"
   },
   {
-    "domanda": "A quale programma Office corrisponde Google Slides?",
-    "risposte": ["Excel", "PowerPoint", "Word"],
-    "corretta": "PowerPoint"
+    "domanda": "Cosa analizza il modulo sulla 'Logica Algoritmica'?",
+    "risposte": ["Come riparare un computer", "Come le piattaforme decidono cosa farti vedere", "Come creare un nuovo social network"],
+    "corretta": "Come le piattaforme decidono cosa farti vedere"
   },
   {
-    "domanda": "Cosa significa che i file sono 'nel Cloud'?",
-    "risposte": ["Che sono salvati su server remoti accessibili via internet", "Che sono salvati nella RAM del tuo PC", "Che sono trasmessi via satellite"],
-    "corretta": "Che sono salvati su server remoti accessibili via internet"
+    "domanda": "Cosa riguarda il 'Benessere Digitale'?",
+    "risposte": ["La velocità del Wi-Fi", "Salute mentale, sonno e gestione dello stress tecnologico", "L'acquisto di dispositivi moderni"],
+    "corretta": "Salute mentale, sonno e gestione dello stress tecnologico"
   },
   {
-    "domanda": "Per scaricare un file Google Doc in formato PDF sul tuo PC, cosa fai?",
-    "risposte": ["File > Scarica > Documento PDF", "File > Stampa > Invia a casa", "Copia e incolla tutto"],
-    "corretta": "File > Scarica > Documento PDF"
+    "domanda": "Cosa si intende per 'Protezione Strategica'?",
+    "risposte": ["Comprare un antivirus costoso", "Gestire la reputazione online e i dati sensibili", "Usare una password per ogni sito"],
+    "corretta": "Gestire la reputazione online e i dati sensibili"
   },
   {
-    "domanda": "Quale colore è associato a Google Docs (Documenti)?",
-    "risposte": ["Verde", "Blu", "Giallo"],
-    "corretta": "Blu"
+    "domanda": "Qual è l'obiettivo della 'Consapevolezza Critica'?",
+    "risposte": ["Criticare tutti gli altri utenti", "Comprendere le dinamiche economiche delle piattaforme", "Smettere di usare ogni tecnologia"],
+    "corretta": "Comprendere le dinamiche economiche delle piattaforme"
   },
   {
-    "domanda": "Quale colore è associato a Google Sheets (Fogli)?",
-    "risposte": ["Verde", "Blu", "Rosso"],
-    "corretta": "Verde"
+    "domanda": "Il termine 'Voodoo Doll' nel PDF è sinonimo di:",
+    "risposte": ["Password rubata", "Gemello Digitale", "Software malevolo"],
+    "corretta": "Gemello Digitale"
   },
   {
-    "domanda": "Cosa permette di fare l'accesso 'Offline'?",
-    "risposte": ["Lavorare ai file anche senza connessione internet", "Navigare su Facebook senza internet", "Scaricare film"],
-    "corretta": "Lavorare ai file anche senza connessione internet"
+    "domanda": "Cosa può fare una piattaforma se intuisce che sei triste?",
+    "risposte": ["Inviarti un messaggio di conforto", "Spingere il tuo umore per renderti più propenso all'acquisto", "Bloccare il tuo account per sicurezza"],
+    "corretta": "Spingere il tuo umore per renderti più propenso all'acquisto"
   },
   {
-    "domanda": "In un Google Form, dove finiscono le risposte raccolte?",
-    "risposte": ["In una mail", "In un Foglio Google (Sheets) collegato o nel Form stesso", "Vengono cancellate subito"],
-    "corretta": "In un Foglio Google (Sheets) collegato o nel Form stesso"
+    "domanda": "Cos'è l' 'Ecosistema Social' nella roadmap del corso?",
+    "risposte": ["Un gruppo di attivisti ambientali", "La mappatura delle piattaforme e dei loro utilizzi", "Un nuovo modello di smartphone"],
+    "corretta": "La mappatura delle piattaforme e dei loro utilizzi"
   },
   {
-    "domanda": "Se cancelli per sbaglio un file in Drive, dove va?",
-    "risposte": ["Sparisce per sempre", "Nel Cestino (recuperabile per 30 giorni)", "Viene archiviato"],
-    "corretta": "Nel Cestino (recuperabile per 30 giorni)"
+    "domanda": "Cosa si intende per 'Sviluppare anticorpi contro la disinformazione'?",
+    "risposte": ["Installare una protezione medica", "Imparare a riconoscere le fake news", "Vaccinarsi contro i virus informatici"],
+    "corretta": "Imparare a riconoscere le fake news"
   },
   {
-    "domanda": "Cosa serve la 'Stella' (Aggiungi a Speciali) in Drive?",
-    "risposte": ["A dare un voto al file", "A mettere il file nei preferiti per trovarlo subito", "A renderlo pubblico"],
-    "corretta": "A mettere il file nei preferiti per trovarlo subito"
+    "domanda": "Qual è il motore primario del profitto nel capitalismo della sorveglianza?",
+    "risposte": ["La vendita di abbonamenti", "La sorveglianza degli utenti", "La produzione di hardware"],
+    "corretta": "La sorveglianza degli utenti"
   },
   {
-    "domanda": "È possibile modificare un file Word (.docx) dentro Google Drive?",
-    "risposte": ["Sì, Google Drive lo apre e permette la modifica", "No, devi convertirlo per forza", "No, serve Word installato"],
-    "corretta": "Sì, Google Drive lo apre e permette la modifica"
+    "domanda": "L'impronta digitale riguarda:",
+    "risposte": ["Le impronte lasciate sullo schermo", "La traccia dei dati lasciata online", "Il sensore di sblocco del telefono"],
+    "corretta": "La traccia dei dati lasciata online"
   },
   {
-    "domanda": "Qual è un esempio di servizio Cloud per la musica?",
-    "risposte": ["Spotify", "VLC Media Player", "Notepad"],
-    "corretta": "Spotify"
+    "domanda": "La Cyber-Security nel corso include la protezione da:",
+    "risposte": ["Phishing e furti d'identità", "Cadute accidentali del telefono", "Costi eccessivi delle bollette"],
+    "corretta": "Phishing e furti d'identità"
   },
   {
-    "domanda": "Per cercare un file in Drive, cosa usi?",
-    "risposte": ["La barra di ricerca in alto", "Scorri tutti i file uno per uno", "Chiedi a Google Assistant"],
-    "corretta": "La barra di ricerca in alto"
+    "domanda": "Quale metafora viene usata per contrastare lo 'Scroll Infinito'?",
+    "risposte": ["La fine di un film", "La fine di un libro", "La chiusura di un negozio"],
+    "corretta": "La fine di un libro"
   },
   {
-    "domanda": "Cosa succede ai file nel Cloud se il tuo computer si rompe?",
-    "risposte": ["Vengono persi", "Sono salvi e accessibili da un altro dispositivo", "Si danneggiano"],
-    "corretta": "Sono salvi e accessibili da un altro dispositivo"
+    "domanda": "Cosa permette alle piattaforme di sapere se 'aspetti un bambino' prima dei tuoi amici?",
+    "risposte": ["La lettura della mente", "L'analisi predittiva dei tuoi dati e ricerche", "Le telecamere dello smartphone"],
+    "corretta": "L'analisi predittiva dei tuoi dati e ricerche"
   },
   {
-    "domanda": "Google Drive è un servizio di:",
-    "risposte": ["Solo posta elettronica", "Cloud Storage e Suite di produttività", "Social Network"],
-    "corretta": "Cloud Storage e Suite di produttività"
+    "domanda": "Qual è uno degli obiettivi formativi riguardo alla dieta informativa?",
+    "risposte": ["Mangiare meno mentre si naviga", "Analizzare il ruolo degli algoritmi nei contenuti che riceviamo", "Leggere solo notizie sportive"],
+    "corretta": "Analizzare il ruolo degli algoritmi nei contenuti che riceviamo"
   },
   {
-    "domanda": "Qual è il limite di dimensione per un singolo file di testo Google Doc?",
-    "risposte": ["Non c'è limite pratico per l'uso normale", "10 Pagine", "1 KB"],
-    "corretta": "Non c'è limite pratico per l'uso normale"
+    "domanda": "Cosa si intende per 'Persuasione Tecnologica'?",
+    "risposte": ["Convincere qualcuno a comprare un PC", "Meccanismi digitali per influenzare le azioni dell'utente", "Riparare un dispositivo rotto"],
+    "corretta": "Meccanismi digitali per influenzare le azioni dell'utente"
   }
 ]
