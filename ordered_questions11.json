@@ -1,0 +1,127 @@
+[
+  {
+    "domanda": "Qual è il simbolo che separa il nome del sito dal resto dell'indirizzo?",
+    "risposte": ["Il punto (.)", "La chiocciola (@)", "L'asterisco (*)"],
+    "corretta": "Il punto (.)"
+  },
+  {
+    "domanda": "Se cerchi 'Ricetta Torta' su Google, cosa ottieni?",
+    "risposte": ["Una torta vera a casa", "Una lista di pagine web (SERP) che parlano di torte", "L'indirizzo di un pasticciere"],
+    "corretta": "Una lista di pagine web (SERP) che parlano di torte"
+  },
+  {
+    "domanda": "A cosa servono i 'Cookie'?",
+    "risposte": ["A mangiare durante la navigazione", "A memorizzare alcune informazioni dell'utente sui siti", "A pulire lo schermo"],
+    "corretta": "A memorizzare alcune informazioni dell'utente sui siti"
+  },
+  {
+    "domanda": "Cosa significa 'Sito Web'?",
+    "risposte": ["Un insieme di pagine web correlate", "Un computer portatile", "Un libro digitale"],
+    "corretta": "Un insieme di pagine web correlate"
+  },
+  {
+    "domanda": "Cosa significa l'estensione '.com'?",
+    "risposte": ["Sito commerciale", "Sito del comune", "Sito di comunicazione"],
+    "corretta": "Sito commerciale"
+  },
+  {
+    "domanda": "Quale tra questi è un rischio di Internet citato?",
+    "risposte": ["La pioggia", "I virus informatici", "Il consumo di carta"],
+    "corretta": "I virus informatici"
+  },
+  {
+    "domanda": "Come si chiama l'azione di passare da un sito all'altro?",
+    "risposte": ["Correre", "Navigare", "Volare"],
+    "corretta": "Navigare"
+  },
+  {
+    "domanda": "Cosa significa 'Upload'?",
+    "risposte": ["Caricare un file dal proprio PC verso il web", "Cancellare un file", "Aggiornare il computer"],
+    "corretta": "Caricare un file dal proprio PC verso il web"
+  },
+  {
+    "domanda": "Un indirizzo che inizia con 'https' è più sicuro di uno con 'http'?",
+    "risposte": ["Sì, la 's' sta per 'Secure' (Sicuro)", "No, sono uguali", "No, 'http' è più moderno"],
+    "corretta": "Sì, la 's' sta per 'Secure' (Sicuro)"
+  },
+  {
+    "domanda": "Cosa si clicca per chiudere una sola scheda del browser?",
+    "risposte": ["La 'X' sulla scheda stessa", "Il tasto Invio", "Il tasto destro del mouse"],
+    "corretta": "La 'X' sulla scheda stessa"
+  },
+  {
+    "domanda": "Chi è il fornitore di servizi Internet (ISP)?",
+    "risposte": ["L'azienda che ti vende la connessione", "Il produttore del PC", "Il creatore di Google"],
+    "corretta": "L'azienda che ti vende la connessione"
+  },
+  {
+    "domanda": "Cosa succede se clicchi sul logo di un sito (solitamente in alto a sinistra)?",
+    "risposte": ["Si spegne il sito", "Si torna alla pagina principale del sito", "Si apre Google"],
+    "corretta": "Si torna alla pagina principale del sito"
+  },
+  {
+    "domanda": "Qual è lo scopo principale di un browser?",
+    "risposte": ["Scrivere testi", "Interpretare il codice e mostrare le pagine web", "Fare calcoli matematici"],
+    "corretta": "Interpretare il codice e mostrare le pagine web"
+  },
+  {
+    "domanda": "Dove si trova solitamente la barra delle schede?",
+    "risposte": ["In fondo alla pagina", "In alto, sopra la barra degli indirizzi", "A destra dello schermo"],
+    "corretta": "In alto, sopra la barra degli indirizzi"
+  },
+  {
+    "domanda": "Cosa significa 'Sito Istituzionale' (es. .gov)?",
+    "risposte": ["Sito di un ente governativo", "Sito di un negozio di abbigliamento", "Sito di un gioco"],
+    "corretta": "Sito di un ente governativo"
+  },
+  {
+    "domanda": "Cosa si deve fare se appare un avviso di 'Sito non sicuro'?",
+    "risposte": ["Continuare comunque", "Chiudere la pagina e non inserire dati", "Riavviare il PC"],
+    "corretta": "Chiudere la pagina e non inserire dati"
+  },
+  {
+    "domanda": "Perché si scaricano i moduli (es. PDF) da internet?",
+    "risposte": ["Per poterli stampare o compilare offline", "Per liberare spazio sul sito", "Per cambiare il colore del modulo"],
+    "corretta": "Per poterli stampare o compilare offline"
+  },
+  {
+    "domanda": "Quale tasto della tastiera si usa per confermare una ricerca?",
+    "risposte": ["Invio (Enter)", "Spazio", "Bloc Maiusc"],
+    "corretta": "Invio (Enter)"
+  },
+  {
+    "domanda": "Cosa significa 'Home Page'?",
+    "risposte": ["La pagina finale di un sito", "La pagina di benvenuto di un sito", "Il nome del browser"],
+    "corretta": "La pagina di benvenuto di un sito"
+  },
+  {
+    "domanda": "Cos'è Microsoft Edge?",
+    "risposte": ["Un motore di ricerca", "Un browser preinstallato su Windows", "Un tipo di mouse"],
+    "corretta": "Un browser preinstallato su Windows"
+  },
+  {
+    "domanda": "A cosa serve lo 'Zoom' nel browser?",
+    "risposte": ["A ingrandire o rimpicciolire i testi e le immagini", "A rendere internet più veloce", "A cambiare sito"],
+    "corretta": "A ingrandire o rimpicciolire i testi e le immagini"
+  },
+  {
+    "domanda": "Un sito web può contenere video?",
+    "risposte": ["Sì, certamente", "No, solo testo", "Solo se il PC è collegato alla TV"],
+    "corretta": "Sì, certamente"
+  },
+  {
+    "domanda": "Cosa indica la barra di avanzamento del download?",
+    "risposte": ["Quanto tempo manca alla fine dello scaricamento", "Il prezzo del file", "La qualità del video"],
+    "corretta": "Quanto tempo manca alla fine dello scaricamento"
+  },
+  {
+    "domanda": "Come si aggiunge un sito ai Preferiti in Chrome?",
+    "risposte": ["Cliccando sulla stellina nella barra degli indirizzi", "Premendo il tasto di spegnimento", "Scrivendo il nome su un foglio"],
+    "corretta": "Cliccando sulla stellina nella barra degli indirizzi"
+  },
+  {
+    "domanda": "Cosa sono le 'Ads' (Pubblicità) nei risultati di ricerca?",
+    "risposte": ["I risultati migliori in assoluto", "Risultati a pagamento che appaiono in alto", "I virus del computer"],
+    "corretta": "Risultati a pagamento che appaiono in alto"
+  }
+]
