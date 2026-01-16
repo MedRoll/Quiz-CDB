@@ -1,152 +1,202 @@
 [
   {
-    "domanda": "L'obiettivo finale del corso è trasformare l'utente passivo in un cittadino digitale consapevole.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "Instagram è nato come app per la condivisione di foto con filtri artistici.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Vero"
   },
   {
-    "domanda": "Nell'economia dell'attenzione, l'attenzione umana è considerata una risorsa infinita.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "Facebook è stato lanciato nel 2012 come piattaforma aperta a tutti.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Falso"
   },
   {
-    "domanda": "I social media sono gratuiti perché le aziende non hanno costi di gestione.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "Le Stories di Instagram scompaiono dopo 48 ore.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il 'Dwell Time' misura quanto tempo un utente interagisce con un contenuto, anche senza cliccarci sopra.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "I metadati raccolti includono informazioni come il livello della batteria e la velocità di connessione.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Il 'Gemello Digitale' è un profilo che l'utente crea manualmente per proteggere la sua privacy.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "I Reels sono nati prima delle Stories.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Falso"
   },
   {
-    "domanda": "Le aziende tecnologiche vendono agli inserzionisti previsioni sul comportamento futuro degli utenti.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "Instagram è particolarmente diffuso nella fascia 18-34 anni.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Vero"
   },
   {
-    "domanda": "I 'Dark Patterns' sono elementi di design creati per aiutare l'utente a navigare più velocemente.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "Facebook è disponibile in più di 100 lingue.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I gruppi Facebook possono essere pubblici, privati o segreti.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "TikTok è stato lanciato nel 2018 in Cina.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Falso"
   },
   {
-    "domanda": "La funzione 'Pull to Refresh' imita psicologicamente il meccanismo di una slot machine.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Le notifiche rosse vengono usate perché il rosso è un colore che biologicamente attira l'attenzione.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Lo 'Scroll Infinito' serve a dare all'utente punti di stop naturali per incoraggiare la pausa.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "TikTok si è fuso con Snapchat nel 2018.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il benessere digitale riguarda solo la protezione del computer dai virus.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "La maggior parte degli utenti TikTok ha tra i 13 e i 24 anni.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "TikTok utilizza spesso la musica come elemento chiave dei trend.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Gli utenti trascorrono in media 10 minuti al giorno su TikTok.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il 'Capitalismo della Sorveglianza' si basa sull'estrazione di dati dai comportamenti umani.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "YouTube è stato lanciato nel 2005 da tre ex-dipendenti di PayPal.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Vero"
   },
   {
-    "domanda": "Gestire la propria reputazione online è un obiettivo del modulo sulla Protezione Strategica.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "Google ha acquistato YouTube nel 2006.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Vero"
   },
   {
-    "domanda": "Gli algoritmi decidono cosa mostrare nel feed in modo totalmente casuale.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "YouTube Live consente di fare dirette streaming.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Un sito web è accessibile solo da dispositivi mobili.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Falso"
   },
   {
-    "domanda": "L'impronta digitale è l'insieme delle tracce che lasciamo online durante la navigazione.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "Un e-commerce permette di acquistare prodotti online.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Vero"
   },
   {
-    "domanda": "La Cyber-Security si occupa esclusivamente di riparare l'hardware danneggiato.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "Il modello B2B riguarda le transazioni tra aziende.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "C2C significa 'Consumer to Consumer'.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Shopify è una piattaforma di e-commerce facile da usare.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "WooCommerce è una piattaforma indipendente, non legata a WordPress.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il surplus comportamentale consiste in dati extra usati per migliorare le previsioni di marketing.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Gli psicologi comportamentali collaborano alla progettazione delle piattaforme social.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Sviluppare 'anticorpi contro la disinformazione' significa imparare a riconoscere le fake news.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Le piattaforme non possono mai dedurre lo stato emotivo di un utente dai suoi dati.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "Il SEO è una strategia di visibilità basata su annunci a pagamento.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Falso"
   },
   {
-    "domanda": "La 'Dieta Informativa' analizza come gli algoritmi influenzano i contenuti che leggiamo.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "Il SEM include campagne pubblicitarie come Google Ads.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il phishing è una tecnica utilizzata per proteggere l'identità digitale degli utenti.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Il termine 'Voodoo Doll' è usato per descrivere il modello predittivo che le AI hanno di noi.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "I backlink aumentano l’autorità di un sito agli occhi dei motori di ricerca.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Vero"
   },
   {
-    "domanda": "Un cittadino digitale 'resiliente' è qualcuno che sa difendersi dai rischi della rete.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La profilazione utente serve solo a migliorare la velocità di caricamento dei video.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "L'economia dell'attenzione mira a massimizzare il tempo passato dall'utente online.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La roadmap del corso prevede lo studio della Cyber-Security nel modulo 1.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Essere consapevoli delle dinamiche economiche dei social aiuta a navigare con più libertà.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Il design 'persuasivo' ha lo scopo di rendere l'utente più indipendente dalla tecnologia.",
-    "risposte": ["Vero", "Falso"],
+    "domanda": "Le campagne SEM garantiscono risultati organici nel lungo periodo senza costi.",
+    "risposte": [
+      "Vero",
+      "Falso"
+    ],
     "corretta": "Falso"
   }
 ]
