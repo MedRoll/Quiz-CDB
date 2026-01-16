@@ -1,152 +1,182 @@
 [
   {
-    "domanda": "Qual è l'obiettivo finale del corso di consapevolezza digitale?",
-    "risposte": ["Aumentare il numero di follower sui social", "Trasformare l'utente passivo in un cittadino digitale consapevole e resiliente", "Insegnare a programmare nuove piattaforme"],
-    "corretta": "Trasformare l'utente passivo in un cittadino digitale consapevole e resiliente"
+    "domanda": "Cosa sono i Social Media?",
+    "risposte": [
+      "Strumenti digitali per gestire documenti aziendali",
+      "Piattaforme digitali per connettersi, condividere e interagire",
+      "Servizi di cloud storage per archiviare file"
+    ],
+    "corretta": "Piattaforme digitali per connettersi, condividere e interagire"
   },
   {
-    "domanda": "Cosa si intende per 'illusione del gratuito'?",
-    "risposte": ["Che internet non costa nulla", "Che paghiamo i servizi digitali con i nostri dati e il nostro tempo", "Che le app sono regali delle aziende"],
-    "corretta": "Che paghiamo i servizi digitali con i nostri dati e il nostro tempo"
+    "domanda": "In quale periodo sono nati i primi Social Media come MySpace e Friendster?",
+    "risposte": [
+      "Metà anni ’90",
+      "Fine anni ’90",
+      "Inizio anni 2000"
+    ],
+    "corretta": "Inizio anni 2000"
   },
   {
-    "domanda": "Secondo la lezione, se non paghi per il prodotto...",
-    "risposte": ["Il prodotto sei tu", "Il prodotto è difettoso", "Il prodotto è sponsorizzato dallo Stato"],
-    "corretta": "Il prodotto sei tu"
+    "domanda": "Quale social ha segnato la crescita esplosiva dei social media dal 2004?",
+    "risposte": [
+      "Orkut",
+      "Facebook",
+      "Hi5"
+    ],
+    "corretta": "Facebook"
   },
   {
-    "domanda": "Qual è la risorsa considerata 'scarsa e finita' nell'economia digitale?",
-    "risposte": ["Lo spazio di archiviazione", "L'attenzione umana", "La velocità della fibra ottica"],
-    "corretta": "L'attenzione umana"
+    "domanda": "Quale tra i seguenti NON è un Social Media?",
+    "risposte": [
+      "Instagram",
+      "TikTok",
+      "TripAdvisor"
+    ],
+    "corretta": "TripAdvisor"
   },
   {
-    "domanda": "Cos'è il 'Dwell Time'?",
-    "risposte": ["Il tempo di caricamento di un'app", "Quanto tempo un utente si sofferma su un contenuto anche senza cliccare", "Il tempo totale passato offline"],
-    "corretta": "Quanto tempo un utente si sofferma su un contenuto anche senza cliccare"
+    "domanda": "Qual è la fascia d’età che rappresenta oltre il 60% degli utenti di Instagram?",
+    "risposte": [
+      "18-34 anni",
+      "35-44 anni",
+      "13-17 anni"
+    ],
+    "corretta": "18-34 anni"
   },
   {
-    "domanda": "Cosa rivela 'ogni esitazione nello scroll'?",
-    "risposte": ["Un errore tecnico della piattaforma", "Un interesse o una debolezza dell'utente", "Che la batteria del telefono è scarica"],
-    "corretta": "Un interesse o una debolezza dell'utente"
+    "domanda": "Quale funzionalità di Instagram permette la pubblicazione di contenuti temporanei che durano 24 ore?",
+    "risposte": [
+      "Post",
+      "Stories",
+      "Highlights"
+    ],
+    "corretta": "Stories"
   },
   {
-    "domanda": "Quali dei seguenti sono citati come 'metadati' registrati dai social?",
-    "risposte": ["Nome e cognome", "Posizione, velocità di connessione e livello batteria", "Solo i messaggi privati"],
-    "corretta": "Posizione, velocità di connessione e livello batteria"
+    "domanda": "Qual è il rischio legato all’uso eccessivo di Instagram?",
+    "risposte": [
+      "Dipendenza, ansia e bassa autostima",
+      "Maggiore esposizione a pubblicità mirata",
+      "Perdita di memoria del dispositivo"
+    ],
+    "corretta": "Dipendenza, ansia e bassa autostima"
   },
   {
-    "domanda": "Cos'è il 'Gemello Digitale' (o Voodoo Doll)?",
-    "risposte": ["Un profilo fake usato per lo spam", "Una copia virtuale dell'utente per prevederne i comportamenti", "Un virus che duplica i file"],
-    "corretta": "Una copia virtuale dell'utente per prevederne i comportamenti"
+    "domanda": "Qual è la caratteristica principale dei video di TikTok?",
+    "risposte": [
+      "Sono ottimizzati per la realtà aumentata",
+      "Sono brevi, creativi e spesso legati a trend musicali",
+      "Sono visibili solo agli amici più stretti"
+    ],
+    "corretta": "Sono brevi, creativi e spesso legati a trend musicali"
   },
   {
-    "domanda": "Cosa vendono realmente le aziende tecnologiche agli inserzionisti?",
-    "risposte": ["I dati personali grezzi", "Certezze sul comportamento futuro degli utenti", "Hardware per computer"],
-    "corretta": "Certezze sul comportamento futuro degli utenti"
+    "domanda": "Quale fascia d’età rappresenta la maggior parte degli utenti di TikTok?",
+    "risposte": [
+      "13-24 anni",
+      "25-34 anni",
+      "45-54 anni"
+    ],
+    "corretta": "13-24 anni"
   },
   {
-    "domanda": "Cos'è il 'Surplus Comportamentale'?",
-    "risposte": ["L'eccesso di post pubblicati in un giorno", "Dati usati per prevedere e manipolare il comportamento", "Il tempo passato oltre il limite consigliato"],
-    "corretta": "Dati usati per prevedere e manipolare il comportamento"
+    "domanda": "Quale tra queste è una tipologia di contenuto pubblicitario su TikTok?",
+    "risposte": [
+      "Hashtag Challenge sponsorizzata",
+      "Product Placement in serie TV",
+      "Banner display su siti esterni"
+    ],
+    "corretta": "Hashtag Challenge sponsorizzata"
   },
   {
-    "domanda": "Chi progetta le interfacce dei social media secondo il testo?",
-    "risposte": ["Solo grafici pubblicitari", "Psicologi comportamentali", "Utenti volontari"],
-    "corretta": "Psicologi comportamentali"
+    "domanda": "In che anno è stato fondato Facebook da Mark Zuckerberg ad Harvard?",
+    "risposte": [
+      "2004",
+      "2008",
+      "2012"
+    ],
+    "corretta": "2004"
   },
   {
-    "domanda": "Cos'è un 'Dark Pattern'?",
-    "risposte": ["Uno sfondo scuro per risparmiare batteria", "Un elemento di design che manipola il comportamento dell'utente", "Una modalità di ricerca anonima"],
-    "corretta": "Un elemento di design che manipola il comportamento dell'utente"
+    "domanda": "Quale società ha acquistato YouTube nel 2006?",
+    "risposte": [
+      "Yahoo",
+      "Google",
+      "Meta"
+    ],
+    "corretta": "Google"
   },
   {
-    "domanda": "Perché lo 'Scroll Infinito' è considerato manipolatorio?",
-    "risposte": ["Perché consuma troppa banda", "Perché elimina il punto di stop naturale", "Perché rallenta lo smartphone"],
-    "corretta": "Perché elimina il punto di stop naturale"
+    "domanda": "Qual è la funzione principale di YouTube Live?",
+    "risposte": [
+      "Monetizzare con le pubblicità in streaming",
+      "Trasmettere eventi in diretta con interazione del pubblico",
+      "Condividere playlist musicali private"
+    ],
+    "corretta": "Trasmettere eventi in diretta con interazione del pubblico"
   },
   {
-    "domanda": "A cosa somiglia il gesto del 'Pull to Refresh'?",
-    "risposte": ["Alla leva di una slot machine", "Al girare la pagina di un libro", "Al premere un interruttore"],
-    "corretta": "Alla leva di una slot machine"
+    "domanda": "Quale tra i seguenti è un pericolo di YouTube?",
+    "risposte": [
+      "Contenuti inappropriati e problemi di copyright",
+      "Sovraccarico della banda Internet",
+      "Necessità di un account premium per accedere"
+    ],
+    "corretta": "Contenuti inappropriati e problemi di copyright"
   },
   {
-    "domanda": "Perché le notifiche sono spesso di colore rosso?",
-    "risposte": ["Perché è un colore elegante", "Perché evoca urgenza e pericolo a livello biologico", "Perché è più visibile sotto il sole"],
-    "corretta": "Perché evoca urgenza e pericolo a livello biologico"
+    "domanda": "Che cos’è un sito web?",
+    "risposte": [
+      "Una raccolta di pagine web accessibili tramite un URL",
+      "Una piattaforma interattiva riservata ai soli iscritti",
+      "Un software installabile solo su server dedicati"
+    ],
+    "corretta": "Una raccolta di pagine web accessibili tramite un URL"
   },
   {
-    "domanda": "Cosa analizza il modulo sulla 'Logica Algoritmica'?",
-    "risposte": ["Come riparare un computer", "Come le piattaforme decidono cosa farti vedere", "Come creare un nuovo social network"],
-    "corretta": "Come le piattaforme decidono cosa farti vedere"
+    "domanda": "Qual è la principale differenza tra sito web ed e-commerce?",
+    "risposte": [
+      "L’e-commerce permette vendite online, il sito web informazione e presenza online",
+      "Il sito web è sempre istituzionale, l’e-commerce sempre commerciale",
+      "L’e-commerce è accessibile solo da mobile, il sito web anche da desktop"
+    ],
+    "corretta": "L’e-commerce permette vendite online, il sito web informazione e presenza online"
   },
   {
-    "domanda": "Cosa riguarda il 'Benessere Digitale'?",
-    "risposte": ["La velocità del Wi-Fi", "Salute mentale, sonno e gestione dello stress tecnologico", "L'acquisto di dispositivi moderni"],
-    "corretta": "Salute mentale, sonno e gestione dello stress tecnologico"
+    "domanda": "Quale tra le seguenti è una tipologia di e-commerce?",
+    "risposte": [
+      "B2B (Business to Business)",
+      "API (Application Programming Interface)",
+      "SaaS (Software as a Service)"
+    ],
+    "corretta": "B2B (Business to Business)"
   },
   {
-    "domanda": "Cosa si intende per 'Protezione Strategica'?",
-    "risposte": ["Comprare un antivirus costoso", "Gestire la reputazione online e i dati sensibili", "Usare una password per ogni sito"],
-    "corretta": "Gestire la reputazione online e i dati sensibili"
+    "domanda": "Quale tipologia di e-commerce indica la vendita diretta dal produttore al consumatore, senza intermediari?",
+    "risposte": [
+      "B2C",
+      "D2C",
+      "C2C"
+    ],
+    "corretta": "D2C"
   },
   {
-    "domanda": "Qual è l'obiettivo della 'Consapevolezza Critica'?",
-    "risposte": ["Criticare tutti gli altri utenti", "Comprendere le dinamiche economiche delle piattaforme", "Smettere di usare ogni tecnologia"],
-    "corretta": "Comprendere le dinamiche economiche delle piattaforme"
+    "domanda": "Cosa significa SEO?",
+    "risposte": [
+      "Social Engagement Optimization",
+      "Search Engine Optimization",
+      "Strategy for E-commerce Optimization"
+    ],
+    "corretta": "Search Engine Optimization"
   },
   {
-    "domanda": "Il termine 'Voodoo Doll' nel PDF è sinonimo di:",
-    "risposte": ["Password rubata", "Gemello Digitale", "Software malevolo"],
-    "corretta": "Gemello Digitale"
-  },
-  {
-    "domanda": "Cosa può fare una piattaforma se intuisce che sei triste?",
-    "risposte": ["Inviarti un messaggio di conforto", "Spingere il tuo umore per renderti più propenso all'acquisto", "Bloccare il tuo account per sicurezza"],
-    "corretta": "Spingere il tuo umore per renderti più propenso all'acquisto"
-  },
-  {
-    "domanda": "Cos'è l' 'Ecosistema Social' nella roadmap del corso?",
-    "risposte": ["Un gruppo di attivisti ambientali", "La mappatura delle piattaforme e dei loro utilizzi", "Un nuovo modello di smartphone"],
-    "corretta": "La mappatura delle piattaforme e dei loro utilizzi"
-  },
-  {
-    "domanda": "Cosa si intende per 'Sviluppare anticorpi contro la disinformazione'?",
-    "risposte": ["Installare una protezione medica", "Imparare a riconoscere le fake news", "Vaccinarsi contro i virus informatici"],
-    "corretta": "Imparare a riconoscere le fake news"
-  },
-  {
-    "domanda": "Qual è il motore primario del profitto nel capitalismo della sorveglianza?",
-    "risposte": ["La vendita di abbonamenti", "La sorveglianza degli utenti", "La produzione di hardware"],
-    "corretta": "La sorveglianza degli utenti"
-  },
-  {
-    "domanda": "L'impronta digitale riguarda:",
-    "risposte": ["Le impronte lasciate sullo schermo", "La traccia dei dati lasciata online", "Il sensore di sblocco del telefono"],
-    "corretta": "La traccia dei dati lasciata online"
-  },
-  {
-    "domanda": "La Cyber-Security nel corso include la protezione da:",
-    "risposte": ["Phishing e furti d'identità", "Cadute accidentali del telefono", "Costi eccessivi delle bollette"],
-    "corretta": "Phishing e furti d'identità"
-  },
-  {
-    "domanda": "Quale metafora viene usata per contrastare lo 'Scroll Infinito'?",
-    "risposte": ["La fine di un film", "La fine di un libro", "La chiusura di un negozio"],
-    "corretta": "La fine di un libro"
-  },
-  {
-    "domanda": "Cosa permette alle piattaforme di sapere se 'aspetti un bambino' prima dei tuoi amici?",
-    "risposte": ["La lettura della mente", "L'analisi predittiva dei tuoi dati e ricerche", "Le telecamere dello smartphone"],
-    "corretta": "L'analisi predittiva dei tuoi dati e ricerche"
-  },
-  {
-    "domanda": "Qual è uno degli obiettivi formativi riguardo alla dieta informativa?",
-    "risposte": ["Mangiare meno mentre si naviga", "Analizzare il ruolo degli algoritmi nei contenuti che riceviamo", "Leggere solo notizie sportive"],
-    "corretta": "Analizzare il ruolo degli algoritmi nei contenuti che riceviamo"
-  },
-  {
-    "domanda": "Cosa si intende per 'Persuasione Tecnologica'?",
-    "risposte": ["Convincere qualcuno a comprare un PC", "Meccanismi digitali per influenzare le azioni dell'utente", "Riparare un dispositivo rotto"],
-    "corretta": "Meccanismi digitali per influenzare le azioni dell'utente"
+    "domanda": "Qual è la differenza principale tra SEO e SEM?",
+    "risposte": [
+      "SEO è organico, SEM è basato su annunci a pagamento",
+      "SEO riguarda solo i contenuti, SEM solo i social media",
+      "SEM è una tecnica avanzata di SEO tecnico"
+    ],
+    "corretta": "SEO è organico, SEM è basato su annunci a pagamento"
   }
 ]
