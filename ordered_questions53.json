@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Qual è la differenza filosofica tra PC e Smartphone?",
-    "risposte": ["Il PC è basato su File visibili, lo Smartphone su App (file nascosti)", "Il PC è touch, lo smartphone no", "Nessuna differenza"],
-    "corretta": "Il PC è basato su File visibili, lo Smartphone su App (file nascosti)"
+    "domanda": "Qual è lo scopo principale di un calendario condiviso in un ufficio?",
+    "risposte": ["Coordinare appuntamenti ed evitare sovrapposizioni tra i colleghi", "Vedere le foto delle vacanze dei capi", "Controllare l'ora in altri paesi"],
+    "corretta": "Coordinare appuntamenti ed evitare sovrapposizioni tra i colleghi"
   },
   {
-    "domanda": "Dove trovi i file scaricati (PDF, download) su Android?",
-    "risposte": ["Sulla scrivania", "Nell'App 'Files' o 'Archivio'", "Non si trovano"],
-    "corretta": "Nell'App 'Files' o 'Archivio'"
+    "domanda": "In Google Calendar, cosa succede se inviti un collega a un evento?",
+    "risposte": ["Riceve una notifica automatica via email con i dettagli", "Il suo PC si spegne all'ora dell'evento", "Deve pagare una quota di partecipazione"],
+    "corretta": "Riceve una notifica automatica via email con i dettagli"
   },
   {
-    "domanda": "Perché usiamo le App invece del browser sul cellulare?",
-    "risposte": ["Perché sono più colorate", "Perché possono sfruttare l'hardware (GPS, Camera, Notifiche)", "Perché occupano meno spazio"],
-    "corretta": "Perché possono sfruttare l'hardware (GPS, Camera, Notifiche)"
+    "domanda": "Come puoi proteggere la tua privacy su un calendario aziendale?",
+    "risposte": ["Mostrando solo lo stato 'Occupato' senza rivelare i dettagli dell'appuntamento", "Cancellando tutti i tuoi impegni", "Non usando il calendario"],
+    "corretta": "Mostrando solo lo stato 'Occupato' senza rivelare i dettagli dell'appuntamento"
   },
   {
-    "domanda": "Qual è la Regola N.1 della sicurezza mobile?",
-    "risposte": ["Non usare il telefono", "Scaricare App SOLO dagli store ufficiali (Play Store, App Store)", "Avere due telefoni"],
-    "corretta": "Scaricare App SOLO dagli store ufficiali (Play Store, App Store)"
+    "domanda": "Quale funzione permette di trovare rapidamente l'ora giusta per una riunione con 5 persone?",
+    "risposte": ["La visualizzazione della disponibilità dei colleghi", "Chiamare ognuno individualmente", "Estrarre l'orario a sorte"],
+    "corretta": "La visualizzazione della disponibilità dei colleghi"
   },
   {
-    "domanda": "Cosa sono i file .APK su Android?",
-    "risposte": ["File di testo", "Pacchetti di installazione app scaricati fuori dallo store (Sideloading)", "Virus sicuri"],
-    "corretta": "Pacchetti di installazione app scaricati fuori dallo store (Sideloading)"
+    "domanda": "Cosa indicano i diversi colori in un calendario ben organizzato?",
+    "risposte": ["Diverse categorie di eventi (es. riunioni, lavoro individuale, scadenze)", "La temperatura esterna", "L'umore dell'utente"],
+    "corretta": "Diverse categorie di eventi (es. riunioni, lavoro individuale, scadenze)"
   },
   {
-    "domanda": "Perché è pericoloso installare APK da siti web?",
-    "risposte": ["Nessuno controlla se contengono virus o spyware", "Occupano troppa memoria", "Non funzionano mai"],
-    "corretta": "Nessuno controlla se contengono virus o spyware"
+    "domanda": "A cosa serve l'integrazione tra Calendar e Google Meet?",
+    "risposte": ["A creare automaticamente il link della videochiamata all'interno dell'evento", "A cambiare lo sfondo del calendario", "A inviare regali ai partecipanti"],
+    "corretta": "A creare automaticamente il link della videochiamata all'interno dell'evento"
   },
   {
-    "domanda": "A cosa servono gli aggiornamenti delle App e del Sistema?",
-    "risposte": ["Solo a cambiare le icone", "Alle Patch di Sicurezza che chiudono i buchi per gli hacker", "A rallentare il telefono"],
-    "corretta": "Alle Patch di Sicurezza che chiudono i buchi per gli hacker"
+    "domanda": "Perché è utile attivare i promemoria (notifiche) sul calendario?",
+    "risposte": ["Per non dimenticare appuntamenti o scadenze importanti", "Per far suonare il telefono tutto il giorno", "Per svuotare la memoria del PC"],
+    "corretta": "Per non dimenticare appuntamenti o scadenze importanti"
   },
   {
-    "domanda": "Chi è il 'portiere' della sicurezza del tuo telefono?",
-    "risposte": ["Google", "Tu, gestendo i permessi delle app", "La batteria"],
-    "corretta": "Tu, gestendo i permessi delle app"
+    "domanda": "In Outlook Calendar, come si prenota una sala riunioni?",
+    "risposte": ["Selezionandola come 'risorsa' o 'luogo' durante la creazione dell'evento", "Scrivendo un post-it", "Andando fisicamente nella sala un giorno prima"],
+    "corretta": "Selezionandola come 'risorsa' o 'luogo' during la creazione dell'evento"
   },
   {
-    "domanda": "Se un'app 'Torcia' ti chiede l'accesso alla Rubrica, cosa fai?",
-    "risposte": ["Accetti", "Rifiuti, è sospetto (non le serve)", "Disinstalli il telefono"],
-    "corretta": "Rifiuti, è sospetto (non le serve)"
+    "domanda": "Cosa significa 'Sincronizzazione su tutti i dispositivi'?",
+    "risposte": ["Vedere gli stessi appuntamenti su PC, smartphone e tablet", "Avere tre calendari diversi", "Che il calendario funziona solo su PC"],
+    "corretta": "Vedere gli stessi appuntamenti su PC, smartphone e tablet"
   },
   {
-    "domanda": "Un'app come Google Maps ha legittimamente bisogno di:",
-    "risposte": ["Posizione GPS", "Microfono", "Rubrica"],
-    "corretta": "Posizione GPS"
+    "domanda": "Quale strumento utilizzeresti per un brainstorming visivo con post-it digitali?",
+    "risposte": ["Miro o Microsoft Whiteboard", "Excel", "Il browser internet"],
+    "corretta": "Miro o Microsoft Whiteboard"
   },
   {
-    "domanda": "Instagram ha legittimamente bisogno di:",
-    "risposte": ["Fotocamera", "GPS sempre attivo", "Dati bancari"],
-    "corretta": "Fotocamera"
+    "domanda": "In un team di Smart Working, cosa eliminano i calendari condivisi?",
+    "risposte": ["La confusione delle agende personali separate", "La necessità di lavorare", "L'uso della connessione Wi-Fi"],
+    "corretta": "La confusione delle agende personali separate"
   },
   {
-    "domanda": "È possibile revocare un permesso dato a un'app?",
-    "risposte": ["Sì, dalle Impostazioni > Privacy", "No, è per sempre", "Solo formattando"],
-    "corretta": "Sì, dalle Impostazioni > Privacy"
+    "domanda": "Cosa puoi fare per evitare di essere disturbato durante un lavoro importante?",
+    "risposte": ["Impostare il calendario su 'Occupato' o 'Non disturbare'", "Spegnere la luce dell'ufficio", "Disinstallare il browser"],
+    "corretta": "Impostare il calendario su 'Occupato' o 'Non disturbare'"
   },
   {
-    "domanda": "Qual è l'impostazione privacy consigliata per la Posizione?",
-    "risposte": ["Sempre consentita", "Mai", "Solo mentre usi l'app"],
-    "corretta": "Solo mentre usi l'app"
+    "domanda": "Quale vantaggio offre Outlook rispetto alla gestione manuale degli appuntamenti?",
+    "risposte": ["Permette di programmare videochiamate direttamente dall'evento", "Invia SMS a tutti i contatti della rubrica", "Rende il PC più veloce"],
+    "corretta": "Permette di programmare videochiamate direttamente dall'evento"
   },
   {
-    "domanda": "Cosa sono i 'Bloatware'?",
-    "risposte": ["App inutili preinstallate nel telefono", "Accessori per il telefono", "Virus"],
-    "corretta": "App inutili preinstallate nel telefono"
+    "domanda": "Come si chiama la guida pratica presentata nella dispensa?",
+    "risposte": ["Competenze Digitali per la Vita Professionale e Burocratica", "Manuale di informatica di base", "Come usare Facebook"],
+    "corretta": "Competenze Digitali per la Vita Professionale e Burocratica"
   },
   {
-    "domanda": "Cosa consuma più batteria in assoluto?",
-    "risposte": ["Il Wi-Fi", "Lo Schermo (Luminosità)", "La vibrazione"],
-    "corretta": "Lo Schermo (Luminosità)"
+    "domanda": "Quale percentuale di lavoratori italiani usa regolarmente strumenti di collaborazione?",
+    "risposte": ["67%", "10%", "95%"],
+    "corretta": "67%"
   },
   {
-    "domanda": "Chiudere compulsivamente le app in background serve a risparmiare batteria?",
-    "risposte": ["Sì, moltissimo", "No, spesso peggiora i consumi perché il sistema deve ricaricarle da zero", "È indifferente"],
-    "corretta": "No, spesso peggiora i consumi perché il sistema deve ricaricarle da zero"
+    "domanda": "In che anno si contavano circa 3.5 milioni di smart worker in Italia?",
+    "risposte": ["2023", "2010", "1995"],
+    "corretta": "2023"
   },
   {
-    "domanda": "Qual è il vantaggio del Cloud sul Mobile?",
-    "risposte": ["Se perdi il telefono non perdi i dati (se sincronizzati)", "Il telefono diventa più leggero", "Non serve la password"],
-    "corretta": "Se perdi il telefono non perdi i dati (se sincronizzati)"
+    "domanda": "Quale piattaforma cloud è integrata nativamente con Office 365?",
+    "risposte": ["OneDrive", "Google Drive", "Dropbox"],
+    "corretta": "OneDrive"
   },
   {
-    "domanda": "Cosa è l'Hotspot (o Tethering)?",
-    "risposte": ["Un punto caldo", "La funzione che trasforma il telefono in un modem Wi-Fi per altri dispositivi", "Un'app di cucina"],
-    "corretta": "La funzione che trasforma il telefono in un modem Wi-Fi per altri dispositivi"
+    "domanda": "In Google Docs, dove si trova il tasto per condividere il file?",
+    "risposte": ["In alto a destra", "Sotto il computer", "Nascosto nel menu 'Aiuto'"],
+    "corretta": "In alto a destra"
   },
   {
-    "domanda": "Qual è lo svantaggio dell'uso dell'Hotspot?",
-    "risposte": ["Nessuno", "Consuma molti Giga e molta batteria", "Rompe il Wi-Fi"],
-    "corretta": "Consuma molti Giga e molta batteria"
+    "domanda": "A cosa serve la 'modalità suggerimento' in un documento condiviso?",
+    "risposte": ["A proporre modifiche che il proprietario può accettare o rifiutare", "A scrivere barzellette", "A cambiare il font del testo"],
+    "corretta": "A proporre modifiche che il proprietario può accettare o rifiutare"
   },
   {
-    "domanda": "Dove controlli se i tuoi dati sono sincronizzati?",
-    "risposte": ["Impostazioni > Account (Google/iCloud)", "Nella galleria", "Su WhatsApp"],
-    "corretta": "Impostazioni > Account (Google/iCloud)"
+    "domanda": "Cosa rende i 'Fogli di calcolo collaborativi' uno strumento di analisi dati di team?",
+    "risposte": ["L'accesso multi-utente e l'aggiornamento in tempo reale", "Il fatto che contengano numeri", "La possibilità di colorare le celle"],
+    "corretta": "L'accesso multi-utente e l'aggiornamento in tempo reale"
   },
   {
-    "domanda": "Come si chiama l'App per gestire i file su iPhone?",
-    "risposte": ["File", "Finder", "Esplora Risorse"],
-    "corretta": "File"
+    "domanda": "Quale di questi è un 'Promemoria intelligente'?",
+    "risposte": ["Una notifica che ti avvisa 10 minuti prima di una riunione", "Un collega che ti chiama", "Un nodo al fazzoletto"],
+    "corretta": "Una notifica che ti avvisa 10 minuti prima di una riunione"
   },
   {
-    "domanda": "Perché un telefono non aggiornato è come 'una casa con la porta aperta'?",
-    "risposte": ["Perché ha i buchi di sicurezza noti agli hacker non corretti", "Perché entra polvere", "Perché è vecchio"],
-    "corretta": "Perché ha i buchi di sicurezza noti agli hacker non corretti"
+    "domanda": "In una lavagna digitale come Miro, cosa possono fare i partecipanti?",
+    "risposte": ["Disegnare, scrivere e attaccare post-it insieme in tempo reale", "Guardare solo video", "Sostituire la tastiera"],
+    "corretta": "Disegnare, scrivere e attaccare post-it insieme in tempo reale"
   },
   {
-    "domanda": "Se un gioco di Puzzle chiede l'accesso al Microfono:",
-    "risposte": ["È normale", "È sospetto, meglio negarlo", "Serve per la musica"],
-    "corretta": "È sospetto, meglio negarlo"
+    "domanda": "Perché è importante bilanciare 'trasparenza e privacy' nei calendari?",
+    "risposte": ["Per essere efficienti senza rivelare troppi dettagli personali", "Perché lo dice il produttore del software", "Per risparmiare spazio"],
+    "corretta": "Per essere efficienti senza rivelare troppi dettagli personali"
   },
   {
-    "domanda": "Il risparmio energetico agisce su:",
-    "risposte": ["Prestazioni e luminosità schermo", "Volume suoneria", "Spazio memoria"],
-    "corretta": "Prestazioni e luminosità schermo"
+    "domanda": "Cosa si intende per 'Collaborazione Visiva'?",
+    "risposte": ["L'uso di strumenti come lavagne e annotazioni per lavorare insieme su concetti grafici", "Guardarsi negli occhi", "Usare occhiali speciali"],
+    "corretta": "L'uso di strumenti come lavagne e annotazioni per lavorare insieme su concetti grafici"
   },
   {
-    "domanda": "Lo Store ufficiale di Android è:",
-    "risposte": ["App Store", "Google Play Store", "Amazon"],
-    "corretta": "Google Play Store"
+    "domanda": "Quale strumento di Google serve per creare documenti di testo?",
+    "risposte": ["Google Docs", "Google Sheets", "Google Slides"],
+    "corretta": "Google Docs"
   },
   {
-    "domanda": "Lo Store ufficiale di Apple è:",
-    "risposte": ["App Store", "Play Store", "iTunes"],
-    "corretta": "App Store"
+    "domanda": "Quale strumento di Microsoft serve per creare fogli di calcolo?",
+    "risposte": ["Excel", "Word", "PowerPoint"],
+    "corretta": "Excel"
   },
   {
-    "domanda": "Cosa significa 'Sideloading'?",
-    "risposte": ["Installare app da fonti esterne allo store ufficiale", "Caricare il telefono di lato", "Scaricare musica"],
-    "corretta": "Installare app da fonti esterne allo store ufficiale"
+    "domanda": "Cosa permette di fare Google Slides?",
+    "risposte": ["Creare e presentare slide in modo collaborativo", "Scrivere solo lunghi testi", "Fare calcoli matematici complessi"],
+    "corretta": "Creare e presentare slide in modo collaborativo"
   },
   {
-    "domanda": "Per navigare tra i file su smartphone serve:",
-    "risposte": ["Un File Manager", "Un browser", "Una mappa"],
-    "corretta": "Un File Manager"
+    "domanda": "Perché è fondamentale la 'consapevolezza digitale' nel lavoro moderno?",
+    "risposte": ["Per scegliere e usare gli strumenti giusti al momento giusto", "Per diventare famosi", "Per riparare i computer"],
+    "corretta": "Per scegliere e usare gli strumenti giusti al momento giusto"
   },
   {
-    "domanda": "L'interazione principale su smartphone è:",
-    "risposte": ["Mouse e tastiera", "Touch e Sensori", "Vocale"],
-    "corretta": "Touch e Sensori"
+    "domanda": "A cosa serve l'app 'Google Calendar'?",
+    "risposte": ["A gestire agenda e appuntamenti", "A scattare fotografie", "A navigare su internet"],
+    "corretta": "A gestire agenda e appuntamenti"
   },
   {
-    "domanda": "Disinstallare le app inutili (Bloatware) aiuta a:",
-    "risposte": ["Risparmiare batteria, dati e proteggere la privacy", "Rendere il telefono più bello", "Avere più icone"],
-    "corretta": "Risparmiare batteria, dati e proteggere la privacy"
+    "domanda": "Qual è il tema principale della dispensa?",
+    "risposte": ["Le competenze digitali nel mondo professionale", "La storia del computer", "Come riparare una webcam"],
+    "corretta": "Le competenze digitali nel mondo professionale"
   }
 ]
