@@ -1,151 +1,126 @@
 [
   {
-    "domanda": "La Cittadinanza Digitale implica diritti e doveri anche online.",
+    "domanda": "Il 'Mobile Office' permette di svolgere attività lavorative ovunque tramite smartphone.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Se usi un nickname, sei legalmente intoccabile per quello che scrivi.",
+    "domanda": "Il Cloud è fondamentale per avere i file aggiornati sia sul PC che sullo smartphone.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'autenticazione a più fattori (MFA) diminuisce il livello di sicurezza degli account.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Le immagini trovate su Google Immagini sono sempre utilizzabili liberamente senza copyright.",
+    "domanda": "I codici QR permettono di accedere a siti web scansionando un simbolo fisico.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La tecnologia NFC è quella che consente di pagare con lo smartphone ai terminali POS.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È consigliabile usare la stessa password per l'email aziendale e per i social network.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Disattivare le notifiche aiuta a concentrarsi meglio.",
+    "domanda": "Gli aggiornamenti di sistema servono a correggere falle di sicurezza nel telefono.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "I bot sono programmi automatici che possono simulare il comportamento umano.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Il 'Digital Detox' consiste nel disintossicarsi dai veleni digitali mangiando sano.",
+    "domanda": "Una rete Wi-Fi pubblica senza password è l'ideale per gestire dati bancari.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "FOMO sta per 'Fear Of Missing Out'.",
+    "domanda": "Il backup dei dati è utile per recuperare i file in caso di furto dello smartphone.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Un titolo 'Clickbait' mantiene sempre le promesse fatte.",
+    "domanda": "Le funzioni di localizzazione remota permettono di bloccare il telefono a distanza.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Lasciare il Bluetooth sempre acceso consuma batteria e può essere un rischio di sicurezza.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Il phishing è una tecnica usata per rubare dati tramite messaggi o email ingannevoli.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le 'Tecnologie Ponte' servono a collegare il mondo analogico a quello digitale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Gli smartphone moderni non hanno bisogno di alcun sistema di protezione o blocco.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "È sicuro incontrare da soli una persona conosciuta solo online.",
+    "domanda": "L'impronta digitale è un metodo di autenticazione biometrica.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione Hotspot permette di usare la rete dati del telefono per connettere un PC.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Salvare i documenti solo sulla memoria del telefono è più sicuro che usare il Cloud.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Le piattaforme social hanno la responsabilità di rimuovere contenuti illegali segnalati.",
+    "domanda": "Il simbolo del lucchetto nel browser indica che la comunicazione con il sito è protetta.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La 'Netiquette' suggerisce di non inviare spam.",
+    "domanda": "Scansionare un documento cartaceo con lo smartphone lo trasforma in un file digitale.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "L'odio online (Hate Speech) è protetto dalla libertà di espressione illimitata.",
+    "domanda": "La tecnologia eSIM richiede l'inserimento di una scheda di plastica nel telefono.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "I metadati di una foto possono rivelare dove abiti.",
+    "domanda": "Le VPN servono a creare una connessione protetta quando si usa internet.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Dovresti cambiare le tue password regolarmente.",
+    "domanda": "Disattivare le notifiche non necessarie aiuta a mantenere la concentrazione sul lavoro.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Se ricevi un messaggio 'Hai vinto un iPhone' è sicuramente vero.",
+    "domanda": "Se non si fa il backup, i dati di uno smartphone rotto potrebbero essere persi per sempre.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Usare 'password' come password è una scelta sicura per proteggere i propri file.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "I social network sono vietati ai minori di una certa età (solitamente 13 o 14 anni) nei loro termini d'uso.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "L'uso eccessivo dei social può causare ansia e depressione.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La 'Filter Bubble' amplia i tuoi orizzonti culturali.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Il 'Grooming' è una tecnica di toelettatura per animali.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Salvare screenshot di conversazioni offensive è utile come prova.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "I tuoi 'Amici' sui social vedono tutto quello che posti, sempre.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Puoi revocare i permessi dati alle app (es. accesso alla fotocamera) nelle impostazioni.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Il termine 'Viralità' si riferisce alla diffusione di un virus informatico.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "È educato taggare persone in foto brutte senza chiedere.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "I social media usano tecniche di design psicologico per tenerti online.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La 'Sextortion' è un crimine.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Leggere solo i titoli delle notizie è sufficiente per essere informati.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Puoi segnalare un profilo falso anche se non impersona te.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "I social media non hanno impatto sulla democrazia.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Essere cittadini digitali significa usare la tecnologia in modo responsabile, etico e sicuro.",
+    "domanda": "Il mirroring dello schermo permette di proiettare ciò che vedi sul telefono su una TV.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   }
