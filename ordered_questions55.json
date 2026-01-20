@@ -1,152 +1,127 @@
 [
   {
-    "domanda": "Su smartphone i file sono solitamente nascosti all'interno delle App.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "I file .APK sono il formato standard per installare app su iPhone.",
+    "domanda": "Mantenere il microfono acceso mentre altri parlano è segno di buona educazione digitale.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Scaricare app dal Play Store è più sicuro che da siti web esterni.",
+    "domanda": "Guardare la webcam durante una videochiamata aiuta a creare un contatto visivo con gli altri.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Gli aggiornamenti software servono solo a migliorare la grafica.",
+    "domanda": "La Netiquette rappresenta l'insieme delle regole di buon comportamento su internet.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "In una riunione online, è consigliabile collegarsi con qualche minuto di anticipo.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Google Meet è integrato direttamente con Google Calendar per facilitare i meeting.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La funzione 'Alza la mano' serve per interrompere bruscamente chi sta parlando.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Un'app Torcia ha legittimamente bisogno di accedere ai tuoi Contatti.",
+    "domanda": "Lo sfondo sfocato o virtuale aiuta a mantenere la privacy del proprio ambiente domestico.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "In Microsoft Teams è possibile vedere se un collega è disponibile o impegnato.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "La condivisione dello schermo intero è sempre preferibile alla condivisione di una singola finestra.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "È possibile revocare i permessi (es. microfono) a un'app dopo averla installata.",
+    "domanda": "I calendari condivisi servono a evitare sovrapposizioni di appuntamenti nel team.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La luminosità dello schermo incide molto sul consumo della batteria.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Chiudere tutte le app in background fa durare la batteria molto di più.",
+    "domanda": "L'abbigliamento in videochiamata non è importante perché tanto si è a casa.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "L'Hotspot trasforma il telefono in un modem Wi-Fi.",
+    "domanda": "È possibile registrare una riunione online per permettere agli assenti di recuperarla.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il Cloud permette di recuperare i dati se perdi il telefono.",
+    "domanda": "La chat di una videochiamata può essere usata per condividere link utili senza interrompere il relatore.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Installare APK da fonti sconosciute espone a rischi di virus.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Google Maps funziona bene anche senza il permesso di Posizione.",
+    "domanda": "Per una buona qualità video, è meglio avere la fonte di luce (finestra) alle proprie spalle.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Un telefono non aggiornato è vulnerabile agli hacker.",
+    "domanda": "I 'Promemoria intelligenti' del calendario aiutano a non dimenticare le scadenze.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "I 'Bloatware' sono app utili che non dovresti mai cancellare.",
+    "domanda": "Le 'Breakout Rooms' servono a chiudere definitivamente la riunione.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "L'opzione 'Solo mentre usi l'app' protegge la tua privacy.",
+    "domanda": "Impostare lo stato su 'Occupato' nel calendario aiuta a bilanciare trasparenza e privacy.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Tethering e Hotspot sono funzioni completamente diverse.",
+    "domanda": "Zoom è una delle piattaforme più diffuse per le videoconferenze professionali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "In videochiamata è consigliabile muoversi continuamente con il telefono in mano.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Le patch di sicurezza chiudono i buchi nel software.",
+    "domanda": "Le lavagne digitali (come Miro) permettono di fare brainstorming visivo a distanza.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Disinstallare le app che non usi libera spazio e migliora la sicurezza.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "L'App Store è il negozio ufficiale di Android.",
+    "domanda": "Google Calendar non permette di invitare persone esterne alla propria azienda.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "È impossibile prendere virus su uno smartphone.",
+    "domanda": "Usare colori diversi nel calendario aiuta a categorizzare visivamente gli impegni.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Testare audio e video prima di un meeting importante è una perdita di tempo.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Puoi usare lo smartphone come modem per il PC.",
+    "domanda": "I sottotitoli automatici in tempo reale migliorano l'accessibilità delle videoconferenze.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Su iPhone si usa un File Manager per trovare i download.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "I permessi delle app servono a proteggere i tuoi dati personali.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Se un gioco di puzzle chiede il microfono, dovresti accettare.",
+    "domanda": "La puntualità digitale è considerata meno importante di quella fisica.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
-  },
-  {
-    "domanda": "L'Hotspot consuma pochi dati e poca batteria.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Il Sideloading è il metodo consigliato per installare app sicure.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Le app possono usare l'hardware del telefono come il GPS.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Per navigare tra i file su Android si usa l'app 'Files'.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Lasciare il Bluetooth sempre acceso risparmia batteria.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Bisogna scaricare app solo dagli store ufficiali.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
   }
 ]
