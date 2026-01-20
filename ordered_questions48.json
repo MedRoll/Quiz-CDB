@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Cos'è una 'Fake News'?",
-    "risposte": ["Una notizia falsa creata deliberatamente per ingannare o manipolare", "Una notizia vecchia", "Un errore di stampa"],
-    "corretta": "Una notizia falsa creata deliberatamente per ingannare o manipolare"
+    "domanda": "Come puoi accedere a un documento di lavoro mentre sei in treno senza portarti il laptop?",
+    "risposte": ["Usando un'app di archiviazione cloud sul tuo smartphone", "Scrivendo il documento a memoria su carta", "Tornando in ufficio"],
+    "corretta": "Usando un'app di archiviazione cloud sul tuo smartphone"
   },
   {
-    "domanda": "Cos'è un 'Deepfake'?",
-    "risposte": ["Un video manipolato con l'IA che sovrappone il volto di una persona a un'altra in modo realistico", "Una notizia molto approfondita", "Un virus sottomarino"],
-    "corretta": "Un video manipolato con l'IA che sovrappone il volto di una persona a un'altra in modo realistico"
+    "domanda": "Quale precauzione è consigliata quando si utilizza una rete Wi-Fi pubblica in aeroporto?",
+    "risposte": ["Nessuna, sono tutte reti sicure", "Evitare di inserire password bancarie o dati sensibili", "Spegnere completamente il telefono"],
+    "corretta": "Evitare di inserire password bancarie o dati sensibili"
   },
   {
-    "domanda": "Qual è il primo controllo da fare per verificare una notizia?",
-    "risposte": ["Controllare la fonte (chi l'ha scritta?)", "Condividerla subito", "Leggere solo il titolo"],
-    "corretta": "Controllare la fonte (chi l'ha scritta?)"
+    "domanda": "Quale metodo di sblocco dello smartphone è considerato più sicuro del semplice scorrimento?",
+    "risposte": ["Nessuno sblocco", "Impronta digitale, riconoscimento facciale o PIN complesso", "Lasciare lo schermo sempre acceso"],
+    "corretta": "Impronta digitale, riconoscimento facciale o PIN complesso"
   },
   {
-    "domanda": "Cosa significa 'Fact-Checking'?",
-    "risposte": ["Verifica dei fatti e delle fonti", "Controllare la posta", "Fare una lista di cose da fare"],
-    "corretta": "Verifica dei fatti e delle fonti"
+    "domanda": "In quale modo puoi condividere rapidamente il tuo contatto digitale durante una fiera?",
+    "risposte": ["Mostrando un codice QR generato dal tuo telefono", "Gridando il tuo numero di telefono", "Scrivendolo sulla sabbia"],
+    "corretta": "Mostrando un codice QR generato dal tuo telefono"
   },
   {
-    "domanda": "Se un titolo è scritto TUTTO IN MAIUSCOLO con tanti punti esclamativi!!!!, probabilmente è:",
-    "risposte": ["Clickbait o Fake News", "Una notizia urgentissima ufficiale", "Un comunicato del governo"],
-    "corretta": "Clickbait o Fake News"
+    "domanda": "Cosa permette di fare la tecnologia NFC integrata nel telefono?",
+    "risposte": ["Effettuare pagamenti nei negozi avvicinando il dispositivo al POS", "Scattare foto a lunga distanza", "Misurare la febbre"],
+    "corretta": "Effettuare pagamenti nei negozi avvicinando il dispositivo al POS"
   },
   {
-    "domanda": "Cos'è il Cyberbullismo?",
-    "risposte": ["Bullismo perpetrato attraverso strumenti digitali (molestie, insulti, esclusione)", "Un videogioco di lotta", "Un virus"],
-    "corretta": "Bullismo perpetrato attraverso strumenti digitali (molestie, insulti, esclusione)"
+    "domanda": "Se perdi lo smartphone aziendale, quale funzione ti permette di proteggere i dati da remoto?",
+    "risposte": ["Il Bluetooth", "Il comando di localizzazione e cancellazione remota", "La ricarica wireless"],
+    "corretta": "Il comando di localizzazione e cancellazione remota"
   },
   {
-    "domanda": "Cosa fare se sei vittima di Cyberbullismo?",
-    "risposte": ["Non rispondere, bloccare il bullo, salvare le prove (screenshot) e parlarne con un adulto/autorità", "Rispondere insultando più forte", "Cancellare tutto e piangere"],
-    "corretta": "Non rispondere, bloccare il bullo, salvare le prove (screenshot) e parlarne con un adulto/autorità"
+    "domanda": "Perché è utile attivare la sincronizzazione automatica delle foto sul cloud?",
+    "risposte": ["Per non perdere i ricordi e i documenti se il telefono si rompe", "Per consumare tutta la batteria", "Per rendere le foto più scure"],
+    "corretta": "Per non perdere i ricordi e i documenti se il telefono si rompe"
   },
   {
-    "domanda": "Cos'è un 'Troll' su internet?",
-    "risposte": ["Qualcuno che posta commenti provocatori solo per disturbare e creare litigi", "Un mostro delle favole", "Un virus"],
-    "corretta": "Qualcuno che posta commenti provocatori solo per disturbare e creare litigi"
+    "domanda": "Quale vantaggio offre l'uso di una VPN sul cellulare?",
+    "risposte": ["Aumenta la durata della batteria", "Protegge e cripta la tua connessione internet", "Ti permette di scattare foto migliori"],
+    "corretta": "Protegge e cripta la tua connessione internet"
   },
   {
-    "domanda": "La regola 'Don't feed the troll' significa:",
-    "risposte": ["Non rispondere alle provocazioni, ignorali", "Non dare cibo agli animali", "Non cliccare sui link"],
-    "corretta": "Non rispondere alle provocazioni, ignorali"
+    "domanda": "Come puoi firmare un documento PDF ricevuto via email sul tuo smartphone?",
+    "risposte": ["Usando la funzione di annotazione o app specifiche per la firma digitale", "Stampandolo e rifotografandolo", "Cancellando il file"],
+    "corretta": "Usando la funzione di annotazione o app specifiche per la firma digitale"
   },
   {
-    "domanda": "Cosa si intende per 'Netiquette'?",
-    "risposte": ["Il galateo della rete (regole di buona educazione online)", "Un tipo di etichetta adesiva", "La velocità della rete"],
-    "corretta": "Il galateo della rete (regole di buona educazione online)"
+    "domanda": "Qual è il rischio di installare app da fonti non ufficiali?",
+    "risposte": ["Che l'app sia troppo colorata", "L'introduzione di malware o virus nel sistema", "Che l'app occupi poco spazio"],
+    "corretta": "L'introduzione di malware o virus nel sistema"
   },
   {
-    "domanda": "Perché scrivere TUTTO IN MAIUSCOLO è sconsigliato?",
-    "risposte": ["Perché online equivale a URLARE", "Perché consuma più inchiostro", "Perché è difficile da leggere"],
-    "corretta": "Perché online equivale a URLARE"
+    "domanda": "Cosa dovresti controllare regolarmente nelle impostazioni di privacy del tuo smartphone?",
+    "risposte": ["Quali app hanno accesso alla tua posizione e ai tuoi contatti", "Il numero di serie della batteria", "La luminosità dello schermo"],
+    "corretta": "Quali app hanno accesso alla tua posizione e ai tuoi contatti"
   },
   {
-    "domanda": "Cos'è il 'Phishing'?",
-    "risposte": ["Un tentativo di truffa via email/messaggio per rubare password o dati bancari", "Uno sport acquatico", "Un modo per pescare follower"],
-    "corretta": "Un tentativo di truffa via email/messaggio per rubare password o dati bancari"
+    "domanda": "Quale funzione dello smartphone trasforma il dispositivo in un modem per il tuo PC?",
+    "risposte": ["Hotspot personale (Tethering)", "Modalità aereo", "Risparmio energetico"],
+    "corretta": "Hotspot personale (Tethering)"
   },
   {
-    "domanda": "Un'immagine può essere manipolata/falsa?",
-    "risposte": ["Sì, facilmente con software di fotoritocco o IA", "No, le foto sono sempre prove reali", "Solo se è in bianco e nero"],
-    "corretta": "Sì, facilmente con software di fotoritocco o IA"
+    "domanda": "Perché è sconsigliato usare '1234' come PIN del telefono?",
+    "risposte": ["Perché è troppo difficile da ricordare", "Perché è una delle prime sequenze che un malintenzionato proverebbe", "Perché occupa troppa memoria"],
+    "corretta": "Perché è una delle prime sequenze che un malintenzionato proverebbe"
   },
   {
-    "domanda": "Cosa è la 'Ricerca Inversa per Immagini' (Reverse Image Search)?",
-    "risposte": ["Uno strumento per vedere dove altro è stata pubblicata un'immagine e scoprirne l'origine", "Girare l'immagine al contrario", "Cercare immagini capovolte"],
-    "corretta": "Uno strumento per vedere dove altro è stata pubblicata un'immagine e scoprirne l'origine"
+    "domanda": "Come puoi visualizzare il menu di un ristorante che non ha liste cartacee?",
+    "risposte": ["Inquadrando il codice QR con la fotocamera", "Usando il flash del telefono", "Chiamando il proprietario"],
+    "corretta": "Inquadrando il codice QR con la fotocamera"
   },
   {
-    "domanda": "Se una notizia sembra 'troppo bella (o troppo brutta) per essere vera', probabilmente:",
-    "risposte": ["È falsa o esagerata", "È vera", "È un miracolo"],
-    "corretta": "È falsa o esagerata"
+    "domanda": "Quale componente del 'Mobile Office' ti permette di fare riunioni video ovunque?",
+    "risposte": ["La fotocamera frontale e le app di videoconferenza", "Il lettore di impronte", "La bussola"],
+    "corretta": "La fotocamera frontale e le app di videoconferenza"
   },
   {
-    "domanda": "Qual è lo scopo della 'Disinformazione' (rispetto alla Misinformazione)?",
-    "risposte": ["La Disinformazione è intenzionale (vuole fare danno), la Misinformazione può essere un errore involontario", "Sono la stessa cosa", "La Disinformazione è solo politica"],
-    "corretta": "La Disinformazione è intenzionale (vuole fare danno), la Misinformazione può essere un errore involontario"
+    "domanda": "Qual è l'effetto di attivare l'MFA (Autenticazione a due fattori) sulla tua email?",
+    "risposte": ["Rende impossibile l'accesso", "Richiede una seconda conferma (es. un codice via SMS) rendendo l'account molto più sicuro", "Ti permette di avere due account contemporaneamente"],
+    "corretta": "Richiede una seconda conferma (es. un codice via SMS) rendendo l'account molto più sicuro"
   },
   {
-    "domanda": "Cosa fare prima di condividere un post allarmistico?",
-    "risposte": ["Verificare se è vero su siti affidabili", "Condividerlo subito per avvisare tutti", "Mettere mi piace"],
-    "corretta": "Verificare se è vero su siti affidabili"
+    "domanda": "Come puoi gestire meglio lo spazio di archiviazione se la memoria del telefono è piena?",
+    "risposte": ["Spostando file pesanti sul cloud o eliminando app inutilizzate", "Comprando un telefono nuovo ogni mese", "Immergendo il telefono nell'acqua"],
+    "corretta": "Spostando file pesanti sul cloud o eliminando app inutilizzate"
   },
   {
-    "domanda": "L'Hate Speech (discorso d'odio) è:",
-    "risposte": ["Linguaggio che attacca o insulta un gruppo basandosi su razza, religione, genere, ecc.", "Parlare di odio in generale", "Un discorso noioso"],
-    "corretta": "Linguaggio che attacca o insulta un gruppo basandosi su razza, religione, genere, ecc."
+    "domanda": "A cosa serve l'app 'Google Authenticator' o simili?",
+    "risposte": ["A scattare selfie", "A generare codici temporanei per l'accesso sicuro ai tuoi account", "A tradurre testi"],
+    "corretta": "A generare codici temporanei per l'accesso sicuro ai tuoi account"
   },
   {
-    "domanda": "Cosa rischi condividendo Fake News?",
-    "risposte": ["Di danneggiare la tua reputazione e diffondere panico ingiustificato", "Nulla", "Di diventare giornalista"],
-    "corretta": "Di danneggiare la tua reputazione e diffondere panico ingiustificato"
+    "domanda": "Quale azione protegge i tuoi dati se qualcuno prova a indovinare troppe volte il tuo PIN?",
+    "risposte": ["La funzione di blocco temporaneo o cancellazione automatica dopo molti tentativi falliti", "L'accensione della torcia", "Il cambio automatico dello sfondo"],
+    "corretta": "La funzione di blocco temporaneo o cancellazione automatica dopo molti tentativi falliti"
   },
   {
-    "domanda": "Come riconosci un profilo 'Bot'?",
-    "risposte": ["Spesso non ha foto profilo, posta ossessivamente su un solo tema, ha nome generico con numeri", "È molto simpatico", "Scrive poesie"],
-    "corretta": "Spesso non ha foto profilo, posta ossessivamente su un solo tema, ha nome generico con numeri"
+    "domanda": "Se vuoi mostrare una presentazione dal tuo smartphone a un grande monitor, cosa puoi usare?",
+    "risposte": ["La funzione di mirroring dello schermo (Screen Mirroring)", "Il Bluetooth", "L'NFC"],
+    "corretta": "La funzione di mirroring dello schermo (Screen Mirroring)"
   },
   {
-    "domanda": "La 'Sextortion' è:",
-    "risposte": ["Il ricatto sessuale (minacciare di pubblicare foto intime se non si paga)", "Una nuova app", "Un tipo di ballo"],
-    "corretta": "Il ricatto sessuale (minacciare di pubblicare foto intime se non si paga)"
+    "domanda": "Perché non dovresti lasciare il Bluetooth sempre acceso se non lo usi?",
+    "risposte": ["Per risparmiare batteria e ridurre potenziali punti di attacco alla sicurezza", "Perché attira i fulmini", "Perché rende il telefono pesante"],
+    "corretta": "Per risparmiare batteria e ridurre potenziali punti di attacco alla sicurezza"
   },
   {
-    "domanda": "Cosa significa 'Doxing'?",
-    "risposte": ["Pubblicare online i dati privati (indirizzo, telefono) di qualcuno per esporlo a molestie", "Portare a spasso il cane", "Fare documenti"],
-    "corretta": "Pubblicare online i dati privati (indirizzo, telefono) di qualcuno per esporlo a molestie"
+    "domanda": "Quale strumento integrato permette di scansionare un documento cartaceo e trasformarlo in PDF?",
+    "risposte": ["La fotocamera tramite app di scansione o note", "L'altoparlante", "Il tasto del volume"],
+    "corretta": "La fotocamera tramite app di scansione o note"
   },
   {
-    "domanda": "Se ricevi un link strano da un amico in chat, cosa fai?",
-    "risposte": ["Chiedo conferma all'amico se me l'ha mandato lui davvero prima di cliccare", "Clicco subito", "Lo ignoro"],
-    "corretta": "Chiedo conferma all'amico se me l'ha mandato lui davvero prima di cliccare"
+    "domanda": "In quale modo il Cloud favorisce la collaborazione in un team?",
+    "risposte": ["Permettendo a più persone di modificare lo stesso file contemporaneamente", "Impedendo agli altri di vedere i tuoi file", "Spegnendo i computer dei colleghi"],
+    "corretta": "Permettendo a più persone di modificare lo stesso file contemporaneamente"
   },
   {
-    "domanda": "Per creare una password sicura è meglio usare:",
-    "risposte": ["Una frase lunga (Passphrase) con numeri e simboli", "123456", "Il proprio nome"],
-    "corretta": "Una frase lunga (Passphrase) con numeri e simboli"
+    "domanda": "Cosa indica l'icona del lucchetto accanto all'indirizzo di un sito web sul browser mobile?",
+    "risposte": ["Che il sito è a pagamento", "Che la connessione è criptata e più sicura", "Che il sito è chiuso"],
+    "corretta": "Che la connessione è criptata e più sicura"
   },
   {
-    "domanda": "Autenticazione a Due Fattori (2FA) significa:",
-    "risposte": ["Usare password + un secondo codice (es. SMS o App) per entrare", "Avere due account", "Usare due computer"],
-    "corretta": "Usare password + un secondo codice (es. SMS o App) per entrare"
+    "domanda": "Quale accorgimento è utile per non affaticare la vista lavorando molto da smartphone?",
+    "risposte": ["Attivare il filtro luce blu o la modalità notte", "Spegnere del tutto il telefono", "Usare occhiali da sole al chiuso"],
+    "corretta": "Attivare il filtro luce blu o la modalità notte"
   },
   {
-    "domanda": "Cos'è il 'Grooming' online?",
-    "risposte": ["L'adescamento di minori da parte di adulti che fingono amicizia per scopi sessuali", "La cura del profilo", "Pulire il computer"],
-    "corretta": "L'adescamento di minori da parte di adulti che fingono amicizia per scopi sessuali"
+    "domanda": "Se ricevi un SMS che ti chiede dati bancari urgenti, come dovresti reagire?",
+    "risposte": ["Inserire subito i dati per non avere problemi", "Sospettare un tentativo di phishing e non cliccare sui link", "Rispondere insultando"],
+    "corretta": "Sospettare un tentativo di phishing e non cliccare sui link"
   },
   {
-    "domanda": "Qual è l'atteggiamento migliore verso le notizie sui social?",
-    "risposte": ["Sano scetticismo (dubitare e verificare)", "Fiducia cieca", "Indifferenza"],
-    "corretta": "Sano scetticismo (dubitare e verificare)"
+    "domanda": "Quale funzione permette di gestire due numeri di telefono (uno privato e uno di lavoro) sullo stesso smartphone?",
+    "risposte": ["La Dual SIM o la eSIM", "Il Cloud", "L'NFC"],
+    "corretta": "La Dual SIM o la eSIM"
   },
   {
-    "domanda": "Cosa è un 'Bias di Conferma'?",
-    "risposte": ["La tendenza a credere solo alle notizie che confermano ciò che pensiamo già", "Un errore del computer", "Un virus"],
-    "corretta": "La tendenza a credere solo alle notizie che confermano ciò che pensiamo già"
+    "domanda": "Perché è importante fare il backup periodico del dispositivo?",
+    "risposte": ["Per pulire lo schermo", "Per poter ripristinare dati e impostazioni in caso di perdita o furto", "Per cambiare operatore telefonico"],
+    "corretta": "Per poter ripristinare dati e impostazioni in caso di perdita o furto"
   },
   {
-    "domanda": "Se sei testimone di odio online, cosa puoi fare?",
-    "risposte": ["Segnalare il contenuto alla piattaforma", "Ridere", "Condividere"],
-    "corretta": "Segnalare il contenuto alla piattaforma"
+    "domanda": "Cosa permette di fare il 'trascinamento' (drag and drop) tra app su tablet o smartphone moderni?",
+    "risposte": ["Cancellare le app", "Spostare rapidamente testo o immagini da un'app all'altra", "Cambiare il volume"],
+    "corretta": "Spostare rapidamente testo o immagini da un'app all'altra"
   },
   {
-    "domanda": "Il benessere digitale (Digital Wellbeing) promuove:",
-    "risposte": ["Un uso equilibrato e consapevole della tecnologia che non danneggi la vita reale", "Stare online 24 ore su 24", "Non usare mai internet"],
-    "corretta": "Un uso equilibrato e consapevole della tecnologia che non danneggi la vita reale"
+    "domanda": "Qual è il vantaggio di usare l'impronta digitale rispetto a una sequenza grafica?",
+    "risposte": ["È più veloce e molto più difficile da replicare o spiare", "Funziona anche se hai i guanti pesanti", "Rende il telefono impermeabile"],
+    "corretta": "È più veloce e molto più difficile da replicare o spiare"
   }
 ]
