@@ -1,127 +1,153 @@
 [
   {
-    "domanda": "Il 'Mobile Office' permette di svolgere attività lavorative ovunque tramite smartphone.",
+    "domanda": "Su smartphone i file sono solitamente nascosti all'interno delle App.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il Cloud è fondamentale per avere i file aggiornati sia sul PC che sullo smartphone.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "L'autenticazione a più fattori (MFA) diminuisce il livello di sicurezza degli account.",
+    "domanda": "I file .APK sono il formato standard per installare app su iPhone.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "I codici QR permettono di accedere a siti web scansionando un simbolo fisico.",
+    "domanda": "Scaricare app dal Play Store è più sicuro che da siti web esterni.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La tecnologia NFC è quella che consente di pagare con lo smartphone ai terminali POS.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "È consigliabile usare la stessa password per l'email aziendale e per i social network.",
+    "domanda": "Gli aggiornamenti software servono solo a migliorare la grafica.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Gli aggiornamenti di sistema servono a correggere falle di sicurezza nel telefono.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Una rete Wi-Fi pubblica senza password è l'ideale per gestire dati bancari.",
+    "domanda": "Un'app Torcia ha legittimamente bisogno di accedere ai tuoi Contatti.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il backup dei dati è utile per recuperare i file in caso di furto dello smartphone.",
+    "domanda": "È possibile revocare i permessi (es. microfono) a un'app dopo averla installata.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Le funzioni di localizzazione remota permettono di bloccare il telefono a distanza.",
+    "domanda": "La luminosità dello schermo incide molto sul consumo della batteria.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Lasciare il Bluetooth sempre acceso consuma batteria e può essere un rischio di sicurezza.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Il phishing è una tecnica usata per rubare dati tramite messaggi o email ingannevoli.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Le 'Tecnologie Ponte' servono a collegare il mondo analogico a quello digitale.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Gli smartphone moderni non hanno bisogno di alcun sistema di protezione o blocco.",
+    "domanda": "Chiudere tutte le app in background fa durare la batteria molto di più.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "L'impronta digitale è un metodo di autenticazione biometrica.",
+    "domanda": "L'Hotspot trasforma il telefono in un modem Wi-Fi.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La funzione Hotspot permette di usare la rete dati del telefono per connettere un PC.",
+    "domanda": "Il Cloud permette di recuperare i dati se perdi il telefono.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Salvare i documenti solo sulla memoria del telefono è più sicuro che usare il Cloud.",
+    "domanda": "Installare APK da fonti sconosciute espone a rischi di virus.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Google Maps funziona bene anche senza il permesso di Posizione.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il simbolo del lucchetto nel browser indica che la comunicazione con il sito è protetta.",
+    "domanda": "Un telefono non aggiornato è vulnerabile agli hacker.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Scansionare un documento cartaceo con lo smartphone lo trasforma in un file digitale.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La tecnologia eSIM richiede l'inserimento di una scheda di plastica nel telefono.",
+    "domanda": "I 'Bloatware' sono app utili che non dovresti mai cancellare.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Le VPN servono a creare una connessione protetta quando si usa internet.",
+    "domanda": "L'opzione 'Solo mentre usi l'app' protegge la tua privacy.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Disattivare le notifiche non necessarie aiuta a mantenere la concentrazione sul lavoro.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Se non si fa il backup, i dati di uno smartphone rotto potrebbero essere persi per sempre.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Usare 'password' come password è una scelta sicura per proteggere i propri file.",
+    "domanda": "Tethering e Hotspot sono funzioni completamente diverse.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il mirroring dello schermo permette di proiettare ciò che vedi sul telefono su una TV.",
+    "domanda": "Le patch di sicurezza chiudono i buchi nel software.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Disinstallare le app che non usi libera spazio e migliora la sicurezza.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'App Store è il negozio ufficiale di Android.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "È impossibile prendere virus su uno smartphone.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Puoi usare lo smartphone come modem per il PC.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Su iPhone si usa un File Manager per trovare i download.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "I permessi delle app servono a proteggere i tuoi dati personali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Se un gioco di puzzle chiede il microfono, dovresti accettare.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'Hotspot consuma pochi dati e poca batteria.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Il Sideloading è il metodo consigliato per installare app sicure.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Le app possono usare l'hardware del telefono come il GPS.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Per navigare tra i file su Android si usa l'app 'Files'.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Lasciare il Bluetooth sempre acceso risparmia batteria.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Bisogna scaricare app solo dagli store ufficiali.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   }
+
 ]
