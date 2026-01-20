@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Cos'è l'Impronta Digitale (Digital Footprint)?",
-    "risposte": ["La scansione del dito per sbloccare il telefono", "La traccia di dati che lasciamo navigando, postando e interagendo online", "Una macchia sullo schermo"],
-    "corretta": "La traccia di dati che lasciamo navigando, postando e interagendo online"
+    "domanda": "Come puoi migliorare una risposta dell'IA che risulta troppo generica?",
+    "risposte": ["Fornendo maggiori dettagli e un contesto specifico nel prompt", "Riavviando lo smartphone", "Scrivendo la domanda in maiuscolo"],
+    "corretta": "Fornendo maggiori dettagli e un contesto specifico nel prompt"
   },
   {
-    "domanda": "L'Impronta Digitale passiva include:",
-    "risposte": ["I post che scrivi tu", "Dati raccolti senza che tu te ne accorga (es. indirizzo IP, cronologia)", "Le foto che carichi"],
-    "corretta": "Dati raccolti senza che tu te ne accorga (es. indirizzo IP, cronologia)"
+    "domanda": "Quale azione è consigliata dopo che l'IA ha generato un testo per un documento di lavoro?",
+    "risposte": ["Inviarlo subito ai colleghi", "Verificare l'accuratezza dei dati e correggere eventuali errori", "Cancellare il prompt originale"],
+    "corretta": "Verificare l'accuratezza dei dati e correggere eventuali errori"
   },
   {
-    "domanda": "Perché dovresti preoccuparti della tua reputazione online?",
-    "risposte": ["Perché i datori di lavoro spesso cercano il tuo nome su Google prima di assumerti", "Perché così diventi famoso", "Non serve a nulla"],
-    "corretta": "Perché i datori di lavoro spesso cercano il tuo nome su Google prima di assumerti"
+    "domanda": "Se desideri che l'IA utilizzi un tono formale per un'email, cosa devi fare?",
+    "risposte": ["Sperare che l'IA capisca da sola", "Specificare chiaramente il tono desiderato all'interno del prompt", "Usare solo parole lunghe nel prompt"],
+    "corretta": "Specificare chiaramente il tono desiderato all'interno del prompt"
   },
   {
-    "domanda": "Cosa significa che 'Internet non dimentica'?",
-    "risposte": ["Che è difficile cancellare definitivamente qualcosa una volta che è online", "Che i server hanno molta memoria", "Che Google sa tutto"],
-    "corretta": "Che è difficile cancellare definitivamente qualcosa una volta che è online"
+    "domanda": "Perché un'IA potrebbe inventare date o eventi storici mai accaduti?",
+    "risposte": ["Perché i server sono sovraccarichi", "Perché genera risposte basate su probabilità statistiche e non su un database di verità", "Perché non è stata aggiornata nell'ultima ora"],
+    "corretta": "Perché genera risposte basate su probabilità statistiche e non su un database di verità"
   },
   {
-    "domanda": "Cosa è lo 'Sharenting'?",
-    "risposte": ["Condividere la password", "Genitori che condividono eccessivamente foto e dati dei figli minorenni online", "Comprare azioni online"],
-    "corretta": "Genitori che condividono eccessivamente foto e dati dei figli minorenni online"
+    "domanda": "In quale modo Copilot può supportarti mentre usi Microsoft Word?",
+    "risposte": ["Riparando la stampante", "Aiutandoti a scrivere o riassumere bozze di documenti", "Installando Windows automaticamente"],
+    "corretta": "Aiutandoti a scrivere o riassumere bozze di documenti"
   },
   {
-    "domanda": "Qual è un rischio di pubblicare foto delle vacanze mentre sei ancora via?",
-    "risposte": ["Far sapere ai ladri che la casa è vuota", "Che piova", "Che gli amici siano invidiosi"],
-    "corretta": "Far sapere ai ladri che la casa è vuota"
+    "domanda": "Quale strumento tra questi sceglieresti per generare un'immagine creativa partendo da un testo?",
+    "risposte": ["Un'IA generativa multimodale", "Un foglio di calcolo Excel", "Il blocco note dello smartphone"],
+    "corretta": "Un'IA generativa multimodale"
   },
   {
-    "domanda": "Prima di postare una foto di un amico, cosa dovresti fare?",
-    "risposte": ["Chiedergli il permesso (Consenso)", "Modificarla con filtri buffi", "Taggare tutti i suoi parenti"],
-    "corretta": "Chiedergli il permesso (Consenso)"
+    "domanda": "Se vuoi che l'IA riassuma un lungo articolo, quale informazione è più utile inserire nel prompt?",
+    "risposte": ["Il numero di parole esatto della risposta desiderata e i punti chiave da toccare", "Il nome del tuo browser", "L'ora in cui stai scrivendo"],
+    "corretta": "Il numero di parole esatto della risposta desiderata e i punti chiave da toccare"
   },
   {
-    "domanda": "Cos'è il 'Diritto all'Oblio'?",
-    "risposte": ["Il diritto a dimenticare la password", "Il diritto di chiedere la rimozione di dati personali non più rilevanti dai motori di ricerca", "Il diritto a non avere social"],
-    "corretta": "Il diritto di chiedere la rimozione di dati personali non più rilevanti dai motori di ricerca"
+    "domanda": "A quale scopo utilizzeresti l'IA per analizzare un file di dati aziendali?",
+    "risposte": ["Per farle decidere lo stipendio dei dipendenti", "Per individuare tendenze o anomalie in tempi rapidi", "Per cancellare i dati inutili senza controllo"],
+    "corretta": "Per individuare tendenze o anomalie in tempi rapidi"
   },
   {
-    "domanda": "Se pubblichi un commento offensivo e poi lo cancelli, è sparito per sempre?",
-    "risposte": ["Sì, nessuno può più vederlo", "No, qualcuno potrebbe aver fatto uno screenshot", "Sì, se lo cancelli entro 1 minuto"],
-    "corretta": "No, qualcuno potrebbe aver fatto uno screenshot"
+    "domanda": "Quale vantaggio offre Gemini se utilizzi già molti servizi Google (Drive, Gmail)?",
+    "risposte": ["Non richiede una connessione internet", "Si integra facilmente con i tuoi documenti e dati salvati nell'ecosistema Google", "Sostituisce la necessità di avere una password"],
+    "corretta": "Si integra facilmente con i tuoi documenti e dati salvati nell'ecosistema Google"
   },
   {
-    "domanda": "Quale impostazione dovresti controllare sui social per proteggerti?",
-    "risposte": ["Impostazioni della Privacy (chi può vedere i tuoi post)", "Impostazioni dello schermo", "Impostazioni della lingua"],
-    "corretta": "Impostazioni della Privacy (chi può vedere i tuoi post)"
+    "domanda": "Quale compito affideresti a un'IA per aumentare la tua produttività quotidiana?",
+    "risposte": ["La gestione automatica di tutte le tue telefonate personali", "La creazione di una bozza per un ordine del giorno di una riunione", "La scelta dei vestiti da indossare"],
+    "corretta": "La creazione di una bozza per un ordine del giorno di una riunione"
   },
   {
-    "domanda": "Cosa sono i 'Metadati' di una foto?",
-    "risposte": ["Dati nascosti che indicano data, ora e talvolta posizione GPS dello scatto", "Il titolo della foto", "I filtri applicati"],
-    "corretta": "Dati nascosti che indicano data, ora e talvolta posizione GPS dello scatto"
+    "domanda": "Come può l'IA aiutarti nella programmazione informatica?",
+    "risposte": ["Suggerendo linee di codice o correggendo errori di sintassi", "Comprando un nuovo computer per te", "Pulendo fisicamente i server"],
+    "corretta": "Suggerendo linee di codice o correggendo errori di sintassi"
   },
   {
-    "domanda": "Il furto d'identità (Identity Theft) avviene quando:",
-    "risposte": ["Qualcuno usa i tuoi dati personali per fingere di essere te", "Perdi la carta d'identità", "Cambi nome su Facebook"],
-    "corretta": "Qualcuno usa i tuoi dati personali per fingere di essere te"
+    "domanda": "Perché è utile fornire degli esempi all'IA all'interno di un prompt?",
+    "risposte": ["Per farle capire meglio lo stile e il formato della risposta che ti aspetti", "Per riempire lo spazio bianco nel testo", "Perché l'IA altrimenti si spegne"],
+    "corretta": "Per farle capire meglio lo stile e il formato della risposta che ti aspetti"
   },
   {
-    "domanda": "Qual è la regola d'oro prima di pubblicare qualsiasi cosa?",
-    "risposte": ["Contare fino a 10 e chiedersi: 'Lo direi in una piazza pubblica?'", "Fare in fretta per prendere i like", "Scrivere tutto in maiuscolo"],
-    "corretta": "Contare fino a 10 e chiedersi: 'Lo direi in una piazza pubblica?'"
+    "domanda": "In un contesto lavorativo, quale rischio corri inserendo dati sensibili dei clienti in un'IA pubblica?",
+    "risposte": ["Che l'IA smetta di funzionare", "La possibile violazione della privacy e della sicurezza dei dati", "Che l'IA risponda troppo velocemente"],
+    "corretta": "La possibile violazione della privacy e della sicurezza dei dati"
   },
   {
-    "domanda": "Cosa fare se trovi un tuo profilo falso online?",
-    "risposte": ["Segnalarlo alla piattaforma per furto d'identità", "Chiedergli amicizia", "Ignorarlo"],
-    "corretta": "Segnalarlo alla piattaforma per furto d'identità"
+    "domanda": "Quale tra queste è un'applicazione pratica dell'IA nel marketing?",
+    "risposte": ["Generare diverse varianti di un annuncio pubblicitario in pochi secondi", "Stampare i poster e appenderli per strada", "Andare a trovare i clienti a casa"],
+    "corretta": "Generare diverse varianti di un annuncio pubblicitario in pochi secondi"
   },
   {
-    "domanda": "Perché non dovresti condividere la tua data di nascita completa pubblicamente?",
-    "risposte": ["Perché è un dato sensibile usato spesso per verificare l'identità (banche, recupero password)", "Perché porta sfortuna", "Perché ti fanno troppi regali"],
-    "corretta": "Perché è un dato sensibile usato spesso per verificare l'identità (banche, recupero password)"
+    "domanda": "Se l'IA restituisce una risposta errata, qual è la mossa migliore del prompt engineer?",
+    "risposte": ["Arrendersi e scrivere il testo a mano", "Riformulare il prompt dando istruzioni più precise o correggendo i presupposti", "Chiedere scusa all'IA"],
+    "corretta": "Riformulare il prompt dando istruzioni più precise o correggendo i presupposti"
   },
   {
-    "domanda": "L'Over-sharing (condivisione eccessiva) può portare a:",
-    "risposte": ["Rischi per la sicurezza e la privacy", "Più follower sicuri", "Migliore salute"],
-    "corretta": "Rischi per la sicurezza e la privacy"
+    "domanda": "Cosa distingue l'uso di ChatGPT Plus dalla versione gratuita?",
+    "risposte": ["La possibilità di accedere a modelli più potenti e funzioni avanzate", "La possibilità di usarlo senza tastiera", "Il fatto che non faccia mai errori"],
+    "corretta": "La possibilità di accedere a modelli più potenti e funzioni avanzate"
   },
   {
-    "domanda": "Cosa è il 'Social Login' (Accedi con Facebook/Google)?",
-    "risposte": ["Un modo comodo per accedere ad altri siti, ma che condivide i tuoi dati tra piattaforme", "Un gioco social", "Un tipo di password"],
-    "corretta": "Un modo comodo per accedere ad altri siti, ma che condivide i tuoi dati tra piattaforme"
+    "domanda": "Perché si parla di 'dialogo' con l'IA?",
+    "risposte": ["Perché l'IA prova emozioni", "Perché il processo è iterativo: puoi chiedere modifiche e perfezionare la risposta", "Perché l'IA deve riposare tra una domanda e l'altra"],
+    "corretta": "Perché il processo è iterativo: puoi chiedere modifiche e perfezionare la risposta"
   },
   {
-    "domanda": "Se un servizio è 'Gratis', con cosa paghi di solito?",
-    "risposte": ["Con i tuoi Dati Personali", "Non paghi nulla davvero", "Con le tasse"],
-    "corretta": "Con i tuoi Dati Personali"
+    "domanda": "Quale funzione di Copilot in Excel permette di risparmiare tempo?",
+    "risposte": ["La creazione automatica di grafici e tabelle pivot dai dati", "La ricarica della batteria del laptop", "La stampa automatica di mille copie"],
+    "corretta": "La creazione automatica di grafici e tabelle pivot dai dati"
   },
   {
-    "domanda": "Cosa significa 'Tagging'?",
-    "risposte": ["Identificare una persona in una foto o post, collegandola al suo profilo", "Disegnare sui muri", "Cancellare un amico"],
-    "corretta": "Identificare una persona in una foto o post, collegandola al suo profilo"
+    "domanda": "Se vuoi che l'IA traduca un testo mantenendo un linguaggio tecnico, cosa devi fare?",
+    "risposte": ["Non specificare nulla", "Indicare il settore specifico (es. 'medico' o 'legale') nel prompt", "Usare Google Maps"],
+    "corretta": "Indicare il settore specifico (es. 'medico' o 'legale') nel prompt"
   },
   {
-    "domanda": "Chi possiede i contenuti che carichi sui social (secondo i Termini di Servizio)?",
-    "risposte": ["Tu ne rimani proprietario, ma concedi alla piattaforma una licenza d'uso mondiale e gratuita", "La piattaforma diventa proprietaria esclusiva", "Diventano di dominio pubblico"],
-    "corretta": "Tu ne rimani proprietario, ma concedi alla piattaforma una licenza d'uso mondiale e gratuita"
+    "domanda": "In che modo l'IA può supportare un tutor durante la creazione di un corso?",
+    "risposte": ["Andando a fare lezione al suo posto", "Generando quiz, schemi riassuntivi e spunti per le lezioni", "Cucinando per gli studenti"],
+    "corretta": "Generando quiz, schemi riassuntivi e spunti per le lezioni"
   },
   {
-    "domanda": "Qual è il rischio di accettare richieste di amicizia da sconosciuti?",
-    "risposte": ["Potrebbero essere bot, truffatori o raccoglitori di dati", "Potrebbero essere simpatici", "Il tuo feed si riempie"],
-    "corretta": "Potrebbero essere bot, truffatori o raccoglitori di dati"
+    "domanda": "Qual è il limite principale dei modelli LLM riguardo agli eventi accaduti ieri?",
+    "risposte": ["Non sanno leggere le notizie", "Hanno spesso un limite temporale (cutoff) oltre il quale non conoscono i dati, a meno di accesso web", "Dimenticano tutto dopo 5 minuti"],
+    "corretta": "Hanno spesso un limite temporale (cutoff) oltre il quale non conoscono i dati, a meno di accesso web"
   },
   {
-    "domanda": "Cosa è il 'Revenge Porn' (o diffusione non consensuale di immagini intime)?",
-    "risposte": ["Un reato grave che consiste nel diffondere immagini intime per vendetta o ricatto", "Un tipo di film", "Uno scherzo"],
-    "corretta": "Un reato grave che consiste nel diffondere immagini intime per vendetta o ricatto"
+    "domanda": "Quale di questi è un uso etico e produttivo dell'IA generativa?",
+    "risposte": ["Usarla come assistente per strutturare le proprie idee", "Farle scrivere un intero libro e spacciarlo per opera propria senza revisione", "Usarla per generare fake news"],
+    "corretta": "Usarla come assistente per strutturare le proprie idee"
   },
   {
-    "domanda": "Come puoi limitare la tua impronta digitale passiva?",
-    "risposte": ["Usando browser che bloccano i traccianti o la navigazione in incognito (parzialmente)", "Non si può fare nulla", "Cambiando mouse"],
-    "corretta": "Usando browser che bloccano i traccianti o la navigazione in incognito (parzialmente)"
+    "domanda": "Perché è utile chiedere all'IA di 'agire come un esperto' nel prompt?",
+    "risposte": ["Perché l'IA diventa più educata", "Per guidare il modello verso un linguaggio e una profondità di analisi specifici", "Perché altrimenti l'IA risponde in modo infantile"],
+    "corretta": "Per guidare il modello verso un linguaggio e una profondità di analisi specifici"
   },
   {
-    "domanda": "Le informazioni che pubblichi oggi possono influenzare il tuo futuro tra 10 anni?",
-    "risposte": ["Sì, l'archivio del web è vasto", "No, dopo un anno sparisce tutto", "Solo se diventi politico"],
-    "corretta": "Sì, l'archivio del web è vasto"
+    "domanda": "Quale parte dell'IA si occupa di classificare se un'immagine contiene un cane o un gatto?",
+    "risposte": ["L'IA Classica (Analitica)", "L'IA Generativa", "La stampante"],
+    "corretta": "L'IA Classica (Analitica)"
   },
   {
-    "domanda": "Cosa fare se un amico posta una foto imbarazzante di te?",
-    "risposte": ["Chiedergli gentilmente di rimuoverla", "Insultarlo nei commenti", "Hackerare il suo profilo"],
-    "corretta": "Chiedergli gentilmente di rimuoverla"
+    "domanda": "Come puoi assicurarti che l'IA non vada 'fuori tema'?",
+    "risposte": ["Dando dei vincoli chiari, come la lunghezza massima o l'elenco di cosa escludere", "Spegnendo il monitor", "Gridando al microfono"],
+    "corretta": "Dando dei vincoli chiari, come la lunghezza massima o l'elenco di cosa escludere"
   },
   {
-    "domanda": "Il 'Geotagging' (aggiungere la posizione) nei post:",
-    "risposte": ["Rivela esattamente dove ti trovi in quel momento", "Serve solo per la mappa", "Non è pericoloso"],
-    "corretta": "Rivela esattamente dove ti trovi in quel momento"
+    "domanda": "Cosa indica la metafora del 'pappagallo' applicata all'IA?",
+    "risposte": ["Che l'IA ha le piume", "Che ripete pattern statistici senza avere una vera coscienza dei concetti", "Che può solo parlare e non scrivere"],
+    "corretta": "Che ripete pattern statistici senza avere una vera coscienza dei concetti"
   },
   {
-    "domanda": "Cosa si intende per 'Eredità Digitale'?",
-    "risposte": ["Cosa succede ai tuoi account e dati dopo la tua morte", "I soldi che lasci online", "I vecchi computer"],
-    "corretta": "Cosa succede ai tuoi account e dati dopo la tua morte"
+    "domanda": "Se vuoi generare un'email di scuse a un cliente, cosa è meglio fornire all'IA?",
+    "risposte": ["Il motivo del ritardo e il tipo di soluzione offerta", "Il colore preferito del cliente", "La tua data di nascita"],
+    "corretta": "Il motivo del ritardo e il tipo di soluzione offerta"
   },
   {
-    "domanda": "Qual è un buon modo per proteggere la privacy sui social?",
-    "risposte": ["Impostare il profilo come 'Privato' e controllare la lista amici", "Mettere una foto falsa", "Non usare il proprio nome"],
-    "corretta": "Impostare il profilo come 'Privato' e controllare la lista amici"
+    "domanda": "Qual è un vantaggio dell'IA nella gestione delle email ricevute?",
+    "risposte": ["Può rispondere a tutte senza che tu lo sappia", "Può riassumere i punti principali di lunghe catene di messaggi", "Può cancellare tutte le email importanti"],
+    "corretta": "Può riassumere i punti principali di lunghe catene di messaggi"
   },
   {
-    "domanda": "I quiz online tipo 'Che personaggio di Harry Potter sei?' spesso servono a:",
-    "risposte": ["Raccogliere dati sulle tue preferenze e amici (tramite l'accesso al profilo)", "Divertire e basta", "Insegnare magia"],
-    "corretta": "Raccogliere dati sulle tue preferenze e amici (tramite l'accesso al profilo)"
+    "domanda": "Cosa si ottiene combinando le capacità umane con l'IA?",
+    "risposte": ["Una diminuzione della qualità", "Un aumento della creatività e della velocità di esecuzione", "La fine del lavoro umano"],
+    "corretta": "Un aumento della creatività e della velocità di esecuzione"
   },
   {
-    "domanda": "Cancellare la cronologia del browser elimina la tua impronta digitale dai server di Google/Facebook?",
-    "risposte": ["No, elimina solo la traccia sul tuo computer locale", "Sì, cancella tutto ovunque", "Sì, se lo fai due volte"],
-    "corretta": "No, elimina solo la traccia sul tuo computer locale"
+    "domanda": "Quale approccio è suggerito durante il 'Laboratorio Finale' del corso?",
+    "risposte": ["Sperimentare attivamente con gli strumenti mostrati", "Copiare le risposte dai compagni", "Stare a guardare senza provare"],
+    "corretta": "Sperimentare attivamente con gli strumenti mostrati"
   }
 ]
