@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Qual è il detto famoso che spiega il modello di business dei social media gratuiti?",
-    "risposte": ["Se non paghi per il prodotto, allora il prodotto sei tu", "Il cliente ha sempre ragione", "Tutto ciò che luccica è oro"],
-    "corretta": "Se non paghi per il prodotto, allora il prodotto sei tu"
+    "domanda": "Quale tra questi è un esempio tipico di AI Classica (Analitica)?",
+    "risposte": ["Un filtro che riconosce automaticamente le email di spam", "Un software che scrive una poesia originale", "Un'app che genera immagini di gatti su Marte"],
+    "corretta": "Un'ai che analizza solo dati statistici senza creare nulla"
   },
   {
-    "domanda": "Cosa vendono realmente piattaforme come Facebook e TikTok agli inserzionisti?",
-    "risposte": ["Spazio di archiviazione", "La tua attenzione e i tuoi dati per mostrarti pubblicità mirata", "Videogiochi"],
-    "corretta": "La tua attenzione e i tuoi dati per mostrarti pubblicità mirata"
+    "domanda": "Cosa si intende per GenAI (Intelligenza Artificiale Generativa)?",
+    "risposte": ["Un'IA che analizza solo dati statistici senza creare nulla", "Un'IA capace di creare nuovi contenuti come testi, immagini o codice", "Un robot fisico che pulisce gli uffici"],
+    "corretta": "Un'IA capace di creare nuovi contenuti come testi, immagini o codice"
   },
   {
-    "domanda": "Cos'è la 'Profilazione'?",
-    "risposte": ["La creazione di una foto profilo perfetta", "La raccolta di dati sui tuoi gusti e comportamenti per capire chi sei", "Il numero di like che ricevi"],
-    "corretta": "La raccolta di dati sui tuoi gusti e comportamenti per capire chi sei"
+    "domanda": "Su quale tecnologia si basano i modelli come ChatGPT e Gemini?",
+    "risposte": ["USB (Universal Serial Bus)", "LLM (Large Language Models)", "HTML (HyperText Markup Language)"],
+    "corretta": "LLM (Large Language Models)"
   },
   {
-    "domanda": "Quale ormone viene stimolato quando riceviamo un 'Mi piace' o una notifica?",
-    "risposte": ["Adrenalina", "Dopamina (ormone del piacere/ricompensa)", "Melatonina"],
-    "corretta": "Dopamina (ormone del piacere/ricompensa)"
+    "domanda": "Quale metafora viene usata nella lezione per spiegare che l'IA non ha una vera coscienza?",
+    "risposte": ["Il computer quantistico", "Il pappagallo istruito", "L'enciclopedia vivente"],
+    "corretta": "Il pappagallo istruito"
   },
   {
-    "domanda": "Cosa significa l'acronimo FOMO?",
-    "risposte": ["Fear Of Missing Out (Paura di perdersi qualcosa)", "Fear Of Mobile Online", "Free Online Music Only"],
-    "corretta": "Fear Of Missing Out (Paura di perdersi qualcosa)"
+    "domanda": "In che modo l'IA decide qual è la parola successiva in una frase?",
+    "risposte": ["In base alla parola con la probabilità statistica più alta", "In base alle sue preferenze personali", "Chiedendo ogni volta il permesso all'utente"],
+    "corretta": "In base alla parola con la probabilità statistica più alta"
   },
   {
-    "domanda": "Perché lo 'Scroll Infinito' (scorrimento senza fine) è progettato così?",
-    "risposte": ["Per risparmiare batteria", "Per tenerti incollato allo schermo senza darti un punto di stop naturale", "Perché è più facile da programmare"],
-    "corretta": "Per tenerti incollato allo schermo senza darti un punto di stop naturale"
+    "domanda": "Quale organizzazione ha sviluppato ChatGPT, lanciato a fine 2022?",
+    "risposte": ["Google", "Microsoft", "OpenAI"],
+    "corretta": "OpenAI"
   },
   {
-    "domanda": "Cos'è una 'Filter Bubble' (Bolla di filtraggio)?",
-    "risposte": ["Un filtro per le foto di Instagram", "Una situazione in cui l'algoritmo ti mostra solo cose che ti piacciono, isolandoti da opinioni diverse", "Un virus informatico"],
-    "corretta": "Una situazione in cui l'algoritmo ti mostra solo cose che ti piacciono, isolandoti da opinioni diverse"
+    "domanda": "Come si chiama l'intelligenza artificiale principale sviluppata da Google?",
+    "risposte": ["Gemini", "Copilot", "Alexa"],
+    "corretta": "Gemini"
   },
   {
-    "domanda": "Come guadagnano principalmente i Social Network?",
-    "risposte": ["Con le donazioni degli utenti", "Con la pubblicità (Advertising) basata sui dati degli utenti", "Vendendo magliette"],
-    "corretta": "Con la pubblicità (Advertising) basata sui dati degli utenti"
+    "domanda": "Qual è il nome dell'assistente IA integrato nei prodotti Microsoft (Office, Windows)?",
+    "risposte": ["ChatGPT", "Copilot", "Siri"],
+    "corretta": "Copilot"
   },
   {
-    "domanda": "Cosa si intende per 'Echo Chamber' (Camera dell'eco)?",
-    "risposte": ["Un ambiente virtuale dove senti solo opinioni identiche alla tua, che rinforzano le tue convinzioni", "Una stanza vuota", "Un effetto audio per i video"],
-    "corretta": "Un ambiente virtuale dove senti solo opinioni identiche alla tua, che rinforzano le tue convinzioni"
+    "domanda": "Qual è una delle abilità principali per cui è noto ChatGPT?",
+    "risposte": ["Scattare fotografie in tempo reale", "Scrittura creativa e conversazione naturale", "Riparazione di componenti hardware"],
+    "corretta": "Scrittura creativa e conversazione naturale"
   },
   {
-    "domanda": "Le notifiche rosse (badge) sono disegnate per:",
-    "risposte": ["Rilassarti", "Creare un senso di urgenza e attirare la tua attenzione immediata", "Decorare lo schermo"],
-    "corretta": "Creare un senso di urgenza e attirare la tua attenzione immediata"
+    "domanda": "Cos'è il 'Prompt Engineering'?",
+    "risposte": ["La progettazione dei circuiti elettronici", "L'arte di formulare istruzioni efficaci per l'IA", "La riparazione di server internet"],
+    "corretta": "L'arte di formulare istruzioni efficaci per l'IA"
   },
   {
-    "domanda": "Se cerchi 'scarpe da corsa' su Google e poi vedi pubblicità di scarpe su Instagram, è:",
-    "risposte": ["Una coincidenza", "Il risultato del tracciamento dei cookie e della profilazione condivisa", "Magia"],
-    "corretta": "Il risultato del tracciamento dei cookie e della profilazione condivisa"
+    "domanda": "Quali elementi rendono un 'Prompt' veramente efficace?",
+    "risposte": ["L'uso di una sola parola chiave", "Chiarezza, specificità e fornitura di contesto", "L'uso esclusivo di termini tecnici complicati"],
+    "corretta": "Chiarezza, specificità e fornitura di contesto"
   },
   {
-    "domanda": "Cosa registra l'algoritmo oltre ai tuoi 'Mi piace'?",
-    "risposte": ["Nulla, guarda solo i like", "Il tempo che passi a guardare un post, anche se non interagisci", "Il colore dei tuoi occhi"],
-    "corretta": "Il tempo che passi a guardare un post, anche se non interagisci"
+    "domanda": "Cosa si intende con il concetto di 'Mobile Office'?",
+    "risposte": ["Poter gestire il lavoro e la sicurezza ovunque tramite smartphone", "Avere un ufficio su un veicolo in movimento", "Lavorare solo in presenza fisica in azienda"],
+    "corretta": "Poter gestire il lavoro e la sicurezza ovunque tramite smartphone"
   },
   {
-    "domanda": "Perché le Fake News si diffondono più velocemente delle notizie vere?",
-    "risposte": ["Perché fanno leva su emozioni forti come rabbia o paura", "Perché sono scritte meglio", "Perché gli algoritmi amano la verità"],
-    "corretta": "Perché fanno leva su emozioni forti come rabbia o paura"
+    "domanda": "Quale strumento permette di collegare un oggetto fisico (come un poster) a una risorsa digitale?",
+    "risposte": ["Codice QR", "Cavo USB", "Connessione Bluetooth"],
+    "corretta": "Codice QR"
   },
   {
-    "domanda": "Qual è l'obiettivo principale di un algoritmo social?",
-    "risposte": ["Educarti", "Massimizzare il tempo che passi sulla piattaforma (Engagement)", "Farti uscire di casa"],
-    "corretta": "Massimizzare il tempo che passi sulla piattaforma (Engagement)"
+    "domanda": "Quale tecnologia permette i pagamenti contactless tramite smartphone?",
+    "risposte": ["NFC (Near Field Communication)", "GPS", "Frequenze Radio FM"],
+    "corretta": "NFC (Near Field Communication)"
   },
   {
-    "domanda": "Cosa sono i 'Dark Pattern' nel design delle app?",
-    "risposte": ["Modalità scura per la notte", "Trucchi di design per manipolarti a fare cose che non vorresti (es. iscrizioni difficili da cancellare)", "Sfondi neri"],
-    "corretta": "Trucchi di design per manipolarti a fare cose che non vorresti (es. iscrizioni difficili da cancellare)"
+    "domanda": "Perché è fondamentale attivare l'MFA (Autenticazione a più fattori)?",
+    "risposte": ["Per velocizzare l'accensione del telefono", "Per aggiungere un secondo livello di sicurezza oltre alla password", "Per poter telefonare all'estero senza costi"],
+    "corretta": "Per aggiungere un secondo livello di sicurezza oltre alla password"
   },
   {
-    "domanda": "Il 'Clickbait' (acchiappaclic) serve a:",
-    "risposte": ["Fornire informazioni accurate", "Attirare clic con titoli sensazionalistici o ingannevoli", "Proteggere dai virus"],
-    "corretta": "Attirare clic con titoli sensazionalistici o ingannevoli"
+    "domanda": "Qual è l'importanza principale degli aggiornamenti di sistema dello smartphone?",
+    "risposte": ["Cambiare i colori delle icone", "Risolvere vulnerabilità e falle di sicurezza", "Aumentare il volume degli altoparlanti"],
+    "corretta": "Risolvere vulnerabilità e falle di sicurezza"
   },
   {
-    "domanda": "Quale di questi è un segnale di dipendenza da social media?",
-    "risposte": ["Controllare il telefono appena svegli e sentirsi ansiosi se non c'è connessione", "Usare il telefono per chiamare", "Avere un account Facebook"],
-    "corretta": "Controllare il telefono appena svegli e sentirsi ansiosi se non c'è connessione"
+    "domanda": "Qual è il comportamento corretto quando ci si connette a una rete Wi-Fi pubblica?",
+    "risposte": ["Usarla liberamente per accedere al conto in banca", "Evitare operazioni sensibili e preferire la rete dati se possibile", "Condividere la propria password con altri utenti"],
+    "corretta": "Evitare operazioni sensibili e preferire la rete dati se possibile"
   },
   {
-    "domanda": "Cosa significa che l'attenzione è una 'risorsa scarsa'?",
-    "risposte": ["Che abbiamo poche ore al giorno e le aziende lottano per averle", "Che nessuno presta attenzione", "Che costa poco"],
-    "corretta": "Che abbiamo poche ore al giorno e le aziende lottano per averle"
+    "domanda": "Qual è il vantaggio principale dell'uso del Cloud nel lavoro mobile?",
+    "risposte": ["Rende lo smartphone fisicamente più leggero", "Permette di accedere ai file da qualsiasi dispositivo sincronizzato", "Sostituisce completamente la batteria del telefono"],
+    "corretta": "Permette di accedere ai file da qualsiasi dispositivo sincronizzato"
   },
   {
-    "domanda": "La 'Gamification' (uso di premi, livelli, badge) nei social serve a:",
-    "risposte": ["Renderti dipendente dal sistema di ricompensa", "Insegnarti a giocare", "Farti vincere soldi veri"],
-    "corretta": "Renderti dipendente dal sistema di ricompensa"
+    "domanda": "Qual è lo scopo del 'Laboratorio Finale' previsto nel corso?",
+    "risposte": ["Mettere in pratica e integrare tutte le competenze apprese", "Imparare a programmare in linguaggio C++", "Smontare e rimontare un personal computer"],
+    "corretta": "Mettere in pratica e integrare tutte le competenze apprese"
   },
   {
-    "domanda": "Perché è difficile smettere di guardare i video brevi (es. TikTok/Reels)?",
-    "risposte": ["Perché offrono ricompense variabili e immediate (come una slot machine)", "Perché sono lunghi", "Perché sono noiosi"],
-    "corretta": "Perché offrono ricompense variabili e immediate (come una slot machine)"
+    "domanda": "Cosa significa che l'IA genera risposte su base statistica?",
+    "risposte": ["Che capisce il significato logico come un umano", "Che prevede la parola successiva basandosi sulla frequenza nei dati di addestramento", "Che risponde sempre in modo casuale"],
+    "corretta": "Che prevede la parola successiva basandosi sulla frequenza nei dati di addestramento"
   },
   {
-    "domanda": "Cosa dovresti fare per rompere la 'Filter Bubble'?",
-    "risposte": ["Seguire attivamente pagine e persone con opinioni diverse dalle tue", "Smettere di usare internet", "Mettere like a tutto a caso"],
-    "corretta": "Seguire attivamente pagine e persone con opinioni diverse dalle tue"
+    "domanda": "Perché l'IA può commettere errori o inventare fatti (allucinazioni)?",
+    "risposte": ["Perché non ha una vera comprensione del mondo ma calcola probabilità", "Perché i server sono troppo caldi", "Perché l'utente ha scritto il prompt in italiano"],
+    "corretta": "Perché non ha una vera comprensione del mondo ma calcola probabilità"
   },
   {
-    "domanda": "I dati raccolti dai social vengono usati anche per:",
-    "risposte": ["Addestrare le intelligenze artificiali", "Spiare le tue conversazioni telefoniche (illegalmente)", "Creare cloni"],
-    "corretta": "Addestrare le intelligenze artificiali"
+    "domanda": "In quale anno ChatGPT ha iniziato a diffondersi massivamente nel mondo?",
+    "risposte": ["2018", "2022", "2025"],
+    "corretta": "2022"
   },
   {
-    "domanda": "Qual è un effetto negativo del confronto sociale online?",
-    "risposte": ["Sentirsi inadeguati vedendo le vite apparentemente perfette degli altri", "Migliorare l'autostima", "Risparmiare soldi"],
-    "corretta": "Sentirsi inadeguati vedendo le vite apparentemente perfette degli altri"
+    "domanda": "Quale di queste è una funzione tipica dell'IA generativa nel lavoro d'ufficio?",
+    "risposte": ["Sintetizzare un documento lungo in pochi punti chiave", "Stampare fisicamente i fogli sulla stampante", "Pulire la tastiera del computer"],
+    "corretta": "Sintetizzare un documento lungo in pochi punti chiave"
   },
   {
-    "domanda": "Cosa è il 'Doomscrolling'?",
-    "risposte": ["Continuare a scorrere notizie negative compulsivamente", "Giocare a Doom", "Scorrere velocemente le foto"],
-    "corretta": "Continuare a scorrere notizie negative compulsivamente"
+    "domanda": "Cosa si deve fare dopo che l'IA ha generato un testo per un'email lavorativa?",
+    "risposte": ["Inviarlo immediatamente senza leggerlo", "Revisionare sempre il contenuto per verificarne correttezza e tono", "Cancellarlo e riscriverlo a mano"],
+    "corretta": "Revisionare sempre il contenuto per verificarne correttezza e tono"
   },
   {
-    "domanda": "Chi decide cosa vedi nel tuo Feed?",
-    "risposte": ["Un redattore umano", "Un algoritmo matematico basato sui tuoi comportamenti passati", "Il caso"],
-    "corretta": "Un algoritmo matematico basato sui tuoi comportamenti passati"
+    "domanda": "Qual è la funzione delle cosiddette 'Tecnologie Ponte'?",
+    "risposte": ["Servono per la navigazione GPS satellitare", "Collegano l'esperienza del mondo fisico con contenuti digitali", "Servono per ricaricare lo smartphone senza fili"],
+    "corretta": "Collegano l'esperienza del mondo fisico con contenuti digitali"
   },
   {
-    "domanda": "Il termine 'Engagement' si riferisce a:",
-    "risposte": ["Il fidanzamento online", "Il livello di interazione (like, commenti, tempo speso) degli utenti", "La velocità di connessione"],
-    "corretta": "Il livello di interazione (like, commenti, tempo speso) degli utenti"
+    "domanda": "Cosa garantisce la sicurezza fisica dei dati su uno smartphone?",
+    "risposte": ["L'uso di una cover colorata", "L'impostazione di un blocco schermo sicuro (PIN, volto, impronta)", "Tenere il telefono sempre in borsa"],
+    "corretta": "L'impostazione di un blocco schermo sicuro (PIN, volto, impronta)"
   },
   {
-    "domanda": "Perché i social sono gratuiti?",
-    "risposte": ["Per generosità dei fondatori", "Perché i nostri dati valgono più dell'abbonamento mensile", "Perché sono finanziati dallo stato"],
-    "corretta": "Perché i nostri dati valgono più dell'abbonamento mensile"
+    "domanda": "Cosa significa il termine 'Consolidamento' nel contesto del corso?",
+    "risposte": ["Rafforzare e confermare le conoscenze acquisite", "Comprare nuovi dispositivi tecnologici", "Dimenticare le vecchie tecnologie"],
+    "corretta": "Rafforzare e confermare le conoscenze acquisite"
   },
   {
-    "domanda": "Cosa succede quando disattivi le notifiche?",
-    "risposte": ["Riprendi il controllo della tua attenzione", "Il telefono smette di funzionare", "Ti cancelli dai social"],
-    "corretta": "Riprendi il controllo della tua attenzione"
+    "domanda": "Qual è la caratteristica principale degli LLM (Large Language Models)?",
+    "risposte": ["Sono stati addestrati su quantità immense di dati testuali", "Possono funzionare senza energia elettrica", "Sono grandi oggetti fisici conservati in uffici"],
+    "corretta": "Sono stati addestrati su quantità immense di dati testuali"
   },
   {
-    "domanda": "La 'Polarizzazione' sui social significa:",
-    "risposte": ["Che le opinioni diventano sempre più estreme e divise", "Che fa freddo", "Che tutti vanno d'accordo"],
-    "corretta": "Che le opinioni diventano sempre più estreme e divise"
+    "domanda": "Perché lo smartphone è oggi considerato un 'Ufficio'?",
+    "risposte": ["Perché è diventato uno strumento completo per produttività e comunicazione", "Perché costa quanto l'affitto di un ufficio", "Perché può essere usato solo dentro un ufficio"],
+    "corretta": "Perché è diventato uno strumento completo per produttività e comunicazione"
   },
   {
-    "domanda": "Qual è il primo passo per un uso consapevole?",
-    "risposte": ["Rendersi conto di quanto tempo passiamo online (Monitoraggio)", "Buttare il telefono", "Comprare un nuovo telefono"],
-    "corretta": "Rendersi conto di quanto tempo passiamo online (Monitoraggio)"
+    "domanda": "Qual è il modo migliore per diventare esperti nell'uso dell'IA?",
+    "risposte": ["Leggere solo libri di fantascienza", "Sperimentare quotidianamente con i prompt e la pratica", "Aspettare che l'IA diventi perfetta"],
+    "corretta": "Sperimentare quotidianamente con i prompt e la pratica"
   }
 ]
