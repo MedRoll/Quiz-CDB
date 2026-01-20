@@ -1,152 +1,127 @@
 [
   {
-    "domanda": "Facebook e Instagram sono gratis perché sono enti di beneficenza.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Quando cancelli una foto dal tuo profilo, scompare sicuramente da tutto il web.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "I 'Mi piace' stimolano la dopamina nel cervello.",
+    "domanda": "L'IA generativa è in grado di scrivere il codice informatico per creare un sito web.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "È legale pubblicare foto di altre persone senza il loro consenso (o consenso dei genitori se minori).",
+    "domanda": "I modelli LLM possiedono una coscienza propria e provano emozioni umane.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Le Fake News sono progettate per essere noiose.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "L'algoritmo ti mostra contenuti diversi da quelli del tuo vicino per tenerti più tempo sull'app.",
+    "domanda": "Le risposte fornite da ChatGPT sono basate su calcoli di probabilità statistica.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Dovresti usare la stessa password per tutti i tuoi account per ricordarla meglio.",
+    "domanda": "ChatGPT è stato sviluppato e lanciato da Google.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Il Cyberbullismo può avere conseguenze legali reali.",
+    "domanda": "Gemini è lo strumento di intelligenza artificiale integrato nell'ecosistema Google.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La modalità 'In Incognito' ti rende invisibile alla polizia e al tuo provider internet.",
+    "domanda": "Le cosiddette 'allucinazioni' dell'IA avvengono quando il software inventa fatti non veri.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Fornire un esempio pratico nel prompt aiuta l'IA a generare una risposta più precisa.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'IA generativa è uno strumento utile per riassumere documenti molto lunghi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Copilot è l'IA di Microsoft integrata in programmi come Word ed Excel.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'IA classica (analitica) ha come scopo principale la creazione di testi poetici.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Un Deepfake può far dire a un politico cose che non ha mai detto.",
+    "domanda": "È sempre necessario revisionare i testi prodotti dall'IA perché possono contenere errori.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Scrivere in MAIUSCOLO in chat equivale a urlare.",
+    "domanda": "Chiedere all'IA di 'agire come un esperto' è una tecnica del Prompt Engineering.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Se un servizio online è gratis, il prodotto sei tu.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Le app possono accedere al tuo microfono o posizione solo se glielo permetti.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "I quiz su Facebook sono sempre sicuri e non raccolgono dati.",
+    "domanda": "Gli LLM sono stati addestrati utilizzando esclusivamente libri di testo scolastici.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "L'Echo Chamber ti aiuta a sviluppare un pensiero critico ascoltando diverse opinioni.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Il 'Doomscrolling' fa bene all'umore.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "I datori di lavoro possono controllare i tuoi profili social prima di assumerti.",
+    "domanda": "L'IA generativa può creare immagini originali partendo da una descrizione testuale.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La '2FA' (autenticazione a due fattori) rende l'account più sicuro.",
+    "domanda": "Tutti i modelli di IA hanno accesso gratuito e illimitato a internet in tempo reale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'IA può tradurre testi da una lingua all'altra mantenendo diversi livelli di formalità.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Un profilo con la spunta blu è sempre affidabile al 100% su tutto ciò che dice.",
+    "domanda": "Se l'IA fornisce una risposta errata, non è possibile chiederle di correggersi.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Lo 'Sharenting' riguarda la condivisione di file aziendali.",
+    "domanda": "Inserire password o segreti aziendali in un'IA pubblica è una pratica sicura.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Bisogna nutrire i troll rispondendo ai loro commenti.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "L'indirizzo IP identifica approssimativamente la tua connessione e posizione.",
+    "domanda": "La GenAI può essere usata per strutturare l'ordine del giorno di una riunione.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "I 'Cookie' sono biscotti che Google ti invia a casa.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "La luce blu degli schermi può disturbare il sonno.",
+    "domanda": "L'IA generativa ha iniziato la sua diffusione di massa solo dopo il 2020.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "È buona norma chiedere 'È vero?' prima di condividere un post scioccante.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "I social media non influenzano l'autostima degli adolescenti.",
+    "domanda": "Un prompt composto da una sola parola è generalmente più efficace di uno dettagliato.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Puoi scaricare una copia dei tuoi dati (backup) da Facebook o Google.",
+    "domanda": "L'IA può aiutare un programmatore a trovare errori (bug) nel proprio codice.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Il phishing avviene solo via email, mai via SMS o WhatsApp.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "Le impostazioni di privacy predefinite dei social sono sempre le più sicure.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Falso"
-  },
-  {
-    "domanda": "La disinformazione può influenzare le elezioni politiche.",
+    "domanda": "La metafora del 'pappagallo' indica che l'IA ripete pattern senza vera comprensione.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
+  },
+  {
+    "domanda": "Specificare il 'destinatario' del testo nel prompt aiuta l'IA a scegliere il tono giusto.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'IA generativa sostituisce completamente la necessità di pensiero critico umano.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
   }
 ]
