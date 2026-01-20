@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Cos'è un 'Prompt'?",
-    "risposte": ["Il comando o domanda che scrivi nella chat dell'AI", "Il tempo di risposta", "Un programma antivirus"],
-    "corretta": "Il comando o domanda che scrivi nella chat dell'AI"
+    "domanda": "Qual è la regola d'oro quando si entra in una riunione virtuale con molti partecipanti?",
+    "risposte": ["Entrare con il microfono in mute", "Iniziare subito a parlare a voce alta", "Riprodurre musica di sottofondo"],
+    "corretta": "Entrare con il microfono in mute"
   },
   {
-    "domanda": "Cosa dice il principio 'Garbage In, Garbage Out'?",
-    "risposte": ["Che l'AI produce rifiuti", "Se inserisci un prompt scarso (spazzatura), otterrai una risposta scarsa", "Bisogna buttare il computer"],
-    "corretta": "Se inserisci un prompt scarso (spazzatura), otterrai una risposta scarsa"
+    "domanda": "In Microsoft Teams, quale strumento è ideale per le aziende che usano già Word ed Excel?",
+    "risposte": ["L'integrazione totale con l'ecosistema Office 365", "La possibilità di giocare ai videogame", "Il fatto che non richieda una password"],
+    "corretta": "L'integrazione totale con l'ecosistema Office 365"
   },
   {
-    "domanda": "Quali sono i 4 elementi del Prompt Perfetto?",
-    "risposte": ["Soggetto, Verbo, Complemento, Punto", "Ruolo, Contesto, Compito, Formato", "Idea, Sviluppo, Conclusione, Firma"],
-    "corretta": "Ruolo, Contesto, Compito, Formato"
+    "domanda": "Cosa si intende per 'Puntualità Digitale' in una videochiamata?",
+    "risposte": ["Collegarsi 2-3 minuti prima dell'inizio previsto", "Arrivare con 10 minuti di ritardo tanto è online", "Accendere il PC esattamente all'ora della riunione"],
+    "corretta": "Collegarsi 2-3 minuti prima dell'inizio previsto"
   },
   {
-    "domanda": "La frase 'Agisci come un esperto di marketing' definisce:",
-    "risposte": ["Il Ruolo", "Il Compito", "Il Formato"],
-    "corretta": "Il Ruolo"
+    "domanda": "Dove è meglio guardare mentre si parla durante una videoconferenza?",
+    "risposte": ["La propria immagine sullo schermo", "Direttamente nella webcam", "Fuori dalla finestra"],
+    "corretta": "Direttamente nella webcam"
   },
   {
-    "domanda": "La frase 'Sto scrivendo a un cliente arrabbiato...' definisce:",
-    "risposte": ["Il Contesto", "Il Formato", "Il Ruolo"],
-    "corretta": "Il Contesto"
+    "domanda": "Quale piattaforma è più indicata se utilizzi regolarmente Gmail e Google Calendar?",
+    "risposte": ["Google Meet", "Skype", "Telegram"],
+    "corretta": "Google Meet"
   },
   {
-    "domanda": "La frase 'Scrivi una mail di scuse' definisce:",
-    "risposte": ["Il Compito (Task)", "Il Ruolo", "Il Contesto"],
-    "corretta": "Il Compito (Task)"
+    "domanda": "A cosa servono le 'Breakout Rooms' (Sale di gruppo) in Zoom?",
+    "risposte": ["A fare una pausa caffè", "A dividere i partecipanti in piccoli gruppi per lavori specifici", "A chiudere la riunione"],
+    "corretta": "A dividere i partecipanti in piccoli gruppi per lavori specifici"
   },
   {
-    "domanda": "La frase 'Usa un elenco puntato' definisce:",
-    "risposte": ["Il Formato", "Il Contesto", "Il Compito"],
-    "corretta": "Il Formato"
+    "domanda": "Cosa dovresti fare prima di iniziare una videochiamata importante?",
+    "risposte": ["Testare audio e video e scegliere uno sfondo neutro", "Mangiare davanti alla telecamera", "Accendere la televisione a volume alto"],
+    "corretta": "Testare audio e video e scegliere uno sfondo neutro"
   },
   {
-    "domanda": "Perché è utile dare un esempio all'AI nel prompt?",
-    "risposte": ["Per confonderla", "Per farle copiare lo stile desiderato", "Per allungare il testo"],
-    "corretta": "Per farle copiare lo stile desiderato"
+    "domanda": "In quale situazione è utile registrare una riunione?",
+    "risposte": ["Per permettere a chi era assente di recuperare i contenuti", "Per occupare tutto lo spazio sul PC", "Per inviarla casualmente a sconosciuti"],
+    "corretta": "Per permettere a chi era assente di recuperare i contenuti"
   },
   {
-    "domanda": "Cosa significa 'Iterazione' con l'AI?",
-    "risposte": ["Spegnere e riaccendere", "Non fermarsi alla prima risposta ma chattare per raffinare il risultato", "Scrivere lo stesso prompt due volte"],
-    "corretta": "Non fermarsi alla prima risposta ma chattare per raffinare il risultato"
+    "domanda": "Cosa si dovrebbe evitare di fare durante una riunione professionale online?",
+    "risposte": ["Prendere appunti digitali", "Lasciare attive notifiche rumorose dello smartphone", "Usare la chat per fare domande"],
+    "corretta": "Lasciare attive notifiche rumorose dello smartphone"
   },
   {
-    "domanda": "Come dovresti trattare l'AI per ottenere il meglio?",
-    "risposte": ["Come una calcolatrice", "Come uno stagista intelligente che va guidato", "Come un nemico"],
-    "corretta": "Come uno stagista intelligente che va guidato"
+    "domanda": "Qual è il vantaggio di condividere solo una 'finestra specifica' invece dell'intero schermo?",
+    "risposte": ["Aumenta la privacy, evitando che gli altri vedano notifiche o file personali", "Rende la connessione più lenta", "Fa vedere lo sfondo del desktop"],
+    "corretta": "Aumenta la privacy, evitando che gli altri vedano notifiche o file personali"
   },
   {
-    "domanda": "Se vuoi capire un testo complesso, quale prompt è utile?",
-    "risposte": ["Copiami il testo", "Spiegami questo testo come se avessi 10 anni", "Traduci in latino"],
-    "corretta": "Spiegami questo testo come se avessi 10 anni"
+    "domanda": "A cosa serve la funzione 'Alza la mano' nelle piattaforme di meeting?",
+    "risposte": ["A salutare gli amici", "A segnalare che si desidera parlare senza interrompere chi sta parlando", "A fare ginnastica"],
+    "corretta": "A segnalare che si desidera parlare senza interrompere chi sta parlando"
   },
   {
-    "domanda": "L'AI è utile per le traduzioni perché:",
-    "risposte": ["Capisce il contesto e le sfumature culturali meglio dei traduttori letterali", "Conosce solo l'inglese", "Non serve a tradurre"],
-    "corretta": "Capisce il contesto e le sfumature culturali meglio dei traduttori letterali"
+    "domanda": "Quale elemento migliora l'accessibilità per persone con difficoltà uditive durante un webinar?",
+    "risposte": ["I sottotitoli automatici in tempo reale", "Alzare il volume al massimo", "Parlare molto velocemente"],
+    "corretta": "I sottotitoli automatici in tempo reale"
   },
   {
-    "domanda": "Se non ricordi una formula di Excel, cosa puoi fare?",
-    "risposte": ["Chiedere all'AI descrivendo le colonne e il calcolo che vuoi fare", "Rinunciare", "Aprire un libro"],
-    "corretta": "Chiedere all'AI descrivendo le colonne e il calcolo che vuoi fare"
+    "domanda": "Cosa è consigliato fare riguardo all'abbigliamento in Smart Working?",
+    "risposte": ["Rimanere sempre in pigiama", "Vestirsi in modo appropriato al contesto lavorativo", "Indossare un cappello da festa"],
+    "corretta": "Vestirsi in modo appropriato al contesto lavorativo"
   },
   {
-    "domanda": "L'AI può agire come 'Critico' del tuo lavoro?",
-    "risposte": ["No, è sempre gentile", "Sì, puoi chiederle di trovare errori o migliorare il tono di una mail", "Solo se paghi"],
-    "corretta": "Sì, puoi chiederle di trovare errori o migliorare il tono di una mail"
+    "domanda": "In Google Meet, dove vengono salvate le registrazioni delle riunioni?",
+    "risposte": ["Direttamente su Google Drive", "Su YouTube in modalità pubblica", "In una cartella segreta del PC"],
+    "corretta": "Direttamente su Google Drive"
   },
   {
-    "domanda": "A cosa serve definire il 'Ruolo' (Persona)?",
-    "risposte": ["A settare il tono, il vocabolario e la prospettiva della risposta", "A dare un nome all'AI", "A nulla"],
-    "corretta": "A settare il tono, il vocabolario e la prospettiva della risposta"
+    "domanda": "A cosa serve la 'Chat integrata' durante una presentazione online?",
+    "risposte": ["A fare domande o condividere link senza interrompere il relatore", "A parlare del più e del meno", "A ordinare il pranzo"],
+    "corretta": "A fare domande o condividere link senza interrompere il relatore"
   },
   {
-    "domanda": "Dare più dettagli nel 'Contesto' serve a:",
-    "risposte": ["Annoiare l'AI", "Ridurre le invenzioni e rendere la risposta più pertinente", "Far bloccare il sistema"],
-    "corretta": "Ridurre le invenzioni e rendere la risposta più pertinente"
+    "domanda": "Quale accorgimento aiuta a simulare il contatto visivo con i colleghi?",
+    "risposte": ["Guardare l'obiettivo della telecamera", "Guardare la propria tastiera", "Chiudere gli occhi mentre si parla"],
+    "corretta": "Guardare l'obiettivo della telecamera"
   },
   {
-    "domanda": "Nel 'Compito' è meglio usare:",
-    "risposte": ["Verbi d'azione chiari (Scrivi, Riassumi, Crea)", "Frasi vaghe", "Solo aggettivi"],
-    "corretta": "Verbi d'azione chiari (Scrivi, Riassumi, Crea)"
+    "domanda": "Perché è utile usare sfondi sfocati o virtuali?",
+    "risposte": ["Per nascondere un ambiente domestico disordinato o poco professionale", "Perché è obbligatorio per legge", "Per sembrare un cartone animato"],
+    "corretta": "Per nascondere un ambiente domestico disordinato o poco professionale"
   },
   {
-    "domanda": "Se la risposta dell'AI è troppo lunga, cosa fai?",
-    "risposte": ["La tieni così", "Le chiedi: 'È troppo lunga, accorciala'", "Cambi AI"],
-    "corretta": "Le chiedi: 'È troppo lunga, accorciala'"
+    "domanda": "Quale tra queste è una funzione di Zoom per grandi eventi?",
+    "risposte": ["Supportare fino a centinaia di partecipanti contemporaneamente", "Inviare fiori virtuali", "Cucinare ricette online"],
+    "corretta": "Supportare fino a centinaia di partecipanti contemporaneamente"
   },
   {
-    "domanda": "Quale prompt è migliore?",
-    "risposte": ["Scrivi una mail", "Scrivi una mail formale per chiedere un preventivo per 10 computer", "Mail preventivo"],
-    "corretta": "Scrivi una mail formale per chiedere un preventivo per 10 computer"
+    "domanda": "Cosa si dovrebbe fare prima di condividere lo schermo?",
+    "risposte": ["Chiudere applicazioni non necessarie e browser personali", "Aprire tutti i propri social network", "Spegnere il Wi-Fi"],
+    "corretta": "Chiudere applicazioni non necessarie e browser personali"
   },
   {
-    "domanda": "Puoi chiedere all'AI di formattare l'output come una tabella?",
-    "risposte": ["Sì, specificandolo nel Formato", "No, solo testo", "Solo su Excel"],
-    "corretta": "Sì, specificandolo nel Formato"
+    "domanda": "In Microsoft Teams, cosa si può usare per il brainstorming visivo?",
+    "risposte": ["Le lavagne collaborative (Whiteboard)", "Il calendario", "La calcolatrice di Windows"],
+    "corretta": "Le lavagne collaborative (Whiteboard)"
   },
   {
-    "domanda": "Per scrivere una Cover Letter efficace con l'AI:",
-    "risposte": ["Le chiedi di inventare le tue esperienze", "Le fornisci le tue skills reali e chiedi di sottolinearle", "Copi quella di un altro"],
-    "corretta": "Le fornisci le tue skills reali e chiedi di sottolinearle"
+    "domanda": "Quale di questi strumenti NON è citato per le videoconferenze?",
+    "risposte": ["Zoom", "PlayStation Network", "Google Meet"],
+    "corretta": "PlayStation Network"
   },
   {
-    "domanda": "Cosa NON è un Prompt?",
-    "risposte": ["La domanda", "Il risultato finale generato dall'AI", "Le istruzioni"],
-    "corretta": "Il risultato finale generato dall'AI"
+    "domanda": "Cosa indica il termine 'Netiquette'?",
+    "risposte": ["Un tipo di computer portatile", "L'insieme delle regole di buon comportamento su internet", "Un software per la posta elettronica"],
+    "corretta": "L'insieme delle regole di buon comportamento su internet"
   },
   {
-    "domanda": "Il 'Brainstorming' con l'AI serve a:",
-    "risposte": ["Avere idee (nomi, liste) quando hai il blocco dello scrittore", "Copiare compiti", "Perdere tempo"],
-    "corretta": "Avere idee (nomi, liste) quando hai il blocco dello scrittore"
+    "domanda": "Qual è il vantaggio principale di Google Meet per le aziende?",
+    "risposte": ["L'interfaccia semplice e l'integrazione con Google Calendar", "Il fatto che cambi il colore della scrivania", "La possibilità di stampare soldi"],
+    "corretta": "L'interfaccia semplice e l'integrazione con Google Calendar"
   },
   {
-    "domanda": "Se chiedi 'Traduci in bocca al lupo', l'AI può:",
-    "risposte": ["Tradurre letteralmente 'In the mouth of the wolf'", "Spiegare che si dice 'Break a leg' o 'Good luck'", "Dire che non sa l'inglese"],
-    "corretta": "Spiegare che si dice 'Break a leg' o 'Good luck'"
+    "domanda": "Come si può coinvolgere l'audience durante una presentazione digitale?",
+    "risposte": ["Usando emoji, reazioni e sondaggi integrati", "Gridando più forte", "Facendo finta che la connessione sia caduta"],
+    "corretta": "Usando emoji, reazioni e sondaggi integrati"
   },
   {
-    "domanda": "Cosa significa 'Rifinire' il prompt?",
-    "risposte": ["Lucidare lo schermo", "Modificare la richiesta aggiungendo dettagli per migliorare il risultato", "Cancellare tutto"],
-    "corretta": "Modificare la richiesta aggiungendo dettagli per migliorare il risultato"
+    "domanda": "Cosa fare se c'è un forte rumore di fondo in casa tua durante una chiamata?",
+    "risposte": ["Assicurarsi di avere il microfono in mute quando non si parla", "Parlare ancora più forte per coprire il rumore", "Scollegare le casse"],
+    "corretta": "Assicurarsi di avere il microfono in mute quando non si parla"
   },
   {
-    "domanda": "Un esempio di 'Formato' richiesto può essere:",
-    "risposte": ["Un Tweet", "Una Tabella", "Tutti gli altri"],
-    "corretta": "Tutti gli altri"
+    "domanda": "A cosa serve il link inviato per una riunione Meet o Teams?",
+    "risposte": ["È la chiave d'accesso digitale per entrare nella stanza virtuale", "Serve a comprare il software", "È un codice sconto per Amazon"],
+    "corretta": "È la chiave d'accesso digitale per entrare nella stanza virtuale"
   },
   {
-    "domanda": "Perché usare verbi chiari nel task?",
-    "risposte": ["Perché l'AI esegue meglio istruzioni dirette", "Per educazione", "Per grammatica"],
-    "corretta": "Perché l'AI esegue meglio istruzioni dirette"
+    "domanda": "Perché è importante l'illuminazione durante una videochiamata?",
+    "risposte": ["Per farsi vedere chiaramente dai colleghi", "Per riscaldare la stanza", "Perché la webcam consuma meno luce"],
+    "corretta": "Per farsi vedere chiaramente dai colleghi"
   },
   {
-    "domanda": "L'AI può aiutarti a capire contratti o leggi?",
-    "risposte": ["Sì, chiedendo di semplificare o estrarre punti chiave", "No, è illegale", "Solo se è un avvocato"],
-    "corretta": "Sì, chiedendo di semplificare o estrarre punti chiave"
+    "domanda": "Quale funzione permette di guidare l'attenzione dei partecipanti su un dettaglio dello schermo?",
+    "risposte": ["I puntatori laser virtuali o le annotazioni", "Il tasto stamp", "Il mouse fisico"],
+    "corretta": "I puntatori laser virtuali o le annotazioni"
   },
   {
-    "domanda": "Se il risultato è troppo generico, probabilmente:",
-    "risposte": ["Il prompt era troppo generico (mancava Contesto)", "L'AI è stanca", "Non c'è soluzione"],
-    "corretta": "Il prompt era troppo generico (mancava Contesto)"
+    "domanda": "Cosa rende Zoom 'user-friendly'?",
+    "risposte": ["La sua interfaccia versatile e facile da usare per tutti", "Il fatto che funzioni senza internet", "Il logo colorato"],
+    "corretta": "La sua interfaccia versatile e facile da usare per tutti"
   },
   {
-    "domanda": "Prompt: 'Dammi 10 idee per...' è un esempio di:",
-    "risposte": ["Brainstorming", "Traduzione", "Analisi dati"],
-    "corretta": "Brainstorming"
+    "domanda": "In una riunione, cosa significa 'condivisione fluida'?",
+    "risposte": ["Che tutti vedono ciò che mostri senza scatti o ritardi eccessivi", "Che il computer sta perdendo liquidi", "Che la riunione dura poco"],
+    "corretta": "Che tutti vedono ciò che mostri senza scatti o ritardi eccessivi"
   }
 ]
