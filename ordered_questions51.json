@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Cosa significa 'AI Generativa'?",
-    "risposte": ["Un'intelligenza artificiale che analizza solo dati esistenti", "Un'intelligenza artificiale in grado di creare nuovi contenuti (testo, immagini, codice)", "Un robot fisico che pulisce casa"],
-    "corretta": "Un'intelligenza artificiale in grado di creare nuovi contenuti (testo, immagini, codice)"
+    "domanda": "Qual è il vantaggio principale di usare Google Docs o Word Online rispetto alle versioni offline?",
+    "risposte": ["È necessario salvare manualmente ogni minuto", "Più persone possono scrivere nello stesso file contemporaneamente", "I file occupano più spazio sul disco fisso"],
+    "corretta": "Più persone possono scrivere nello stesso file contemporaneamente"
   },
   {
-    "domanda": "Su quale tecnologia si basano ChatGPT e Gemini?",
-    "risposte": ["LLM (Large Language Models)", "GPS", "Database Excel"],
-    "corretta": "LLM (Large Language Models)"
+    "domanda": "Cosa accade se chiudi accidentalmente il browser mentre lavori su un documento in Office 365?",
+    "risposte": ["Perdi tutto il lavoro dell'ultima ora", "Le modifiche vengono salvate automaticamente nel cloud", "Il computer si riavvia per sicurezza"],
+    "corretta": "Le modifiche vengono salvate automaticamente nel cloud"
   },
   {
-    "domanda": "Qual è la differenza principale tra AI Classica e AI Generativa?",
-    "risposte": ["L'AI Classica crea, la Generativa analizza", "L'AI Classica classifica dati esistenti (es. filtro spam), la Generativa ne crea di nuovi", "Non c'è differenza"],
-    "corretta": "L'AI Classica classifica dati esistenti (es. filtro spam), la Generativa ne crea di nuovi"
+    "domanda": "In un foglio di calcolo condiviso (Excel Online o Google Sheets), cosa permette la co-modifica?",
+    "risposte": ["Vedere i grafici aggiornarsi in tempo reale mentre i colleghi inseriscono dati", "Impedire agli altri di vedere cosa stai facendo", "Cancellare i file degli altri senza che se ne accorgano"],
+    "corretta": "Vedere i grafici aggiornarsi in tempo reale mentre i colleghi inseriscono dati"
   },
   {
-    "domanda": "La metafora del 'Pappagallo Istruito' serve a spiegare che:",
-    "risposte": ["L'AI capisce profondamente quello che dice", "L'AI non pensa, ma calcola quale parola è più probabile che segua", "L'AI ripete solo le stesse frasi"],
-    "corretta": "L'AI non pensa, ma calcola quale parola è più probabile che segua"
+    "domanda": "A cosa serve la 'cronologia delle versioni' in un documento cloud?",
+    "risposte": ["A vedere chi ha effettuato modifiche e, se necessario, tornare a una versione precedente", "A nascondere gli errori fatti ai colleghi", "A cambiare il colore dello sfondo del programma"],
+    "corretta": "A vedere chi ha effettuato modifiche e, se necessario, tornare a una versione precedente"
   },
   {
-    "domanda": "Come sceglie l'AI la parola successiva in una frase?",
-    "risposte": ["In base alla probabilità statistica", "Tira a indovinare", "Chiede a un umano"],
-    "corretta": "In base alla probabilità statistica"
+    "domanda": "Qual è il modo più rapido per inviare un documento pesante a un collega senza usare allegati email?",
+    "risposte": ["Condividere un link di accesso al file salvato su Drive o OneDrive", "Fare una foto allo schermo e inviarla via SMS", "Stampare il documento e spedirlo per posta"],
+    "corretta": "Condividere un link di accesso al file salvato su Drive o OneDrive"
   },
   {
-    "domanda": "Quali sono i 'Tre Grandi' strumenti di AI citati?",
-    "risposte": ["Facebook, Instagram, TikTok", "ChatGPT, Gemini, Copilot", "Word, Excel, PowerPoint"],
-    "corretta": "ChatGPT, Gemini, Copilot"
+    "domanda": "Cosa permette di fare la funzione 'Commenti' in Google Docs?",
+    "risposte": ["Parlare del meteo con i colleghi", "Inserire note specifiche su parti del testo per discutere modifiche senza cambiare il testo originale", "Scrivere l'indice del documento"],
+    "corretta": "Inserire note specifiche su parti del testo per discutere modifiche senza cambiare il testo originale"
   },
   {
-    "domanda": "Qual è un punto di forza di ChatGPT?",
-    "risposte": ["La generazione di mappe stradali", "L'eccellenza nella scrittura creativa e ragionamento logico", "L'integrazione con Windows"],
-    "corretta": "L'eccellenza nella scrittura creativa e ragionamento logico"
+    "domanda": "Quale strumento utilizzeresti per creare una presentazione insieme a un team situato in città diverse?",
+    "risposte": ["Google Slides o PowerPoint Online", "Il blocco note dello smartphone", "Una macchina da scrivere"],
+    "corretta": "Google Slides o PowerPoint Online"
   },
   {
-    "domanda": "Gemini (Google) era precedentemente noto come:",
-    "risposte": ["Bard", "Bing", "Cortana"],
-    "corretta": "Bard"
+    "domanda": "In Microsoft Office 365, dove vengono salvati i file per permettere la sincronizzazione tra dispositivi?",
+    "risposte": ["Su una chiavetta USB esterna", "Su OneDrive", "Solo sulla memoria RAM"],
+    "corretta": "Su OneDrive"
   },
   {
-    "domanda": "Qual è il vantaggio principale di Microsoft Copilot?",
-    "risposte": ["È integrato in Windows/Office e usa GPT-4 gratuitamente", "Funziona solo offline", "È un social network"],
-    "corretta": "È integrato in Windows/Office e usa GPT-4 gratuitamente"
+    "domanda": "Perché lo Smart Working richiede l'uso di piattaforme cloud?",
+    "risposte": ["Perché funzionano solo quando piove", "Per permettere l'accesso ai documenti da qualsiasi luogo e dispositivo", "Perché i computer moderni non hanno memoria interna"],
+    "corretta": "Per permettere l'accesso ai documenti da qualsiasi luogo e dispositivo"
   },
   {
-    "domanda": "Qual è la differenza tra Google Search e l'AI Generativa?",
-    "risposte": ["Google dà una lista di link, l'AI elabora una risposta sintetica", "Google inventa risposte, l'AI cerca link", "Sono identici"],
-    "corretta": "Google dà una lista di link, l'AI elabora una risposta sintetica"
+    "domanda": "Quale di questi è un comportamento corretto durante la modifica di un documento condiviso?",
+    "risposte": ["Cancellare il lavoro degli altri senza avvisare", "Usare i commenti per suggerire correzioni invece di sovrascrivere tutto", "Scrivere solo in grassetto per farsi notare"],
+    "corretta": "Usare i commenti per suggerire correzioni invece di sovrascrivere tutto"
   },
   {
-    "domanda": "L'AI possiede il concetto di 'Verità'?",
-    "risposte": ["Sì, dice sempre la verità", "No, ha solo il concetto di 'Verosimiglianza' (ciò che sembra vero)", "Sì, ma solo la versione a pagamento"],
-    "corretta": "No, ha solo il concetto di 'Verosimiglianza' (ciò che sembra vero)"
+    "domanda": "Cosa indica la presenza di un cursore colorato con un nome sopra in un documento Google?",
+    "risposte": ["Che il computer ha un virus", "Che un altro utente sta lavorando esattamente in quel punto del documento", "Che il file è protetto da scrittura"],
+    "corretta": "Che un altro utente sta lavorando esattamente in quel punto del documento"
   },
   {
-    "domanda": "Cosa sono le 'Allucinazioni' dell'AI?",
-    "risposte": ["Quando l'AI vede fantasmi", "Quando l'AI inventa fatti o risposte con tono sicuro perché non sa la risposta reale", "Quando lo schermo lampeggia"],
-    "corretta": "Quando l'AI inventa fatti o risposte con tono sicuro perché non sa la risposta reale"
+    "domanda": "Qual è il vantaggio di usare le Suite di Collaborazione per l'analisi dei dati di vendita?",
+    "risposte": ["L'analisi diventa un'attività di team con dati aggiornati per tutti", "Il software calcola i guadagni raddoppiandoli", "Si risparmia sulla bolletta della luce"],
+    "corretta": "L'analisi diventa un'attività di team con dati aggiornati per tutti"
   },
   {
-    "domanda": "Se chiedi all'AI chi era il sindaco di una città inventata (es. Paperopoli), cosa potrebbe fare?",
-    "risposte": ["Dire 'Non esiste'", "Inventare un nome verosimile basandosi su fumetti o dati misti", "Spegnere il computer"],
-    "corretta": "Inventare un nome verosimile basandosi su fumetti o dati misti"
+    "domanda": "Come puoi limitare chi può vedere il tuo file su Google Drive?",
+    "risposte": ["Spegnendo il monitor", "Impostando le autorizzazioni di condivisione (es. solo utenti con link o email specifiche)", "Cambiando il nome del file ogni ora"],
+    "corretta": "Impostando le autorizzazioni di condivisione (es. solo utenti con link o email specifiche)"
   },
   {
-    "domanda": "Cosa sono i 'Bias' nell'AI?",
-    "risposte": ["Errori di connessione", "Pregiudizi e stereotipi umani che l'AI ha imparato leggendo internet", "Virus informatici"],
-    "corretta": "Pregiudizi e stereotipi umani che l'AI ha imparato leggendo internet"
+    "domanda": "Quale strumento è più indicato per gestire i turni di lavoro condivisi in tempo reale?",
+    "risposte": ["Un foglio di calcolo collaborativo come Google Sheets", "Un documento di testo semplice", "Una calcolatrice"],
+    "corretta": "Un foglio di calcolo collaborativo come Google Sheets"
   },
   {
-    "domanda": "Quale regola di privacy bisogna seguire con l'AI?",
-    "risposte": ["Non inserire mai dati sensibili, password o segreti aziendali", "Scrivere sempre il proprio indirizzo di casa", "Condividere le password per sicurezza"],
-    "corretta": "Non inserire mai dati sensibili, password o segreti aziendali"
+    "domanda": "Cosa significa 'Sincronizzazione automatica' in Office 365?",
+    "risposte": ["Che il PC si accende da solo", "Che ogni modifica fatta su tablet si ritrova immediatamente anche su PC", "Che il software corregge i verbi automaticamente"],
+    "corretta": "Che ogni modifica fatta su tablet si ritrova immediatamente anche su PC"
   },
   {
-    "domanda": "Chi può vedere potenzialmente le tue chat con l'AI?",
-    "risposte": ["Nessuno, sono criptate per sempre", "Revisori umani per l'addestramento del modello", "Tutti gli utenti di internet"],
-    "corretta": "Revisori umani per l'addestramento del modello"
+    "domanda": "Perché si dice che il Cloud elimina il problema delle 'versioni multiple'?",
+    "risposte": ["Perché esiste un unico file aggiornato accessibile a tutti, invece di tante copie inviate via email", "Perché cancella tutte le vecchie foto", "Perché non permette di fare copie"],
+    "corretta": "Perché esiste un unico file aggiornato accessibile a tutti, invece di tante copie inviate via email"
   },
   {
-    "domanda": "Qual è il ruolo dell'umano quando usa l'AI?",
-    "risposte": ["Spettatore passivo", "Pilota e responsabile della verifica dei fatti", "Schiavo della macchina"],
-    "corretta": "Pilota e responsabile della verifica dei fatti"
+    "domanda": "Se vuoi ricevere un feedback immediato su una slide, cosa dovresti fare?",
+    "risposte": ["Condividere la presentazione online e chiedere ai colleghi di inserire commenti", "Stampare la slide e portarla in ufficio", "Mandare un messaggio vocale descrivendo la slide"],
+    "corretta": "Condividere la presentazione online e chiedere ai colleghi di inserire commenti"
   },
   {
-    "domanda": "L'AI Classica (Analitica) è usata per:",
-    "risposte": ["Scrivere romanzi", "Riconoscimento facciale e filtri spam", "Creare immagini artistiche"],
-    "corretta": "Riconoscimento facciale e filtri spam"
+    "domanda": "In Google Workspace, dove finiscono i file creati?",
+    "risposte": ["Su Google Drive", "Nella cartella Documenti del PC", "Su un CD-ROM"],
+    "corretta": "Su Google Drive"
   },
   {
-    "domanda": "Gemini di Google è integrato con:",
-    "risposte": ["Solo la calcolatrice", "Google Drive, Maps, YouTube e Search", "Facebook"],
-    "corretta": "Google Drive, Maps, YouTube e Search"
+    "domanda": "Quale funzione permette di visualizzare un documento senza poterlo modificare?",
+    "risposte": ["Accesso in modalità 'Visualizzatore' o 'Sola lettura'", "Accesso in modalità 'Editor'", "Modalità 'Aereo'"],
+    "corretta": "Accesso in modalità 'Visualizzatore' o 'Sola lettura'"
   },
   {
-    "domanda": "Cosa significa LLM?",
-    "risposte": ["Large Language Models", "Long Learning Machine", "Little Logic Maker"],
-    "corretta": "Large Language Models"
+    "domanda": "Cosa è fondamentale per collaborare efficacemente a distanza secondo la dispensa?",
+    "risposte": ["Possedere il computer più costoso", "Avere competenze digitali e consapevolezza degli strumenti", "Lavorare solo di notte"],
+    "corretta": "Avere competenze digitali e consapevolezza degli strumenti"
   },
   {
-    "domanda": "Perché l'AI a volte sbaglia con sicurezza?",
-    "risposte": ["Perché vuole ingannarti", "Perché il suo obiettivo è completare la frase in modo coerente, non per forza veritiero", "Perché è rotta"],
-    "corretta": "Perché il suo obiettivo è completare la frase in modo coerente, non per forza veritiero"
+    "domanda": "Quale di questi programmi NON è una suite di collaborazione cloud?",
+    "risposte": ["Google Docs", "Blocco Note di Windows (offline)", "Microsoft Word Online"],
+    "corretta": "Blocco Note di Windows (offline)"
   },
   {
-    "domanda": "Copilot può generare immagini?",
-    "risposte": ["No, solo testo", "Sì, usando la tecnologia DALL-E", "Solo se paghi extra"],
-    "corretta": "Sì, usando la tecnologia DALL-E"
+    "domanda": "Come si aggiunge un collega a un progetto su Google Sheets?",
+    "risposte": ["Dandogli la propria password", "Cliccando su 'Condividi' e inserendo il suo indirizzo email", "Chiamandolo al telefono mentre si lavora"],
+    "corretta": "Cliccando su 'Condividi' e inserendo il suo indirizzo email"
   },
   {
-    "domanda": "ChatGPT Free è sempre connesso al web in tempo reale?",
-    "risposte": ["Sì, sempre", "No, o in modo limitato a seconda degli aggiornamenti", "Solo la domenica"],
-    "corretta": "No, o in modo limitato a seconda degli aggiornamenti"
+    "domanda": "Cosa succede se due persone scrivono contemporaneamente nella stessa cella di Excel Online?",
+    "risposte": ["Il computer esplode", "L'ultima modifica salvata sovrascrive la precedente o viene visualizzato un avviso", "Il file viene cancellato"],
+    "corretta": "L'ultima modifica salvata sovrascrive la precedente o viene visualizzato un avviso"
   },
   {
-    "domanda": "È sicuro usare l'AI per fare diagnosi mediche fai-da-te?",
-    "risposte": ["Sì, ne sa più dei medici", "No, rischia di allucinare o dare consigli errati", "Solo per il mal di testa"],
-    "corretta": "No, rischia di allucinare o dare consigli errati"
+    "domanda": "Qual è il limite principale del lavorare su file salvati solo localmente (sul PC)?",
+    "risposte": ["Sono troppo veloci", "Rendono difficile la collaborazione e creano confusione tra le versioni", "Non possono essere stampati"],
+    "corretta": "Rendono difficile la collaborazione e creano confusione tra le versioni"
   },
   {
-    "domanda": "L'AI è ottima per:",
-    "risposte": ["Superare il blocco dello scrittore (Brainstorming)", "Prendere decisioni di vita al posto tuo", "Predire il futuro"],
-    "corretta": "Superare il blocco dello scrittore (Brainstorming)"
+    "domanda": "A cosa servono le 'notifiche di modifica' nei documenti condivisi?",
+    "risposte": ["Ad avvisarti via email quando un collega ha lavorato sul file", "A spegnere il computer dopo 10 minuti", "A cambiare la suoneria del telefono"],
+    "corretta": "Ad avvisarti via email quando un collega ha lavorato sul file"
   },
   {
-    "domanda": "Se chiedi all'AI di generare un'immagine di un CEO, a causa dei bias mostrerà spesso:",
-    "risposte": ["Una donna giovane", "Un uomo bianco di mezza età", "Un robot"],
-    "corretta": "Un uomo bianco di mezza età"
+    "domanda": "Cosa permette di integrare i diversi elementi del lavoro moderno (videochiamate, file, calendari)?",
+    "risposte": ["La capacità di usare un flusso di lavoro coerente ed efficiente", "L'uso di una stampante laser", "Il possesso di tre diversi smartphone"],
+    "corretta": "La capacità di usare un flusso di lavoro coerente ed efficiente"
   },
   {
-    "domanda": "L'AI non sostituisce:",
-    "risposte": ["La tastiera", "La verifica umana delle fonti", "Il mouse"],
-    "corretta": "La verifica umana delle fonti"
+    "domanda": "Quale programma useresti per fare un calcolo complesso insieme al tuo team amministrativo?",
+    "risposte": ["Google Sheets", "Google Slides", "Microsoft Paint"],
+    "corretta": "Google Sheets"
   },
   {
-    "domanda": "Qual è l'input che diamo all'AI?",
-    "risposte": ["Il Prompt", "Il Clic", "Il File"],
-    "corretta": "Il Prompt"
+    "domanda": "In Word Online, come si salvano i progressi?",
+    "risposte": ["Bisogna cliccare su un'icona a forma di floppy disk", "Vengono salvati automaticamente ad ogni digitazione", "Bisogna inviare il file via email a se stessi"],
+    "corretta": "Vengono salvati automaticamente ad ogni digitazione"
   },
   {
-    "domanda": "Quale azienda ha creato ChatGPT?",
-    "risposte": ["Google", "Microsoft", "OpenAI"],
-    "corretta": "OpenAI"
+    "domanda": "Perché è utile la condivisione tramite link?",
+    "risposte": ["Perché evita di intasare le email con allegati pesanti", "Perché i link sono più colorati", "Perché non richiede una connessione internet"],
+    "corretta": "Perché evita di intasare le email con allegati pesanti"
   },
   {
-    "domanda": "L'AI 'sente' emozioni?",
-    "risposte": ["Sì, prova empatia", "No, simula solo il linguaggio umano", "A volte si arrabbia"],
-    "corretta": "No, simula solo il linguaggio umano"
+    "domanda": "Qual è l'obiettivo principale del Capitolo 1 della dispensa?",
+    "risposte": ["Spiegare come smontare un computer", "Insegnare gli strumenti per collaborare a distanza in modo efficace", "Vendere abbonamenti a internet"],
+    "corretta": "Insegnare gli strumenti per collaborare a distanza in modo efficace"
   }
 ]
