@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Qual è il vantaggio principale di usare Google Docs o Word Online rispetto alle versioni offline?",
-    "risposte": ["È necessario salvare manualmente ogni minuto", "Più persone possono scrivere nello stesso file contemporaneamente", "I file occupano più spazio sul disco fisso"],
-    "corretta": "Più persone possono scrivere nello stesso file contemporaneamente"
+    "domanda": "Scenario: Vuoi organizzare le tue idee e appunti in un unico posto accessibile da PC e telefono. Cosa usi?",
+    "risposte": ["Un'app per appunti digitali (es. Evernote)", "Un file di testo sul desktop", "Un foglio di carta"],
+    "corretta": "Un'app per appunti digitali (es. Evernote)"
   },
   {
-    "domanda": "Cosa accade se chiudi accidentalmente il browser mentre lavori su un documento in Office 365?",
-    "risposte": ["Perdi tutto il lavoro dell'ultima ora", "Le modifiche vengono salvate automaticamente nel cloud", "Il computer si riavvia per sicurezza"],
-    "corretta": "Le modifiche vengono salvate automaticamente nel cloud"
+    "domanda": "Scenario: Qual è un vantaggio fondamentale delle app per appunti online rispetto alla carta?",
+    "risposte": ["La sincronizzazione automatica su tutti i dispositivi", "Non consumano batteria", "Scrivono da sole"],
+    "corretta": "La sincronizzazione automatica su tutti i dispositivi"
   },
   {
-    "domanda": "In un foglio di calcolo condiviso (Excel Online o Google Sheets), cosa permette la co-modifica?",
-    "risposte": ["Vedere i grafici aggiornarsi in tempo reale mentre i colleghi inseriscono dati", "Impedire agli altri di vedere cosa stai facendo", "Cancellare i file degli altri senza che se ne accorgano"],
-    "corretta": "Vedere i grafici aggiornarsi in tempo reale mentre i colleghi inseriscono dati"
+    "domanda": "Scenario: Cerchi un'app che combini appunti, task e database in una sola piattaforma. Quale scegli?",
+    "risposte": ["Notion", "Paint", "Calcolatrice"],
+    "corretta": "Notion"
   },
   {
-    "domanda": "A cosa serve la 'cronologia delle versioni' in un documento cloud?",
-    "risposte": ["A vedere chi ha effettuato modifiche e, se necessario, tornare a una versione precedente", "A nascondere gli errori fatti ai colleghi", "A cambiare il colore dello sfondo del programma"],
-    "corretta": "A vedere chi ha effettuato modifiche e, se necessario, tornare a una versione precedente"
+    "domanda": "Scenario: Devi gestire un progetto complesso con il tuo team e assegnare compiti. Cosa usi?",
+    "risposte": ["Un Task Manager o software di Project Management", "WhatsApp", "Una mail di gruppo"],
+    "corretta": "Un Task Manager o software di Project Management"
   },
   {
-    "domanda": "Qual è il modo più rapido per inviare un documento pesante a un collega senza usare allegati email?",
-    "risposte": ["Condividere un link di accesso al file salvato su Drive o OneDrive", "Fare una foto allo schermo e inviarla via SMS", "Stampare il documento e spedirlo per posta"],
-    "corretta": "Condividere un link di accesso al file salvato su Drive o OneDrive"
+    "domanda": "Scenario: Trello organizza il lavoro utilizzando...",
+    "risposte": ["Bacheche, schede e liste", "Solo file audio", "Codice binario"],
+    "corretta": "Bacheche, schede e liste"
   },
   {
-    "domanda": "Cosa permette di fare la funzione 'Commenti' in Google Docs?",
-    "risposte": ["Parlare del meteo con i colleghi", "Inserire note specifiche su parti del testo per discutere modifiche senza cambiare il testo originale", "Scrivere l'indice del documento"],
-    "corretta": "Inserire note specifiche su parti del testo per discutere modifiche senza cambiare il testo originale"
+    "domanda": "Scenario: A cosa serve principalmente Todoist?",
+    "risposte": ["A creare liste di attività e monitorare i progressi", "A modificare video", "A fare disegni"],
+    "corretta": "A creare liste di attività e monitorare i progressi"
   },
   {
-    "domanda": "Quale strumento utilizzeresti per creare una presentazione insieme a un team situato in città diverse?",
-    "risposte": ["Google Slides o PowerPoint Online", "Il blocco note dello smartphone", "Una macchina da scrivere"],
-    "corretta": "Google Slides o PowerPoint Online"
+    "domanda": "Scenario: Vuoi creare un diagramma di flusso per spiegare un processo. Quale strumento è adatto?",
+    "risposte": ["Lucidchart", "Wordpad", "Spotify"],
+    "corretta": "Lucidchart"
   },
   {
-    "domanda": "In Microsoft Office 365, dove vengono salvati i file per permettere la sincronizzazione tra dispositivi?",
-    "risposte": ["Su una chiavetta USB esterna", "Su OneDrive", "Solo sulla memoria RAM"],
-    "corretta": "Su OneDrive"
+    "domanda": "Scenario: Canva è famoso per essere...",
+    "risposte": ["Una piattaforma di design semplice e intuitiva", "Un antivirus", "Un social network"],
+    "corretta": "Una piattaforma di design semplice e intuitiva"
   },
   {
-    "domanda": "Perché lo Smart Working richiede l'uso di piattaforme cloud?",
-    "risposte": ["Perché funzionano solo quando piove", "Per permettere l'accesso ai documenti da qualsiasi luogo e dispositivo", "Perché i computer moderni non hanno memoria interna"],
-    "corretta": "Per permettere l'accesso ai documenti da qualsiasi luogo e dispositivo"
+    "domanda": "Scenario: Qual è l'obiettivo principale della 'Produttività Digitale'?",
+    "risposte": ["Ottimizzare il lavoro e migliorare la gestione del tempo con la tecnologia", "Lavorare di più senza sosta", "Comprare più computer"],
+    "corretta": "Ottimizzare il lavoro e migliorare la gestione del tempo con la tecnologia"
   },
   {
-    "domanda": "Quale di questi è un comportamento corretto durante la modifica di un documento condiviso?",
-    "risposte": ["Cancellare il lavoro degli altri senza avvisare", "Usare i commenti per suggerire correzioni invece di sovrascrivere tutto", "Scrivere solo in grassetto per farsi notare"],
-    "corretta": "Usare i commenti per suggerire correzioni invece di sovrascrivere tutto"
+    "domanda": "Scenario: Microsoft OneNote permette di...",
+    "risposte": ["Organizzare appunti in taccuini e usare la funzione dettato", "Creare solo calcoli", "Gestire le paghe"],
+    "corretta": "Organizzare appunti in taccuini e usare la funzione dettato"
   },
   {
-    "domanda": "Cosa indica la presenza di un cursore colorato con un nome sopra in un documento Google?",
-    "risposte": ["Che il computer ha un virus", "Che un altro utente sta lavorando esattamente in quel punto del documento", "Che il file è protetto da scrittura"],
-    "corretta": "Che un altro utente sta lavorando esattamente in quel punto del documento"
+    "domanda": "Scenario: Se sei uno sviluppatore software, quale tool di gestione progetti userai probabilmente?",
+    "risposte": ["Jira", "Paint", "Audacity"],
+    "corretta": "Jira"
   },
   {
-    "domanda": "Qual è il vantaggio di usare le Suite di Collaborazione per l'analisi dei dati di vendita?",
-    "risposte": ["L'analisi diventa un'attività di team con dati aggiornati per tutti", "Il software calcola i guadagni raddoppiandoli", "Si risparmia sulla bolletta della luce"],
-    "corretta": "L'analisi diventa un'attività di team con dati aggiornati per tutti"
+    "domanda": "Scenario: Vuoi prendere una nota vocale veloce mentre cammini. Cosa puoi usare?",
+    "risposte": ["Google Keep", "Excel", "Photoshop"],
+    "corretta": "Google Keep"
   },
   {
-    "domanda": "Come puoi limitare chi può vedere il tuo file su Google Drive?",
-    "risposte": ["Spegnendo il monitor", "Impostando le autorizzazioni di condivisione (es. solo utenti con link o email specifiche)", "Cambiando il nome del file ogni ora"],
-    "corretta": "Impostando le autorizzazioni di condivisione (es. solo utenti con link o email specifiche)"
+    "domanda": "Scenario: Asana è ideale per...",
+    "risposte": ["La gestione di progetti complessi con i team", "Scrivere romanzi", "Ascoltare musica"],
+    "corretta": "La gestione di progetti complessi con i team"
   },
   {
-    "domanda": "Quale strumento è più indicato per gestire i turni di lavoro condivisi in tempo reale?",
-    "risposte": ["Un foglio di calcolo collaborativo come Google Sheets", "Un documento di testo semplice", "Una calcolatrice"],
-    "corretta": "Un foglio di calcolo collaborativo come Google Sheets"
+    "domanda": "Scenario: Le infografiche servono a...",
+    "risposte": ["Presentare dati e concetti in modo visivo e chiaro", "Nascondere le informazioni", "Scrivere testi lunghi"],
+    "corretta": "Presentare dati e concetti in modo visivo e chiaro"
   },
   {
-    "domanda": "Cosa significa 'Sincronizzazione automatica' in Office 365?",
-    "risposte": ["Che il PC si accende da solo", "Che ogni modifica fatta su tablet si ritrova immediatamente anche su PC", "Che il software corregge i verbi automaticamente"],
-    "corretta": "Che ogni modifica fatta su tablet si ritrova immediatamente anche su PC"
+    "domanda": "Scenario: MindMeister è uno strumento specifico per...",
+    "risposte": ["Creare mappe mentali", "Montare video", "Gestire email"],
+    "corretta": "Creare mappe mentali"
   },
   {
-    "domanda": "Perché si dice che il Cloud elimina il problema delle 'versioni multiple'?",
-    "risposte": ["Perché esiste un unico file aggiornato accessibile a tutti, invece di tante copie inviate via email", "Perché cancella tutte le vecchie foto", "Perché non permette di fare copie"],
-    "corretta": "Perché esiste un unico file aggiornato accessibile a tutti, invece di tante copie inviate via email"
+    "domanda": "Scenario: Cosa permette di fare Basecamp?",
+    "risposte": ["Gestire chat, file e attività di progetto in un unico posto", "Solo videochiamate", "Giocare online"],
+    "corretta": "Gestire chat, file e attività di progetto in un unico posto"
   },
   {
-    "domanda": "Se vuoi ricevere un feedback immediato su una slide, cosa dovresti fare?",
-    "risposte": ["Condividere la presentazione online e chiedere ai colleghi di inserire commenti", "Stampare la slide e portarla in ufficio", "Mandare un messaggio vocale descrivendo la slide"],
-    "corretta": "Condividere la presentazione online e chiedere ai colleghi di inserire commenti"
+    "domanda": "Scenario: I Task Manager aiutano a ridurre...",
+    "risposte": ["La confusione e il rischio di dimenticare scadenze", "Lo spazio sul disco", "La velocità di internet"],
+    "corretta": "La confusione e il rischio di dimenticare scadenze"
   },
   {
-    "domanda": "In Google Workspace, dove finiscono i file creati?",
-    "risposte": ["Su Google Drive", "Nella cartella Documenti del PC", "Su un CD-ROM"],
-    "corretta": "Su Google Drive"
+    "domanda": "Scenario: Per coordinare e collaborare tra team diversi, è utile...",
+    "risposte": ["La gestione progetti digitale", "L'uso esclusivo del telefono", "Il fax"],
+    "corretta": "La gestione progetti digitale"
   },
   {
-    "domanda": "Quale funzione permette di visualizzare un documento senza poterlo modificare?",
-    "risposte": ["Accesso in modalità 'Visualizzatore' o 'Sola lettura'", "Accesso in modalità 'Editor'", "Modalità 'Aereo'"],
-    "corretta": "Accesso in modalità 'Visualizzatore' o 'Sola lettura'"
+    "domanda": "Scenario: Evernote consente di aggiungere agli appunti...",
+    "risposte": ["Immagini, testo e note vocali", "Solo testo semplice", "Solo numeri"],
+    "corretta": "Immagini, testo e note vocali"
   },
   {
-    "domanda": "Cosa è fondamentale per collaborare efficacemente a distanza secondo la dispensa?",
-    "risposte": ["Possedere il computer più costoso", "Avere competenze digitali e consapevolezza degli strumenti", "Lavorare solo di notte"],
-    "corretta": "Avere competenze digitali e consapevolezza degli strumenti"
+    "domanda": "Scenario: Monday.com offre funzionalità per...",
+    "risposte": ["Assegnazione compiti e monitoraggio risultati", "Cucinare", "Viaggiare"],
+    "corretta": "Assegnazione compiti e monitoraggio risultati"
   },
   {
-    "domanda": "Quale di questi programmi NON è una suite di collaborazione cloud?",
-    "risposte": ["Google Docs", "Blocco Note di Windows (offline)", "Microsoft Word Online"],
-    "corretta": "Blocco Note di Windows (offline)"
+    "domanda": "Scenario: Qual è un vantaggio dei promemoria digitali?",
+    "risposte": ["Impostare avvisi sonori per non dimenticare appuntamenti", "Sono più difficili da usare dei post-it", "Non si possono modificare"],
+    "corretta": "Impostare avvisi sonori per non dimenticare appuntamenti"
   },
   {
-    "domanda": "Come si aggiunge un collega a un progetto su Google Sheets?",
-    "risposte": ["Dandogli la propria password", "Cliccando su 'Condividi' e inserendo il suo indirizzo email", "Chiamandolo al telefono mentre si lavora"],
-    "corretta": "Cliccando su 'Condividi' e inserendo il suo indirizzo email"
+    "domanda": "Scenario: Microsoft To-Do serve principalmente a...",
+    "risposte": ["Impostare promemoria e liste di cose da fare", "Scrivere codice", "Modificare foto"],
+    "corretta": "Impostare promemoria e liste di cose da fare"
   },
   {
-    "domanda": "Cosa succede se due persone scrivono contemporaneamente nella stessa cella di Excel Online?",
-    "risposte": ["Il computer esplode", "L'ultima modifica salvata sovrascrive la precedente o viene visualizzato un avviso", "Il file viene cancellato"],
-    "corretta": "L'ultima modifica salvata sovrascrive la precedente o viene visualizzato un avviso"
+    "domanda": "Scenario: Usare strumenti digitali per la produttività aumenta...",
+    "risposte": ["La qualità del lavoro e riduce gli errori", "Lo stress", "Il consumo di carta"],
+    "corretta": "La qualità del lavoro e riduce gli errori"
   },
   {
-    "domanda": "Qual è il limite principale del lavorare su file salvati solo localmente (sul PC)?",
-    "risposte": ["Sono troppo veloci", "Rendono difficile la collaborazione e creano confusione tra le versioni", "Non possono essere stampati"],
-    "corretta": "Rendono difficile la collaborazione e creano confusione tra le versioni"
+    "domanda": "Scenario: Le app di 'Note Vocali' sono utili per...",
+    "risposte": ["Registrare idee rapide che richiedono risposta immediata", "Cantare canzoni intere", "Fare video"],
+    "corretta": "Registrare idee rapide che richiedono risposta immediata"
   },
   {
-    "domanda": "A cosa servono le 'notifiche di modifica' nei documenti condivisi?",
-    "risposte": ["Ad avvisarti via email quando un collega ha lavorato sul file", "A spegnere il computer dopo 10 minuti", "A cambiare la suoneria del telefono"],
-    "corretta": "Ad avvisarti via email quando un collega ha lavorato sul file"
+    "domanda": "Scenario: Notion integra anche funzionalità di...",
+    "risposte": ["Intelligenza Artificiale (AI)", "Realtà Virtuale", "Stampa 3D"],
+    "corretta": "Intelligenza Artificiale (AI)"
   },
   {
-    "domanda": "Cosa permette di integrare i diversi elementi del lavoro moderno (videochiamate, file, calendari)?",
-    "risposte": ["La capacità di usare un flusso di lavoro coerente ed efficiente", "L'uso di una stampante laser", "Il possesso di tre diversi smartphone"],
-    "corretta": "La capacità di usare un flusso di lavoro coerente ed efficiente"
+    "domanda": "Scenario: I diagrammi di flusso aiutano a...",
+    "risposte": ["Visualizzare processi e logiche complesse", "Disegnare paesaggi", "Scrivere musica"],
+    "corretta": "Visualizzare processi e logiche complesse"
   },
   {
-    "domanda": "Quale programma useresti per fare un calcolo complesso insieme al tuo team amministrativo?",
-    "risposte": ["Google Sheets", "Google Slides", "Microsoft Paint"],
-    "corretta": "Google Sheets"
+    "domanda": "Scenario: Un vantaggio di organizzare i compiti visivamente è...",
+    "risposte": ["Avere subito chiaro il flusso di lavoro e le priorità", "Perdere tempo a colorare", "Non serve a nulla"],
+    "corretta": "Avere subito chiaro il flusso di lavoro e le priorità"
   },
   {
-    "domanda": "In Word Online, come si salvano i progressi?",
-    "risposte": ["Bisogna cliccare su un'icona a forma di floppy disk", "Vengono salvati automaticamente ad ogni digitazione", "Bisogna inviare il file via email a se stessi"],
-    "corretta": "Vengono salvati automaticamente ad ogni digitazione"
+    "domanda": "Scenario: Collaborare in tempo reale su un documento significa...",
+    "risposte": ["Più persone lavorano allo stesso file contemporaneamente", "Uno lavora e l'altro guarda", "Inviarsi il file via mail 10 volte"],
+    "corretta": "Più persone lavorano allo stesso file contemporaneamente"
   },
   {
-    "domanda": "Perché è utile la condivisione tramite link?",
-    "risposte": ["Perché evita di intasare le email con allegati pesanti", "Perché i link sono più colorati", "Perché non richiede una connessione internet"],
-    "corretta": "Perché evita di intasare le email con allegati pesanti"
+    "domanda": "Scenario: Per monitorare lo stato di avanzamento di un progetto si usano...",
+    "risposte": ["Strumenti di monitoraggio e reportistica (come nelle app di gestione progetti)", "Il calendario cartaceo", "La memoria"],
+    "corretta": "Strumenti di monitoraggio e reportistica (come nelle app di gestione progetti)"
   },
   {
-    "domanda": "Qual è l'obiettivo principale del Capitolo 1 della dispensa?",
-    "risposte": ["Spiegare come smontare un computer", "Insegnare gli strumenti per collaborare a distanza in modo efficace", "Vendere abbonamenti a internet"],
-    "corretta": "Insegnare gli strumenti per collaborare a distanza in modo efficace"
+    "domanda": "Scenario: L'accessibilità da qualsiasi dispositivo è una caratteristica chiave del...",
+    "risposte": ["Cloud e delle app di produttività moderne", "Vecchio PC fisso", "Quaderno"],
+    "corretta": "Cloud e delle app di produttività moderne"
   }
 ]
