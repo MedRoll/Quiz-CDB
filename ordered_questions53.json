@@ -1,152 +1,102 @@
 [
   {
-    "domanda": "Qual è lo scopo principale di un calendario condiviso in un ufficio?",
-    "risposte": ["Coordinare appuntamenti ed evitare sovrapposizioni tra i colleghi", "Vedere le foto delle vacanze dei capi", "Controllare l'ora in altri paesi"],
-    "corretta": "Coordinare appuntamenti ed evitare sovrapposizioni tra i colleghi"
+    "domanda": "Vuoi che più colleghi scrivano contemporaneamente sullo stesso documento vedendo le modifiche in tempo reale. Quale strumento è più adatto?",
+    "risposte": ["Google Docs o Word Online", "Un documento Word salvato su chiavetta USB", "L'invio di file via email"],
+    "corretta": "Google Docs o Word Online"
   },
   {
-    "domanda": "In Google Calendar, cosa succede se inviti un collega a un evento?",
-    "risposte": ["Riceve una notifica automatica via email con i dettagli", "Il suo PC si spegne all'ora dell'evento", "Deve pagare una quota di partecipazione"],
-    "corretta": "Riceve una notifica automatica via email con i dettagli"
+    "domanda": "Devi recuperare una versione di un file salvata tre giorni fa perché le modifiche recenti hanno cancellato dati importanti. Cosa usi?",
+    "risposte": ["La cronologia delle versioni (Version History)", "Il tasto 'Annulla' ripetutamente", "Il cestino del computer"],
+    "corretta": "La cronologia delle versioni (Version History)"
   },
   {
-    "domanda": "Come puoi proteggere la tua privacy su un calendario aziendale?",
-    "risposte": ["Mostrando solo lo stato 'Occupato' senza rivelare i dettagli dell'appuntamento", "Cancellando tutti i tuoi impegni", "Non usando il calendario"],
-    "corretta": "Mostrando solo lo stato 'Occupato' senza rivelare i dettagli dell'appuntamento"
+    "domanda": "Hai bisogno di inviare un file molto pesante a un collaboratore senza intasare la sua casella email. Qual è la soluzione migliore?",
+    "risposte": ["Condividere un link al file su Google Drive o OneDrive", "Comprimere il file in 50 diverse email", "Stampare il file e spedirlo per posta"],
+    "corretta": "Condividere un link al file su Google Drive o OneDrive"
   },
   {
-    "domanda": "Quale funzione permette di trovare rapidamente l'ora giusta per una riunione con 5 persone?",
-    "risposte": ["La visualizzazione della disponibilità dei colleghi", "Chiamare ognuno individualmente", "Estrarre l'orario a sorte"],
-    "corretta": "La visualizzazione della disponibilità dei colleghi"
+    "domanda": "Vuoi organizzare i turni del personale in modo che tutti possano vedere le disponibilità aggiornate sul proprio smartphone. Cosa usi?",
+    "risposte": ["Un calendario condiviso (Google Calendar o Outlook)", "Un'agenda cartacea in ufficio", "Un messaggio sul gruppo WhatsApp"],
+    "corretta": "Un calendario condiviso (Google Calendar o Outlook)"
   },
   {
-    "domanda": "Cosa indicano i diversi colori in un calendario ben organizzato?",
-    "risposte": ["Diverse categorie di eventi (es. riunioni, lavoro individuale, scadenze)", "La temperatura esterna", "L'umore dell'utente"],
-    "corretta": "Diverse categorie di eventi (es. riunioni, lavoro individuale, scadenze)"
+    "domanda": "Ti serve un'applicazione che ti permetta di scattare una foto a un documento cartaceo e trasformarlo in un PDF cercabile. Quale scegli?",
+    "risposte": ["Evernote o Microsoft Lens", "L'app fotocamera standard senza funzioni extra", "Instagram"],
+    "corretta": "Evernote o Microsoft Lens"
   },
   {
-    "domanda": "A cosa serve l'integrazione tra Calendar e Google Meet?",
-    "risposte": ["A creare automaticamente il link della videochiamata all'interno dell'evento", "A cambiare lo sfondo del calendario", "A inviare regali ai partecipanti"],
-    "corretta": "A creare automaticamente il link della videochiamata all'interno dell'evento"
+    "domanda": "Il tuo team ha bisogno di una bacheca virtuale per monitorare i task tecnici di un progetto software complesso. Quale strumento è lo standard?",
+    "risposte": ["Jira", "Paint", "Windows Media Player"],
+    "corretta": "Jira"
   },
   {
-    "domanda": "Perché è utile attivare i promemoria (notifiche) sul calendario?",
-    "risposte": ["Per non dimenticare appuntamenti o scadenze importanti", "Per far suonare il telefono tutto il giorno", "Per svuotare la memoria del PC"],
-    "corretta": "Per non dimenticare appuntamenti o scadenze importanti"
+    "domanda": "Vuoi creare una presentazione visivamente accattivante partendo da modelli predefiniti senza essere un esperto di grafica. Cosa usi?",
+    "risposte": ["Canva", "Adobe Illustrator", "Blocco Note"],
+    "corretta": "Canva"
   },
   {
-    "domanda": "In Outlook Calendar, come si prenota una sala riunioni?",
-    "risposte": ["Selezionandola come 'risorsa' o 'luogo' durante la creazione dell'evento", "Scrivendo un post-it", "Andando fisicamente nella sala un giorno prima"],
-    "corretta": "Selezionandola come 'risorsa' o 'luogo' during la creazione dell'evento"
+    "domanda": "Hai la necessità di creare un diagramma di flusso per spiegare la gerarchia aziendale. Quale tool è specifico per questo?",
+    "risposte": ["Lucidchart", "Spotify", "Calculator"],
+    "corretta": "Lucidchart"
   },
   {
-    "domanda": "Cosa significa 'Sincronizzazione su tutti i dispositivi'?",
-    "risposte": ["Vedere gli stessi appuntamenti su PC, smartphone e tablet", "Avere tre calendari diversi", "Che il calendario funziona solo su PC"],
-    "corretta": "Vedere gli stessi appuntamenti su PC, smartphone e tablet"
+    "domanda": "Vuoi centralizzare tutte le comunicazioni di un progetto, includendo chat di gruppo e scadenze, in un unico posto. Cosa scegli?",
+    "risposte": ["Basecamp o Microsoft Teams", "Telefonate singole", "SMS"],
+    "corretta": "Basecamp o Microsoft Teams"
   },
   {
-    "domanda": "Quale strumento utilizzeresti per un brainstorming visivo con post-it digitali?",
-    "risposte": ["Miro o Microsoft Whiteboard", "Excel", "Il browser internet"],
-    "corretta": "Miro o Microsoft Whiteboard"
+    "domanda": "Devi pianificare una strategia di marketing e vuoi usare le mappe mentali per collegare le idee. Quale strumento è indicato?",
+    "risposte": ["MindMeister", "Excel", "Outlook"],
+    "corretta": "MindMeister"
   },
   {
-    "domanda": "In un team di Smart Working, cosa eliminano i calendari condivisi?",
-    "risposte": ["La confusione delle agende personali separate", "La necessità di lavorare", "L'uso della connessione Wi-Fi"],
-    "corretta": "La confusione delle agende personali separate"
+    "domanda": "Hai bisogno di un posto dove archiviare ricevute e scontrini in modo ordinato e accessibile da ogni dispositivo. Cosa usi?",
+    "risposte": ["Un'app per note digitali come Evernote", "Un cassetto della scrivania", "Il desktop del computer"],
+    "corretta": "Un'app per note digitali come Evernote"
   },
   {
-    "domanda": "Cosa puoi fare per evitare di essere disturbato durante un lavoro importante?",
-    "risposte": ["Impostare il calendario su 'Occupato' o 'Non disturbare'", "Spegnere la luce dell'ufficio", "Disinstallare il browser"],
-    "corretta": "Impostare il calendario su 'Occupato' o 'Non disturbare'"
+    "domanda": "Qual è il vantaggio di usare uno strumento come Trello per la gestione del lavoro quotidiano?",
+    "risposte": ["Permette di vedere visivamente chi sta facendo cosa e le priorità", "Scrive i contenuti al posto tuo", "Sostituisce la connessione internet"],
+    "corretta": "Permette di vedere visivamente chi sta facendo cosa e le priorità"
   },
   {
-    "domanda": "Quale vantaggio offre Outlook rispetto alla gestione manuale degli appuntamenti?",
-    "risposte": ["Permette di programmare videochiamate direttamente dall'evento", "Invia SMS a tutti i contatti della rubrica", "Rende il PC più veloce"],
-    "corretta": "Permette di programmare videochiamate direttamente dall'evento"
+    "domanda": "Perché Notion è considerato uno strumento 'all-in-one'?",
+    "risposte": ["Perché unisce note, database, task e documenti in una sola interfaccia", "Perché permette di fare chiamate internazionali gratuite", "Perché è un sistema operativo completo"],
+    "corretta": "Perché unisce note, database, task e documenti in una sola interfaccia"
   },
   {
-    "domanda": "Come si chiama la guida pratica presentata nella dispensa?",
-    "risposte": ["Competenze Digitali per la Vita Professionale e Burocratica", "Manuale di informatica di base", "Come usare Facebook"],
-    "corretta": "Competenze Digitali per la Vita Professionale e Burocratica"
+    "domanda": "Ti serve una lista di attività semplice e veloce che ti invii notifiche sul telefono per non dimenticare la spesa o i task. Cosa usi?",
+    "risposte": ["Microsoft To-Do o Todoist", "Un foglio volante", "Un post-it sullo schermo"],
+    "corretta": "Microsoft To-Do o Todoist"
   },
   {
-    "domanda": "Quale percentuale di lavoratori italiani usa regolarmente strumenti di collaborazione?",
-    "risposte": ["67%", "10%", "95%"],
-    "corretta": "67%"
+    "domanda": "Qual è il beneficio principale del Cloud per un lavoratore in Smart Working?",
+    "risposte": ["Poter accedere ai propri file da qualunque luogo e dispositivo", "Non dover più usare la corrente elettrica", "Avere un computer più leggero fisicamente"],
+    "corretta": "Poter accedere ai propri file da qualunque luogo e dispositivo"
   },
   {
-    "domanda": "In che anno si contavano circa 3.5 milioni di smart worker in Italia?",
-    "risposte": ["2023", "2010", "1995"],
-    "corretta": "2023"
+    "domanda": "Vuoi imparare a programmare o seguire un corso di marketing certificato da grandi università. Dove vai?",
+    "risposte": ["Piattaforme MOOC come Coursera o edX", "YouTube Shorts", "Facebook"],
+    "corretta": "Piattaforme MOOC come Coursera o edX"
   },
   {
-    "domanda": "Quale piattaforma cloud è integrata nativamente con Office 365?",
-    "risposte": ["OneDrive", "Google Drive", "Dropbox"],
-    "corretta": "OneDrive"
+    "domanda": "Devi gestire le finanze della tua attività monitorando entrate e uscite in modo semplice da mobile. Quale app cerchi?",
+    "risposte": ["Spendee o Mint", "Tinder", "Duolingo"],
+    "corretta": "Spendee o Mint"
   },
   {
-    "domanda": "In Google Docs, dove si trova il tasto per condividere il file?",
-    "risposte": ["In alto a destra", "Sotto il computer", "Nascosto nel menu 'Aiuto'"],
-    "corretta": "In alto a destra"
+    "domanda": "Vuoi registrare un'idea al volo mentre cammini senza dover scrivere sulla tastiera. Cosa utilizzi?",
+    "risposte": ["Le note vocali di Google Keep o OneNote", "Le tabelle di Excel", "Il browser web"],
+    "corretta": "Le note vocali di Google Keep o OneNote"
   },
   {
-    "domanda": "A cosa serve la 'modalità suggerimento' in un documento condiviso?",
-    "risposte": ["A proporre modifiche che il proprietario può accettare o rifiutare", "A scrivere barzellette", "A cambiare il font del testo"],
-    "corretta": "A proporre modifiche che il proprietario può accettare o rifiutare"
+    "domanda": "In un ambiente professionale, cosa ti permette di fare l'integrazione tra Calendario e Task Manager?",
+    "risposte": ["Trasformare automaticamente i task in appuntamenti a tempo", "Cambiare la risoluzione dello schermo", "Aumentare lo spazio sulla memoria"],
+    "corretta": "Trasformare automaticamente i task in appuntamenti a tempo"
   },
   {
-    "domanda": "Cosa rende i 'Fogli di calcolo collaborativi' uno strumento di analisi dati di team?",
-    "risposte": ["L'accesso multi-utente e l'aggiornamento in tempo reale", "Il fatto che contengano numeri", "La possibilità di colorare le celle"],
-    "corretta": "L'accesso multi-utente e l'aggiornamento in tempo reale"
-  },
-  {
-    "domanda": "Quale di questi è un 'Promemoria intelligente'?",
-    "risposte": ["Una notifica che ti avvisa 10 minuti prima di una riunione", "Un collega che ti chiama", "Un nodo al fazzoletto"],
-    "corretta": "Una notifica che ti avvisa 10 minuti prima di una riunione"
-  },
-  {
-    "domanda": "In una lavagna digitale come Miro, cosa possono fare i partecipanti?",
-    "risposte": ["Disegnare, scrivere e attaccare post-it insieme in tempo reale", "Guardare solo video", "Sostituire la tastiera"],
-    "corretta": "Disegnare, scrivere e attaccare post-it insieme in tempo reale"
-  },
-  {
-    "domanda": "Perché è importante bilanciare 'trasparenza e privacy' nei calendari?",
-    "risposte": ["Per essere efficienti senza rivelare troppi dettagli personali", "Perché lo dice il produttore del software", "Per risparmiare spazio"],
-    "corretta": "Per essere efficienti senza rivelare troppi dettagli personali"
-  },
-  {
-    "domanda": "Cosa si intende per 'Collaborazione Visiva'?",
-    "risposte": ["L'uso di strumenti come lavagne e annotazioni per lavorare insieme su concetti grafici", "Guardarsi negli occhi", "Usare occhiali speciali"],
-    "corretta": "L'uso di strumenti come lavagne e annotazioni per lavorare insieme su concetti grafici"
-  },
-  {
-    "domanda": "Quale strumento di Google serve per creare documenti di testo?",
-    "risposte": ["Google Docs", "Google Sheets", "Google Slides"],
-    "corretta": "Google Docs"
-  },
-  {
-    "domanda": "Quale strumento di Microsoft serve per creare fogli di calcolo?",
-    "risposte": ["Excel", "Word", "PowerPoint"],
-    "corretta": "Excel"
-  },
-  {
-    "domanda": "Cosa permette di fare Google Slides?",
-    "risposte": ["Creare e presentare slide in modo collaborativo", "Scrivere solo lunghi testi", "Fare calcoli matematici complessi"],
-    "corretta": "Creare e presentare slide in modo collaborativo"
-  },
-  {
-    "domanda": "Perché è fondamentale la 'consapevolezza digitale' nel lavoro moderno?",
-    "risposte": ["Per scegliere e usare gli strumenti giusti al momento giusto", "Per diventare famosi", "Per riparare i computer"],
-    "corretta": "Per scegliere e usare gli strumenti giusti al momento giusto"
-  },
-  {
-    "domanda": "A cosa serve l'app 'Google Calendar'?",
-    "risposte": ["A gestire agenda e appuntamenti", "A scattare fotografie", "A navigare su internet"],
-    "corretta": "A gestire agenda e appuntamenti"
-  },
-  {
-    "domanda": "Qual è il tema principale della dispensa?",
-    "risposte": ["Le competenze digitali nel mondo professionale", "La storia del computer", "Come riparare una webcam"],
-    "corretta": "Le competenze digitali nel mondo professionale"
+    "domanda": "Devi collaborare con un grafico per disegnare l'interfaccia di una nuova app. Quale strumento online usate?",
+    "risposte": ["Figma", "Skype", "Wordpad"],
+    "corretta": "Figma"
   }
 ]
