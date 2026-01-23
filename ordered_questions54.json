@@ -1,78 +1,152 @@
 [
   {
-    "domanda": "Google Docs richiede di cliccare spesso su 'Salva' per non perdere le modifiche.",
+    "domanda": "Le app per appunti digitali permettono di aggiungere immagini e link.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Todoist è un software per il montaggio video.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "La 'Cronologia delle versioni' permette di vedere chi ha modificato un file e quando.",
+    "domanda": "Canva offre template predefiniti per chi non è esperto di design.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "OneDrive è lo spazio di archiviazione cloud della suite Microsoft Office 365.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "In un documento condiviso, è impossibile lavorare contemporaneamente in due persone.",
+    "domanda": "L'Internet of Things (IoT) riguarda solo i computer portatili.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Condividere un link è solitamente più efficiente che inviare un allegato pesante via email.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Lo Smart Working consiste semplicemente nel lavorare da casa senza usare strumenti digitali.",
+    "domanda": "La Blockchain è un registro centralizzato gestito da una banca.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Google Sheets è l'equivalente cloud di Microsoft Excel.",
+    "domanda": "Audacity è uno strumento gratuito per l'editing audio.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "I commenti in un file condiviso servono per discutere il contenuto senza modificare il testo.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "La sincronizzazione cloud permette di accedere agli stessi file da PC, tablet e smartphone.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Per usare Google Docs è obbligatorio installare un software molto pesante sul computer.",
+    "domanda": "La Realtà Virtuale (VR) sovrappone immagini al mondo reale senza oscurarlo.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "In Office 365, le modifiche effettuate online vengono salvate automaticamente su OneDrive.",
+    "domanda": "Notion permette di creare database oltre a semplici appunti.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "La co-modifica permette di vedere i cursori colorati degli altri utenti che scrivono nel file.",
-    "risposte": ["Vero", "Falso"],
-    "corretta": "Vero"
-  },
-  {
-    "domanda": "Un file in modalità 'Sola lettura' permette a chiunque di cancellare i dati.",
+    "domanda": "Unsplash è un sito per scaricare musica a pagamento.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Circa il 67% dei lavoratori italiani usa regolarmente strumenti di collaborazione online.",
+    "domanda": "Il contrasto nel design aiuta a mettere in risalto gli elementi importanti.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Vero"
   },
   {
-    "domanda": "Google Drive e Microsoft OneDrive servono a scopi completamente diversi.",
+    "domanda": "Asana è uno strumento per la gestione di progetti in team.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Clipchamp serve per creare fogli di calcolo.",
     "risposte": ["Vero", "Falso"],
     "corretta": "Falso"
   },
   {
-    "domanda": "Le notifiche di modifica avvisano l'utente se un collega ha lavorato su
+    "domanda": "I 'Smart Contracts' sono un'applicazione della tecnologia Blockchain.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Microsoft OneNote supporta la funzione di dettatura.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'automazione elimina la necessità di creatività umana.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Figma è utilizzato principalmente per il design di interfacce (UI).",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Google Keep è ideale per progetti complessi a lungo termine.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "I podcast possono essere distribuiti su piattaforme come Spotify.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Lucidchart serve a creare diagrammi di flusso.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "L'IoT non ha applicazioni nelle 'Smart Cities'.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La sincronizzazione cloud permette l'accesso ai file da più dispositivi.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Usare molte font diverse rende il design più professionale.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "Jira è uno strumento pensato per i team di sviluppo software.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Le GIF sono immagini statiche che non si muovono mai.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "MindMeister è utile per creare mappe mentali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "È legale usare qualsiasi immagine trovata su Google per scopi commerciali.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "La Realtà Aumentata (AR) è usata nel gioco Pokémon Go.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Trello visualizza il lavoro solo tramite righe di codice.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Falso"
+  },
+  {
+    "domanda": "L'Intelligenza Artificiale può analizzare grandi volumi di dati.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  },
+  {
+    "domanda": "Basecamp integra chat e gestione file in un unico posto.",
+    "risposte": ["Vero", "Falso"],
+    "corretta": "Vero"
+  }
+]
