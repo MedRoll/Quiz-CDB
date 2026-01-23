@@ -1,152 +1,152 @@
 [
   {
-    "domanda": "Qual è la regola d'oro quando si entra in una riunione virtuale con molti partecipanti?",
-    "risposte": ["Entrare con il microfono in mute", "Iniziare subito a parlare a voce alta", "Riprodurre musica di sottofondo"],
-    "corretta": "Entrare con il microfono in mute"
+    "domanda": "Scenario: Vuoi creare un post per i social media ma non sei un grafico. Cosa usi?",
+    "risposte": ["Canva", "Photoshop avanzato", "Blocco note"],
+    "corretta": "Canva"
   },
   {
-    "domanda": "In Microsoft Teams, quale strumento è ideale per le aziende che usano già Word ed Excel?",
-    "risposte": ["L'integrazione totale con l'ecosistema Office 365", "La possibilità di giocare ai videogame", "Il fatto che non richieda una password"],
-    "corretta": "L'integrazione totale con l'ecosistema Office 365"
+    "domanda": "Scenario: Figma è uno strumento pensato principalmente per...",
+    "risposte": ["Progettazione di interfacce utente (UI) e collaborazione", "Fotoritocco base", "Scrivere testi"],
+    "corretta": "Progettazione di interfacce utente (UI) e collaborazione"
   },
   {
-    "domanda": "Cosa si intende per 'Puntualità Digitale' in una videochiamata?",
-    "risposte": ["Collegarsi 2-3 minuti prima dell'inizio previsto", "Arrivare con 10 minuti di ritardo tanto è online", "Accendere il PC esattamente all'ora della riunione"],
-    "corretta": "Collegarsi 2-3 minuti prima dell'inizio previsto"
+    "domanda": "Scenario: Qual è un principio fondamentale del design visivo?",
+    "risposte": ["Semplicità (meno è meglio)", "Riempire ogni spazio vuoto", "Usare 10 font diversi"],
+    "corretta": "Semplicità (meno è meglio)"
   },
   {
-    "domanda": "Dove è meglio guardare mentre si parla durante una videoconferenza?",
-    "risposte": ["La propria immagine sullo schermo", "Direttamente nella webcam", "Fuori dalla finestra"],
-    "corretta": "Direttamente nella webcam"
+    "domanda": "Scenario: Perché il contrasto è importante nel design?",
+    "risposte": ["Mette in risalto gli elementi importanti e migliora la leggibilità", "Rende tutto uguale", "È solo estetico"],
+    "corretta": "Mette in risalto gli elementi importanti e migliora la leggibilità"
   },
   {
-    "domanda": "Quale piattaforma è più indicata se utilizzi regolarmente Gmail e Google Calendar?",
-    "risposte": ["Google Meet", "Skype", "Telegram"],
-    "corretta": "Google Meet"
+    "domanda": "Scenario: Dove puoi trovare immagini gratuite e libere da diritti d'autore?",
+    "risposte": ["Su siti come Unsplash, Pexels, Pixabay", "Su Google Immagini a caso", "Rubandole da altri siti"],
+    "corretta": "Su siti come Unsplash, Pexels, Pixabay"
   },
   {
-    "domanda": "A cosa servono le 'Breakout Rooms' (Sale di gruppo) in Zoom?",
-    "risposte": ["A fare una pausa caffè", "A dividere i partecipanti in piccoli gruppi per lavori specifici", "A chiudere la riunione"],
-    "corretta": "A dividere i partecipanti in piccoli gruppi per lavori specifici"
+    "domanda": "Scenario: Vuoi modificare un video in modo semplice e veloce online. Cosa usi?",
+    "risposte": ["Clipchamp o InShot", "Premiere Pro", "Word"],
+    "corretta": "Clipchamp o InShot"
   },
   {
-    "domanda": "Cosa dovresti fare prima di iniziare una videochiamata importante?",
-    "risposte": ["Testare audio e video e scegliere uno sfondo neutro", "Mangiare davanti alla telecamera", "Accendere la televisione a volume alto"],
-    "corretta": "Testare audio e video e scegliere uno sfondo neutro"
+    "domanda": "Scenario: Cos'è una GIF?",
+    "risposte": ["Un'immagine animata in loop", "Un virus", "Un file audio"],
+    "corretta": "Un'immagine animata in loop"
   },
   {
-    "domanda": "In quale situazione è utile registrare una riunione?",
-    "risposte": ["Per permettere a chi era assente di recuperare i contenuti", "Per occupare tutto lo spazio sul PC", "Per inviarla casualmente a sconosciuti"],
-    "corretta": "Per permettere a chi era assente di recuperare i contenuti"
+    "domanda": "Scenario: Quale software gratuito puoi usare per registrare ed editare un podcast?",
+    "risposte": ["Audacity", "Excel", "PowerPoint"],
+    "corretta": "Audacity"
   },
   {
-    "domanda": "Cosa si dovrebbe evitare di fare durante una riunione professionale online?",
-    "risposte": ["Prendere appunti digitali", "Lasciare attive notifiche rumorose dello smartphone", "Usare la chat per fare domande"],
-    "corretta": "Lasciare attive notifiche rumorose dello smartphone"
+    "domanda": "Scenario: L'Internet of Things (IoT) collega...",
+    "risposte": ["Dispositivi fisici (es. elettrodomestici) a internet", "Solo computer", "Persone senza internet"],
+    "corretta": "Dispositivi fisici (es. elettrodomestici) a internet"
   },
   {
-    "domanda": "Qual è il vantaggio di condividere solo una 'finestra specifica' invece dell'intero schermo?",
-    "risposte": ["Aumenta la privacy, evitando che gli altri vedano notifiche o file personali", "Rende la connessione più lenta", "Fa vedere lo sfondo del desktop"],
-    "corretta": "Aumenta la privacy, evitando che gli altri vedano notifiche o file personali"
+    "domanda": "Scenario: Un esempio di applicazione IoT domestica è...",
+    "risposte": ["Il termostato intelligente", "Il libro cartaceo", "La sedia di legno"],
+    "corretta": "Il termostato intelligente"
   },
   {
-    "domanda": "A cosa serve la funzione 'Alza la mano' nelle piattaforme di meeting?",
-    "risposte": ["A salutare gli amici", "A segnalare che si desidera parlare senza interrompere chi sta parlando", "A fare ginnastica"],
-    "corretta": "A segnalare che si desidera parlare senza interrompere chi sta parlando"
+    "domanda": "Scenario: Cos'è la Blockchain?",
+    "risposte": ["Un registro digitale decentralizzato, sicuro e immutabile", "Una catena di ferro", "Un tipo di banca"],
+    "corretta": "Un registro digitale decentralizzato, sicuro e immutabile"
   },
   {
-    "domanda": "Quale elemento migliora l'accessibilità per persone con difficoltà uditive durante un webinar?",
-    "risposte": ["I sottotitoli automatici in tempo reale", "Alzare il volume al massimo", "Parlare molto velocemente"],
-    "corretta": "I sottotitoli automatici in tempo reale"
+    "domanda": "Scenario: Le criptovalute come il Bitcoin usano la Blockchain per...",
+    "risposte": ["Garantire transazioni sicure senza intermediari", "Stampare soldi", "Inviare mail"],
+    "corretta": "Garantire transazioni sicure senza intermediari"
   },
   {
-    "domanda": "Cosa è consigliato fare riguardo all'abbigliamento in Smart Working?",
-    "risposte": ["Rimanere sempre in pigiama", "Vestirsi in modo appropriato al contesto lavorativo", "Indossare un cappello da festa"],
-    "corretta": "Vestirsi in modo appropriato al contesto lavorativo"
+    "domanda": "Scenario: La Realtà Aumentata (AR) consiste nel...",
+    "risposte": ["Sovrapporre elementi digitali al mondo reale (es. Pokémon Go)", "Entrare in un mondo totalmente finto", "Guardare la TV"],
+    "corretta": "Sovrapporre elementi digitali al mondo reale (es. Pokémon Go)"
   },
   {
-    "domanda": "In Google Meet, dove vengono salvate le registrazioni delle riunioni?",
-    "risposte": ["Direttamente su Google Drive", "Su YouTube in modalità pubblica", "In una cartella segreta del PC"],
-    "corretta": "Direttamente su Google Drive"
+    "domanda": "Scenario: La Realtà Virtuale (VR) richiede l'uso di...",
+    "risposte": ["Visori per immergersi completamente in un ambiente simulato", "Solo uno smartphone", "Occhiali da sole"],
+    "corretta": "Visori per immergersi completamente in un ambiente simulato"
   },
   {
-    "domanda": "A cosa serve la 'Chat integrata' durante una presentazione online?",
-    "risposte": ["A fare domande o condividere link senza interrompere il relatore", "A parlare del più e del meno", "A ordinare il pranzo"],
-    "corretta": "A fare domande o condividere link senza interrompere il relatore"
+    "domanda": "Scenario: Come sta cambiando il lavoro grazie all'Automazione e all'IA?",
+    "risposte": ["L'IA si occupa di compiti ripetitivi, lasciando all'uomo quelli creativi", "L'IA licenzia tutti", "Non cambia nulla"],
+    "corretta": "L'IA si occupa di compiti ripetitivi, lasciando all'uomo quelli creativi"
   },
   {
-    "domanda": "Quale accorgimento aiuta a simulare il contatto visivo con i colleghi?",
-    "risposte": ["Guardare l'obiettivo della telecamera", "Guardare la propria tastiera", "Chiudere gli occhi mentre si parla"],
-    "corretta": "Guardare l'obiettivo della telecamera"
+    "domanda": "Scenario: Freepik e Flaticon sono risorse utili per...",
+    "risposte": ["Trovare vettori e icone grafiche", "Scaricare film", "Trovare musica"],
+    "corretta": "Trovare vettori e icone grafiche"
   },
   {
-    "domanda": "Perché è utile usare sfondi sfocati o virtuali?",
-    "risposte": ["Per nascondere un ambiente domestico disordinato o poco professionale", "Perché è obbligatorio per legge", "Per sembrare un cartone animato"],
-    "corretta": "Per nascondere un ambiente domestico disordinato o poco professionale"
+    "domanda": "Scenario: Per creare un buon podcast è fondamentale...",
+    "risposte": ["La qualità del suono e un buon microfono", "Parlare velocissimo", "Non avere argomenti"],
+    "corretta": "La qualità del suono e un buon microfono"
   },
   {
-    "domanda": "Quale tra queste è una funzione di Zoom per grandi eventi?",
-    "risposte": ["Supportare fino a centinaia di partecipanti contemporaneamente", "Inviare fiori virtuali", "Cucinare ricette online"],
-    "corretta": "Supportare fino a centinaia di partecipanti contemporaneamente"
+    "domanda": "Scenario: Nelle 'Smart Cities', i sensori IoT servono a...",
+    "risposte": ["Monitorare traffico e qualità dell'aria", "Spiare le conversazioni", "Decorare le strade"],
+    "corretta": "Monitorare traffico e qualità dell'aria"
   },
   {
-    "domanda": "Cosa si dovrebbe fare prima di condividere lo schermo?",
-    "risposte": ["Chiudere applicazioni non necessarie e browser personali", "Aprire tutti i propri social network", "Spegnere il Wi-Fi"],
-    "corretta": "Chiudere applicazioni non necessarie e browser personali"
+    "domanda": "Scenario: I 'Contratti Intelligenti' (Smart Contracts) sono un'applicazione della...",
+    "risposte": ["Blockchain", "Stampante 3D", "Realtà Virtuale"],
+    "corretta": "Blockchain"
   },
   {
-    "domanda": "In Microsoft Teams, cosa si può usare per il brainstorming visivo?",
-    "risposte": ["Le lavagne collaborative (Whiteboard)", "Il calendario", "La calcolatrice di Windows"],
-    "corretta": "Le lavagne collaborative (Whiteboard)"
+    "domanda": "Scenario: Il 'Remote Work' (Lavoro da remoto) è facilitato da...",
+    "risposte": ["Cloud computing e software di collaborazione", "Fax e posta ordinaria", "Viaggi in aereo"],
+    "corretta": "Cloud computing e software di collaborazione"
   },
   {
-    "domanda": "Quale di questi strumenti NON è citato per le videoconferenze?",
-    "risposte": ["Zoom", "PlayStation Network", "Google Meet"],
-    "corretta": "PlayStation Network"
+    "domanda": "Scenario: Quale nuova figura professionale sta emergendo con le nuove tecnologie?",
+    "risposte": ["Sviluppatore AR/VR o esperto Blockchain", "Scrivano a mano", "Operatore del telegrafo"],
+    "corretta": "Sviluppatore AR/VR o esperto Blockchain"
   },
   {
-    "domanda": "Cosa indica il termine 'Netiquette'?",
-    "risposte": ["Un tipo di computer portatile", "L'insieme delle regole di buon comportamento su internet", "Un software per la posta elettronica"],
-    "corretta": "L'insieme delle regole di buon comportamento su internet"
+    "domanda": "Scenario: Scegliere il font giusto (Tipografia) è importante per...",
+    "risposte": ["La leggibilità e il tono del messaggio", "Usare più inchiostro", "Confondere il lettore"],
+    "corretta": "La leggibilità e il tono del messaggio"
   },
   {
-    "domanda": "Qual è il vantaggio principale di Google Meet per le aziende?",
-    "risposte": ["L'interfaccia semplice e l'integrazione con Google Calendar", "Il fatto che cambi il colore della scrivania", "La possibilità di stampare soldi"],
-    "corretta": "L'interfaccia semplice e l'integrazione con Google Calendar"
+    "domanda": "Scenario: GarageBand è un software per...",
+    "risposte": ["Creazione e editing audio (spesso usato per podcast su Mac)", "Disegno tecnico", "Scrittura codici"],
+    "corretta": "Creazione e editing audio (spesso usato per podcast su Mac)"
   },
   {
-    "domanda": "Come si può coinvolgere l'audience durante una presentazione digitale?",
-    "risposte": ["Usando emoji, reazioni e sondaggi integrati", "Gridando più forte", "Facendo finta che la connessione sia caduta"],
-    "corretta": "Usando emoji, reazioni e sondaggi integrati"
+    "domanda": "Scenario: L'Industria 4.0 utilizza l'IoT per...",
+    "risposte": ["Monitorare i processi produttivi in tempo reale", "Sostituire tutti gli operai con robot giocattolo", "Fare pause caffè"],
+    "corretta": "Monitorare i processi produttivi in tempo reale"
   },
   {
-    "domanda": "Cosa fare se c'è un forte rumore di fondo in casa tua durante una chiamata?",
-    "risposte": ["Assicurarsi di avere il microfono in mute quando non si parla", "Parlare ancora più forte per coprire il rumore", "Scollegare le casse"],
-    "corretta": "Assicurarsi di avere il microfono in mute quando non si parla"
+    "domanda": "Scenario: Crello è uno strumento simile a...",
+    "risposte": ["Canva (per design e animazioni)", "Word", "Excel"],
+    "corretta": "Canva (per design e animazioni)"
   },
   {
-    "domanda": "A cosa serve il link inviato per una riunione Meet o Teams?",
-    "risposte": ["È la chiave d'accesso digitale per entrare nella stanza virtuale", "Serve a comprare il software", "È un codice sconto per Amazon"],
-    "corretta": "È la chiave d'accesso digitale per entrare nella stanza virtuale"
+    "domanda": "Scenario: Un'immagine di qualità in un design deve essere...",
+    "risposte": ["Chiara, definita e pertinente", "Sgranata e buia", "A caso"],
+    "corretta": "Chiara, definita e pertinente"
   },
   {
-    "domanda": "Perché è importante l'illuminazione durante una videochiamata?",
-    "risposte": ["Per farsi vedere chiaramente dai colleghi", "Per riscaldare la stanza", "Perché la webcam consuma meno luce"],
-    "corretta": "Per farsi vedere chiaramente dai colleghi"
+    "domanda": "Scenario: La decentralizzazione è una caratteristica chiave...",
+    "risposte": ["Della Blockchain", "Di Microsoft Word", "Delle email"],
+    "corretta": "Della Blockchain"
   },
   {
-    "domanda": "Quale funzione permette di guidare l'attenzione dei partecipanti su un dettaglio dello schermo?",
-    "risposte": ["I puntatori laser virtuali o le annotazioni", "Il tasto stamp", "Il mouse fisico"],
-    "corretta": "I puntatori laser virtuali o le annotazioni"
+    "domanda": "Scenario: Animaker permette di creare...",
+    "risposte": ["Animazioni professionali tramite template", "Siti web statici", "Fogli di calcolo"],
+    "corretta": "Animazioni professionali tramite template"
   },
   {
-    "domanda": "Cosa rende Zoom 'user-friendly'?",
-    "risposte": ["La sua interfaccia versatile e facile da usare per tutti", "Il fatto che funzioni senza internet", "Il logo colorato"],
-    "corretta": "La sua interfaccia versatile e facile da usare per tutti"
+    "domanda": "Scenario: L'intelligenza Artificiale (IA) analizza...",
+    "risposte": ["Grandi volumi di dati per trovare pattern o automatizzare task", "Solo testi brevi", "Niente"],
+    "corretta": "Grandi volumi di dati per trovare pattern o automatizzare task"
   },
   {
-    "domanda": "In una riunione, cosa significa 'condivisione fluida'?",
-    "risposte": ["Che tutti vedono ciò che mostri senza scatti o ritardi eccessivi", "Che il computer sta perdendo liquidi", "Che la riunione dura poco"],
-    "corretta": "Che tutti vedono ciò che mostri senza scatti o ritardi eccessivi"
+    "domanda": "Scenario: Usare immagini protette da copyright senza permesso...",
+    "risposte": ["Può causare problemi legali", "È sempre consentito", "Nessuno se ne accorge"],
+    "corretta": "Può causare problemi legali"
   }
 ]
