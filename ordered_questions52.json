@@ -1,151 +1,151 @@
 [
   {
-    "domanda": "Scenario: Vuoi creare un post per i social media ma non sei un grafico. Cosa usi?",
+    "domanda": "Vuoi creare un post per i social media ma non sei un grafico. Cosa usi?",
     "risposte": ["Canva", "Photoshop avanzato", "Blocco note"],
     "corretta": "Canva"
   },
   {
-    "domanda": "Scenario: Figma è uno strumento pensato principalmente per...",
+    "domanda": "Figma è uno strumento pensato principalmente per...",
     "risposte": ["Progettazione di interfacce utente (UI) e collaborazione", "Fotoritocco base", "Scrivere testi"],
     "corretta": "Progettazione di interfacce utente (UI) e collaborazione"
   },
   {
-    "domanda": "Scenario: Qual è un principio fondamentale del design visivo?",
+    "domanda": "Qual è un principio fondamentale del design visivo?",
     "risposte": ["Semplicità (meno è meglio)", "Riempire ogni spazio vuoto", "Usare 10 font diversi"],
     "corretta": "Semplicità (meno è meglio)"
   },
   {
-    "domanda": "Scenario: Perché il contrasto è importante nel design?",
+    "domanda": "Perché il contrasto è importante nel design?",
     "risposte": ["Mette in risalto gli elementi importanti e migliora la leggibilità", "Rende tutto uguale", "È solo estetico"],
     "corretta": "Mette in risalto gli elementi importanti e migliora la leggibilità"
   },
   {
-    "domanda": "Scenario: Dove puoi trovare immagini gratuite e libere da diritti d'autore?",
+    "domanda": "Dove puoi trovare immagini gratuite e libere da diritti d'autore?",
     "risposte": ["Su siti come Unsplash, Pexels, Pixabay", "Su Google Immagini a caso", "Rubandole da altri siti"],
     "corretta": "Su siti come Unsplash, Pexels, Pixabay"
   },
   {
-    "domanda": "Scenario: Vuoi modificare un video in modo semplice e veloce online. Cosa usi?",
+    "domanda": "Vuoi modificare un video in modo semplice e veloce online. Cosa usi?",
     "risposte": ["Clipchamp o InShot", "Premiere Pro", "Word"],
     "corretta": "Clipchamp o InShot"
   },
   {
-    "domanda": "Scenario: Cos'è una GIF?",
+    "domanda": "Cos'è una GIF?",
     "risposte": ["Un'immagine animata in loop", "Un virus", "Un file audio"],
     "corretta": "Un'immagine animata in loop"
   },
   {
-    "domanda": "Scenario: Quale software gratuito puoi usare per registrare ed editare un podcast?",
+    "domanda": "Quale software gratuito puoi usare per registrare ed editare un podcast?",
     "risposte": ["Audacity", "Excel", "PowerPoint"],
     "corretta": "Audacity"
   },
   {
-    "domanda": "Scenario: L'Internet of Things (IoT) collega...",
+    "domanda": "L'Internet of Things (IoT) collega...",
     "risposte": ["Dispositivi fisici (es. elettrodomestici) a internet", "Solo computer", "Persone senza internet"],
     "corretta": "Dispositivi fisici (es. elettrodomestici) a internet"
   },
   {
-    "domanda": "Scenario: Un esempio di applicazione IoT domestica è...",
+    "domanda": "Un esempio di applicazione IoT domestica è...",
     "risposte": ["Il termostato intelligente", "Il libro cartaceo", "La sedia di legno"],
     "corretta": "Il termostato intelligente"
   },
   {
-    "domanda": "Scenario: Cos'è la Blockchain?",
+    "domanda": "Cos'è la Blockchain?",
     "risposte": ["Un registro digitale decentralizzato, sicuro e immutabile", "Una catena di ferro", "Un tipo di banca"],
     "corretta": "Un registro digitale decentralizzato, sicuro e immutabile"
   },
   {
-    "domanda": "Scenario: Le criptovalute come il Bitcoin usano la Blockchain per...",
+    "domanda": "Le criptovalute come il Bitcoin usano la Blockchain per...",
     "risposte": ["Garantire transazioni sicure senza intermediari", "Stampare soldi", "Inviare mail"],
     "corretta": "Garantire transazioni sicure senza intermediari"
   },
   {
-    "domanda": "Scenario: La Realtà Aumentata (AR) consiste nel...",
+    "domanda": "La Realtà Aumentata (AR) consiste nel...",
     "risposte": ["Sovrapporre elementi digitali al mondo reale (es. Pokémon Go)", "Entrare in un mondo totalmente finto", "Guardare la TV"],
     "corretta": "Sovrapporre elementi digitali al mondo reale (es. Pokémon Go)"
   },
   {
-    "domanda": "Scenario: La Realtà Virtuale (VR) richiede l'uso di...",
+    "domanda": "La Realtà Virtuale (VR) richiede l'uso di...",
     "risposte": ["Visori per immergersi completamente in un ambiente simulato", "Solo uno smartphone", "Occhiali da sole"],
     "corretta": "Visori per immergersi completamente in un ambiente simulato"
   },
   {
-    "domanda": "Scenario: Come sta cambiando il lavoro grazie all'Automazione e all'IA?",
+    "domanda": "Come sta cambiando il lavoro grazie all'Automazione e all'IA?",
     "risposte": ["L'IA si occupa di compiti ripetitivi, lasciando all'uomo quelli creativi", "L'IA licenzia tutti", "Non cambia nulla"],
     "corretta": "L'IA si occupa di compiti ripetitivi, lasciando all'uomo quelli creativi"
   },
   {
-    "domanda": "Scenario: Freepik e Flaticon sono risorse utili per...",
+    "domanda": "Freepik e Flaticon sono risorse utili per...",
     "risposte": ["Trovare vettori e icone grafiche", "Scaricare film", "Trovare musica"],
     "corretta": "Trovare vettori e icone grafiche"
   },
   {
-    "domanda": "Scenario: Per creare un buon podcast è fondamentale...",
+    "domanda": "Per creare un buon podcast è fondamentale...",
     "risposte": ["La qualità del suono e un buon microfono", "Parlare velocissimo", "Non avere argomenti"],
     "corretta": "La qualità del suono e un buon microfono"
   },
   {
-    "domanda": "Scenario: Nelle 'Smart Cities', i sensori IoT servono a...",
+    "domanda": "Nelle 'Smart Cities', i sensori IoT servono a...",
     "risposte": ["Monitorare traffico e qualità dell'aria", "Spiare le conversazioni", "Decorare le strade"],
     "corretta": "Monitorare traffico e qualità dell'aria"
   },
   {
-    "domanda": "Scenario: I 'Contratti Intelligenti' (Smart Contracts) sono un'applicazione della...",
+    "domanda": "I 'Contratti Intelligenti' (Smart Contracts) sono un'applicazione della...",
     "risposte": ["Blockchain", "Stampante 3D", "Realtà Virtuale"],
     "corretta": "Blockchain"
   },
   {
-    "domanda": "Scenario: Il 'Remote Work' (Lavoro da remoto) è facilitato da...",
+    "domanda": "Il 'Remote Work' (Lavoro da remoto) è facilitato da...",
     "risposte": ["Cloud computing e software di collaborazione", "Fax e posta ordinaria", "Viaggi in aereo"],
     "corretta": "Cloud computing e software di collaborazione"
   },
   {
-    "domanda": "Scenario: Quale nuova figura professionale sta emergendo con le nuove tecnologie?",
+    "domanda": "Quale nuova figura professionale sta emergendo con le nuove tecnologie?",
     "risposte": ["Sviluppatore AR/VR o esperto Blockchain", "Scrivano a mano", "Operatore del telegrafo"],
     "corretta": "Sviluppatore AR/VR o esperto Blockchain"
   },
   {
-    "domanda": "Scenario: Scegliere il font giusto (Tipografia) è importante per...",
+    "domanda": "Scegliere il font giusto (Tipografia) è importante per...",
     "risposte": ["La leggibilità e il tono del messaggio", "Usare più inchiostro", "Confondere il lettore"],
     "corretta": "La leggibilità e il tono del messaggio"
   },
   {
-    "domanda": "Scenario: GarageBand è un software per...",
+    "domanda": "GarageBand è un software per...",
     "risposte": ["Creazione e editing audio (spesso usato per podcast su Mac)", "Disegno tecnico", "Scrittura codici"],
     "corretta": "Creazione e editing audio (spesso usato per podcast su Mac)"
   },
   {
-    "domanda": "Scenario: L'Industria 4.0 utilizza l'IoT per...",
+    "domanda": "L'Industria 4.0 utilizza l'IoT per...",
     "risposte": ["Monitorare i processi produttivi in tempo reale", "Sostituire tutti gli operai con robot giocattolo", "Fare pause caffè"],
     "corretta": "Monitorare i processi produttivi in tempo reale"
   },
   {
-    "domanda": "Scenario: Crello è uno strumento simile a...",
+    "domanda": "Crello è uno strumento simile a...",
     "risposte": ["Canva (per design e animazioni)", "Word", "Excel"],
     "corretta": "Canva (per design e animazioni)"
   },
   {
-    "domanda": "Scenario: Un'immagine di qualità in un design deve essere...",
+    "domanda": "Un'immagine di qualità in un design deve essere...",
     "risposte": ["Chiara, definita e pertinente", "Sgranata e buia", "A caso"],
     "corretta": "Chiara, definita e pertinente"
   },
   {
-    "domanda": "Scenario: La decentralizzazione è una caratteristica chiave...",
+    "domanda": "La decentralizzazione è una caratteristica chiave...",
     "risposte": ["Della Blockchain", "Di Microsoft Word", "Delle email"],
     "corretta": "Della Blockchain"
   },
   {
-    "domanda": "Scenario: Animaker permette di creare...",
+    "domanda": "Animaker permette di creare...",
     "risposte": ["Animazioni professionali tramite template", "Siti web statici", "Fogli di calcolo"],
     "corretta": "Animazioni professionali tramite template"
   },
   {
-    "domanda": "Scenario: L'intelligenza Artificiale (IA) analizza...",
+    "domanda": "L'intelligenza Artificiale (IA) analizza...",
     "risposte": ["Grandi volumi di dati per trovare pattern o automatizzare task", "Solo testi brevi", "Niente"],
     "corretta": "Grandi volumi di dati per trovare pattern o automatizzare task"
   },
   {
-    "domanda": "Scenario: Usare immagini protette da copyright senza permesso...",
+    "domanda": "Usare immagini protette da copyright senza permesso...",
     "risposte": ["Può causare problemi legali", "È sempre consentito", "Nessuno se ne accorge"],
     "corretta": "Può causare problemi legali"
   }
