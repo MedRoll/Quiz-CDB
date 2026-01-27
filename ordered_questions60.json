@@ -1,242 +1,152 @@
 [
   {
-    "domanda": "Un computer portatile (Notebook) ha bisogno di essere sempre collegato alla presa per funzionare.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "Quali sono i quattro pilastri dell'ecosistema digitale?",
+    "risposte": ["Dati, Algoritmi, Hardware e Software", "Mouse, Tastiera, Monitor e Stampante", "Social Media, Email, Chat e Web"],
+    "corretta": "Dati, Algoritmi, Hardware e Software"
   },
   {
-    "domanda": "È possibile usare WhatsApp anche sul computer (WhatsApp Web).",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Nell'analogia del sistema digitale, quale elemento viene definito come il 'carburante'?",
+    "risposte": ["L'Hardware", "I Dati", "Il Software"],
+    "corretta": "I Dati"
   },
   {
-    "domanda": "Se non hai internet, non puoi usare Word installato sul PC.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "Cosa rappresenta la 'logica' all'interno dei pilastri digitali?",
+    "risposte": ["Gli Algoritmi", "Lo Schermo", "La Batteria"],
+    "corretta": "Gli Algoritmi"
   },
   {
-    "domanda": "Le batterie dei dispositivi moderni durano per sempre.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "Qual è la funzione del Software nell'ecosistema digitale?",
+    "risposte": ["Fungere da motore fisico", "Agire come interfaccia tra utente e macchina", "Rappresentare solo i dati numerici"],
+    "corretta": "Agire come interfaccia tra utente e macchina"
   },
   {
-    "domanda": "Il tasto 'Bloc Maiusc' (Caps Lock) fa scrivere tutto in lettere maiuscole.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Esempi di dati digitali includono:",
+    "risposte": ["Solo testi scritti", "Solo transazioni bancarie", "Testo, numeri, immagini, audio e video"],
+    "corretta": "Testo, numeri, immagini, audio e video"
   },
   {
-    "domanda": "Non è necessario avere un antivirus su Windows se stai attento.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "Cosa caratterizza i 'Dati Strutturati'?",
+    "risposte": ["Hanno un formato rigido e predefinito, come un database", "Sono difficili da analizzare", "Includono solo video e audio"],
+    "corretta": "Hanno un formato rigido e predefinito, come un database"
   },
   {
-    "domanda": "Puoi creare cartelle sul Desktop per organizzare i tuoi file.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Perché i 'Dati Non Strutturati' (come le email o i video) sono più complessi?",
+    "risposte": ["Perché non hanno un formato fisso e richiedono l'AI per l'analisi", "Perché pesano sempre meno di 1 KB", "Perché non possono essere salvati"],
+    "corretta": "Perché non hanno un formato fisso e richiedono l'AI per l'analisi"
   },
   {
-    "domanda": "Il Cestino si svuota da solo ogni volta che spegni il PC.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "Qual è l'unità di misura minima dell'informazione digitale?",
+    "risposte": ["Il Byte", "Il Bit", "Il Gigabyte"],
+    "corretta": "Il Bit"
   },
   {
-    "domanda": "Google Drive offre uno spazio di archiviazione gratuito limitato (15GB).",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Quanti bit compongono un Byte?",
+    "risposte": ["1024", "10", "8"],
+    "corretta": "8"
   },
   {
-    "domanda": "È buona norma non cliccare su link strani ricevuti via SMS.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Per misurare il peso di una fotografia in formato JPEG, quale unità si usa solitamente?",
+    "risposte": ["Megabyte (MB)", "Terabyte (TB)", "Bit (b)"],
+    "corretta": "Megabyte (MB)"
   },
   {
-    "domanda": "Per spegnere il computer basta chiudere lo schermo (sul portatile).",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "Un film in alta definizione viene solitamente misurato in:",
+    "risposte": ["Kilobyte (KB)", "Gigabyte (GB)", "Millimetri"],
+    "corretta": "Gigabyte (GB)"
   },
   {
-    "domanda": "Un file .jpg è un documento di testo.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "A cosa viene paragonato un algoritmo per spiegarne il funzionamento?",
+    "risposte": ["A una ricetta di cucina", "A un pezzo di ferro", "A un'immagine statica"],
+    "corretta": "A una ricetta di cucina"
   },
   {
-    "domanda": "La webcam serve per fare videochiamate.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Cos'è il Machine Learning?",
+    "risposte": ["La capacità delle macchine di apprendere dai dati tramite algoritmi", "Un tipo di tastiera meccanica", "Un software per scrivere testi"],
+    "corretta": "La capacità delle macchine di apprendere dai dati tramite algoritmi"
   },
   {
-    "domanda": "Se il PC è lento, cancellare file a caso nella cartella Windows è una buona idea.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "Quale dispositivo è più adatto per attività di Gaming o Video Editing professionale?",
+    "risposte": ["Smartphone", "PC Desktop", "Tablet"],
+    "corretta": "PC Desktop"
   },
   {
-    "domanda": "Puoi annullare un'azione sbagliata con CTRL + Z.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Qual è il vantaggio principale di un Laptop rispetto a un Desktop?",
+    "risposte": ["È portatile e integra tutto in un unico dispositivo", "Non ha bisogno di una batteria", "È sempre più potente di qualsiasi Desktop"],
+    "corretta": "È portatile e integra tutto in un unico dispositivo"
   },
   {
-    "domanda": "La PEC serve solo agli avvocati.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "Il Raspberry Pi è un esempio di:",
+    "risposte": ["Mini PC per automazione", "Supercomputer della NASA", "Smartphone di ultima generazione"],
+    "corretta": "Mini PC per automazione"
   },
   {
-    "domanda": "Lo SPID è gratuito (nella maggior parte dei casi per i cittadini).",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Qual è la prima fase del ciclo di elaborazione di un computer?",
+    "risposte": ["Output", "Elaborazione", "Input (ricezione dati)"],
+    "corretta": "Input (ricezione dati)"
   },
   {
-    "domanda": "È possibile stampare una pagina web.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Quale componente hardware è considerato il 'cervello' del computer?",
+    "risposte": ["La CPU (Processore)", "La RAM", "Il Monitor"],
+    "corretta": "La CPU (Processore)"
   },
   {
-    "domanda": "Il doppio clic serve solitamente per aprire un file o una cartella.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Analisi: Stai lavorando su un documento ma non l'hai ancora salvato. Dove risiede temporaneamente?",
+    "risposte": ["Nella RAM", "Nell'SSD", "Nella GPU"],
+    "corretta": "Nella RAM"
   },
   {
-    "domanda": "Se dimentichi la password della mail, non puoi più recuperarla in nessun modo.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "Quale quantità di RAM è generalmente consigliata oggi per un uso fluido?",
+    "risposte": ["1-2 GB", "8-16 GB", "500-1000 GB"],
+    "corretta": "8-16 GB"
   },
   {
-    "domanda": "L'Intelligenza Artificiale può scrivere riassunti di testi lunghi.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Qual è il compito della GPU?",
+    "risposte": ["Processare immagini e video per lo schermo", "Stampare i documenti", "Raffreddare il processore"],
+    "corretta": "Processare immagini e video per lo schermo"
   },
   {
-    "domanda": "Il tasto 'Windows' sulla tastiera apre il menu Start.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Confronto: Perché un SSD è preferibile a un HDD per installare il sistema operativo?",
+    "risposte": ["Perché è molto più veloce nell'accesso ai dati", "Perché costa molto meno a parità di spazio", "Perché è fatto di dischi magnetici rotanti"],
+    "corretta": "Perché è molto più veloce nell'accesso ai dati"
   },
   {
-    "domanda": "Un Terabyte (TB) è più grande di un Gigabyte (GB).",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Quale tipo di archiviazione è ideale per creare grandi archivi di dati a basso costo?",
+    "risposte": ["HDD (Hard Disk Tradizionale)", "RAM", "Cache del processore"],
+    "corretta": "HDD (Hard Disk Tradizionale)"
   },
   {
-    "domanda": "I cookie dei siti web sono biscotti reali.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "Cos'è il Cloud Storage?",
+    "risposte": ["Un sistema di salvataggio dati accessibile ovunque via internet", "Un componente fisico all'interno del PC", "Un tipo di cavo per il monitor"],
+    "corretta": "Un sistema di salvataggio dati accessibile ovunque via internet"
   },
   {
-    "domanda": "La modalità aereo scollega il telefono dalla rete cellulare.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Quale fase del ciclo di elaborazione mostra il risultato all'utente?",
+    "risposte": ["Input", "Output", "Memorizzazione"],
+    "corretta": "Output"
   },
   {
-    "domanda": "Puoi usare il computer anche senza mouse (usando solo la tastiera per molte cose).",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Un file di testo semplice solitamente pesa nell'ordine dei:",
+    "risposte": ["Kilobyte (KB)", "Terabyte (TB)", "Gigabyte (GB)"],
+    "corretta": "Kilobyte (KB)"
   },
   {
-    "domanda": "Le icone sul desktop sono solo decorazioni e non fanno nulla.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "Gli algoritmi di riconoscimento facciale sono un esempio di:",
+    "risposte": ["Applicazione dell'Intelligenza Artificiale", "Componente hardware puro", "Dati strutturati"],
+    "corretta": "Applicazione dell'Intelligenza Artificiale"
   },
   {
-    "domanda": "Salvare spesso il lavoro mentre si scrive è una buona abitudine.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Cosa succede se la RAM di un computer è troppo poca?",
+    "risposte": ["Il computer rallenta perché non ha abbastanza 'spazio di lavoro'", "Il computer diventa più veloce", "I file vengono cancellati per sempre dall'Hard Disk"],
+    "corretta": "Il computer rallenta perché non ha abbastanza 'spazio di lavoro'"
   },
   {
-    "domanda": "Internet e il World Wide Web (WWW) sono tecnicamente la stessa cosa identica.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Falso"
+    "domanda": "In informatica, 'Hardware' si riferisce a:",
+    "risposte": ["I componenti fisici e tangibili del computer", "Le istruzioni logiche e i programmi", "Solo alla connessione internet"],
+    "corretta": "I componenti fisici e tangibili del computer"
   },
   {
-    "domanda": "Non si smette mai di imparare con la tecnologia.",
-    "risposte": [
-      "Vero",
-      "Falso"
-    ],
-    "corretta": "Vero"
+    "domanda": "Quale tra questi è un esempio di 'Output'?",
+    "risposte": ["L'immagine visualizzata sul monitor", "Il movimento del mouse", "La pressione di un tasto"],
+    "corretta": "L'immagine visualizzata sul monitor"
   }
 ]
